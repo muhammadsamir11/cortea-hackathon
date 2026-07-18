@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 
 import "../index.css";
-import Header from "@/components/header";
 import Providers from "@/components/providers";
 
 const inter = Inter({
@@ -20,12 +19,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="en" suppressHydrationWarning className={`${inter.variable} font-sans`}>
       <body className="bg-background font-sans text-foreground antialiased">
-        <Providers>
-          <div className="grid h-svh min-w-0 grid-rows-[auto_1fr] overflow-hidden">
-            <Header />
-            {children}
-          </div>
-        </Providers>
+        <Providers>{children}</Providers>
       </body>
     </html>
   );

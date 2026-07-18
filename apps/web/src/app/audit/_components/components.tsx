@@ -42,7 +42,7 @@ export function CitationChip({
       title={`“${citation.quote}”`}
       variant="outline"
       size="xs"
-      className="max-w-full border-cortea/25 bg-cortea/10 font-mono text-clear hover:bg-cortea/20"
+      className="max-w-full border-primary/25 bg-primary/10 font-mono text-primary hover:bg-primary/20"
     >
       <FileSearch />
       <span className="truncate">{file}</span>

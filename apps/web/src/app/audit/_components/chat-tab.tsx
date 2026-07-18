@@ -2,11 +2,20 @@
 
 import { useState } from "react";
 import { useChat } from "@ai-sdk/react";
+import { Alert, AlertDescription, AlertTitle } from "@almedia/ui/components/alert";
 import { Bubble, BubbleContent } from "@almedia/ui/components/bubble";
 import { Button } from "@almedia/ui/components/button";
-import { Input } from "@almedia/ui/components/input";
-import { BotOff, Loader2, Send } from "lucide-react";
+import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@almedia/ui/components/empty";
+import {
+  InputGroup,
+  InputGroupAddon,
+  InputGroupButton,
+  InputGroupInput,
+} from "@almedia/ui/components/input-group";
+import { Spinner } from "@almedia/ui/components/spinner";
+import { BotOff, Send } from "lucide-react";
 import { DefaultChatTransport } from "ai";
+import { toast } from "sonner";
 import type { Citation } from "@almedia/forensic/types";
 import type { DossierData } from "@/lib/audit-data";
 import { CitationChip } from "./components";
@@ -60,17 +69,40 @@ export function ChatTab({
 
   const aiAvailable = (data.meta as { aiAvailable?: boolean } | null)?.aiAvailable === true;
 
-  const suggestions = data.findings.slice(0, 3).map((finding) => `Explain the evidence and possible defense for: ${finding.title}`);
+  const suggestions = data.findings
+    .slice(0, 3)
+    .map((finding) => `Explain the evidence and possible defense for: ${finding.title}`);
+
+  const submit = async (text: string) => {
+    const trimmed = text.trim();
+    if (!trimmed || busy) return;
+    try {
+      await sendMessage({ text: trimmed });
+      setInput("");
+    } catch {
+      toast.error("Could not send the question. Check the connection and try again.");
+    }
+  };
 
   if (!aiAvailable) {
     return (
       <div className="grid h-full place-items-center p-6">
-        <div className="max-w-lg rounded-lg border border-amber-500/25 bg-amber-500/5 p-5 text-center">
-          <BotOff className="mx-auto size-6 text-amber-400" />
-          <p className="mt-3 font-medium">Optional AI review is unavailable</p>
-          <p className="mt-1 text-sm text-muted-foreground">The deterministic findings, calculations, evidence navigation, and report remain fully available without a provider key.</p>
-          <p className="mt-3 font-mono text-[11px] text-muted-foreground">Configure OPENAI_API_KEY or GOOGLE_GENERATIVE_AI_API_KEY to enable retrieved-evidence chat.</p>
-        </div>
+        <Empty className="max-w-lg border border-dashed">
+          <EmptyHeader>
+            <BotOff className="size-6 text-muted-foreground" />
+            <EmptyTitle>Optional AI review is unavailable</EmptyTitle>
+            <EmptyDescription>
+              The deterministic findings, calculations, evidence navigation, and report remain fully available without a
+              provider key.
+            </EmptyDescription>
+          </EmptyHeader>
+          <Alert className="mt-4 text-left">
+            <AlertTitle className="font-mono text-[11px] uppercase tracking-[0.14em]">Configuration</AlertTitle>
+            <AlertDescription className="font-mono text-[11px]">
+              Configure OPENAI_API_KEY or GOOGLE_GENERATIVE_AI_API_KEY to enable retrieved-evidence chat.
+            </AlertDescription>
+          </Alert>
+        </Empty>
       </div>
     );
   }
@@ -79,16 +111,18 @@ export function ChatTab({
     <div className="flex h-full flex-col">
       <div className="flex-1 space-y-4 overflow-y-auto p-4">
         {messages.length === 0 && (
-          <div className="space-y-3 py-10 text-center">
-            <p className="font-mono text-[10px] uppercase tracking-[0.16em] text-muted-foreground">Ask</p>
-            <p className="mx-auto max-w-md text-sm text-muted-foreground">
-              Every claim comes with a clickable citation into the source.
-            </p>
+          <Empty className="border-0 py-10">
+            <EmptyHeader>
+              <EmptyTitle className="font-mono text-[10px] uppercase tracking-[0.16em] text-muted-foreground">
+                Ask
+              </EmptyTitle>
+              <EmptyDescription>Every claim comes with a clickable citation into the source.</EmptyDescription>
+            </EmptyHeader>
             <div className="flex flex-wrap justify-center gap-2 pt-2">
               {suggestions.map((s) => (
                 <Button
                   key={s}
-                  onClick={() => sendMessage({ text: s })}
+                  onClick={() => void submit(s)}
                   variant="outline"
                   size="sm"
                   className="h-auto max-w-xs whitespace-normal text-left font-mono text-xs"
@@ -97,7 +131,7 @@ export function ChatTab({
                 </Button>
               ))}
             </div>
-          </div>
+          </Empty>
         )}
         {messages.map((m) => (
           <Bubble
@@ -108,37 +142,39 @@ export function ChatTab({
           >
             <BubbleContent>
               {m.parts.map((p, i) =>
-                p.type === "text" ? (
-                  <RichText key={i} text={p.text} data={data} onView={onView} />
-                ) : null,
+                p.type === "text" ? <RichText key={i} text={p.text} data={data} onView={onView} /> : null,
               )}
             </BubbleContent>
           </Bubble>
         ))}
-        {busy && <p className="flex items-center gap-2 font-mono text-xs text-muted-foreground"><Loader2 className="size-3 animate-spin" /> investigating…</p>}
+        {busy && (
+          <p className="flex items-center gap-2 font-mono text-xs text-muted-foreground">
+            <Spinner className="size-3" /> investigating…
+          </p>
+        )}
       </div>
       <form
         onSubmit={(e) => {
           e.preventDefault();
-          if (input.trim()) {
-            sendMessage({ text: input });
-            setInput("");
-          }
+          void submit(input);
         }}
-        className="flex gap-2 border-t p-3"
+        className="border-t border-border p-3"
       >
-        <Input
-          value={input}
-          onChange={(e) => setInput(e.target.value)}
-          placeholder="e.g. show every payment to an account not named in any contract…"
-          className="flex-1 font-mono text-sm"
-        />
-        <Button
-          disabled={busy}
-          className="font-mono"
-        >
-          <Send /> Ask
-        </Button>
+        <InputGroup className="h-10">
+          <InputGroupInput
+            value={input}
+            onChange={(e) => setInput(e.target.value)}
+            placeholder="e.g. show every payment to an account not named in any contract…"
+            className="font-mono text-sm"
+            disabled={busy}
+          />
+          <InputGroupAddon align="inline-end">
+            <InputGroupButton type="submit" disabled={busy || !input.trim()} aria-label="Send question">
+              <Send />
+              Ask
+            </InputGroupButton>
+          </InputGroupAddon>
+        </InputGroup>
       </form>
     </div>
   );

@@ -3,8 +3,10 @@
 import { useMemo } from "react";
 import { Alert, AlertDescription, AlertTitle } from "@almedia/ui/components/alert";
 import { Button } from "@almedia/ui/components/button";
+import { ButtonGroup } from "@almedia/ui/components/button-group";
 import { Card, CardContent } from "@almedia/ui/components/card";
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@almedia/ui/components/empty";
+import { Kbd } from "@almedia/ui/components/kbd";
 import { Textarea } from "@almedia/ui/components/textarea";
 import type { Citation, Fact, Finding } from "@almedia/forensic/types";
 import type { DossierData } from "@/lib/audit-data";
@@ -169,7 +171,7 @@ export function FindingDetail({
           <p className="mb-2 font-mono text-[11px] uppercase tracking-widest text-muted-foreground">
             Proof chain — {finding.checkId}
           </p>
-          <div className="space-y-2.5 border-l-2 border-cortea/40 pl-3">
+          <div className="space-y-2.5 border-l-2 border-primary/40 pl-3">
             {chainFacts.map((f) => (
               <div key={f.id}>
                 <p className="font-mono text-xs text-muted-foreground">{factLine(f)}</p>
@@ -232,7 +234,7 @@ export function FindingDetail({
           <span className="font-mono text-[11px] uppercase tracking-widest text-muted-foreground">
             Auditor decision
           </span>
-          <div className="flex w-full gap-1.5 sm:ml-auto sm:w-auto">
+          <ButtonGroup className="w-full sm:ml-auto sm:w-auto">
             {ACTIONS.map((a) => {
               const active = entry.decision === a.d;
               return (
@@ -245,12 +247,12 @@ export function FindingDetail({
                   aria-pressed={active}
                   className={`flex-1 font-mono text-xs sm:flex-none ${active ? a.on : ""}`}
                 >
-                  {active ? "● " : ""}
                   {a.label}
+                  <Kbd className="ml-1 hidden opacity-70 sm:inline-flex">{a.key}</Kbd>
                 </Button>
               );
             })}
-          </div>
+          </ButtonGroup>
         </div>
         <Textarea
           value={entry.note ?? ""}

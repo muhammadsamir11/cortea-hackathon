@@ -1,8 +1,22 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useState } from "react";
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+  AlertDialogTrigger,
+} from "@almedia/ui/components/alert-dialog";
 import { Button } from "@almedia/ui/components/button";
+import { Kbd, KbdGroup } from "@almedia/ui/components/kbd";
 import { Progress } from "@almedia/ui/components/progress";
+import { ResizableHandle, ResizablePanel, ResizablePanelGroup } from "@almedia/ui/components/resizable";
+import { useIsMobile } from "@almedia/ui/hooks/use-mobile";
 import { cn } from "@almedia/ui/lib/utils";
 import { ArrowLeft, RotateCcw } from "lucide-react";
 import type { Citation } from "@almedia/forensic/types";
@@ -67,6 +81,7 @@ export function ReportTab({
 
   const openFindings = useMemo(() => data.findings.filter((f) => verdictOf(f) !== "acquitted"), [data.findings]);
   const review = useReview(data.name, openFindings.length);
+  const isMobile = useIsMobile();
 
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [mobileDetail, setMobileDetail] = useState(false);
@@ -117,46 +132,106 @@ export function ReportTab({
 
   const pct = review.progress.total ? Math.round((review.progress.decided / review.progress.total) * 100) : 0;
 
+  const meters = [
+    {
+      label: "Net exposure",
+      value: `€${Math.round(summary.netExposure).toLocaleString("en-US")}`,
+      sub: "cash + profit impact; controls excluded",
+      tone: "danger" as const,
+    },
+    {
+      label: "Gross cash paid",
+      value: `€${Math.round(summary.grossExposure).toLocaleString("en-US")}`,
+      sub: "vendor-control scheme",
+      tone: "danger" as const,
+    },
+    {
+      label: "Reported profit",
+      value: financial?.reportedProfit == null ? "—" : eur(financial.reportedProfit),
+      sub: "draft financials",
+    },
+    {
+      label: "Adjusted profit",
+      value: financial?.adjustedProfit == null ? "—" : eur(financial.adjustedProfit),
+      sub:
+        profitAdjustment == null
+          ? "after detected adjustments"
+          : `after ${eur(profitAdjustment)} adjustment`,
+      tone: "clear" as const,
+    },
+    {
+      label: "Open findings",
+      value: String(summary.openCount),
+      sub: `${summary.schemeCount} schemes`,
+    },
+    {
+      label: "Corroborated",
+      value: String(summary.byTier.corroborated),
+      sub: "multi-doc",
+      tone: "warn" as const,
+    },
+    {
+      label: "Counterparties",
+      value: String(summary.entitiesInvolved),
+      sub: `${summary.acquitted} acquitted`,
+    },
+    {
+      label: "Evidence",
+      value: summary.citationsTotal
+        ? `${Math.round((summary.citationsVerified / summary.citationsTotal) * 100)}%`
+        : "—",
+      sub: `${summary.citationsVerified}/${summary.citationsTotal} cites`,
+      tone: "clear" as const,
+    },
+  ];
+
+  const listPane = (
+    <FindingList
+      findings={data.findings}
+      schemes={schemes}
+      schemeOf={schemeOf}
+      selectedId={selectedId}
+      reviewMap={review.map}
+      materiality={materiality}
+      onSelect={(id) => {
+        setSelectedId(id);
+        setMobileDetail(true);
+      }}
+    />
+  );
+
+  const detailPane = (
+    <>
+      <div className="border-b border-border p-2 lg:hidden">
+        <Button variant="ghost" size="sm" onClick={() => setMobileDetail(false)}>
+          <ArrowLeft /> Back to findings
+        </Button>
+      </div>
+      <FindingDetail
+        finding={selected}
+        data={data}
+        scheme={selectedScheme}
+        siblings={siblings}
+        entry={selectedId ? review.get(selectedId) : {}}
+        onDecision={review.set}
+        onNote={review.setNote}
+        onView={onView}
+        onSelectFinding={setSelectedId}
+      />
+    </>
+  );
+
   return (
-    <div className="flex h-full min-h-0 flex-col">
-      {/* Verdict + meters */}
-      <div className="border-b border-border">
+    <div className="flex h-full min-h-0 flex-col overflow-hidden">
+      <div className="shrink-0 border-b border-border">
         <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1 border-b border-border px-3 py-2.5 sm:px-4">
           <span className="font-mono text-[10px] uppercase tracking-[0.14em] text-muted-foreground">Verdict</span>
           <p className="min-w-0 text-sm font-medium tracking-tight text-foreground">{summary.headline}</p>
         </div>
-        <div className="grid grid-cols-2 overflow-x-auto sm:grid-cols-4 lg:grid-cols-8">
-          <Meter
-            label="Net exposure"
-            value={`€${Math.round(summary.netExposure).toLocaleString("en-US")}`}
-            sub="cash + profit impact; controls excluded"
-            tone="danger"
-          />
-          <Meter label="Gross cash paid" value={`€${Math.round(summary.grossExposure).toLocaleString("en-US")}`} sub="vendor-control scheme" tone="danger" />
-          <Meter label="Reported profit" value={financial?.reportedProfit == null ? "—" : eur(financial.reportedProfit)} sub="draft financials" />
-          <Meter
-            label="Adjusted profit"
-            value={financial?.adjustedProfit == null ? "—" : eur(financial.adjustedProfit)}
-            sub={
-              profitAdjustment == null
-                ? "after detected adjustments"
-                : `after ${eur(profitAdjustment)} adjustment`
-            }
-            tone="clear"
-          />
-          <Meter label="Open findings" value={String(summary.openCount)} sub={`${summary.schemeCount} schemes`} />
-          <Meter label="Corroborated" value={String(summary.byTier.corroborated)} sub="multi-doc" tone="warn" />
-          <Meter label="Counterparties" value={String(summary.entitiesInvolved)} sub={`${summary.acquitted} acquitted`} />
-          <Meter
-            label="Evidence"
-            value={
-              summary.citationsTotal
-                ? `${Math.round((summary.citationsVerified / summary.citationsTotal) * 100)}%`
-                : "—"
-            }
-            sub={`${summary.citationsVerified}/${summary.citationsTotal} cites`}
-            tone="clear"
-          />
+        <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8">
+          {meters.map((meter) => (
+            <Meter key={meter.label} {...meter} />
+          ))}
         </div>
         <div className="flex items-center gap-3 px-3 py-2 sm:px-4">
           <span className="whitespace-nowrap font-mono text-[11px] text-muted-foreground">
@@ -164,49 +239,55 @@ export function ReportTab({
           </span>
           <Progress value={pct} className="min-w-16 flex-1" />
           {review.progress.decided > 0 && (
-            <Button onClick={review.reset} variant="ghost" size="xs" className="font-mono">
-              <RotateCcw /> reset
-            </Button>
+            <AlertDialog>
+              <AlertDialogTrigger asChild>
+                <Button variant="ghost" size="xs" className="font-mono">
+                  <RotateCcw /> reset
+                </Button>
+              </AlertDialogTrigger>
+              <AlertDialogContent>
+                <AlertDialogHeader>
+                  <AlertDialogTitle>Reset review decisions?</AlertDialogTitle>
+                  <AlertDialogDescription>
+                    This clears auditor decisions and notes for this dossier on this device. Findings and evidence are unchanged.
+                  </AlertDialogDescription>
+                </AlertDialogHeader>
+                <AlertDialogFooter>
+                  <AlertDialogCancel>Cancel</AlertDialogCancel>
+                  <AlertDialogAction onClick={review.reset}>Reset review</AlertDialogAction>
+                </AlertDialogFooter>
+              </AlertDialogContent>
+            </AlertDialog>
           )}
-          <span className="hidden font-mono text-[10px] text-muted-foreground md:block">j/k · c/x/i</span>
+          <KbdGroup className="hidden md:inline-flex">
+            <Kbd>j</Kbd>
+            <Kbd>k</Kbd>
+            <span className="mx-1 text-muted-foreground">·</span>
+            <Kbd>c</Kbd>
+            <Kbd>x</Kbd>
+            <Kbd>i</Kbd>
+          </KbdGroup>
         </div>
       </div>
 
-      {/* Two-pane console */}
-      <div className="flex min-h-0 min-w-0 flex-1">
-        <div className={cn("w-full shrink-0 overflow-hidden border-r border-border lg:w-[20rem]", mobileDetail && "hidden lg:block")}>
-          <FindingList
-            findings={data.findings}
-            schemes={schemes}
-            schemeOf={schemeOf}
-            selectedId={selectedId}
-            reviewMap={review.map}
-            materiality={materiality}
-            onSelect={(id) => {
-              setSelectedId(id);
-              setMobileDetail(true);
-            }}
-          />
-        </div>
-        <div className={cn("min-w-0 flex-1 flex-col", mobileDetail ? "flex" : "hidden lg:flex")}>
-          <div className="border-b border-border p-2 lg:hidden">
-            <Button variant="ghost" size="sm" onClick={() => setMobileDetail(false)}>
-              <ArrowLeft /> Back to findings
-            </Button>
+      {isMobile ? (
+        <div className="flex min-h-0 min-w-0 flex-1 overflow-hidden">
+          <div className={cn("h-full w-full overflow-hidden", mobileDetail && "hidden")}>{listPane}</div>
+          <div className={cn("h-full min-w-0 flex-1 flex-col overflow-hidden", mobileDetail ? "flex" : "hidden")}>
+            {detailPane}
           </div>
-          <FindingDetail
-            finding={selected}
-            data={data}
-            scheme={selectedScheme}
-            siblings={siblings}
-            entry={selectedId ? review.get(selectedId) : {}}
-            onDecision={review.set}
-            onNote={review.setNote}
-            onView={onView}
-            onSelectFinding={setSelectedId}
-          />
         </div>
-      </div>
+      ) : (
+        <ResizablePanelGroup orientation="horizontal" className="min-h-0 min-w-0 flex-1">
+          <ResizablePanel defaultSize="32%" minSize="22%" maxSize="48%" className="min-h-0 min-w-0 overflow-hidden border-r border-border">
+            {listPane}
+          </ResizablePanel>
+          <ResizableHandle withHandle />
+          <ResizablePanel defaultSize="68%" minSize="40%" className="min-h-0 min-w-0 overflow-hidden">
+            <div className="flex h-full min-h-0 flex-col overflow-hidden">{detailPane}</div>
+          </ResizablePanel>
+        </ResizablePanelGroup>
+      )}
     </div>
   );
 }

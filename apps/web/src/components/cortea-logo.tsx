@@ -1,5 +1,28 @@
 import { cn } from "@almedia/ui/lib/utils";
 
+/** Compact mark for icon-collapsed chrome (left glyph of the wordmark). */
+export function CorteaMark({ className }: { className?: string }) {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 34 24"
+      fill="none"
+      aria-hidden
+      className={cn("size-5 shrink-0", className)}
+    >
+      <path
+        d="M8.93677 13.2288C9.52801 17.0678 12.8459 20.0074 16.8504 20.0075C19.9779 20.0075 22.6862 18.2142 24.0042 15.6H28.3011C26.772 20.4685 22.2238 24 16.8506 24C10.6381 24 5.52821 19.279 4.91284 13.2288H8.93677ZM16.8506 0C22.2238 2.83392e-05 26.7719 3.53158 28.3011 8.40004H24.0042C22.6861 5.78596 19.9778 3.99277 16.8504 3.99277C12.8449 3.99286 9.52647 6.93398 8.93648 10.7744H4.91255C5.52654 4.72274 10.6371 4.78546e-05 16.8506 0Z"
+        fill="currentColor"
+      />
+      <path d="M0 10.7747H4.9143V13.231H0V10.7747Z" fill="currentColor" />
+      <path
+        d="M8.93648 10.7744L33.2331 10.7745V13.2299H8.93677L8.93648 10.7744Z"
+        fill="currentColor"
+      />
+    </svg>
+  );
+}
+
 export function CorteaLogo({ className }: { className?: string }) {
   return (
     <svg

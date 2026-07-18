@@ -151,7 +151,7 @@ export function FindingList({
                   className={cn(
                     "h-auto w-full items-start justify-start rounded-none border-l-2 border-transparent px-3 py-2.5 text-left font-normal",
                     selectedId === f.id
-                      ? "border-l-cortea bg-muted"
+                      ? "border-l-primary bg-primary/10"
                       : "hover:bg-muted/50",
                     items.length > 1 && "pl-5",
                   )}
