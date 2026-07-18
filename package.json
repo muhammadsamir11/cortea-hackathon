@@ -10,6 +10,7 @@
     "dev": "turbo run dev",
     "tribunal:reset": "git checkout -- data/muster-verpackungen/findings.json",
     "build": "turbo run build",
+    "start": "pnpm --filter web start",
     "check-types": "turbo run check-types",
     "test": "turbo run test",
     "ingest": "pnpm --filter web ingest",
@@ -19,6 +20,9 @@
     "benchmark:muster": "pnpm --filter web benchmark:muster",
     "dev:web": "turbo run dev -F web",
     "prepare": "lefthook install"
+  },
+  "engines": {
+    "node": ">=20"
   },
   "dependencies": {
     "@almedia/env": "workspace:*",
