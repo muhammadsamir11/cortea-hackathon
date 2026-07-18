@@ -1,0 +1,80 @@
+[
+ {
+  "rowNumber": 5,
+  "raw": "HB-Konto 230000 Forderungen aus L.u.L. | 13412543.05",
+  "values": {
+   "Summe Personenkonten laut OP-Liste Debitoren": "HB-Konto 230000 Forderungen aus L.u.L.",
+   "13412543.05": "13412543.05"
+  },
+  "citation": {
+   "docId": "begleitdokumente-abstimmung-nebenbuecher-hb-2025",
+   "ref": "Abstimmung!r.5",
+   "quote": "HB-Konto 230000 Forderungen aus L.u.L. | 13412543.05"
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "Differenz Debitoren | 0",
+  "values": {
+   "Summe Personenkonten laut OP-Liste Debitoren": "Differenz Debitoren",
+   "13412543.05": "0"
+  },
+  "citation": {
+   "docId": "begleitdokumente-abstimmung-nebenbuecher-hb-2025",
+   "ref": "Abstimmung!r.6",
+   "quote": "Differenz Debitoren | 0"
+  }
+ },
+ {
+  "rowNumber": 8,
+  "raw": "KREDITOREN | ",
+  "values": {
+   "Summe Personenkonten laut OP-Liste Debitoren": "KREDITOREN",
+   "13412543.05": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-abstimmung-nebenbuecher-hb-2025",
+   "ref": "Abstimmung!r.8",
+   "quote": "KREDITOREN | "
+  }
+ },
+ {
+  "rowNumber": 9,
+  "raw": "Summe Personenkonten laut OP-Liste Kreditoren | -13208855",
+  "values": {
+   "Summe Personenkonten laut OP-Liste Debitoren": "Summe Personenkonten laut OP-Liste Kreditoren",
+   "13412543.05": "-13208855"
+  },
+  "citation": {
+   "docId": "begleitdokumente-abstimmung-nebenbuecher-hb-2025",
+   "ref": "Abstimmung!r.9",
+   "quote": "Summe Personenkonten laut OP-Liste Kreditoren | -13208855"
+  }
+ },
+ {
+  "rowNumber": 10,
+  "raw": "HB-Konto 330000 Verbindlichkeiten aus L.u.L. | -13208855",
+  "values": {
+   "Summe Personenkonten laut OP-Liste Debitoren": "HB-Konto 330000 Verbindlichkeiten aus L.u.L.",
+   "13412543.05": "-13208855"
+  },
+  "citation": {
+   "docId": "begleitdokumente-abstimmung-nebenbuecher-hb-2025",
+   "ref": "Abstimmung!r.10",
+   "quote": "HB-Konto 330000 Verbindlichkeiten aus L.u.L. | -13208855"
+  }
+ },
+ {
+  "rowNumber": 11,
+  "raw": "Differenz Kreditoren | 0",
+  "values": {
+   "Summe Personenkonten laut OP-Liste Debitoren": "Differenz Kreditoren",
+   "13412543.05": "0"
+  },
+  "citation": {
+   "docId": "begleitdokumente-abstimmung-nebenbuecher-hb-2025",
+   "ref": "Abstimmung!r.11",
+   "quote": "Differenz Kreditoren | 0"
+  }
+ }
+]

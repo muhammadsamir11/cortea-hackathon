@@ -1,0 +1,2722 @@
+[
+ {
+  "rowNumber": 2,
+  "raw": "100000;FALKE FOLIEN E.K.;200000,00;28490,98;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100000",
+   "DEBITORNAME": "FALKE FOLIEN E.K.",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "28490,98",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.2",
+   "quote": "100000;FALKE FOLIEN E.K.;200000,00;28490,98;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 3,
+  "raw": "100001;FOKUS KUNSTSTOFF GMBH;200000,00;70675,29;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100001",
+   "DEBITORNAME": "FOKUS KUNSTSTOFF GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "70675,29",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.3",
+   "quote": "100001;FOKUS KUNSTSTOFF GMBH;200000,00;70675,29;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 4,
+  "raw": "100002;FOKUS DRUCK SE;300000,00;177043,44;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100002",
+   "DEBITORNAME": "FOKUS DRUCK SE",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "177043,44",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.4",
+   "quote": "100002;FOKUS DRUCK SE;300000,00;177043,44;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 5,
+  "raw": "100003;IRIS MASCHINEN KG;200000,00;0,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100003",
+   "DEBITORNAME": "IRIS MASCHINEN KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "0,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.5",
+   "quote": "100003;IRIS MASCHINEN KG;200000,00;0,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "100004;PRISMA SYSTEME AG;200000,00;66330,26;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100004",
+   "DEBITORNAME": "PRISMA SYSTEME AG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "66330,26",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.6",
+   "quote": "100004;PRISMA SYSTEME AG;200000,00;66330,26;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 7,
+  "raw": "100005;CORVUS HANDEL KG;300000,00;117217,38;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100005",
+   "DEBITORNAME": "CORVUS HANDEL KG",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "117217,38",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.7",
+   "quote": "100005;CORVUS HANDEL KG;300000,00;117217,38;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 8,
+  "raw": "100006;SÜD DRUCK GMBH;200000,00;55233,22;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100006",
+   "DEBITORNAME": "SÜD DRUCK GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "55233,22",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.8",
+   "quote": "100006;SÜD DRUCK GMBH;200000,00;55233,22;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 9,
+  "raw": "100007;RATIO LOGISTIK GMBH;200000,00;78426,95;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100007",
+   "DEBITORNAME": "RATIO LOGISTIK GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "78426,95",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.9",
+   "quote": "100007;RATIO LOGISTIK GMBH;200000,00;78426,95;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 10,
+  "raw": "100008;FALKE CHEMIE KG;200000,00;95439,19;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100008",
+   "DEBITORNAME": "FALKE CHEMIE KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "95439,19",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.10",
+   "quote": "100008;FALKE CHEMIE KG;200000,00;95439,19;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 11,
+  "raw": "100009;TITAN TECHNIK GMBH;300000,00;130153,87;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100009",
+   "DEBITORNAME": "TITAN TECHNIK GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "130153,87",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.11",
+   "quote": "100009;TITAN TECHNIK GMBH;300000,00;130153,87;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 12,
+  "raw": "100010;FOKUS TECHNIK GMBH;200000,00;60269,99;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100010",
+   "DEBITORNAME": "FOKUS TECHNIK GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "60269,99",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.12",
+   "quote": "100010;FOKUS TECHNIK GMBH;200000,00;60269,99;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 13,
+  "raw": "100011;BOREAS BESCHICHTUNG E.K.;200000,00;46821,74;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100011",
+   "DEBITORNAME": "BOREAS BESCHICHTUNG E.K.",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "46821,74",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.13",
+   "quote": "100011;BOREAS BESCHICHTUNG E.K.;200000,00;46821,74;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 14,
+  "raw": "100012;ATLAS FORMTEILE SE;200000,00;59660,65;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100012",
+   "DEBITORNAME": "ATLAS FORMTEILE SE",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "59660,65",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.14",
+   "quote": "100012;ATLAS FORMTEILE SE;200000,00;59660,65;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 15,
+  "raw": "100013;NOVA FORMTEILE GMBH;300000,00;116377,24;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100013",
+   "DEBITORNAME": "NOVA FORMTEILE GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "116377,24",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.15",
+   "quote": "100013;NOVA FORMTEILE GMBH;300000,00;116377,24;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 16,
+  "raw": "100014;ALPHA HANDEL GMBH;300000,00;119536,69;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100014",
+   "DEBITORNAME": "ALPHA HANDEL GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "119536,69",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.16",
+   "quote": "100014;ALPHA HANDEL GMBH;300000,00;119536,69;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 17,
+  "raw": "100015;OST WERKSTOFFE AG;200000,00;17679,83;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100015",
+   "DEBITORNAME": "OST WERKSTOFFE AG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "17679,83",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.17",
+   "quote": "100015;OST WERKSTOFFE AG;200000,00;17679,83;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 18,
+  "raw": "100016;MERKUR WERKSTOFFE SE;300000,00;119044,03;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100016",
+   "DEBITORNAME": "MERKUR WERKSTOFFE SE",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "119044,03",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.18",
+   "quote": "100016;MERKUR WERKSTOFFE SE;300000,00;119044,03;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 19,
+  "raw": "100017;HELIOS ETIKETTEN KG;200000,00;71505,91;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100017",
+   "DEBITORNAME": "HELIOS ETIKETTEN KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "71505,91",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.19",
+   "quote": "100017;HELIOS ETIKETTEN KG;200000,00;71505,91;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 20,
+  "raw": "100018;SOLUM RECYCLING AG;200000,00;73165,96;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100018",
+   "DEBITORNAME": "SOLUM RECYCLING AG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "73165,96",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.20",
+   "quote": "100018;SOLUM RECYCLING AG;200000,00;73165,96;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 21,
+  "raw": "100019;POLLUX SYSTEME GMBH;200000,00;17374,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100019",
+   "DEBITORNAME": "POLLUX SYSTEME GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "17374,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.21",
+   "quote": "100019;POLLUX SYSTEME GMBH;200000,00;17374,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 22,
+  "raw": "100020;ADLER TRANSPORT GMBH;200000,00;47244,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100020",
+   "DEBITORNAME": "ADLER TRANSPORT GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "47244,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.22",
+   "quote": "100020;ADLER TRANSPORT GMBH;200000,00;47244,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 23,
+  "raw": "100021;HELIOS RECYCLING GMBH;300000,00;162461,18;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100021",
+   "DEBITORNAME": "HELIOS RECYCLING GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "162461,18",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.23",
+   "quote": "100021;HELIOS RECYCLING GMBH;300000,00;162461,18;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 24,
+  "raw": "100022;WEST INDUSTRIEBEDARF GMBH;200000,00;75618,55;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100022",
+   "DEBITORNAME": "WEST INDUSTRIEBEDARF GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "75618,55",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.24",
+   "quote": "100022;WEST INDUSTRIEBEDARF GMBH;200000,00;75618,55;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 25,
+  "raw": "100023;OST PAPIER SE;300000,00;199107,23;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100023",
+   "DEBITORNAME": "OST PAPIER SE",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "199107,23",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.25",
+   "quote": "100023;OST PAPIER SE;300000,00;199107,23;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 26,
+  "raw": "100024;KRANICH HANDEL GMBH;300000,00;192707,41;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100024",
+   "DEBITORNAME": "KRANICH HANDEL GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "192707,41",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.26",
+   "quote": "100024;KRANICH HANDEL GMBH;300000,00;192707,41;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 27,
+  "raw": "100025;LUPUS CHEMIE AG;300000,00;155033,32;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100025",
+   "DEBITORNAME": "LUPUS CHEMIE AG",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "155033,32",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.27",
+   "quote": "100025;LUPUS CHEMIE AG;300000,00;155033,32;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 28,
+  "raw": "100026;IRIS KUNSTSTOFF E.K.;200000,00;97988,17;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100026",
+   "DEBITORNAME": "IRIS KUNSTSTOFF E.K.",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "97988,17",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.28",
+   "quote": "100026;IRIS KUNSTSTOFF E.K.;200000,00;97988,17;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 29,
+  "raw": "100027;BOREAS TRANSPORT AG;300000,00;131878,79;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100027",
+   "DEBITORNAME": "BOREAS TRANSPORT AG",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "131878,79",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.29",
+   "quote": "100027;BOREAS TRANSPORT AG;300000,00;131878,79;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 30,
+  "raw": "100028;VEGA FOLIEN GMBH;300000,00;106966,72;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100028",
+   "DEBITORNAME": "VEGA FOLIEN GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "106966,72",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.30",
+   "quote": "100028;VEGA FOLIEN GMBH;300000,00;106966,72;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 31,
+  "raw": "100029;PRISMA WERKSTOFFE SE;200000,00;57511,51;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100029",
+   "DEBITORNAME": "PRISMA WERKSTOFFE SE",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "57511,51",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.31",
+   "quote": "100029;PRISMA WERKSTOFFE SE;200000,00;57511,51;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 32,
+  "raw": "100030;PRISMA ETIKETTEN AG;200000,00;84504,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100030",
+   "DEBITORNAME": "PRISMA ETIKETTEN AG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "84504,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.32",
+   "quote": "100030;PRISMA ETIKETTEN AG;200000,00;84504,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 33,
+  "raw": "100031;RATIO PAPIER KG;300000,00;164592,47;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100031",
+   "DEBITORNAME": "RATIO PAPIER KG",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "164592,47",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.33",
+   "quote": "100031;RATIO PAPIER KG;300000,00;164592,47;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 34,
+  "raw": "100032;OMEGA VERPACKUNG KG;200000,00;69487,07;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100032",
+   "DEBITORNAME": "OMEGA VERPACKUNG KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "69487,07",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.34",
+   "quote": "100032;OMEGA VERPACKUNG KG;200000,00;69487,07;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 35,
+  "raw": "100033;WEST TECHNIK GMBH;300000,00;103921,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100033",
+   "DEBITORNAME": "WEST TECHNIK GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "103921,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.35",
+   "quote": "100033;WEST TECHNIK GMBH;300000,00;103921,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 36,
+  "raw": "100034;BOREAS PAPIER GMBH;200000,00;62257,86;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100034",
+   "DEBITORNAME": "BOREAS PAPIER GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "62257,86",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.36",
+   "quote": "100034;BOREAS PAPIER GMBH;200000,00;62257,86;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 37,
+  "raw": "100035;CIVES TECHNIK GMBH;200000,00;5635,84;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100035",
+   "DEBITORNAME": "CIVES TECHNIK GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "5635,84",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.37",
+   "quote": "100035;CIVES TECHNIK GMBH;200000,00;5635,84;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 38,
+  "raw": "100036;KRONOS PAPIER GMBH;300000,00;123650,52;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100036",
+   "DEBITORNAME": "KRONOS PAPIER GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "123650,52",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.38",
+   "quote": "100036;KRONOS PAPIER GMBH;300000,00;123650,52;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 39,
+  "raw": "100037;PACTUM TECHNIK GMBH;300000,00;171491,57;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100037",
+   "DEBITORNAME": "PACTUM TECHNIK GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "171491,57",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.39",
+   "quote": "100037;PACTUM TECHNIK GMBH;300000,00;171491,57;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 40,
+  "raw": "100038;SATURN MASCHINEN GMBH;300000,00;116080,63;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100038",
+   "DEBITORNAME": "SATURN MASCHINEN GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "116080,63",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.40",
+   "quote": "100038;SATURN MASCHINEN GMBH;300000,00;116080,63;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 41,
+  "raw": "100039;IRIS TECHNIK GMBH;200000,00;71347,64;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100039",
+   "DEBITORNAME": "IRIS TECHNIK GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "71347,64",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.41",
+   "quote": "100039;IRIS TECHNIK GMBH;200000,00;71347,64;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 42,
+  "raw": "100040;SOLUM WERKSTOFFE GMBH;200000,00;0,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100040",
+   "DEBITORNAME": "SOLUM WERKSTOFFE GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "0,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.42",
+   "quote": "100040;SOLUM WERKSTOFFE GMBH;200000,00;0,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 43,
+  "raw": "100041;PRISMA HANDEL E.K.;200000,00;27750,80;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100041",
+   "DEBITORNAME": "PRISMA HANDEL E.K.",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "27750,80",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.43",
+   "quote": "100041;PRISMA HANDEL E.K.;200000,00;27750,80;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 44,
+  "raw": "100042;ADLER HANDEL GMBH;200000,00;74978,33;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100042",
+   "DEBITORNAME": "ADLER HANDEL GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "74978,33",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.44",
+   "quote": "100042;ADLER HANDEL GMBH;200000,00;74978,33;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 45,
+  "raw": "100043;DELTA BESCHICHTUNG GMBH & CO. KG;200000,00;34581,40;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100043",
+   "DEBITORNAME": "DELTA BESCHICHTUNG GMBH & CO. KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "34581,40",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.45",
+   "quote": "100043;DELTA BESCHICHTUNG GMBH & CO. KG;200000,00;34581,40;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 46,
+  "raw": "100044;VEGA FORMTEILE GMBH;200000,00;64529,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100044",
+   "DEBITORNAME": "VEGA FORMTEILE GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "64529,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.46",
+   "quote": "100044;VEGA FORMTEILE GMBH;200000,00;64529,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 47,
+  "raw": "100045;HELIOS DRUCK GMBH;200000,00;52997,84;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100045",
+   "DEBITORNAME": "HELIOS DRUCK GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "52997,84",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.47",
+   "quote": "100045;HELIOS DRUCK GMBH;200000,00;52997,84;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 48,
+  "raw": "100046;SÜD KUNSTSTOFF KG;300000,00;175773,71;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100046",
+   "DEBITORNAME": "SÜD KUNSTSTOFF KG",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "175773,71",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.48",
+   "quote": "100046;SÜD KUNSTSTOFF KG;300000,00;175773,71;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 49,
+  "raw": "100047;ADLER KARTON KG;300000,00;165906,23;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100047",
+   "DEBITORNAME": "ADLER KARTON KG",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "165906,23",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.49",
+   "quote": "100047;ADLER KARTON KG;300000,00;165906,23;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 50,
+  "raw": "100048;ATLAS ETIKETTEN GMBH & CO. KG;200000,00;16781,38;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100048",
+   "DEBITORNAME": "ATLAS ETIKETTEN GMBH & CO. KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "16781,38",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.50",
+   "quote": "100048;ATLAS ETIKETTEN GMBH & CO. KG;200000,00;16781,38;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 51,
+  "raw": "100049;OST KARTON AG;200000,00;31955,07;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100049",
+   "DEBITORNAME": "OST KARTON AG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "31955,07",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.51",
+   "quote": "100049;OST KARTON AG;200000,00;31955,07;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 52,
+  "raw": "100050;OST CHEMIE GMBH;300000,00;162485,11;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100050",
+   "DEBITORNAME": "OST CHEMIE GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "162485,11",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.52",
+   "quote": "100050;OST CHEMIE GMBH;300000,00;162485,11;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 53,
+  "raw": "100051;PACTUM DISTRIBUTION KG;200000,00;43610,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100051",
+   "DEBITORNAME": "PACTUM DISTRIBUTION KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "43610,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.53",
+   "quote": "100051;PACTUM DISTRIBUTION KG;200000,00;43610,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 54,
+  "raw": "100052;ORION TRANSPORT GMBH;200000,00;83449,49;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100052",
+   "DEBITORNAME": "ORION TRANSPORT GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "83449,49",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.54",
+   "quote": "100052;ORION TRANSPORT GMBH;200000,00;83449,49;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 55,
+  "raw": "100053;REIHER LOGISTIK GMBH;200000,00;82931,86;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100053",
+   "DEBITORNAME": "REIHER LOGISTIK GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "82931,86",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.55",
+   "quote": "100053;REIHER LOGISTIK GMBH;200000,00;82931,86;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 56,
+  "raw": "100054;CIVES ETIKETTEN SE;200000,00;77553,49;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100054",
+   "DEBITORNAME": "CIVES ETIKETTEN SE",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "77553,49",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.56",
+   "quote": "100054;CIVES ETIKETTEN SE;200000,00;77553,49;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 57,
+  "raw": "100055;ADLER DRUCK KG;200000,00;31029,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100055",
+   "DEBITORNAME": "ADLER DRUCK KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "31029,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.57",
+   "quote": "100055;ADLER DRUCK KG;200000,00;31029,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 58,
+  "raw": "100056;NORD WERKSTOFFE SE;300000,00;103069,47;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100056",
+   "DEBITORNAME": "NORD WERKSTOFFE SE",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "103069,47",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.58",
+   "quote": "100056;NORD WERKSTOFFE SE;300000,00;103069,47;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 59,
+  "raw": "100057;CORVUS FORMTEILE GMBH;200000,00;62884,36;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100057",
+   "DEBITORNAME": "CORVUS FORMTEILE GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "62884,36",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.59",
+   "quote": "100057;CORVUS FORMTEILE GMBH;200000,00;62884,36;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 60,
+  "raw": "100058;VEGA ETIKETTEN GMBH & CO. KG;300000,00;135191,14;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100058",
+   "DEBITORNAME": "VEGA ETIKETTEN GMBH & CO. KG",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "135191,14",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.60",
+   "quote": "100058;VEGA ETIKETTEN GMBH & CO. KG;300000,00;135191,14;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 61,
+  "raw": "100059;FOKUS RECYCLING GMBH & CO. KG;200000,00;90093,71;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100059",
+   "DEBITORNAME": "FOKUS RECYCLING GMBH & CO. KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "90093,71",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.61",
+   "quote": "100059;FOKUS RECYCLING GMBH & CO. KG;200000,00;90093,71;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 62,
+  "raw": "100060;ATLAS FOLIEN GMBH & CO. KG;200000,00;0,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100060",
+   "DEBITORNAME": "ATLAS FOLIEN GMBH & CO. KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "0,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.62",
+   "quote": "100060;ATLAS FOLIEN GMBH & CO. KG;200000,00;0,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 63,
+  "raw": "100061;TERRA KARTON E.K.;300000,00;140917,30;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100061",
+   "DEBITORNAME": "TERRA KARTON E.K.",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "140917,30",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.63",
+   "quote": "100061;TERRA KARTON E.K.;300000,00;140917,30;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 64,
+  "raw": "100062;POLLUX BESCHICHTUNG GMBH;200000,00;78231,79;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100062",
+   "DEBITORNAME": "POLLUX BESCHICHTUNG GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "78231,79",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.64",
+   "quote": "100062;POLLUX BESCHICHTUNG GMBH;200000,00;78231,79;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 65,
+  "raw": "100063;MERKUR DRUCK SE;200000,00;45186,68;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100063",
+   "DEBITORNAME": "MERKUR DRUCK SE",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "45186,68",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.65",
+   "quote": "100063;MERKUR DRUCK SE;200000,00;45186,68;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 66,
+  "raw": "100064;FALKE MASCHINEN GMBH;200000,00;60368,70;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100064",
+   "DEBITORNAME": "FALKE MASCHINEN GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "60368,70",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.66",
+   "quote": "100064;FALKE MASCHINEN GMBH;200000,00;60368,70;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 67,
+  "raw": "100065;ATLAS ETIKETTEN E.K.;200000,00;0,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100065",
+   "DEBITORNAME": "ATLAS ETIKETTEN E.K.",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "0,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.67",
+   "quote": "100065;ATLAS ETIKETTEN E.K.;200000,00;0,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 68,
+  "raw": "100066;SOLUM PAPIER GMBH;200000,00;14111,02;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100066",
+   "DEBITORNAME": "SOLUM PAPIER GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "14111,02",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.68",
+   "quote": "100066;SOLUM PAPIER GMBH;200000,00;14111,02;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 69,
+  "raw": "100067;NOVA DRUCK GMBH;200000,00;70557,48;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100067",
+   "DEBITORNAME": "NOVA DRUCK GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "70557,48",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.69",
+   "quote": "100067;NOVA DRUCK GMBH;200000,00;70557,48;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 70,
+  "raw": "100068;VEGA ETIKETTEN KG;300000,00;112084,91;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100068",
+   "DEBITORNAME": "VEGA ETIKETTEN KG",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "112084,91",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.70",
+   "quote": "100068;VEGA ETIKETTEN KG;300000,00;112084,91;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 71,
+  "raw": "100069;HELIOS WERKSTOFFE GMBH;300000,00;123689,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100069",
+   "DEBITORNAME": "HELIOS WERKSTOFFE GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "123689,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.71",
+   "quote": "100069;HELIOS WERKSTOFFE GMBH;300000,00;123689,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 72,
+  "raw": "100070;ADLER DRUCK GMBH;200000,00;53327,47;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100070",
+   "DEBITORNAME": "ADLER DRUCK GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "53327,47",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.72",
+   "quote": "100070;ADLER DRUCK GMBH;200000,00;53327,47;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 73,
+  "raw": "100071;VEGA PAPIER GMBH;300000,00;130466,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100071",
+   "DEBITORNAME": "VEGA PAPIER GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "130466,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.73",
+   "quote": "100071;VEGA PAPIER GMBH;300000,00;130466,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 74,
+  "raw": "100072;IRIS LOGISTIK E.K.;400000,00;212762,21;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100072",
+   "DEBITORNAME": "IRIS LOGISTIK E.K.",
+   "KREDITLIMIT_EUR": "400000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "212762,21",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.74",
+   "quote": "100072;IRIS LOGISTIK E.K.;400000,00;212762,21;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 75,
+  "raw": "100073;KRANICH MASCHINEN AG;200000,00;88690,70;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100073",
+   "DEBITORNAME": "KRANICH MASCHINEN AG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "88690,70",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.75",
+   "quote": "100073;KRANICH MASCHINEN AG;200000,00;88690,70;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 76,
+  "raw": "100074;WEST LOGISTIK KG;200000,00;26313,28;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100074",
+   "DEBITORNAME": "WEST LOGISTIK KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "26313,28",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.76",
+   "quote": "100074;WEST LOGISTIK KG;200000,00;26313,28;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 77,
+  "raw": "100075;FALKE ETIKETTEN E.K.;200000,00;75158,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100075",
+   "DEBITORNAME": "FALKE ETIKETTEN E.K.",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "75158,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.77",
+   "quote": "100075;FALKE ETIKETTEN E.K.;200000,00;75158,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 78,
+  "raw": "100076;PACTUM LOGISTIK SE;200000,00;3802,05;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100076",
+   "DEBITORNAME": "PACTUM LOGISTIK SE",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "3802,05",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.78",
+   "quote": "100076;PACTUM LOGISTIK SE;200000,00;3802,05;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 79,
+  "raw": "100077;KRANICH FORMTEILE E.K.;300000,00;116617,62;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100077",
+   "DEBITORNAME": "KRANICH FORMTEILE E.K.",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "116617,62",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.79",
+   "quote": "100077;KRANICH FORMTEILE E.K.;300000,00;116617,62;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 80,
+  "raw": "100078;FALKE SYSTEME GMBH;200000,00;71598,73;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100078",
+   "DEBITORNAME": "FALKE SYSTEME GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "71598,73",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.80",
+   "quote": "100078;FALKE SYSTEME GMBH;200000,00;71598,73;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 81,
+  "raw": "100079;CORVUS KARTON GMBH;200000,00;74897,22;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100079",
+   "DEBITORNAME": "CORVUS KARTON GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "74897,22",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.81",
+   "quote": "100079;CORVUS KARTON GMBH;200000,00;74897,22;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 82,
+  "raw": "100080;RATIO SYSTEME GMBH;200000,00;11443,04;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100080",
+   "DEBITORNAME": "RATIO SYSTEME GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "11443,04",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.82",
+   "quote": "100080;RATIO SYSTEME GMBH;200000,00;11443,04;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 83,
+  "raw": "100081;ADLER RECYCLING GMBH;200000,00;98652,19;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100081",
+   "DEBITORNAME": "ADLER RECYCLING GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "98652,19",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.83",
+   "quote": "100081;ADLER RECYCLING GMBH;200000,00;98652,19;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 84,
+  "raw": "100082;NORD PAPIER KG;300000,00;107485,56;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100082",
+   "DEBITORNAME": "NORD PAPIER KG",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "107485,56",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.84",
+   "quote": "100082;NORD PAPIER KG;300000,00;107485,56;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 85,
+  "raw": "100083;MERKUR MASCHINEN GMBH;200000,00;82627,61;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100083",
+   "DEBITORNAME": "MERKUR MASCHINEN GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "82627,61",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.85",
+   "quote": "100083;MERKUR MASCHINEN GMBH;200000,00;82627,61;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 86,
+  "raw": "100084;FOKUS LOGISTIK AG;200000,00;88893,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100084",
+   "DEBITORNAME": "FOKUS LOGISTIK AG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "88893,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.86",
+   "quote": "100084;FOKUS LOGISTIK AG;200000,00;88893,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 87,
+  "raw": "100085;WEST LOGISTIK GMBH;200000,00;12650,89;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100085",
+   "DEBITORNAME": "WEST LOGISTIK GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "12650,89",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.87",
+   "quote": "100085;WEST LOGISTIK GMBH;200000,00;12650,89;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 88,
+  "raw": "100086;HELIOS FOLIEN GMBH & CO. KG;300000,00;191894,64;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100086",
+   "DEBITORNAME": "HELIOS FOLIEN GMBH & CO. KG",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "191894,64",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.88",
+   "quote": "100086;HELIOS FOLIEN GMBH & CO. KG;300000,00;191894,64;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 89,
+  "raw": "100087;SOLUM VERPACKUNG GMBH;300000,00;175120,40;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100087",
+   "DEBITORNAME": "SOLUM VERPACKUNG GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "175120,40",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.89",
+   "quote": "100087;SOLUM VERPACKUNG GMBH;300000,00;175120,40;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 90,
+  "raw": "100088;NOVA BESCHICHTUNG GMBH;300000,00;191459,10;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100088",
+   "DEBITORNAME": "NOVA BESCHICHTUNG GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "191459,10",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.90",
+   "quote": "100088;NOVA BESCHICHTUNG GMBH;300000,00;191459,10;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 91,
+  "raw": "100089;LUPUS RECYCLING GMBH;200000,00;51334,22;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100089",
+   "DEBITORNAME": "LUPUS RECYCLING GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "51334,22",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.91",
+   "quote": "100089;LUPUS RECYCLING GMBH;200000,00;51334,22;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 92,
+  "raw": "100090;WEST WERKSTOFFE GMBH;200000,00;45049,83;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100090",
+   "DEBITORNAME": "WEST WERKSTOFFE GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "45049,83",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.92",
+   "quote": "100090;WEST WERKSTOFFE GMBH;200000,00;45049,83;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 93,
+  "raw": "100091;RATIO RECYCLING AG;300000,00;121751,28;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100091",
+   "DEBITORNAME": "RATIO RECYCLING AG",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "121751,28",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.93",
+   "quote": "100091;RATIO RECYCLING AG;300000,00;121751,28;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 94,
+  "raw": "100092;SATURN ETIKETTEN GMBH;200000,00;80523,74;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100092",
+   "DEBITORNAME": "SATURN ETIKETTEN GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "80523,74",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.94",
+   "quote": "100092;SATURN ETIKETTEN GMBH;200000,00;80523,74;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 95,
+  "raw": "100093;TERRA RECYCLING GMBH;200000,00;97500,27;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100093",
+   "DEBITORNAME": "TERRA RECYCLING GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "97500,27",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.95",
+   "quote": "100093;TERRA RECYCLING GMBH;200000,00;97500,27;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 96,
+  "raw": "100094;SATURN FORMTEILE SE;200000,00;56340,43;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100094",
+   "DEBITORNAME": "SATURN FORMTEILE SE",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "56340,43",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.96",
+   "quote": "100094;SATURN FORMTEILE SE;200000,00;56340,43;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 97,
+  "raw": "100095;KRONOS MASCHINEN SE;300000,00;132759,97;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100095",
+   "DEBITORNAME": "KRONOS MASCHINEN SE",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "132759,97",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.97",
+   "quote": "100095;KRONOS MASCHINEN SE;300000,00;132759,97;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 98,
+  "raw": "100096;ALPHA SYSTEME E.K.;200000,00;65111,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100096",
+   "DEBITORNAME": "ALPHA SYSTEME E.K.",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "65111,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.98",
+   "quote": "100096;ALPHA SYSTEME E.K.;200000,00;65111,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 99,
+  "raw": "100097;VEGA WERKSTOFFE KG;200000,00;71636,81;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100097",
+   "DEBITORNAME": "VEGA WERKSTOFFE KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "71636,81",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.99",
+   "quote": "100097;VEGA WERKSTOFFE KG;200000,00;71636,81;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 100,
+  "raw": "100098;PACTUM FOLIEN AG;300000,00;107266,60;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100098",
+   "DEBITORNAME": "PACTUM FOLIEN AG",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "107266,60",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.100",
+   "quote": "100098;PACTUM FOLIEN AG;300000,00;107266,60;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 101,
+  "raw": "100099;VEGA CHEMIE KG;300000,00;181542,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100099",
+   "DEBITORNAME": "VEGA CHEMIE KG",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "181542,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.101",
+   "quote": "100099;VEGA CHEMIE KG;300000,00;181542,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 102,
+  "raw": "100100;KRONOS TRANSPORT SE;300000,00;159464,76;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100100",
+   "DEBITORNAME": "KRONOS TRANSPORT SE",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "159464,76",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.102",
+   "quote": "100100;KRONOS TRANSPORT SE;300000,00;159464,76;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 103,
+  "raw": "100101;WEST KARTON GMBH;300000,00;150646,85;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100101",
+   "DEBITORNAME": "WEST KARTON GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "150646,85",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.103",
+   "quote": "100101;WEST KARTON GMBH;300000,00;150646,85;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 104,
+  "raw": "100102;CASTOR FORMTEILE GMBH;200000,00;40915,77;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100102",
+   "DEBITORNAME": "CASTOR FORMTEILE GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "40915,77",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.104",
+   "quote": "100102;CASTOR FORMTEILE GMBH;200000,00;40915,77;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 105,
+  "raw": "100103;IRIS MASCHINEN AG;200000,00;71678,96;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100103",
+   "DEBITORNAME": "IRIS MASCHINEN AG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "71678,96",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.105",
+   "quote": "100103;IRIS MASCHINEN AG;200000,00;71678,96;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 106,
+  "raw": "100104;NORD INDUSTRIEBEDARF GMBH;200000,00;27913,83;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100104",
+   "DEBITORNAME": "NORD INDUSTRIEBEDARF GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "27913,83",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.106",
+   "quote": "100104;NORD INDUSTRIEBEDARF GMBH;200000,00;27913,83;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 107,
+  "raw": "100105;WEST SYSTEME GMBH & CO. KG;200000,00;49893,13;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100105",
+   "DEBITORNAME": "WEST SYSTEME GMBH & CO. KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "49893,13",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.107",
+   "quote": "100105;WEST SYSTEME GMBH & CO. KG;200000,00;49893,13;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 108,
+  "raw": "100106;ALPHA RECYCLING AG;200000,00;73039,02;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100106",
+   "DEBITORNAME": "ALPHA RECYCLING AG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "73039,02",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.108",
+   "quote": "100106;ALPHA RECYCLING AG;200000,00;73039,02;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 109,
+  "raw": "100107;CASTOR VERPACKUNG AG;200000,00;16847,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100107",
+   "DEBITORNAME": "CASTOR VERPACKUNG AG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "16847,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.109",
+   "quote": "100107;CASTOR VERPACKUNG AG;200000,00;16847,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 110,
+  "raw": "100108;ATLAS MASCHINEN AG;300000,00;147420,77;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100108",
+   "DEBITORNAME": "ATLAS MASCHINEN AG",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "147420,77",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.110",
+   "quote": "100108;ATLAS MASCHINEN AG;300000,00;147420,77;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 111,
+  "raw": "100109;SOLUM KARTON GMBH & CO. KG;200000,00;98844,97;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100109",
+   "DEBITORNAME": "SOLUM KARTON GMBH & CO. KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "98844,97",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.111",
+   "quote": "100109;SOLUM KARTON GMBH & CO. KG;200000,00;98844,97;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 112,
+  "raw": "100110;RATIO RECYCLING E.K.;200000,00;0,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100110",
+   "DEBITORNAME": "RATIO RECYCLING E.K.",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "0,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.112",
+   "quote": "100110;RATIO RECYCLING E.K.;200000,00;0,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 113,
+  "raw": "100111;PACTUM RECYCLING E.K.;200000,00;73406,34;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100111",
+   "DEBITORNAME": "PACTUM RECYCLING E.K.",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "73406,34",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.113",
+   "quote": "100111;PACTUM RECYCLING E.K.;200000,00;73406,34;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 114,
+  "raw": "100112;WEST CHEMIE GMBH & CO. KG;200000,00;45240,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100112",
+   "DEBITORNAME": "WEST CHEMIE GMBH & CO. KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "45240,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.114",
+   "quote": "100112;WEST CHEMIE GMBH & CO. KG;200000,00;45240,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 115,
+  "raw": "100113;MERKUR RECYCLING E.K.;200000,00;92235,71;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100113",
+   "DEBITORNAME": "MERKUR RECYCLING E.K.",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "92235,71",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.115",
+   "quote": "100113;MERKUR RECYCLING E.K.;200000,00;92235,71;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 116,
+  "raw": "100114;ATLAS CHEMIE GMBH;400000,00;202956,88;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100114",
+   "DEBITORNAME": "ATLAS CHEMIE GMBH",
+   "KREDITLIMIT_EUR": "400000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "202956,88",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.116",
+   "quote": "100114;ATLAS CHEMIE GMBH;400000,00;202956,88;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 117,
+  "raw": "100115;BOREAS KUNSTSTOFF KG;200000,00;59573,78;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100115",
+   "DEBITORNAME": "BOREAS KUNSTSTOFF KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "59573,78",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.117",
+   "quote": "100115;BOREAS KUNSTSTOFF KG;200000,00;59573,78;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 118,
+  "raw": "100116;KRANICH MASCHINEN KG;200000,00;18216,52;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100116",
+   "DEBITORNAME": "KRANICH MASCHINEN KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "18216,52",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.118",
+   "quote": "100116;KRANICH MASCHINEN KG;200000,00;18216,52;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 119,
+  "raw": "100117;ATLAS HANDEL E.K.;300000,00;116999,08;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100117",
+   "DEBITORNAME": "ATLAS HANDEL E.K.",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "116999,08",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.119",
+   "quote": "100117;ATLAS HANDEL E.K.;300000,00;116999,08;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 120,
+  "raw": "100118;LUPUS PAPIER GMBH;200000,00;61323,08;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100118",
+   "DEBITORNAME": "LUPUS PAPIER GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "61323,08",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.120",
+   "quote": "100118;LUPUS PAPIER GMBH;200000,00;61323,08;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 121,
+  "raw": "100119;TITAN WERKSTOFFE GMBH & CO. KG;200000,00;28003,62;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100119",
+   "DEBITORNAME": "TITAN WERKSTOFFE GMBH & CO. KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "28003,62",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.121",
+   "quote": "100119;TITAN WERKSTOFFE GMBH & CO. KG;200000,00;28003,62;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 122,
+  "raw": "100120;WEST TECHNIK SE;300000,00;104780,69;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100120",
+   "DEBITORNAME": "WEST TECHNIK SE",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "104780,69",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.122",
+   "quote": "100120;WEST TECHNIK SE;300000,00;104780,69;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 123,
+  "raw": "100121;FALKE WERKSTOFFE GMBH;200000,00;0,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100121",
+   "DEBITORNAME": "FALKE WERKSTOFFE GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "0,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.123",
+   "quote": "100121;FALKE WERKSTOFFE GMBH;200000,00;0,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 124,
+  "raw": "100122;FOKUS SYSTEME GMBH;300000,00;125896,80;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100122",
+   "DEBITORNAME": "FOKUS SYSTEME GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "125896,80",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.124",
+   "quote": "100122;FOKUS SYSTEME GMBH;300000,00;125896,80;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 125,
+  "raw": "100123;SÜD CHEMIE GMBH & CO. KG;200000,00;20704,81;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100123",
+   "DEBITORNAME": "SÜD CHEMIE GMBH & CO. KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "20704,81",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.125",
+   "quote": "100123;SÜD CHEMIE GMBH & CO. KG;200000,00;20704,81;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 126,
+  "raw": "100124;MERKUR MASCHINEN KG;300000,00;114284,07;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100124",
+   "DEBITORNAME": "MERKUR MASCHINEN KG",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "114284,07",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.126",
+   "quote": "100124;MERKUR MASCHINEN KG;300000,00;114284,07;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 127,
+  "raw": "100125;AURORA HANDEL GMBH;200000,00;80414,25;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100125",
+   "DEBITORNAME": "AURORA HANDEL GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "80414,25",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.127",
+   "quote": "100125;AURORA HANDEL GMBH;200000,00;80414,25;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 128,
+  "raw": "100126;DELTA TECHNIK SE;200000,00;47528,60;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100126",
+   "DEBITORNAME": "DELTA TECHNIK SE",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "47528,60",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.128",
+   "quote": "100126;DELTA TECHNIK SE;200000,00;47528,60;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 129,
+  "raw": "100127;TERRA TECHNIK KG;200000,00;86595,11;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100127",
+   "DEBITORNAME": "TERRA TECHNIK KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "86595,11",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.129",
+   "quote": "100127;TERRA TECHNIK KG;200000,00;86595,11;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 130,
+  "raw": "100128;RATIO INDUSTRIEBEDARF AG;200000,00;80528,49;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100128",
+   "DEBITORNAME": "RATIO INDUSTRIEBEDARF AG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "80528,49",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.130",
+   "quote": "100128;RATIO INDUSTRIEBEDARF AG;200000,00;80528,49;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 131,
+  "raw": "100129;ALPHA PAPIER E.K.;400000,00;235462,66;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100129",
+   "DEBITORNAME": "ALPHA PAPIER E.K.",
+   "KREDITLIMIT_EUR": "400000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "235462,66",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.131",
+   "quote": "100129;ALPHA PAPIER E.K.;400000,00;235462,66;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 132,
+  "raw": "100130;TITAN DISTRIBUTION GMBH;300000,00;117746,93;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100130",
+   "DEBITORNAME": "TITAN DISTRIBUTION GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "117746,93",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.132",
+   "quote": "100130;TITAN DISTRIBUTION GMBH;300000,00;117746,93;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 133,
+  "raw": "100131;WEST FORMTEILE GMBH;300000,00;154521,09;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100131",
+   "DEBITORNAME": "WEST FORMTEILE GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "154521,09",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.133",
+   "quote": "100131;WEST FORMTEILE GMBH;300000,00;154521,09;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 134,
+  "raw": "100132;CORVUS CHEMIE KG;200000,00;65197,72;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100132",
+   "DEBITORNAME": "CORVUS CHEMIE KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "65197,72",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.134",
+   "quote": "100132;CORVUS CHEMIE KG;200000,00;65197,72;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 135,
+  "raw": "100133;ADLER FORMTEILE GMBH & CO. KG;200000,00;79349,20;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100133",
+   "DEBITORNAME": "ADLER FORMTEILE GMBH & CO. KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "79349,20",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.135",
+   "quote": "100133;ADLER FORMTEILE GMBH & CO. KG;200000,00;79349,20;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 136,
+  "raw": "100134;SOLUM TRANSPORT E.K.;200000,00;67768,12;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100134",
+   "DEBITORNAME": "SOLUM TRANSPORT E.K.",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "67768,12",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.136",
+   "quote": "100134;SOLUM TRANSPORT E.K.;200000,00;67768,12;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 137,
+  "raw": "100135;PACTUM KARTON E.K.;300000,00;145202,36;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100135",
+   "DEBITORNAME": "PACTUM KARTON E.K.",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "145202,36",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.137",
+   "quote": "100135;PACTUM KARTON E.K.;300000,00;145202,36;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 138,
+  "raw": "100136;KRANICH LOGISTIK GMBH;200000,00;65955,75;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100136",
+   "DEBITORNAME": "KRANICH LOGISTIK GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "65955,75",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.138",
+   "quote": "100136;KRANICH LOGISTIK GMBH;200000,00;65955,75;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 139,
+  "raw": "100137;PRISMA DISTRIBUTION GMBH;200000,00;45503,22;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100137",
+   "DEBITORNAME": "PRISMA DISTRIBUTION GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "45503,22",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.139",
+   "quote": "100137;PRISMA DISTRIBUTION GMBH;200000,00;45503,22;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 140,
+  "raw": "100138;ALPHA FOLIEN GMBH;200000,00;95284,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100138",
+   "DEBITORNAME": "ALPHA FOLIEN GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "95284,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.140",
+   "quote": "100138;ALPHA FOLIEN GMBH;200000,00;95284,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 141,
+  "raw": "100139;RATIO BESCHICHTUNG KG;200000,00;79246,32;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100139",
+   "DEBITORNAME": "RATIO BESCHICHTUNG KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "79246,32",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.141",
+   "quote": "100139;RATIO BESCHICHTUNG KG;200000,00;79246,32;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 142,
+  "raw": "100140;MERKUR HANDEL E.K.;200000,00;4230,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100140",
+   "DEBITORNAME": "MERKUR HANDEL E.K.",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "4230,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.142",
+   "quote": "100140;MERKUR HANDEL E.K.;200000,00;4230,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 143,
+  "raw": "100141;SOLUM TRANSPORT KG;200000,00;45699,57;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100141",
+   "DEBITORNAME": "SOLUM TRANSPORT KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "45699,57",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.143",
+   "quote": "100141;SOLUM TRANSPORT KG;200000,00;45699,57;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 144,
+  "raw": "100142;NOVA RECYCLING SE;200000,00;14043,19;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100142",
+   "DEBITORNAME": "NOVA RECYCLING SE",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "14043,19",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.144",
+   "quote": "100142;NOVA RECYCLING SE;200000,00;14043,19;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 145,
+  "raw": "100143;NOVA WERKSTOFFE KG;200000,00;10654,07;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100143",
+   "DEBITORNAME": "NOVA WERKSTOFFE KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "10654,07",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.145",
+   "quote": "100143;NOVA WERKSTOFFE KG;200000,00;10654,07;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 146,
+  "raw": "100144;WEST CHEMIE SE;200000,00;66365,11;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100144",
+   "DEBITORNAME": "WEST CHEMIE SE",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "66365,11",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.146",
+   "quote": "100144;WEST CHEMIE SE;200000,00;66365,11;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 147,
+  "raw": "100145;ATLAS RECYCLING SE;300000,00;138279,19;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100145",
+   "DEBITORNAME": "ATLAS RECYCLING SE",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "138279,19",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.147",
+   "quote": "100145;ATLAS RECYCLING SE;300000,00;138279,19;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 148,
+  "raw": "100146;ORION KARTON GMBH;200000,00;90211,31;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100146",
+   "DEBITORNAME": "ORION KARTON GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "90211,31",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.148",
+   "quote": "100146;ORION KARTON GMBH;200000,00;90211,31;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 149,
+  "raw": "100147;NOVA BESCHICHTUNG KG;200000,00;50764,21;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100147",
+   "DEBITORNAME": "NOVA BESCHICHTUNG KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "50764,21",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.149",
+   "quote": "100147;NOVA BESCHICHTUNG KG;200000,00;50764,21;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 150,
+  "raw": "100148;AURORA INDUSTRIEBEDARF GMBH & CO. KG;200000,00;66131,87;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100148",
+   "DEBITORNAME": "AURORA INDUSTRIEBEDARF GMBH & CO. KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "66131,87",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.150",
+   "quote": "100148;AURORA INDUSTRIEBEDARF GMBH & CO. KG;200000,00;66131,87;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 151,
+  "raw": "100149;RATIO DISTRIBUTION GMBH;300000,00;120253,07;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100149",
+   "DEBITORNAME": "RATIO DISTRIBUTION GMBH",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "120253,07",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.151",
+   "quote": "100149;RATIO DISTRIBUTION GMBH;300000,00;120253,07;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 152,
+  "raw": "100150;SÜD RECYCLING GMBH;200000,00;27260,52;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100150",
+   "DEBITORNAME": "SÜD RECYCLING GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "27260,52",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.152",
+   "quote": "100150;SÜD RECYCLING GMBH;200000,00;27260,52;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 153,
+  "raw": "100151;KRONOS KUNSTSTOFF KG;200000,00;51739,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100151",
+   "DEBITORNAME": "KRONOS KUNSTSTOFF KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "51739,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.153",
+   "quote": "100151;KRONOS KUNSTSTOFF KG;200000,00;51739,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 154,
+  "raw": "100152;NORD WERKSTOFFE GMBH;200000,00;64308,79;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100152",
+   "DEBITORNAME": "NORD WERKSTOFFE GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "64308,79",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.154",
+   "quote": "100152;NORD WERKSTOFFE GMBH;200000,00;64308,79;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 155,
+  "raw": "100153;KRONOS INDUSTRIEBEDARF E.K.;400000,00;237977,75;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100153",
+   "DEBITORNAME": "KRONOS INDUSTRIEBEDARF E.K.",
+   "KREDITLIMIT_EUR": "400000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "237977,75",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.155",
+   "quote": "100153;KRONOS INDUSTRIEBEDARF E.K.;400000,00;237977,75;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 156,
+  "raw": "100154;CIVES WERKSTOFFE E.K.;300000,00;139128,85;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100154",
+   "DEBITORNAME": "CIVES WERKSTOFFE E.K.",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "139128,85",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.156",
+   "quote": "100154;CIVES WERKSTOFFE E.K.;300000,00;139128,85;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 157,
+  "raw": "100155;RATIO TRANSPORT GMBH;200000,00;28581,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100155",
+   "DEBITORNAME": "RATIO TRANSPORT GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "28581,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.157",
+   "quote": "100155;RATIO TRANSPORT GMBH;200000,00;28581,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 158,
+  "raw": "100156;KRANICH PAPIER GMBH & CO. KG;200000,00;46490,92;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100156",
+   "DEBITORNAME": "KRANICH PAPIER GMBH & CO. KG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "46490,92",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.158",
+   "quote": "100156;KRANICH PAPIER GMBH & CO. KG;200000,00;46490,92;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 159,
+  "raw": "100157;IRIS DISTRIBUTION GMBH;200000,00;0,00;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100157",
+   "DEBITORNAME": "IRIS DISTRIBUTION GMBH",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "0,00",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.159",
+   "quote": "100157;IRIS DISTRIBUTION GMBH;200000,00;0,00;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 160,
+  "raw": "100158;WEST SYSTEME AG;300000,00;114591,05;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100158",
+   "DEBITORNAME": "WEST SYSTEME AG",
+   "KREDITLIMIT_EUR": "300000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "114591,05",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.160",
+   "quote": "100158;WEST SYSTEME AG;300000,00;114591,05;ok;internes Limit"
+  }
+ },
+ {
+  "rowNumber": 161,
+  "raw": "100159;MERKUR DRUCK AG;200000,00;41937,09;ok;internes Limit",
+  "values": {
+   "DEBITOR": "100159",
+   "DEBITORNAME": "MERKUR DRUCK AG",
+   "KREDITLIMIT_EUR": "200000,00",
+   "AUSNUTZUNG_31_12_2025_EUR": "41937,09",
+   "STATUS": "ok",
+   "BESICHERUNG": "internes Limit"
+  },
+  "citation": {
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "ref": "Kreditlimitliste_Debitoren_2025!r.161",
+   "quote": "100159;MERKUR DRUCK AG;200000,00;41937,09;ok;internes Limit"
+  }
+ }
+]

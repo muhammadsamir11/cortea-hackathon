@@ -1,0 +1,21 @@
+{
+ "dossier": "synthetic",
+ "generatedAt": "2026-07-18T10:47:40.468Z",
+ "model": "offline-fixture",
+ "stats": {
+  "docs": 12,
+  "units": 13,
+  "facts": 23,
+  "verifiedFacts": 23,
+  "findings": 9,
+  "acquitted": 0
+ },
+ "validation": {
+  "facts": 23,
+  "verifiedFacts": 23,
+  "citations": 27,
+  "verifiedCitations": 27,
+  "repairedRefs": 26,
+  "droppedFacts": []
+ }
+}

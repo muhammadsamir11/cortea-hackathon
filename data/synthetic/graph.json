@@ -1,0 +1,235 @@
+{
+ "nodes": [
+  {
+   "id": "e-1",
+   "names": [
+    "PayFlux GmbH"
+   ],
+   "accountNumbers": [],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": [
+    "fx-1",
+    "fx-2",
+    "fx-3",
+    "fx-4",
+    "fx-5",
+    "fx-6",
+    "fx-7",
+    "fx-8",
+    "fx-9",
+    "fx-15",
+    "fx-16",
+    "fx-17"
+   ]
+  },
+  {
+   "id": "e-2",
+   "names": [
+    "Nordwind Consulting GmbH",
+    "Nordwind Consulting Ltd."
+   ],
+   "accountNumbers": [],
+   "ibans": [
+    "DE89370400440532013000",
+    "DE44500105175407324931"
+   ],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": [
+    "fx-1",
+    "fx-2",
+    "fx-15",
+    "fx-18"
+   ]
+  },
+  {
+   "id": "e-3",
+   "names": [
+    "TechServe Solutions GmbH"
+   ],
+   "accountNumbers": [],
+   "ibans": [
+    "DE75512108001245126199",
+    "DE02120300000000202051"
+   ],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": [
+    "fx-3",
+    "fx-16",
+    "fx-19",
+    "fx-21"
+   ]
+  },
+  {
+   "id": "e-4",
+   "names": [
+    "Baltic Media UG"
+   ],
+   "accountNumbers": [],
+   "ibans": [
+    "DE21301204000000015228"
+   ],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": [
+    "fx-4",
+    "fx-17"
+   ]
+  },
+  {
+   "id": "e-5",
+   "names": [
+    "Aurora Ventures GmbH"
+   ],
+   "accountNumbers": [],
+   "ibans": [
+    "DE68210501700012345678"
+   ],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": [
+    "fx-5",
+    "fx-10",
+    "fx-20"
+   ]
+  },
+  {
+   "id": "e-6",
+   "names": [
+    "Meridian Holding AG"
+   ],
+   "accountNumbers": [],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": [
+    "fx-6",
+    "fx-10"
+   ]
+  },
+  {
+   "id": "e-7",
+   "names": [
+    "Druckerei Held GmbH"
+   ],
+   "accountNumbers": [],
+   "ibans": [
+    "DE12500105170648489890"
+   ],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": [
+    "fx-7",
+    "fx-8",
+    "fx-9",
+    "fx-23"
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "e-1",
+   "to": "e-2",
+   "total": 36800,
+   "currency": "EUR",
+   "factIds": [
+    "fx-1",
+    "fx-2"
+   ],
+   "findingIds": [
+    "c-duplicates-2",
+    "c-ibanIntegrity-4",
+    "c-ibanIntegrity-6"
+   ]
+  },
+  {
+   "from": "e-1",
+   "to": "e-3",
+   "total": 12750,
+   "currency": "EUR",
+   "factIds": [
+    "fx-3"
+   ],
+   "findingIds": [
+    "c-ibanIntegrity-5"
+   ]
+  },
+  {
+   "from": "e-1",
+   "to": "e-4",
+   "total": 24900,
+   "currency": "EUR",
+   "factIds": [
+    "fx-4"
+   ],
+   "findingIds": [
+    "c-threeWayMatch-7"
+   ]
+  },
+  {
+   "from": "e-1",
+   "to": "e-5",
+   "total": 50000,
+   "currency": "EUR",
+   "factIds": [
+    "fx-5"
+   ],
+   "findingIds": [
+    "c-cycles-9"
+   ]
+  },
+  {
+   "from": "e-6",
+   "to": "e-1",
+   "total": 47500,
+   "currency": "EUR",
+   "factIds": [
+    "fx-6"
+   ],
+   "findingIds": [
+    "c-cycles-9"
+   ]
+  },
+  {
+   "from": "e-1",
+   "to": "e-7",
+   "total": 12400,
+   "currency": "EUR",
+   "factIds": [
+    "fx-7",
+    "fx-8"
+   ],
+   "findingIds": [
+    "c-duplicates-3"
+   ]
+  },
+  {
+   "from": "e-7",
+   "to": "e-1",
+   "total": 6200,
+   "currency": "EUR",
+   "factIds": [
+    "fx-9"
+   ],
+   "findingIds": [
+    "c-duplicates-3"
+   ]
+  },
+  {
+   "from": "e-5",
+   "to": "e-6",
+   "total": 48000,
+   "currency": "EUR",
+   "factIds": [
+    "fx-10"
+   ],
+   "findingIds": [
+    "c-cycles-9"
+   ]
+  }
+ ],
+ "companyClusterId": "e-1"
+}

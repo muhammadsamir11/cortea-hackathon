@@ -1,0 +1,191 @@
+[
+ {
+  "rowNumber": 4,
+  "raw": "MV-U01 | Vertrieb | X |  |  |  |  |  |  | ",
+  "values": {
+   "Benutzer": "MV-U01",
+   "Abteilung": "Vertrieb",
+   "Buchen": "X",
+   "Journal freigeben": "",
+   "Zahlungslauf": "",
+   "Stammdaten/Kreditor anlegen": "",
+   "Perioden": "",
+   "Systemadmin": "",
+   "Management": "",
+   "Bemerkung": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-berechtigungsauswertung-2025",
+   "ref": "Berechtigungen!r.4",
+   "quote": "MV-U01 | Vertrieb | X |  |  |  |  |  |  | "
+  }
+ },
+ {
+  "rowNumber": 5,
+  "raw": "MV-U02 | Leitung RW | X | X | X | X | X |  | Ja | ",
+  "values": {
+   "Benutzer": "MV-U02",
+   "Abteilung": "Leitung RW",
+   "Buchen": "X",
+   "Journal freigeben": "X",
+   "Zahlungslauf": "X",
+   "Stammdaten/Kreditor anlegen": "X",
+   "Perioden": "X",
+   "Systemadmin": "",
+   "Management": "Ja",
+   "Bemerkung": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-berechtigungsauswertung-2025",
+   "ref": "Berechtigungen!r.5",
+   "quote": "MV-U02 | Leitung RW | X | X | X | X | X |  | Ja | "
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "MV-U03 | Einkauf/Kreditoren | X |  |  | X |  |  |  | ",
+  "values": {
+   "Benutzer": "MV-U03",
+   "Abteilung": "Einkauf/Kreditoren",
+   "Buchen": "X",
+   "Journal freigeben": "",
+   "Zahlungslauf": "",
+   "Stammdaten/Kreditor anlegen": "X",
+   "Perioden": "",
+   "Systemadmin": "",
+   "Management": "",
+   "Bemerkung": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-berechtigungsauswertung-2025",
+   "ref": "Berechtigungen!r.6",
+   "quote": "MV-U03 | Einkauf/Kreditoren | X |  |  | X |  |  |  | "
+  }
+ },
+ {
+  "rowNumber": 7,
+  "raw": "MV-U05 | Einkauf | X |  | X | X |  |  |  | ",
+  "values": {
+   "Benutzer": "MV-U05",
+   "Abteilung": "Einkauf",
+   "Buchen": "X",
+   "Journal freigeben": "",
+   "Zahlungslauf": "X",
+   "Stammdaten/Kreditor anlegen": "X",
+   "Perioden": "",
+   "Systemadmin": "",
+   "Management": "",
+   "Bemerkung": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-berechtigungsauswertung-2025",
+   "ref": "Berechtigungen!r.7",
+   "quote": "MV-U05 | Einkauf | X |  | X | X |  |  |  | "
+  }
+ },
+ {
+  "rowNumber": 8,
+  "raw": "MV-U08 | Debitorenbuchhaltung | X |  |  | X |  |  |  | ",
+  "values": {
+   "Benutzer": "MV-U08",
+   "Abteilung": "Debitorenbuchhaltung",
+   "Buchen": "X",
+   "Journal freigeben": "",
+   "Zahlungslauf": "",
+   "Stammdaten/Kreditor anlegen": "X",
+   "Perioden": "",
+   "Systemadmin": "",
+   "Management": "",
+   "Bemerkung": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-berechtigungsauswertung-2025",
+   "ref": "Berechtigungen!r.8",
+   "quote": "MV-U08 | Debitorenbuchhaltung | X |  |  | X |  |  |  | "
+  }
+ },
+ {
+  "rowNumber": 9,
+  "raw": "MV-U10 | Rechnungswesen | X | X |  |  | X |  | Ja | ",
+  "values": {
+   "Benutzer": "MV-U10",
+   "Abteilung": "Rechnungswesen",
+   "Buchen": "X",
+   "Journal freigeben": "X",
+   "Zahlungslauf": "",
+   "Stammdaten/Kreditor anlegen": "",
+   "Perioden": "X",
+   "Systemadmin": "",
+   "Management": "Ja",
+   "Bemerkung": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-berechtigungsauswertung-2025",
+   "ref": "Berechtigungen!r.9",
+   "quote": "MV-U10 | Rechnungswesen | X | X |  |  | X |  | Ja | "
+  }
+ },
+ {
+  "rowNumber": 10,
+  "raw": "MV-U11 | Zahlungsverkehr | X |  | X |  |  |  |  | ",
+  "values": {
+   "Benutzer": "MV-U11",
+   "Abteilung": "Zahlungsverkehr",
+   "Buchen": "X",
+   "Journal freigeben": "",
+   "Zahlungslauf": "X",
+   "Stammdaten/Kreditor anlegen": "",
+   "Perioden": "",
+   "Systemadmin": "",
+   "Management": "",
+   "Bemerkung": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-berechtigungsauswertung-2025",
+   "ref": "Berechtigungen!r.10",
+   "quote": "MV-U11 | Zahlungsverkehr | X |  | X |  |  |  |  | "
+  }
+ },
+ {
+  "rowNumber": 11,
+  "raw": "MV-U12 | Zahlungsverkehr | X |  | X |  |  |  |  | ",
+  "values": {
+   "Benutzer": "MV-U12",
+   "Abteilung": "Zahlungsverkehr",
+   "Buchen": "X",
+   "Journal freigeben": "",
+   "Zahlungslauf": "X",
+   "Stammdaten/Kreditor anlegen": "",
+   "Perioden": "",
+   "Systemadmin": "",
+   "Management": "",
+   "Bemerkung": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-berechtigungsauswertung-2025",
+   "ref": "Berechtigungen!r.11",
+   "quote": "MV-U12 | Zahlungsverkehr | X |  | X |  |  |  |  | "
+  }
+ },
+ {
+  "rowNumber": 12,
+  "raw": "Admin | IT/Schnittstellen | X | X | X | X | X | X |  | Sammel-/Batch-Kennung, nicht personalisiert",
+  "values": {
+   "Benutzer": "Admin",
+   "Abteilung": "IT/Schnittstellen",
+   "Buchen": "X",
+   "Journal freigeben": "X",
+   "Zahlungslauf": "X",
+   "Stammdaten/Kreditor anlegen": "X",
+   "Perioden": "X",
+   "Systemadmin": "X",
+   "Management": "",
+   "Bemerkung": "Sammel-/Batch-Kennung, nicht personalisiert"
+  },
+  "citation": {
+   "docId": "begleitdokumente-berechtigungsauswertung-2025",
+   "ref": "Berechtigungen!r.12",
+   "quote": "Admin | IT/Schnittstellen | X | X | X | X | X | X |  | Sammel-/Batch-Kennung, nicht personalisiert"
+  }
+ }
+]

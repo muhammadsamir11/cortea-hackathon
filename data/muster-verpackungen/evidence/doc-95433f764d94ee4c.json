@@ -1,0 +1,27 @@
+[
+ {
+  "ref": "Gesellschafterliste_Beteiligungen!r.2",
+  "text": "GESELLSCHAFTER;;;;",
+  "startLine": 2
+ },
+ {
+  "ref": "Gesellschafterliste_Beteiligungen!r.3",
+  "text": "Muster Beteiligungs GmbH, Wien (AUT);100,00;IC;Muttergesellschaft;oberste Konzernmutter",
+  "startLine": 3
+ },
+ {
+  "ref": "Gesellschafterliste_Beteiligungen!r.4",
+  "text": ";;;;",
+  "startLine": 4
+ },
+ {
+  "ref": "Gesellschafterliste_Beteiligungen!r.5",
+  "text": "VERBUNDENE UNTERNEHMEN;;;;",
+  "startLine": 5
+ },
+ {
+  "ref": "Gesellschafterliste_Beteiligungen!r.6",
+  "text": "Muster Verpackung Austria GmbH (AUT);0,00;IC;Schwestergesellschaft;Personenkonto Kreditor 209113",
+  "startLine": 6
+ }
+]

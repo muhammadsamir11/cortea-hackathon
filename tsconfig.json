@@ -1,0 +1,3 @@
+{
+  "extends": "@almedia/config/tsconfig.base.json"
+}

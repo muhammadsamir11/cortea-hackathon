@@ -1,0 +1,266 @@
+[
+ {
+  "ref": "Saldenliste 2025!r.5",
+  "text": "020000 | Grundstücke | Bilanz | 0 | 2339597 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 5
+ },
+ {
+  "ref": "Saldenliste 2025!r.6",
+  "text": "021000 | Gebäude und Außenanlagen | Bilanz | 0 | 2043939 | 417604.56 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 6
+ },
+ {
+  "ref": "Saldenliste 2025!r.7",
+  "text": "040000 | Maschinen und maschinelle Anlagen | Bilanz | 0 | 8623198 | 529199.56 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 7
+ },
+ {
+  "ref": "Saldenliste 2025!r.8",
+  "text": "060000 | Betriebs- und Geschäftsausstattung | Bilanz | 0 | 4325050 | 417604.56 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 8
+ },
+ {
+  "ref": "Saldenliste 2025!r.9",
+  "text": "062000 | EDV-Hardware | Bilanz | 0 | 3652903 | 417604.56 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 9
+ },
+ {
+  "ref": "Saldenliste 2025!r.10",
+  "text": "070000 | Anlagen im Bau | Bilanz | 0 | 526341 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 10
+ },
+ {
+  "ref": "Saldenliste 2025!r.11",
+  "text": "110000 | Roh-, Hilfs- und Betriebsstoffe | Bilanz | 0 | 44698861 | 37700166.96 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 11
+ },
+ {
+  "ref": "Saldenliste 2025!r.12",
+  "text": "160000 | Fertigerzeugnisse | Bilanz | 0 | 44100166.96 | 37700166.96 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 12
+ },
+ {
+  "ref": "Saldenliste 2025!r.13",
+  "text": "176000 | Handelsware | Bilanz | 0 | 1580000 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 13
+ },
+ {
+  "ref": "Saldenliste 2025!r.14",
+  "text": "147000 | Vorsteuer | Bilanz | 0 | 8380414.36 | 7505950.38 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 14
+ },
+ {
+  "ref": "Saldenliste 2025!r.15",
+  "text": "230000 | Forderungen aus L.u.L. | Bilanz | 0 | 66567814.8 | 53155271.75 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 15
+ },
+ {
+  "ref": "Saldenliste 2025!r.16",
+  "text": "260000 | Sonstige Vermögensgegenstände | Bilanz | 0 | 0 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 16
+ },
+ {
+  "ref": "Saldenliste 2025!r.17",
+  "text": "271000 | Bank Girokonto Handelsbank | Bilanz | 0 | 54120956.75 | 46702795.21 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 17
+ },
+ {
+  "ref": "Saldenliste 2025!r.18",
+  "text": "272000 | Bank Kontokorrent Musterbank | Bilanz | 0 | 0 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 18
+ },
+ {
+  "ref": "Saldenliste 2025!r.19",
+  "text": "288000 | Kasse | Bilanz | 0 | 0 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 19
+ },
+ {
+  "ref": "Saldenliste 2025!r.20",
+  "text": "300000 | Gezeichnetes Kapital und Rücklagen | Bilanz | 0 | 0 | 36841565 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 20
+ },
+ {
+  "ref": "Saldenliste 2025!r.21",
+  "text": "302000 | Sonstige Rückstellungen | Bilanz | 0 | 0 | 891500 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 21
+ },
+ {
+  "ref": "Saldenliste 2025!r.22",
+  "text": "305000 | Steuerrückstellungen | Bilanz | 0 | 0 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 22
+ },
+ {
+  "ref": "Saldenliste 2025!r.23",
+  "text": "330000 | Verbindlichkeiten aus L.u.L. | Bilanz | 0 | 40233008.36 | 53441863.36 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 23
+ },
+ {
+  "ref": "Saldenliste 2025!r.24",
+  "text": "332000 | Kreditorische Debitoren | Bilanz | 0 | 0 | 691260 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 24
+ },
+ {
+  "ref": "Saldenliste 2025!r.25",
+  "text": "340000 | Verbindlichkeiten Kreditinstitute | Bilanz | 0 | 0 | 1400000 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 25
+ },
+ {
+  "ref": "Saldenliste 2025!r.26",
+  "text": "347200 | Umsatzsteuer | Bilanz | 0 | 8914195.23 | 9694050.8 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 26
+ },
+ {
+  "ref": "Saldenliste 2025!r.27",
+  "text": "360000 | Sonstige Verbindlichkeiten | Bilanz | 0 | 2384252.4 | 2384252.4 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 27
+ },
+ {
+  "ref": "Saldenliste 2025!r.28",
+  "text": "400000 | Umsatzerlöse Inland 19% | GuV | 0 | 18500 | 51021320 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 28
+ },
+ {
+  "ref": "Saldenliste 2025!r.29",
+  "text": "408000 | Umsatzerlöse Export EU 0% | GuV | 0 | 0 | 4438602 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 29
+ },
+ {
+  "ref": "Saldenliste 2025!r.30",
+  "text": "440020 | Umsatzboni und Rückvergütungen | GuV | 0 | 691260 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 30
+ },
+ {
+  "ref": "Saldenliste 2025!r.31",
+  "text": "480000 | Sonstige betriebliche Erträge | GuV | 0 | 0 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 31
+ },
+ {
+  "ref": "Saldenliste 2025!r.32",
+  "text": "500000 | Materialaufwand / Wareneinsatz | GuV | 0 | 37700166.96 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 32
+ },
+ {
+  "ref": "Saldenliste 2025!r.33",
+  "text": "510000 | Bezugsnebenkosten | GuV | 0 | 698229 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 33
+ },
+ {
+  "ref": "Saldenliste 2025!r.34",
+  "text": "600000 | Löhne und Gehälter | GuV | 0 | 4110780 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 34
+ },
+ {
+  "ref": "Saldenliste 2025!r.35",
+  "text": "610000 | Soziale Abgaben | GuV | 0 | 822156 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 35
+ },
+ {
+  "ref": "Saldenliste 2025!r.36",
+  "text": "620000 | Abschreibungen | GuV | 0 | 1670418.24 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 36
+ },
+ {
+  "ref": "Saldenliste 2025!r.37",
+  "text": "670000 | Instandhaltung und Reparaturen | GuV | 0 | 754560 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 37
+ },
+ {
+  "ref": "Saldenliste 2025!r.38",
+  "text": "671000 | Energie | GuV | 0 | 610691 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 38
+ },
+ {
+  "ref": "Saldenliste 2025!r.39",
+  "text": "672000 | Mieten und Leasing | GuV | 0 | 624475 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 39
+ },
+ {
+  "ref": "Saldenliste 2025!r.40",
+  "text": "673000 | Rechts- und Beratungskosten | GuV | 0 | 948809 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 40
+ },
+ {
+  "ref": "Saldenliste 2025!r.41",
+  "text": "674000 | Werbe- und Reisekosten | GuV | 0 | 716885 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 41
+ },
+ {
+  "ref": "Saldenliste 2025!r.42",
+  "text": "675000 | Fuhrpark | GuV | 0 | 739215 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 42
+ },
+ {
+  "ref": "Saldenliste 2025!r.43",
+  "text": "676000 | Versicherungen und Beiträge | GuV | 0 | 601029 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 43
+ },
+ {
+  "ref": "Saldenliste 2025!r.44",
+  "text": "677000 | Sonstiger Betriebsbedarf | GuV | 0 | 1137417 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 44
+ },
+ {
+  "ref": "Saldenliste 2025!r.45",
+  "text": "680000 | Konzernumlage / Verwaltungsleistungen | GuV | 0 | 889445 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 45
+ },
+ {
+  "ref": "Saldenliste 2025!r.46",
+  "text": "700000 | Zinsaufwand | GuV | 0 | 126044 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 46
+ },
+ {
+  "ref": "Saldenliste 2025!r.47",
+  "text": "710000 | Zinsertrag | GuV | 0 | 0 | 0 | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 47
+ },
+ {
+  "ref": "Saldenliste 2025!r.48",
+  "text": " | Summe |  |  |  |  | ",
+  "sheet": "Saldenliste 2025",
+  "startLine": 48
+ }
+]

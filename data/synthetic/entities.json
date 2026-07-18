@@ -1,0 +1,130 @@
+[
+ {
+  "id": "e-1",
+  "names": [
+   "PayFlux GmbH"
+  ],
+  "accountNumbers": [],
+  "ibans": [],
+  "vatIds": [],
+  "addresses": [],
+  "factIds": [
+   "fx-1",
+   "fx-2",
+   "fx-3",
+   "fx-4",
+   "fx-5",
+   "fx-6",
+   "fx-7",
+   "fx-8",
+   "fx-9",
+   "fx-15",
+   "fx-16",
+   "fx-17"
+  ]
+ },
+ {
+  "id": "e-2",
+  "names": [
+   "Nordwind Consulting GmbH",
+   "Nordwind Consulting Ltd."
+  ],
+  "accountNumbers": [],
+  "ibans": [
+   "DE89370400440532013000",
+   "DE44500105175407324931"
+  ],
+  "vatIds": [],
+  "addresses": [],
+  "factIds": [
+   "fx-1",
+   "fx-2",
+   "fx-15",
+   "fx-18"
+  ]
+ },
+ {
+  "id": "e-3",
+  "names": [
+   "TechServe Solutions GmbH"
+  ],
+  "accountNumbers": [],
+  "ibans": [
+   "DE75512108001245126199",
+   "DE02120300000000202051"
+  ],
+  "vatIds": [],
+  "addresses": [],
+  "factIds": [
+   "fx-3",
+   "fx-16",
+   "fx-19",
+   "fx-21"
+  ]
+ },
+ {
+  "id": "e-4",
+  "names": [
+   "Baltic Media UG"
+  ],
+  "accountNumbers": [],
+  "ibans": [
+   "DE21301204000000015228"
+  ],
+  "vatIds": [],
+  "addresses": [],
+  "factIds": [
+   "fx-4",
+   "fx-17"
+  ]
+ },
+ {
+  "id": "e-5",
+  "names": [
+   "Aurora Ventures GmbH"
+  ],
+  "accountNumbers": [],
+  "ibans": [
+   "DE68210501700012345678"
+  ],
+  "vatIds": [],
+  "addresses": [],
+  "factIds": [
+   "fx-5",
+   "fx-10",
+   "fx-20"
+  ]
+ },
+ {
+  "id": "e-6",
+  "names": [
+   "Meridian Holding AG"
+  ],
+  "accountNumbers": [],
+  "ibans": [],
+  "vatIds": [],
+  "addresses": [],
+  "factIds": [
+   "fx-6",
+   "fx-10"
+  ]
+ },
+ {
+  "id": "e-7",
+  "names": [
+   "Druckerei Held GmbH"
+  ],
+  "accountNumbers": [],
+  "ibans": [
+   "DE12500105170648489890"
+  ],
+  "vatIds": [],
+  "addresses": [],
+  "factIds": [
+   "fx-7",
+   "fx-8",
+   "fx-9",
+   "fx-23"
+  ]
+ }
+]

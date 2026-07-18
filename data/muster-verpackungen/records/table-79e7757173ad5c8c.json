@@ -1,0 +1,1922 @@
+[
+ {
+  "rowNumber": 4,
+  "raw": "100012 | ATLAS FORMTEILE SE | AR501457 | 10.09.2025 | 59660.65",
+  "values": {
+   "Konto": "100012",
+   "Name": "ATLAS FORMTEILE SE",
+   "Belegnummer": "AR501457",
+   "Belegdatum": "10.09.2025",
+   "Betrag EUR": "59660.65"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.4",
+   "quote": "100012 | ATLAS FORMTEILE SE | AR501457 | 10.09.2025 | 59660.65"
+  }
+ },
+ {
+  "rowNumber": 5,
+  "raw": "100109 | SOLUM KARTON GMBH & CO. KG | AR501518 | 17.09.2025 | 15146.32",
+  "values": {
+   "Konto": "100109",
+   "Name": "SOLUM KARTON GMBH & CO. KG",
+   "Belegnummer": "AR501518",
+   "Belegdatum": "17.09.2025",
+   "Betrag EUR": "15146.32"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.5",
+   "quote": "100109 | SOLUM KARTON GMBH & CO. KG | AR501518 | 17.09.2025 | 15146.32"
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "100092 | SATURN ETIKETTEN GMBH | AR501570 | 16.10.2025 | 40990.74",
+  "values": {
+   "Konto": "100092",
+   "Name": "SATURN ETIKETTEN GMBH",
+   "Belegnummer": "AR501570",
+   "Belegdatum": "16.10.2025",
+   "Betrag EUR": "40990.74"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.6",
+   "quote": "100092 | SATURN ETIKETTEN GMBH | AR501570 | 16.10.2025 | 40990.74"
+  }
+ },
+ {
+  "rowNumber": 7,
+  "raw": "100022 | WEST INDUSTRIEBEDARF GMBH | AR501680 | 05.10.2025 | 19200.65",
+  "values": {
+   "Konto": "100022",
+   "Name": "WEST INDUSTRIEBEDARF GMBH",
+   "Belegnummer": "AR501680",
+   "Belegdatum": "05.10.2025",
+   "Betrag EUR": "19200.65"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.7",
+   "quote": "100022 | WEST INDUSTRIEBEDARF GMBH | AR501680 | 05.10.2025 | 19200.65"
+  }
+ },
+ {
+  "rowNumber": 8,
+  "raw": "100154 | CIVES WERKSTOFFE E.K. | AR501682 | 25.10.2025 | 53353.65",
+  "values": {
+   "Konto": "100154",
+   "Name": "CIVES WERKSTOFFE E.K.",
+   "Belegnummer": "AR501682",
+   "Belegdatum": "25.10.2025",
+   "Betrag EUR": "53353.65"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.8",
+   "quote": "100154 | CIVES WERKSTOFFE E.K. | AR501682 | 25.10.2025 | 53353.65"
+  }
+ },
+ {
+  "rowNumber": 9,
+  "raw": "100093 | TERRA RECYCLING GMBH | AR501701 | 16.11.2025 | 44317.98",
+  "values": {
+   "Konto": "100093",
+   "Name": "TERRA RECYCLING GMBH",
+   "Belegnummer": "AR501701",
+   "Belegdatum": "16.11.2025",
+   "Betrag EUR": "44317.98"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.9",
+   "quote": "100093 | TERRA RECYCLING GMBH | AR501701 | 16.11.2025 | 44317.98"
+  }
+ },
+ {
+  "rowNumber": 10,
+  "raw": "100094 | SATURN FORMTEILE SE | AR501704 | 19.11.2025 | 1606.5",
+  "values": {
+   "Konto": "100094",
+   "Name": "SATURN FORMTEILE SE",
+   "Belegnummer": "AR501704",
+   "Belegdatum": "19.11.2025",
+   "Betrag EUR": "1606.5"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.10",
+   "quote": "100094 | SATURN FORMTEILE SE | AR501704 | 19.11.2025 | 1606.5"
+  }
+ },
+ {
+  "rowNumber": 11,
+  "raw": "100146 | ORION KARTON GMBH | AR501711 | 18.11.2025 | 52939.53",
+  "values": {
+   "Konto": "100146",
+   "Name": "ORION KARTON GMBH",
+   "Belegnummer": "AR501711",
+   "Belegdatum": "18.11.2025",
+   "Betrag EUR": "52939.53"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.11",
+   "quote": "100146 | ORION KARTON GMBH | AR501711 | 18.11.2025 | 52939.53"
+  }
+ },
+ {
+  "rowNumber": 12,
+  "raw": "100034 | BOREAS PAPIER GMBH | AR501717 | 02.11.2025 | 27663.93",
+  "values": {
+   "Konto": "100034",
+   "Name": "BOREAS PAPIER GMBH",
+   "Belegnummer": "AR501717",
+   "Belegdatum": "02.11.2025",
+   "Betrag EUR": "27663.93"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.12",
+   "quote": "100034 | BOREAS PAPIER GMBH | AR501717 | 02.11.2025 | 27663.93"
+  }
+ },
+ {
+  "rowNumber": 13,
+  "raw": "100001 | FOKUS KUNSTSTOFF GMBH | AR501718 | 22.11.2025 | 58478.98",
+  "values": {
+   "Konto": "100001",
+   "Name": "FOKUS KUNSTSTOFF GMBH",
+   "Belegnummer": "AR501718",
+   "Belegdatum": "22.11.2025",
+   "Betrag EUR": "58478.98"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.13",
+   "quote": "100001 | FOKUS KUNSTSTOFF GMBH | AR501718 | 22.11.2025 | 58478.98"
+  }
+ },
+ {
+  "rowNumber": 14,
+  "raw": "100059 | FOKUS RECYCLING GMBH & CO. KG | AR501725 | 26.11.2025 | 30818.62",
+  "values": {
+   "Konto": "100059",
+   "Name": "FOKUS RECYCLING GMBH & CO. KG",
+   "Belegnummer": "AR501725",
+   "Belegdatum": "26.11.2025",
+   "Betrag EUR": "30818.62"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.14",
+   "quote": "100059 | FOKUS RECYCLING GMBH & CO. KG | AR501725 | 26.11.2025 | 30818.62"
+  }
+ },
+ {
+  "rowNumber": 15,
+  "raw": "100089 | LUPUS RECYCLING GMBH | AR501733 | 20.11.2025 | 3348.66",
+  "values": {
+   "Konto": "100089",
+   "Name": "LUPUS RECYCLING GMBH",
+   "Belegnummer": "AR501733",
+   "Belegdatum": "20.11.2025",
+   "Betrag EUR": "3348.66"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.15",
+   "quote": "100089 | LUPUS RECYCLING GMBH | AR501733 | 20.11.2025 | 3348.66"
+  }
+ },
+ {
+  "rowNumber": 16,
+  "raw": "100026 | IRIS KUNSTSTOFF E.K. | AR501738 | 28.11.2025 | 8782.2",
+  "values": {
+   "Konto": "100026",
+   "Name": "IRIS KUNSTSTOFF E.K.",
+   "Belegnummer": "AR501738",
+   "Belegdatum": "28.11.2025",
+   "Betrag EUR": "8782.2"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.16",
+   "quote": "100026 | IRIS KUNSTSTOFF E.K. | AR501738 | 28.11.2025 | 8782.2"
+  }
+ },
+ {
+  "rowNumber": 17,
+  "raw": "100153 | KRONOS INDUSTRIEBEDARF E.K. | AR501755 | 30.11.2025 | 16065",
+  "values": {
+   "Konto": "100153",
+   "Name": "KRONOS INDUSTRIEBEDARF E.K.",
+   "Belegnummer": "AR501755",
+   "Belegdatum": "30.11.2025",
+   "Betrag EUR": "16065"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.17",
+   "quote": "100153 | KRONOS INDUSTRIEBEDARF E.K. | AR501755 | 30.11.2025 | 16065"
+  }
+ },
+ {
+  "rowNumber": 18,
+  "raw": "100103 | IRIS MASCHINEN AG | AR501776 | 16.11.2025 | 6574.75",
+  "values": {
+   "Konto": "100103",
+   "Name": "IRIS MASCHINEN AG",
+   "Belegnummer": "AR501776",
+   "Belegdatum": "16.11.2025",
+   "Betrag EUR": "6574.75"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.18",
+   "quote": "100103 | IRIS MASCHINEN AG | AR501776 | 16.11.2025 | 6574.75"
+  }
+ },
+ {
+  "rowNumber": 19,
+  "raw": "100039 | IRIS TECHNIK GMBH | AR501800 | 27.11.2025 | 7038.85",
+  "values": {
+   "Konto": "100039",
+   "Name": "IRIS TECHNIK GMBH",
+   "Belegnummer": "AR501800",
+   "Belegdatum": "27.11.2025",
+   "Betrag EUR": "7038.85"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.19",
+   "quote": "100039 | IRIS TECHNIK GMBH | AR501800 | 27.11.2025 | 7038.85"
+  }
+ },
+ {
+  "rowNumber": 20,
+  "raw": "100041 | PRISMA HANDEL E.K. | AR501804 | 20.11.2025 | 9596.16",
+  "values": {
+   "Konto": "100041",
+   "Name": "PRISMA HANDEL E.K.",
+   "Belegnummer": "AR501804",
+   "Belegdatum": "20.11.2025",
+   "Betrag EUR": "9596.16"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.20",
+   "quote": "100041 | PRISMA HANDEL E.K. | AR501804 | 20.11.2025 | 9596.16"
+  }
+ },
+ {
+  "rowNumber": 21,
+  "raw": "100058 | VEGA ETIKETTEN GMBH & CO. KG | AR501815 | 15.11.2025 | 28763.49",
+  "values": {
+   "Konto": "100058",
+   "Name": "VEGA ETIKETTEN GMBH & CO. KG",
+   "Belegnummer": "AR501815",
+   "Belegdatum": "15.11.2025",
+   "Betrag EUR": "28763.49"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.21",
+   "quote": "100058 | VEGA ETIKETTEN GMBH & CO. KG | AR501815 | 15.11.2025 | 28763.49"
+  }
+ },
+ {
+  "rowNumber": 22,
+  "raw": "100063 | MERKUR DRUCK SE | AR501821 | 23.11.2025 | 1026.97",
+  "values": {
+   "Konto": "100063",
+   "Name": "MERKUR DRUCK SE",
+   "Belegnummer": "AR501821",
+   "Belegdatum": "23.11.2025",
+   "Betrag EUR": "1026.97"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.22",
+   "quote": "100063 | MERKUR DRUCK SE | AR501821 | 23.11.2025 | 1026.97"
+  }
+ },
+ {
+  "rowNumber": 23,
+  "raw": "100043 | DELTA BESCHICHTUNG GMBH & CO. KG | AR501824 | 03.11.2025 | 34581.4",
+  "values": {
+   "Konto": "100043",
+   "Name": "DELTA BESCHICHTUNG GMBH & CO. KG",
+   "Belegnummer": "AR501824",
+   "Belegdatum": "03.11.2025",
+   "Betrag EUR": "34581.4"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.23",
+   "quote": "100043 | DELTA BESCHICHTUNG GMBH & CO. KG | AR501824 | 03.11.2025 | 34581.4"
+  }
+ },
+ {
+  "rowNumber": 24,
+  "raw": "100018 | SOLUM RECYCLING AG | AR501825 | 28.11.2025 | 4136.44",
+  "values": {
+   "Konto": "100018",
+   "Name": "SOLUM RECYCLING AG",
+   "Belegnummer": "AR501825",
+   "Belegdatum": "28.11.2025",
+   "Betrag EUR": "4136.44"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.24",
+   "quote": "100018 | SOLUM RECYCLING AG | AR501825 | 28.11.2025 | 4136.44"
+  }
+ },
+ {
+  "rowNumber": 25,
+  "raw": "100154 | CIVES WERKSTOFFE E.K. | AR501829 | 07.11.2025 | 47081.16",
+  "values": {
+   "Konto": "100154",
+   "Name": "CIVES WERKSTOFFE E.K.",
+   "Belegnummer": "AR501829",
+   "Belegdatum": "07.11.2025",
+   "Betrag EUR": "47081.16"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.25",
+   "quote": "100154 | CIVES WERKSTOFFE E.K. | AR501829 | 07.11.2025 | 47081.16"
+  }
+ },
+ {
+  "rowNumber": 26,
+  "raw": "100007 | RATIO LOGISTIK GMBH | AR501832 | 16.11.2025 | 15811.53",
+  "values": {
+   "Konto": "100007",
+   "Name": "RATIO LOGISTIK GMBH",
+   "Belegnummer": "AR501832",
+   "Belegdatum": "16.11.2025",
+   "Betrag EUR": "15811.53"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.26",
+   "quote": "100007 | RATIO LOGISTIK GMBH | AR501832 | 16.11.2025 | 15811.53"
+  }
+ },
+ {
+  "rowNumber": 27,
+  "raw": "100013 | NOVA FORMTEILE GMBH | AR501854 | 19.11.2025 | 60694.76",
+  "values": {
+   "Konto": "100013",
+   "Name": "NOVA FORMTEILE GMBH",
+   "Belegnummer": "AR501854",
+   "Belegdatum": "19.11.2025",
+   "Betrag EUR": "60694.76"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.27",
+   "quote": "100013 | NOVA FORMTEILE GMBH | AR501854 | 19.11.2025 | 60694.76"
+  }
+ },
+ {
+  "rowNumber": 28,
+  "raw": "100024 | KRANICH HANDEL GMBH | AR501855 | 11.11.2025 | 8507.31",
+  "values": {
+   "Konto": "100024",
+   "Name": "KRANICH HANDEL GMBH",
+   "Belegnummer": "AR501855",
+   "Belegdatum": "11.11.2025",
+   "Betrag EUR": "8507.31"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.28",
+   "quote": "100024 | KRANICH HANDEL GMBH | AR501855 | 11.11.2025 | 8507.31"
+  }
+ },
+ {
+  "rowNumber": 29,
+  "raw": "100084 | FOKUS LOGISTIK AG | AR501868 | 21.11.2025 | 50021.65",
+  "values": {
+   "Konto": "100084",
+   "Name": "FOKUS LOGISTIK AG",
+   "Belegnummer": "AR501868",
+   "Belegdatum": "21.11.2025",
+   "Betrag EUR": "50021.65"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.29",
+   "quote": "100084 | FOKUS LOGISTIK AG | AR501868 | 21.11.2025 | 50021.65"
+  }
+ },
+ {
+  "rowNumber": 30,
+  "raw": "100144 | WEST CHEMIE SE | AR501870 | 26.12.2025 | 61775.28",
+  "values": {
+   "Konto": "100144",
+   "Name": "WEST CHEMIE SE",
+   "Belegnummer": "AR501870",
+   "Belegdatum": "26.12.2025",
+   "Betrag EUR": "61775.28"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.30",
+   "quote": "100144 | WEST CHEMIE SE | AR501870 | 26.12.2025 | 61775.28"
+  }
+ },
+ {
+  "rowNumber": 31,
+  "raw": "100088 | NOVA BESCHICHTUNG GMBH | AR501873 | 15.12.2025 | 61299.28",
+  "values": {
+   "Konto": "100088",
+   "Name": "NOVA BESCHICHTUNG GMBH",
+   "Belegnummer": "AR501873",
+   "Belegdatum": "15.12.2025",
+   "Betrag EUR": "61299.28"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.31",
+   "quote": "100088 | NOVA BESCHICHTUNG GMBH | AR501873 | 15.12.2025 | 61299.28"
+  }
+ },
+ {
+  "rowNumber": 32,
+  "raw": "100098 | PACTUM FOLIEN AG | AR501874 | 13.12.2025 | 52593.24",
+  "values": {
+   "Konto": "100098",
+   "Name": "PACTUM FOLIEN AG",
+   "Belegnummer": "AR501874",
+   "Belegdatum": "13.12.2025",
+   "Betrag EUR": "52593.24"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.32",
+   "quote": "100098 | PACTUM FOLIEN AG | AR501874 | 13.12.2025 | 52593.24"
+  }
+ },
+ {
+  "rowNumber": 33,
+  "raw": "100054 | CIVES ETIKETTEN SE | AR501875 | 13.12.2025 | 44891.56",
+  "values": {
+   "Konto": "100054",
+   "Name": "CIVES ETIKETTEN SE",
+   "Belegnummer": "AR501875",
+   "Belegdatum": "13.12.2025",
+   "Betrag EUR": "44891.56"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.33",
+   "quote": "100054 | CIVES ETIKETTEN SE | AR501875 | 13.12.2025 | 44891.56"
+  }
+ },
+ {
+  "rowNumber": 34,
+  "raw": "100011 | BOREAS BESCHICHTUNG E.K. | AR501876 | 11.12.2025 | 27810.3",
+  "values": {
+   "Konto": "100011",
+   "Name": "BOREAS BESCHICHTUNG E.K.",
+   "Belegnummer": "AR501876",
+   "Belegdatum": "11.12.2025",
+   "Betrag EUR": "27810.3"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.34",
+   "quote": "100011 | BOREAS BESCHICHTUNG E.K. | AR501876 | 11.12.2025 | 27810.3"
+  }
+ },
+ {
+  "rowNumber": 35,
+  "raw": "100099 | VEGA CHEMIE KG | AR501877 | 06.12.2025 | 2999",
+  "values": {
+   "Konto": "100099",
+   "Name": "VEGA CHEMIE KG",
+   "Belegnummer": "AR501877",
+   "Belegdatum": "06.12.2025",
+   "Betrag EUR": "2999"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.35",
+   "quote": "100099 | VEGA CHEMIE KG | AR501877 | 06.12.2025 | 2999"
+  }
+ },
+ {
+  "rowNumber": 36,
+  "raw": "100075 | FALKE ETIKETTEN E.K. | AR501879 | 23.12.2025 | 5486",
+  "values": {
+   "Konto": "100075",
+   "Name": "FALKE ETIKETTEN E.K.",
+   "Belegnummer": "AR501879",
+   "Belegdatum": "23.12.2025",
+   "Betrag EUR": "5486"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.36",
+   "quote": "100075 | FALKE ETIKETTEN E.K. | AR501879 | 23.12.2025 | 5486"
+  }
+ },
+ {
+  "rowNumber": 37,
+  "raw": "100158 | WEST SYSTEME AG | AR501881 | 30.12.2025 | 33399.73",
+  "values": {
+   "Konto": "100158",
+   "Name": "WEST SYSTEME AG",
+   "Belegnummer": "AR501881",
+   "Belegdatum": "30.12.2025",
+   "Betrag EUR": "33399.73"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.37",
+   "quote": "100158 | WEST SYSTEME AG | AR501881 | 30.12.2025 | 33399.73"
+  }
+ },
+ {
+  "rowNumber": 38,
+  "raw": "100073 | KRANICH MASCHINEN AG | AR501882 | 22.12.2025 | 3320.1",
+  "values": {
+   "Konto": "100073",
+   "Name": "KRANICH MASCHINEN AG",
+   "Belegnummer": "AR501882",
+   "Belegdatum": "22.12.2025",
+   "Betrag EUR": "3320.1"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.38",
+   "quote": "100073 | KRANICH MASCHINEN AG | AR501882 | 22.12.2025 | 3320.1"
+  }
+ },
+ {
+  "rowNumber": 39,
+  "raw": "100067 | NOVA DRUCK GMBH | AR501883 | 14.12.2025 | 28795.62",
+  "values": {
+   "Konto": "100067",
+   "Name": "NOVA DRUCK GMBH",
+   "Belegnummer": "AR501883",
+   "Belegdatum": "14.12.2025",
+   "Betrag EUR": "28795.62"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.39",
+   "quote": "100067 | NOVA DRUCK GMBH | AR501883 | 14.12.2025 | 28795.62"
+  }
+ },
+ {
+  "rowNumber": 40,
+  "raw": "100054 | CIVES ETIKETTEN SE | AR501884 | 21.12.2025 | 8340.71",
+  "values": {
+   "Konto": "100054",
+   "Name": "CIVES ETIKETTEN SE",
+   "Belegnummer": "AR501884",
+   "Belegdatum": "21.12.2025",
+   "Betrag EUR": "8340.71"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.40",
+   "quote": "100054 | CIVES ETIKETTEN SE | AR501884 | 21.12.2025 | 8340.71"
+  }
+ },
+ {
+  "rowNumber": 41,
+  "raw": "100068 | VEGA ETIKETTEN KG | AR501885 | 18.12.2025 | 14454.93",
+  "values": {
+   "Konto": "100068",
+   "Name": "VEGA ETIKETTEN KG",
+   "Belegnummer": "AR501885",
+   "Belegdatum": "18.12.2025",
+   "Betrag EUR": "14454.93"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.41",
+   "quote": "100068 | VEGA ETIKETTEN KG | AR501885 | 18.12.2025 | 14454.93"
+  }
+ },
+ {
+  "rowNumber": 42,
+  "raw": "100081 | ADLER RECYCLING GMBH | AR501886 | 10.12.2025 | 63787.57",
+  "values": {
+   "Konto": "100081",
+   "Name": "ADLER RECYCLING GMBH",
+   "Belegnummer": "AR501886",
+   "Belegdatum": "10.12.2025",
+   "Betrag EUR": "63787.57"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.42",
+   "quote": "100081 | ADLER RECYCLING GMBH | AR501886 | 10.12.2025 | 63787.57"
+  }
+ },
+ {
+  "rowNumber": 43,
+  "raw": "100082 | NORD PAPIER KG | AR501887 | 20.12.2025 | 30629.41",
+  "values": {
+   "Konto": "100082",
+   "Name": "NORD PAPIER KG",
+   "Belegnummer": "AR501887",
+   "Belegdatum": "20.12.2025",
+   "Betrag EUR": "30629.41"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.43",
+   "quote": "100082 | NORD PAPIER KG | AR501887 | 20.12.2025 | 30629.41"
+  }
+ },
+ {
+  "rowNumber": 44,
+  "raw": "100045 | HELIOS DRUCK GMBH | AR501888 | 17.12.2025 | 5434.73",
+  "values": {
+   "Konto": "100045",
+   "Name": "HELIOS DRUCK GMBH",
+   "Belegnummer": "AR501888",
+   "Belegdatum": "17.12.2025",
+   "Betrag EUR": "5434.73"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.44",
+   "quote": "100045 | HELIOS DRUCK GMBH | AR501888 | 17.12.2025 | 5434.73"
+  }
+ },
+ {
+  "rowNumber": 45,
+  "raw": "100159 | MERKUR DRUCK AG | AR501889 | 08.12.2025 | 17387.09",
+  "values": {
+   "Konto": "100159",
+   "Name": "MERKUR DRUCK AG",
+   "Belegnummer": "AR501889",
+   "Belegdatum": "08.12.2025",
+   "Betrag EUR": "17387.09"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.45",
+   "quote": "100159 | MERKUR DRUCK AG | AR501889 | 08.12.2025 | 17387.09"
+  }
+ },
+ {
+  "rowNumber": 46,
+  "raw": "100048 | ATLAS ETIKETTEN GMBH & CO. KG | AR501890 | 15.12.2025 | 8583.47",
+  "values": {
+   "Konto": "100048",
+   "Name": "ATLAS ETIKETTEN GMBH & CO. KG",
+   "Belegnummer": "AR501890",
+   "Belegdatum": "15.12.2025",
+   "Betrag EUR": "8583.47"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.46",
+   "quote": "100048 | ATLAS ETIKETTEN GMBH & CO. KG | AR501890 | 15.12.2025 | 8583.47"
+  }
+ },
+ {
+  "rowNumber": 47,
+  "raw": "100087 | SOLUM VERPACKUNG GMBH | AR501891 | 19.12.2025 | 59797.5",
+  "values": {
+   "Konto": "100087",
+   "Name": "SOLUM VERPACKUNG GMBH",
+   "Belegnummer": "AR501891",
+   "Belegdatum": "19.12.2025",
+   "Betrag EUR": "59797.5"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.47",
+   "quote": "100087 | SOLUM VERPACKUNG GMBH | AR501891 | 19.12.2025 | 59797.5"
+  }
+ },
+ {
+  "rowNumber": 48,
+  "raw": "100112 | WEST CHEMIE GMBH & CO. KG | AR501893 | 22.12.2025 | 21370",
+  "values": {
+   "Konto": "100112",
+   "Name": "WEST CHEMIE GMBH & CO. KG",
+   "Belegnummer": "AR501893",
+   "Belegdatum": "22.12.2025",
+   "Betrag EUR": "21370"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.48",
+   "quote": "100112 | WEST CHEMIE GMBH & CO. KG | AR501893 | 22.12.2025 | 21370"
+  }
+ },
+ {
+  "rowNumber": 49,
+  "raw": "100117 | ATLAS HANDEL E.K. | AR501894 | 22.12.2025 | 42699.58",
+  "values": {
+   "Konto": "100117",
+   "Name": "ATLAS HANDEL E.K.",
+   "Belegnummer": "AR501894",
+   "Belegdatum": "22.12.2025",
+   "Betrag EUR": "42699.58"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.49",
+   "quote": "100117 | ATLAS HANDEL E.K. | AR501894 | 22.12.2025 | 42699.58"
+  }
+ },
+ {
+  "rowNumber": 50,
+  "raw": "100087 | SOLUM VERPACKUNG GMBH | AR501895 | 11.12.2025 | 43500.45",
+  "values": {
+   "Konto": "100087",
+   "Name": "SOLUM VERPACKUNG GMBH",
+   "Belegnummer": "AR501895",
+   "Belegdatum": "11.12.2025",
+   "Betrag EUR": "43500.45"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.50",
+   "quote": "100087 | SOLUM VERPACKUNG GMBH | AR501895 | 11.12.2025 | 43500.45"
+  }
+ },
+ {
+  "rowNumber": 51,
+  "raw": "100085 | WEST LOGISTIK GMBH | AR501896 | 13.12.2025 | 7589.82",
+  "values": {
+   "Konto": "100085",
+   "Name": "WEST LOGISTIK GMBH",
+   "Belegnummer": "AR501896",
+   "Belegdatum": "13.12.2025",
+   "Betrag EUR": "7589.82"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.51",
+   "quote": "100085 | WEST LOGISTIK GMBH | AR501896 | 13.12.2025 | 7589.82"
+  }
+ },
+ {
+  "rowNumber": 52,
+  "raw": "100131 | WEST FORMTEILE GMBH | AR501897 | 12.12.2025 | 6537.86",
+  "values": {
+   "Konto": "100131",
+   "Name": "WEST FORMTEILE GMBH",
+   "Belegnummer": "AR501897",
+   "Belegdatum": "12.12.2025",
+   "Betrag EUR": "6537.86"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.52",
+   "quote": "100131 | WEST FORMTEILE GMBH | AR501897 | 12.12.2025 | 6537.86"
+  }
+ },
+ {
+  "rowNumber": 53,
+  "raw": "100105 | WEST SYSTEME GMBH & CO. KG | AR501898 | 07.12.2025 | 1549.38",
+  "values": {
+   "Konto": "100105",
+   "Name": "WEST SYSTEME GMBH & CO. KG",
+   "Belegnummer": "AR501898",
+   "Belegdatum": "07.12.2025",
+   "Betrag EUR": "1549.38"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.53",
+   "quote": "100105 | WEST SYSTEME GMBH & CO. KG | AR501898 | 07.12.2025 | 1549.38"
+  }
+ },
+ {
+  "rowNumber": 54,
+  "raw": "100154 | CIVES WERKSTOFFE E.K. | AR501900 | 04.12.2025 | 38694.04",
+  "values": {
+   "Konto": "100154",
+   "Name": "CIVES WERKSTOFFE E.K.",
+   "Belegnummer": "AR501900",
+   "Belegdatum": "04.12.2025",
+   "Betrag EUR": "38694.04"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.54",
+   "quote": "100154 | CIVES WERKSTOFFE E.K. | AR501900 | 04.12.2025 | 38694.04"
+  }
+ },
+ {
+  "rowNumber": 55,
+  "raw": "100134 | SOLUM TRANSPORT E.K. | AR501901 | 29.12.2025 | 12580.68",
+  "values": {
+   "Konto": "100134",
+   "Name": "SOLUM TRANSPORT E.K.",
+   "Belegnummer": "AR501901",
+   "Belegdatum": "29.12.2025",
+   "Betrag EUR": "12580.68"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.55",
+   "quote": "100134 | SOLUM TRANSPORT E.K. | AR501901 | 29.12.2025 | 12580.68"
+  }
+ },
+ {
+  "rowNumber": 56,
+  "raw": "100063 | MERKUR DRUCK SE | AR501902 | 09.12.2025 | 2340.73",
+  "values": {
+   "Konto": "100063",
+   "Name": "MERKUR DRUCK SE",
+   "Belegnummer": "AR501902",
+   "Belegdatum": "09.12.2025",
+   "Betrag EUR": "2340.73"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.56",
+   "quote": "100063 | MERKUR DRUCK SE | AR501902 | 09.12.2025 | 2340.73"
+  }
+ },
+ {
+  "rowNumber": 57,
+  "raw": "100145 | ATLAS RECYCLING SE | AR501903 | 09.12.2025 | 2045.61",
+  "values": {
+   "Konto": "100145",
+   "Name": "ATLAS RECYCLING SE",
+   "Belegnummer": "AR501903",
+   "Belegdatum": "09.12.2025",
+   "Betrag EUR": "2045.61"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.57",
+   "quote": "100145 | ATLAS RECYCLING SE | AR501903 | 09.12.2025 | 2045.61"
+  }
+ },
+ {
+  "rowNumber": 58,
+  "raw": "100115 | BOREAS KUNSTSTOFF KG | AR501904 | 18.12.2025 | 15239.14",
+  "values": {
+   "Konto": "100115",
+   "Name": "BOREAS KUNSTSTOFF KG",
+   "Belegnummer": "AR501904",
+   "Belegdatum": "18.12.2025",
+   "Betrag EUR": "15239.14"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.58",
+   "quote": "100115 | BOREAS KUNSTSTOFF KG | AR501904 | 18.12.2025 | 15239.14"
+  }
+ },
+ {
+  "rowNumber": 59,
+  "raw": "100113 | MERKUR RECYCLING E.K. | AR501905 | 18.12.2025 | 8188.39",
+  "values": {
+   "Konto": "100113",
+   "Name": "MERKUR RECYCLING E.K.",
+   "Belegnummer": "AR501905",
+   "Belegdatum": "18.12.2025",
+   "Betrag EUR": "8188.39"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.59",
+   "quote": "100113 | MERKUR RECYCLING E.K. | AR501905 | 18.12.2025 | 8188.39"
+  }
+ },
+ {
+  "rowNumber": 60,
+  "raw": "100024 | KRANICH HANDEL GMBH | AR501906 | 27.12.2025 | 59941.49",
+  "values": {
+   "Konto": "100024",
+   "Name": "KRANICH HANDEL GMBH",
+   "Belegnummer": "AR501906",
+   "Belegdatum": "27.12.2025",
+   "Betrag EUR": "59941.49"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.60",
+   "quote": "100024 | KRANICH HANDEL GMBH | AR501906 | 27.12.2025 | 59941.49"
+  }
+ },
+ {
+  "rowNumber": 61,
+  "raw": "100029 | PRISMA WERKSTOFFE SE | AR501907 | 07.12.2025 | 3578.33",
+  "values": {
+   "Konto": "100029",
+   "Name": "PRISMA WERKSTOFFE SE",
+   "Belegnummer": "AR501907",
+   "Belegdatum": "07.12.2025",
+   "Betrag EUR": "3578.33"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.61",
+   "quote": "100029 | PRISMA WERKSTOFFE SE | AR501907 | 07.12.2025 | 3578.33"
+  }
+ },
+ {
+  "rowNumber": 62,
+  "raw": "100137 | PRISMA DISTRIBUTION GMBH | AR501908 | 26.12.2025 | 26673.85",
+  "values": {
+   "Konto": "100137",
+   "Name": "PRISMA DISTRIBUTION GMBH",
+   "Belegnummer": "AR501908",
+   "Belegdatum": "26.12.2025",
+   "Betrag EUR": "26673.85"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.62",
+   "quote": "100137 | PRISMA DISTRIBUTION GMBH | AR501908 | 26.12.2025 | 26673.85"
+  }
+ },
+ {
+  "rowNumber": 63,
+  "raw": "100022 | WEST INDUSTRIEBEDARF GMBH | AR501909 | 31.12.2025 | 29313.27",
+  "values": {
+   "Konto": "100022",
+   "Name": "WEST INDUSTRIEBEDARF GMBH",
+   "Belegnummer": "AR501909",
+   "Belegdatum": "31.12.2025",
+   "Betrag EUR": "29313.27"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.63",
+   "quote": "100022 | WEST INDUSTRIEBEDARF GMBH | AR501909 | 31.12.2025 | 29313.27"
+  }
+ },
+ {
+  "rowNumber": 64,
+  "raw": "100047 | ADLER KARTON KG | AR501910 | 28.12.2025 | 52469.48",
+  "values": {
+   "Konto": "100047",
+   "Name": "ADLER KARTON KG",
+   "Belegnummer": "AR501910",
+   "Belegdatum": "28.12.2025",
+   "Betrag EUR": "52469.48"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.64",
+   "quote": "100047 | ADLER KARTON KG | AR501910 | 28.12.2025 | 52469.48"
+  }
+ },
+ {
+  "rowNumber": 65,
+  "raw": "100078 | FALKE SYSTEME GMBH | AR501911 | 08.12.2025 | 1729.07",
+  "values": {
+   "Konto": "100078",
+   "Name": "FALKE SYSTEME GMBH",
+   "Belegnummer": "AR501911",
+   "Belegdatum": "08.12.2025",
+   "Betrag EUR": "1729.07"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.65",
+   "quote": "100078 | FALKE SYSTEME GMBH | AR501911 | 08.12.2025 | 1729.07"
+  }
+ },
+ {
+  "rowNumber": 66,
+  "raw": "100068 | VEGA ETIKETTEN KG | AR501912 | 14.12.2025 | 54200.93",
+  "values": {
+   "Konto": "100068",
+   "Name": "VEGA ETIKETTEN KG",
+   "Belegnummer": "AR501912",
+   "Belegdatum": "14.12.2025",
+   "Betrag EUR": "54200.93"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.66",
+   "quote": "100068 | VEGA ETIKETTEN KG | AR501912 | 14.12.2025 | 54200.93"
+  }
+ },
+ {
+  "rowNumber": 67,
+  "raw": "100119 | TITAN WERKSTOFFE GMBH & CO. KG | AR501913 | 10.12.2025 | 5590.62",
+  "values": {
+   "Konto": "100119",
+   "Name": "TITAN WERKSTOFFE GMBH & CO. KG",
+   "Belegnummer": "AR501913",
+   "Belegdatum": "10.12.2025",
+   "Betrag EUR": "5590.62"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.67",
+   "quote": "100119 | TITAN WERKSTOFFE GMBH & CO. KG | AR501913 | 10.12.2025 | 5590.62"
+  }
+ },
+ {
+  "rowNumber": 68,
+  "raw": "100130 | TITAN DISTRIBUTION GMBH | AR501916 | 04.12.2025 | 54058.13",
+  "values": {
+   "Konto": "100130",
+   "Name": "TITAN DISTRIBUTION GMBH",
+   "Belegnummer": "AR501916",
+   "Belegdatum": "04.12.2025",
+   "Betrag EUR": "54058.13"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.68",
+   "quote": "100130 | TITAN DISTRIBUTION GMBH | AR501916 | 04.12.2025 | 54058.13"
+  }
+ },
+ {
+  "rowNumber": 69,
+  "raw": "100093 | TERRA RECYCLING GMBH | AR501917 | 31.12.2025 | 30141.51",
+  "values": {
+   "Konto": "100093",
+   "Name": "TERRA RECYCLING GMBH",
+   "Belegnummer": "AR501917",
+   "Belegdatum": "31.12.2025",
+   "Betrag EUR": "30141.51"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.69",
+   "quote": "100093 | TERRA RECYCLING GMBH | AR501917 | 31.12.2025 | 30141.51"
+  }
+ },
+ {
+  "rowNumber": 70,
+  "raw": "100153 | KRONOS INDUSTRIEBEDARF E.K. | AR501918 | 08.12.2025 | 31398.15",
+  "values": {
+   "Konto": "100153",
+   "Name": "KRONOS INDUSTRIEBEDARF E.K.",
+   "Belegnummer": "AR501918",
+   "Belegdatum": "08.12.2025",
+   "Betrag EUR": "31398.15"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.70",
+   "quote": "100153 | KRONOS INDUSTRIEBEDARF E.K. | AR501918 | 08.12.2025 | 31398.15"
+  }
+ },
+ {
+  "rowNumber": 71,
+  "raw": "100108 | ATLAS MASCHINEN AG | AR501919 | 15.12.2025 | 7326.83",
+  "values": {
+   "Konto": "100108",
+   "Name": "ATLAS MASCHINEN AG",
+   "Belegnummer": "AR501919",
+   "Belegdatum": "15.12.2025",
+   "Betrag EUR": "7326.83"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.71",
+   "quote": "100108 | ATLAS MASCHINEN AG | AR501919 | 15.12.2025 | 7326.83"
+  }
+ },
+ {
+  "rowNumber": 72,
+  "raw": "100046 | SÜD KUNSTSTOFF KG | AR501920 | 09.12.2025 | 41367.97",
+  "values": {
+   "Konto": "100046",
+   "Name": "SÜD KUNSTSTOFF KG",
+   "Belegnummer": "AR501920",
+   "Belegdatum": "09.12.2025",
+   "Betrag EUR": "41367.97"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.72",
+   "quote": "100046 | SÜD KUNSTSTOFF KG | AR501920 | 09.12.2025 | 41367.97"
+  }
+ },
+ {
+  "rowNumber": 73,
+  "raw": "100018 | SOLUM RECYCLING AG | AR501921 | 28.12.2025 | 45260.46",
+  "values": {
+   "Konto": "100018",
+   "Name": "SOLUM RECYCLING AG",
+   "Belegnummer": "AR501921",
+   "Belegdatum": "28.12.2025",
+   "Betrag EUR": "45260.46"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.73",
+   "quote": "100018 | SOLUM RECYCLING AG | AR501921 | 28.12.2025 | 45260.46"
+  }
+ },
+ {
+  "rowNumber": 74,
+  "raw": "100078 | FALKE SYSTEME GMBH | AR501923 | 29.12.2025 | 14074.13",
+  "values": {
+   "Konto": "100078",
+   "Name": "FALKE SYSTEME GMBH",
+   "Belegnummer": "AR501923",
+   "Belegdatum": "29.12.2025",
+   "Betrag EUR": "14074.13"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.74",
+   "quote": "100078 | FALKE SYSTEME GMBH | AR501923 | 29.12.2025 | 14074.13"
+  }
+ },
+ {
+  "rowNumber": 75,
+  "raw": "100057 | CORVUS FORMTEILE GMBH | AR501924 | 11.12.2025 | 2804.83",
+  "values": {
+   "Konto": "100057",
+   "Name": "CORVUS FORMTEILE GMBH",
+   "Belegnummer": "AR501924",
+   "Belegdatum": "11.12.2025",
+   "Betrag EUR": "2804.83"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.75",
+   "quote": "100057 | CORVUS FORMTEILE GMBH | AR501924 | 11.12.2025 | 2804.83"
+  }
+ },
+ {
+  "rowNumber": 76,
+  "raw": "100095 | KRONOS MASCHINEN SE | AR501925 | 09.12.2025 | 40426.68",
+  "values": {
+   "Konto": "100095",
+   "Name": "KRONOS MASCHINEN SE",
+   "Belegnummer": "AR501925",
+   "Belegdatum": "09.12.2025",
+   "Betrag EUR": "40426.68"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.76",
+   "quote": "100095 | KRONOS MASCHINEN SE | AR501925 | 09.12.2025 | 40426.68"
+  }
+ },
+ {
+  "rowNumber": 77,
+  "raw": "100099 | VEGA CHEMIE KG | AR501926 | 17.12.2025 | 43366",
+  "values": {
+   "Konto": "100099",
+   "Name": "VEGA CHEMIE KG",
+   "Belegnummer": "AR501926",
+   "Belegdatum": "17.12.2025",
+   "Betrag EUR": "43366"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.77",
+   "quote": "100099 | VEGA CHEMIE KG | AR501926 | 17.12.2025 | 43366"
+  }
+ },
+ {
+  "rowNumber": 78,
+  "raw": "100026 | IRIS KUNSTSTOFF E.K. | AR501927 | 04.12.2025 | 57503.18",
+  "values": {
+   "Konto": "100026",
+   "Name": "IRIS KUNSTSTOFF E.K.",
+   "Belegnummer": "AR501927",
+   "Belegdatum": "04.12.2025",
+   "Betrag EUR": "57503.18"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.78",
+   "quote": "100026 | IRIS KUNSTSTOFF E.K. | AR501927 | 04.12.2025 | 57503.18"
+  }
+ },
+ {
+  "rowNumber": 79,
+  "raw": "100054 | CIVES ETIKETTEN SE | AR501928 | 30.12.2025 | 24321.22",
+  "values": {
+   "Konto": "100054",
+   "Name": "CIVES ETIKETTEN SE",
+   "Belegnummer": "AR501928",
+   "Belegdatum": "30.12.2025",
+   "Betrag EUR": "24321.22"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.79",
+   "quote": "100054 | CIVES ETIKETTEN SE | AR501928 | 30.12.2025 | 24321.22"
+  }
+ },
+ {
+  "rowNumber": 80,
+  "raw": "100046 | SÜD KUNSTSTOFF KG | AR501929 | 06.12.2025 | 53056.15",
+  "values": {
+   "Konto": "100046",
+   "Name": "SÜD KUNSTSTOFF KG",
+   "Belegnummer": "AR501929",
+   "Belegdatum": "06.12.2025",
+   "Betrag EUR": "53056.15"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.80",
+   "quote": "100046 | SÜD KUNSTSTOFF KG | AR501929 | 06.12.2025 | 53056.15"
+  }
+ },
+ {
+  "rowNumber": 81,
+  "raw": "100132 | CORVUS CHEMIE KG | AR501930 | 30.12.2025 | 12379.57",
+  "values": {
+   "Konto": "100132",
+   "Name": "CORVUS CHEMIE KG",
+   "Belegnummer": "AR501930",
+   "Belegdatum": "30.12.2025",
+   "Betrag EUR": "12379.57"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.81",
+   "quote": "100132 | CORVUS CHEMIE KG | AR501930 | 30.12.2025 | 12379.57"
+  }
+ },
+ {
+  "rowNumber": 82,
+  "raw": "100008 | FALKE CHEMIE KG | AR501931 | 25.12.2025 | 40357.66",
+  "values": {
+   "Konto": "100008",
+   "Name": "FALKE CHEMIE KG",
+   "Belegnummer": "AR501931",
+   "Belegdatum": "25.12.2025",
+   "Betrag EUR": "40357.66"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.82",
+   "quote": "100008 | FALKE CHEMIE KG | AR501931 | 25.12.2025 | 40357.66"
+  }
+ },
+ {
+  "rowNumber": 83,
+  "raw": "100101 | WEST KARTON GMBH | AR501932 | 06.12.2025 | 26345.41",
+  "values": {
+   "Konto": "100101",
+   "Name": "WEST KARTON GMBH",
+   "Belegnummer": "AR501932",
+   "Belegdatum": "06.12.2025",
+   "Betrag EUR": "26345.41"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.83",
+   "quote": "100101 | WEST KARTON GMBH | AR501932 | 06.12.2025 | 26345.41"
+  }
+ },
+ {
+  "rowNumber": 84,
+  "raw": "100025 | LUPUS CHEMIE AG | AR501933 | 19.12.2025 | 59934.35",
+  "values": {
+   "Konto": "100025",
+   "Name": "LUPUS CHEMIE AG",
+   "Belegnummer": "AR501933",
+   "Belegdatum": "19.12.2025",
+   "Betrag EUR": "59934.35"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.84",
+   "quote": "100025 | LUPUS CHEMIE AG | AR501933 | 19.12.2025 | 59934.35"
+  }
+ },
+ {
+  "rowNumber": 85,
+  "raw": "100031 | RATIO PAPIER KG | AR501934 | 30.12.2025 | 23792.86",
+  "values": {
+   "Konto": "100031",
+   "Name": "RATIO PAPIER KG",
+   "Belegnummer": "AR501934",
+   "Belegdatum": "30.12.2025",
+   "Betrag EUR": "23792.86"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.85",
+   "quote": "100031 | RATIO PAPIER KG | AR501934 | 30.12.2025 | 23792.86"
+  }
+ },
+ {
+  "rowNumber": 86,
+  "raw": "100048 | ATLAS ETIKETTEN GMBH & CO. KG | AR501935 | 18.12.2025 | 8197.91",
+  "values": {
+   "Konto": "100048",
+   "Name": "ATLAS ETIKETTEN GMBH & CO. KG",
+   "Belegnummer": "AR501935",
+   "Belegdatum": "18.12.2025",
+   "Betrag EUR": "8197.91"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.86",
+   "quote": "100048 | ATLAS ETIKETTEN GMBH & CO. KG | AR501935 | 18.12.2025 | 8197.91"
+  }
+ },
+ {
+  "rowNumber": 87,
+  "raw": "100109 | SOLUM KARTON GMBH & CO. KG | AR501936 | 05.12.2025 | 43449.28",
+  "values": {
+   "Konto": "100109",
+   "Name": "SOLUM KARTON GMBH & CO. KG",
+   "Belegnummer": "AR501936",
+   "Belegdatum": "05.12.2025",
+   "Betrag EUR": "43449.28"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.87",
+   "quote": "100109 | SOLUM KARTON GMBH & CO. KG | AR501936 | 05.12.2025 | 43449.28"
+  }
+ },
+ {
+  "rowNumber": 88,
+  "raw": "100050 | OST CHEMIE GMBH | AR501937 | 31.12.2025 | 42316.4",
+  "values": {
+   "Konto": "100050",
+   "Name": "OST CHEMIE GMBH",
+   "Belegnummer": "AR501937",
+   "Belegdatum": "31.12.2025",
+   "Betrag EUR": "42316.4"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.88",
+   "quote": "100050 | OST CHEMIE GMBH | AR501937 | 31.12.2025 | 42316.4"
+  }
+ },
+ {
+  "rowNumber": 89,
+  "raw": "100061 | TERRA KARTON E.K. | AR501938 | 26.12.2025 | 32720.24",
+  "values": {
+   "Konto": "100061",
+   "Name": "TERRA KARTON E.K.",
+   "Belegnummer": "AR501938",
+   "Belegdatum": "26.12.2025",
+   "Betrag EUR": "32720.24"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.89",
+   "quote": "100061 | TERRA KARTON E.K. | AR501938 | 26.12.2025 | 32720.24"
+  }
+ },
+ {
+  "rowNumber": 90,
+  "raw": "100148 | AURORA INDUSTRIEBEDARF GMBH & CO. KG | AR501939 | 21.12.2025 | 4865.91",
+  "values": {
+   "Konto": "100148",
+   "Name": "AURORA INDUSTRIEBEDARF GMBH & CO. KG",
+   "Belegnummer": "AR501939",
+   "Belegdatum": "21.12.2025",
+   "Betrag EUR": "4865.91"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.90",
+   "quote": "100148 | AURORA INDUSTRIEBEDARF GMBH & CO. KG | AR501939 | 21.12.2025 | 4865.91"
+  }
+ },
+ {
+  "rowNumber": 91,
+  "raw": "100001 | FOKUS KUNSTSTOFF GMBH | AR501940 | 14.12.2025 | 7601.72",
+  "values": {
+   "Konto": "100001",
+   "Name": "FOKUS KUNSTSTOFF GMBH",
+   "Belegnummer": "AR501940",
+   "Belegdatum": "14.12.2025",
+   "Betrag EUR": "7601.72"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.91",
+   "quote": "100001 | FOKUS KUNSTSTOFF GMBH | AR501940 | 14.12.2025 | 7601.72"
+  }
+ },
+ {
+  "rowNumber": 92,
+  "raw": "100056 | NORD WERKSTOFFE SE | AR501941 | 06.12.2025 | 39462.78",
+  "values": {
+   "Konto": "100056",
+   "Name": "NORD WERKSTOFFE SE",
+   "Belegnummer": "AR501941",
+   "Belegdatum": "06.12.2025",
+   "Betrag EUR": "39462.78"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.92",
+   "quote": "100056 | NORD WERKSTOFFE SE | AR501941 | 06.12.2025 | 39462.78"
+  }
+ },
+ {
+  "rowNumber": 93,
+  "raw": "100093 | TERRA RECYCLING GMBH | AR501942 | 29.12.2025 | 23040.78",
+  "values": {
+   "Konto": "100093",
+   "Name": "TERRA RECYCLING GMBH",
+   "Belegnummer": "AR501942",
+   "Belegdatum": "29.12.2025",
+   "Betrag EUR": "23040.78"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.93",
+   "quote": "100093 | TERRA RECYCLING GMBH | AR501942 | 29.12.2025 | 23040.78"
+  }
+ },
+ {
+  "rowNumber": 94,
+  "raw": "100145 | ATLAS RECYCLING SE | AR501943 | 21.12.2025 | 34089.93",
+  "values": {
+   "Konto": "100145",
+   "Name": "ATLAS RECYCLING SE",
+   "Belegnummer": "AR501943",
+   "Belegdatum": "21.12.2025",
+   "Betrag EUR": "34089.93"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.94",
+   "quote": "100145 | ATLAS RECYCLING SE | AR501943 | 21.12.2025 | 34089.93"
+  }
+ },
+ {
+  "rowNumber": 95,
+  "raw": "100113 | MERKUR RECYCLING E.K. | AR501944 | 12.12.2025 | 55969.27",
+  "values": {
+   "Konto": "100113",
+   "Name": "MERKUR RECYCLING E.K.",
+   "Belegnummer": "AR501944",
+   "Belegdatum": "12.12.2025",
+   "Betrag EUR": "55969.27"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.95",
+   "quote": "100113 | MERKUR RECYCLING E.K. | AR501944 | 12.12.2025 | 55969.27"
+  }
+ },
+ {
+  "rowNumber": 96,
+  "raw": "100082 | NORD PAPIER KG | AR501945 | 26.12.2025 | 63632.87",
+  "values": {
+   "Konto": "100082",
+   "Name": "NORD PAPIER KG",
+   "Belegnummer": "AR501945",
+   "Belegdatum": "26.12.2025",
+   "Betrag EUR": "63632.87"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.96",
+   "quote": "100082 | NORD PAPIER KG | AR501945 | 26.12.2025 | 63632.87"
+  }
+ },
+ {
+  "rowNumber": 97,
+  "raw": "100057 | CORVUS FORMTEILE GMBH | AR501947 | 22.12.2025 | 4881.38",
+  "values": {
+   "Konto": "100057",
+   "Name": "CORVUS FORMTEILE GMBH",
+   "Belegnummer": "AR501947",
+   "Belegdatum": "22.12.2025",
+   "Betrag EUR": "4881.38"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.97",
+   "quote": "100057 | CORVUS FORMTEILE GMBH | AR501947 | 22.12.2025 | 4881.38"
+  }
+ },
+ {
+  "rowNumber": 98,
+  "raw": "100058 | VEGA ETIKETTEN GMBH & CO. KG | AR501948 | 15.12.2025 | 4535.09",
+  "values": {
+   "Konto": "100058",
+   "Name": "VEGA ETIKETTEN GMBH & CO. KG",
+   "Belegnummer": "AR501948",
+   "Belegdatum": "15.12.2025",
+   "Betrag EUR": "4535.09"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.98",
+   "quote": "100058 | VEGA ETIKETTEN GMBH & CO. KG | AR501948 | 15.12.2025 | 4535.09"
+  }
+ },
+ {
+  "rowNumber": 99,
+  "raw": "100136 | KRANICH LOGISTIK GMBH | AR501949 | 19.12.2025 | 8825.04",
+  "values": {
+   "Konto": "100136",
+   "Name": "KRANICH LOGISTIK GMBH",
+   "Belegnummer": "AR501949",
+   "Belegdatum": "19.12.2025",
+   "Betrag EUR": "8825.04"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.99",
+   "quote": "100136 | KRANICH LOGISTIK GMBH | AR501949 | 19.12.2025 | 8825.04"
+  }
+ },
+ {
+  "rowNumber": 100,
+  "raw": "100139 | RATIO BESCHICHTUNG KG | AR501950 | 25.12.2025 | 4420.85",
+  "values": {
+   "Konto": "100139",
+   "Name": "RATIO BESCHICHTUNG KG",
+   "Belegnummer": "AR501950",
+   "Belegdatum": "25.12.2025",
+   "Betrag EUR": "4420.85"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.100",
+   "quote": "100139 | RATIO BESCHICHTUNG KG | AR501950 | 25.12.2025 | 4420.85"
+  }
+ },
+ {
+  "rowNumber": 101,
+  "raw": "100037 | PACTUM TECHNIK GMBH | AR501951 | 18.12.2025 | 58612.26",
+  "values": {
+   "Konto": "100037",
+   "Name": "PACTUM TECHNIK GMBH",
+   "Belegnummer": "AR501951",
+   "Belegdatum": "18.12.2025",
+   "Betrag EUR": "58612.26"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.101",
+   "quote": "100037 | PACTUM TECHNIK GMBH | AR501951 | 18.12.2025 | 58612.26"
+  }
+ },
+ {
+  "rowNumber": 102,
+  "raw": "100086 | HELIOS FOLIEN GMBH & CO. KG | AR501953 | 13.12.2025 | 40596.85",
+  "values": {
+   "Konto": "100086",
+   "Name": "HELIOS FOLIEN GMBH & CO. KG",
+   "Belegnummer": "AR501953",
+   "Belegdatum": "13.12.2025",
+   "Betrag EUR": "40596.85"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.102",
+   "quote": "100086 | HELIOS FOLIEN GMBH & CO. KG | AR501953 | 13.12.2025 | 40596.85"
+  }
+ },
+ {
+  "rowNumber": 103,
+  "raw": "100147 | NOVA BESCHICHTUNG KG | AR501954 | 05.12.2025 | 15158.22",
+  "values": {
+   "Konto": "100147",
+   "Name": "NOVA BESCHICHTUNG KG",
+   "Belegnummer": "AR501954",
+   "Belegdatum": "05.12.2025",
+   "Betrag EUR": "15158.22"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.103",
+   "quote": "100147 | NOVA BESCHICHTUNG KG | AR501954 | 05.12.2025 | 15158.22"
+  }
+ },
+ {
+  "rowNumber": 104,
+  "raw": "100046 | SÜD KUNSTSTOFF KG | AR501955 | 04.12.2025 | 19700.45",
+  "values": {
+   "Konto": "100046",
+   "Name": "SÜD KUNSTSTOFF KG",
+   "Belegnummer": "AR501955",
+   "Belegdatum": "04.12.2025",
+   "Betrag EUR": "19700.45"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.104",
+   "quote": "100046 | SÜD KUNSTSTOFF KG | AR501955 | 04.12.2025 | 19700.45"
+  }
+ },
+ {
+  "rowNumber": 105,
+  "raw": "100015 | OST WERKSTOFFE AG | AR501956 | 17.12.2025 | 2039.66",
+  "values": {
+   "Konto": "100015",
+   "Name": "OST WERKSTOFFE AG",
+   "Belegnummer": "AR501956",
+   "Belegdatum": "17.12.2025",
+   "Betrag EUR": "2039.66"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.105",
+   "quote": "100015 | OST WERKSTOFFE AG | AR501956 | 17.12.2025 | 2039.66"
+  }
+ },
+ {
+  "rowNumber": 106,
+  "raw": "100113 | MERKUR RECYCLING E.K. | AR501957 | 12.12.2025 | 4644.57",
+  "values": {
+   "Konto": "100113",
+   "Name": "MERKUR RECYCLING E.K.",
+   "Belegnummer": "AR501957",
+   "Belegdatum": "12.12.2025",
+   "Betrag EUR": "4644.57"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.106",
+   "quote": "100113 | MERKUR RECYCLING E.K. | AR501957 | 12.12.2025 | 4644.57"
+  }
+ },
+ {
+  "rowNumber": 107,
+  "raw": "100111 | PACTUM RECYCLING E.K. | AR501958 | 20.12.2025 | 25018.56",
+  "values": {
+   "Konto": "100111",
+   "Name": "PACTUM RECYCLING E.K.",
+   "Belegnummer": "AR501958",
+   "Belegdatum": "20.12.2025",
+   "Betrag EUR": "25018.56"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.107",
+   "quote": "100111 | PACTUM RECYCLING E.K. | AR501958 | 20.12.2025 | 25018.56"
+  }
+ },
+ {
+  "rowNumber": 108,
+  "raw": "100139 | RATIO BESCHICHTUNG KG | AR501959 | 19.12.2025 | 23397.78",
+  "values": {
+   "Konto": "100139",
+   "Name": "RATIO BESCHICHTUNG KG",
+   "Belegnummer": "AR501959",
+   "Belegdatum": "19.12.2025",
+   "Betrag EUR": "23397.78"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.108",
+   "quote": "100139 | RATIO BESCHICHTUNG KG | AR501959 | 19.12.2025 | 23397.78"
+  }
+ },
+ {
+  "rowNumber": 109,
+  "raw": "100095 | KRONOS MASCHINEN SE | AR501960 | 06.12.2025 | 27483.05",
+  "values": {
+   "Konto": "100095",
+   "Name": "KRONOS MASCHINEN SE",
+   "Belegnummer": "AR501960",
+   "Belegdatum": "06.12.2025",
+   "Betrag EUR": "27483.05"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.109",
+   "quote": "100095 | KRONOS MASCHINEN SE | AR501960 | 06.12.2025 | 27483.05"
+  }
+ },
+ {
+  "rowNumber": 110,
+  "raw": "100114 | ATLAS CHEMIE GMBH | AR501961 | 23.12.2025 | 36512.77",
+  "values": {
+   "Konto": "100114",
+   "Name": "ATLAS CHEMIE GMBH",
+   "Belegnummer": "AR501961",
+   "Belegdatum": "23.12.2025",
+   "Betrag EUR": "36512.77"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.110",
+   "quote": "100114 | ATLAS CHEMIE GMBH | AR501961 | 23.12.2025 | 36512.77"
+  }
+ },
+ {
+  "rowNumber": 111,
+  "raw": "100158 | WEST SYSTEME AG | AR501962 | 28.12.2025 | 58041.06",
+  "values": {
+   "Konto": "100158",
+   "Name": "WEST SYSTEME AG",
+   "Belegnummer": "AR501962",
+   "Belegdatum": "28.12.2025",
+   "Betrag EUR": "58041.06"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.111",
+   "quote": "100158 | WEST SYSTEME AG | AR501962 | 28.12.2025 | 58041.06"
+  }
+ },
+ {
+  "rowNumber": 112,
+  "raw": "100113 | MERKUR RECYCLING E.K. | AR501963 | 14.12.2025 | 23433.48",
+  "values": {
+   "Konto": "100113",
+   "Name": "MERKUR RECYCLING E.K.",
+   "Belegnummer": "AR501963",
+   "Belegdatum": "14.12.2025",
+   "Betrag EUR": "23433.48"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.112",
+   "quote": "100113 | MERKUR RECYCLING E.K. | AR501963 | 14.12.2025 | 23433.48"
+  }
+ },
+ {
+  "rowNumber": 113,
+  "raw": "100150 | SÜD RECYCLING GMBH | AR501964 | 29.12.2025 | 27260.52",
+  "values": {
+   "Konto": "100150",
+   "Name": "SÜD RECYCLING GMBH",
+   "Belegnummer": "AR501964",
+   "Belegdatum": "29.12.2025",
+   "Betrag EUR": "27260.52"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.113",
+   "quote": "100150 | SÜD RECYCLING GMBH | AR501964 | 29.12.2025 | 27260.52"
+  }
+ },
+ {
+  "rowNumber": 114,
+  "raw": "100127 | TERRA TECHNIK KG | AR501965 | 23.12.2025 | 14020.58",
+  "values": {
+   "Konto": "100127",
+   "Name": "TERRA TECHNIK KG",
+   "Belegnummer": "AR501965",
+   "Belegdatum": "23.12.2025",
+   "Betrag EUR": "14020.58"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.114",
+   "quote": "100127 | TERRA TECHNIK KG | AR501965 | 23.12.2025 | 14020.58"
+  }
+ },
+ {
+  "rowNumber": 115,
+  "raw": "100106 | ALPHA RECYCLING AG | AR501966 | 27.12.2025 | 23988.02",
+  "values": {
+   "Konto": "100106",
+   "Name": "ALPHA RECYCLING AG",
+   "Belegnummer": "AR501966",
+   "Belegdatum": "27.12.2025",
+   "Betrag EUR": "23988.02"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.115",
+   "quote": "100106 | ALPHA RECYCLING AG | AR501966 | 27.12.2025 | 23988.02"
+  }
+ },
+ {
+  "rowNumber": 116,
+  "raw": "100029 | PRISMA WERKSTOFFE SE | AR501967 | 08.12.2025 | 18973.36",
+  "values": {
+   "Konto": "100029",
+   "Name": "PRISMA WERKSTOFFE SE",
+   "Belegnummer": "AR501967",
+   "Belegdatum": "08.12.2025",
+   "Betrag EUR": "18973.36"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.116",
+   "quote": "100029 | PRISMA WERKSTOFFE SE | AR501967 | 08.12.2025 | 18973.36"
+  }
+ },
+ {
+  "rowNumber": 117,
+  "raw": "100058 | VEGA ETIKETTEN GMBH & CO. KG | AR501968 | 11.12.2025 | 30697.24",
+  "values": {
+   "Konto": "100058",
+   "Name": "VEGA ETIKETTEN GMBH & CO. KG",
+   "Belegnummer": "AR501968",
+   "Belegdatum": "11.12.2025",
+   "Betrag EUR": "30697.24"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.117",
+   "quote": "100058 | VEGA ETIKETTEN GMBH & CO. KG | AR501968 | 11.12.2025 | 30697.24"
+  }
+ },
+ {
+  "rowNumber": 118,
+  "raw": "100077 | KRANICH FORMTEILE E.K. | AR501969 | 25.12.2025 | 19740.91",
+  "values": {
+   "Konto": "100077",
+   "Name": "KRANICH FORMTEILE E.K.",
+   "Belegnummer": "AR501969",
+   "Belegdatum": "25.12.2025",
+   "Betrag EUR": "19740.91"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.118",
+   "quote": "100077 | KRANICH FORMTEILE E.K. | AR501969 | 25.12.2025 | 19740.91"
+  }
+ },
+ {
+  "rowNumber": 119,
+  "raw": "100087 | SOLUM VERPACKUNG GMBH | AR501971 | 04.12.2025 | 18124.89",
+  "values": {
+   "Konto": "100087",
+   "Name": "SOLUM VERPACKUNG GMBH",
+   "Belegnummer": "AR501971",
+   "Belegdatum": "04.12.2025",
+   "Betrag EUR": "18124.89"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.119",
+   "quote": "100087 | SOLUM VERPACKUNG GMBH | AR501971 | 04.12.2025 | 18124.89"
+  }
+ },
+ {
+  "rowNumber": 120,
+  "raw": "100149 | RATIO DISTRIBUTION GMBH | AR501975 | 14.12.2025 | 19139.96",
+  "values": {
+   "Konto": "100149",
+   "Name": "RATIO DISTRIBUTION GMBH",
+   "Belegnummer": "AR501975",
+   "Belegdatum": "14.12.2025",
+   "Betrag EUR": "19139.96"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.120",
+   "quote": "100149 | RATIO DISTRIBUTION GMBH | AR501975 | 14.12.2025 | 19139.96"
+  }
+ },
+ {
+  "rowNumber": 121,
+  "raw": "100021 | HELIOS RECYCLING GMBH | AR501977 | 24.12.2025 | 36535.38",
+  "values": {
+   "Konto": "100021",
+   "Name": "HELIOS RECYCLING GMBH",
+   "Belegnummer": "AR501977",
+   "Belegdatum": "24.12.2025",
+   "Betrag EUR": "36535.38"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.121",
+   "quote": "100021 | HELIOS RECYCLING GMBH | AR501977 | 24.12.2025 | 36535.38"
+  }
+ },
+ {
+  "rowNumber": 122,
+  "raw": "100067 | NOVA DRUCK GMBH | AR501978 | 22.12.2025 | 16113.79",
+  "values": {
+   "Konto": "100067",
+   "Name": "NOVA DRUCK GMBH",
+   "Belegnummer": "AR501978",
+   "Belegdatum": "22.12.2025",
+   "Betrag EUR": "16113.79"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.122",
+   "quote": "100067 | NOVA DRUCK GMBH | AR501978 | 22.12.2025 | 16113.79"
+  }
+ },
+ {
+  "rowNumber": 123,
+  "raw": "100091 | RATIO RECYCLING AG | AR501979 | 08.12.2025 | 56098.98",
+  "values": {
+   "Konto": "100091",
+   "Name": "RATIO RECYCLING AG",
+   "Belegnummer": "AR501979",
+   "Belegdatum": "08.12.2025",
+   "Betrag EUR": "56098.98"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Offene Posten (Auszug)!r.123",
+   "quote": "100091 | RATIO RECYCLING AG | AR501979 | 08.12.2025 | 56098.98"
+  }
+ }
+]

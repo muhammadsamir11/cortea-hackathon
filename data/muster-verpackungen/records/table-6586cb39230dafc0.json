@@ -1,0 +1,3842 @@
+[
+ {
+  "rowNumber": 1,
+  "raw": "\"100000\";\"DE490542028\";\"Rheinstraße 147\";\"01067\";\"Dresden\";\"DEU\";\"FALKE FOLIEN E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100000",
+   "KUNDENUSTIDNR": "DE490542028",
+   "KUNDENSTRASSE": "Rheinstraße 147",
+   "KUNDENPLZ": "01067",
+   "KUNDENORT": "Dresden",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "FALKE FOLIEN E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.1",
+   "quote": "\"100000\";\"DE490542028\";\"Rheinstraße 147\";\"01067\";\"Dresden\";\"DEU\";\"FALKE FOLIEN E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 2,
+  "raw": "\"100001\";\"DE853598670\";\"Marktplatz 113\";\"07743\";\"Jena\";\"DEU\";\"FOKUS KUNSTSTOFF GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100001",
+   "KUNDENUSTIDNR": "DE853598670",
+   "KUNDENSTRASSE": "Marktplatz 113",
+   "KUNDENPLZ": "07743",
+   "KUNDENORT": "Jena",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "FOKUS KUNSTSTOFF GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.2",
+   "quote": "\"100001\";\"DE853598670\";\"Marktplatz 113\";\"07743\";\"Jena\";\"DEU\";\"FOKUS KUNSTSTOFF GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 3,
+  "raw": "\"100002\";\"DE344639395\";\"Am Hafen 33\";\"04109\";\"Leipzig\";\"DEU\";\"FOKUS DRUCK SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100002",
+   "KUNDENUSTIDNR": "DE344639395",
+   "KUNDENSTRASSE": "Am Hafen 33",
+   "KUNDENPLZ": "04109",
+   "KUNDENORT": "Leipzig",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "FOKUS DRUCK SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.3",
+   "quote": "\"100002\";\"DE344639395\";\"Am Hafen 33\";\"04109\";\"Leipzig\";\"DEU\";\"FOKUS DRUCK SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 4,
+  "raw": "\"100003\";\"DE852027195\";\"Carl-Benz-Straße 91\";\"39104\";\"Magdeburg\";\"DEU\";\"IRIS MASCHINEN KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100003",
+   "KUNDENUSTIDNR": "DE852027195",
+   "KUNDENSTRASSE": "Carl-Benz-Straße 91",
+   "KUNDENPLZ": "39104",
+   "KUNDENORT": "Magdeburg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "IRIS MASCHINEN KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.4",
+   "quote": "\"100003\";\"DE852027195\";\"Carl-Benz-Straße 91\";\"39104\";\"Magdeburg\";\"DEU\";\"IRIS MASCHINEN KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 5,
+  "raw": "\"100004\";\"DE683470102\";\"Gewerbering 150\";\"90402\";\"Nürnberg\";\"DEU\";\"PRISMA SYSTEME AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100004",
+   "KUNDENUSTIDNR": "DE683470102",
+   "KUNDENSTRASSE": "Gewerbering 150",
+   "KUNDENPLZ": "90402",
+   "KUNDENORT": "Nürnberg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "PRISMA SYSTEME AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.5",
+   "quote": "\"100004\";\"DE683470102\";\"Gewerbering 150\";\"90402\";\"Nürnberg\";\"DEU\";\"PRISMA SYSTEME AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "\"100005\";\"DE763371918\";\"Talstraße 47\";\"55116\";\"Mainz\";\"DEU\";\"CORVUS HANDEL KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100005",
+   "KUNDENUSTIDNR": "DE763371918",
+   "KUNDENSTRASSE": "Talstraße 47",
+   "KUNDENPLZ": "55116",
+   "KUNDENORT": "Mainz",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "CORVUS HANDEL KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.6",
+   "quote": "\"100005\";\"DE763371918\";\"Talstraße 47\";\"55116\";\"Mainz\";\"DEU\";\"CORVUS HANDEL KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 7,
+  "raw": "\"100006\";\"DE108761392\";\"Robert-Bosch-Straße 53\";\"99084\";\"Erfurt\";\"DEU\";\"SÜD DRUCK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100006",
+   "KUNDENUSTIDNR": "DE108761392",
+   "KUNDENSTRASSE": "Robert-Bosch-Straße 53",
+   "KUNDENPLZ": "99084",
+   "KUNDENORT": "Erfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "SÜD DRUCK GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.7",
+   "quote": "\"100006\";\"DE108761392\";\"Robert-Bosch-Straße 53\";\"99084\";\"Erfurt\";\"DEU\";\"SÜD DRUCK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 8,
+  "raw": "\"100007\";\"DE757675287\";\"Am Kanal 56\";\"07743\";\"Jena\";\"DEU\";\"RATIO LOGISTIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100007",
+   "KUNDENUSTIDNR": "DE757675287",
+   "KUNDENSTRASSE": "Am Kanal 56",
+   "KUNDENPLZ": "07743",
+   "KUNDENORT": "Jena",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "RATIO LOGISTIK GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.8",
+   "quote": "\"100007\";\"DE757675287\";\"Am Kanal 56\";\"07743\";\"Jena\";\"DEU\";\"RATIO LOGISTIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 9,
+  "raw": "\"100008\";\"DE728872950\";\"Am Hafen 175\";\"50667\";\"Köln\";\"DEU\";\"FALKE CHEMIE KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100008",
+   "KUNDENUSTIDNR": "DE728872950",
+   "KUNDENSTRASSE": "Am Hafen 175",
+   "KUNDENPLZ": "50667",
+   "KUNDENORT": "Köln",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "FALKE CHEMIE KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.9",
+   "quote": "\"100008\";\"DE728872950\";\"Am Hafen 175\";\"50667\";\"Köln\";\"DEU\";\"FALKE CHEMIE KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 10,
+  "raw": "\"100009\";\"DE558411070\";\"Feldweg 116\";\"70173\";\"Stuttgart\";\"DEU\";\"TITAN TECHNIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100009",
+   "KUNDENUSTIDNR": "DE558411070",
+   "KUNDENSTRASSE": "Feldweg 116",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "TITAN TECHNIK GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.10",
+   "quote": "\"100009\";\"DE558411070\";\"Feldweg 116\";\"70173\";\"Stuttgart\";\"DEU\";\"TITAN TECHNIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 11,
+  "raw": "\"100010\";\"DE590443445\";\"Carl-Benz-Straße 139\";\"40210\";\"Düsseldorf\";\"DEU\";\"FOKUS TECHNIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100010",
+   "KUNDENUSTIDNR": "DE590443445",
+   "KUNDENSTRASSE": "Carl-Benz-Straße 139",
+   "KUNDENPLZ": "40210",
+   "KUNDENORT": "Düsseldorf",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "FOKUS TECHNIK GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.11",
+   "quote": "\"100010\";\"DE590443445\";\"Carl-Benz-Straße 139\";\"40210\";\"Düsseldorf\";\"DEU\";\"FOKUS TECHNIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 12,
+  "raw": "\"100011\";\"DE295394511\";\"Carl-Benz-Straße 108\";\"99084\";\"Erfurt\";\"DEU\";\"BOREAS BESCHICHTUNG E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100011",
+   "KUNDENUSTIDNR": "DE295394511",
+   "KUNDENSTRASSE": "Carl-Benz-Straße 108",
+   "KUNDENPLZ": "99084",
+   "KUNDENORT": "Erfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "BOREAS BESCHICHTUNG E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.12",
+   "quote": "\"100011\";\"DE295394511\";\"Carl-Benz-Straße 108\";\"99084\";\"Erfurt\";\"DEU\";\"BOREAS BESCHICHTUNG E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 13,
+  "raw": "\"100012\";\"DE569861583\";\"Industriestraße 3\";\"80331\";\"München\";\"DEU\";\"ATLAS FORMTEILE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100012",
+   "KUNDENUSTIDNR": "DE569861583",
+   "KUNDENSTRASSE": "Industriestraße 3",
+   "KUNDENPLZ": "80331",
+   "KUNDENORT": "München",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ATLAS FORMTEILE SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.13",
+   "quote": "\"100012\";\"DE569861583\";\"Industriestraße 3\";\"80331\";\"München\";\"DEU\";\"ATLAS FORMTEILE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 14,
+  "raw": "\"100013\";\"DE309418183\";\"Carl-Benz-Straße 93\";\"70173\";\"Stuttgart\";\"DEU\";\"NOVA FORMTEILE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100013",
+   "KUNDENUSTIDNR": "DE309418183",
+   "KUNDENSTRASSE": "Carl-Benz-Straße 93",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "NOVA FORMTEILE GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.14",
+   "quote": "\"100013\";\"DE309418183\";\"Carl-Benz-Straße 93\";\"70173\";\"Stuttgart\";\"DEU\";\"NOVA FORMTEILE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 15,
+  "raw": "\"100014\";\"DE815020917\";\"Gewerbering 22\";\"04109\";\"Leipzig\";\"DEU\";\"ALPHA HANDEL GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100014",
+   "KUNDENUSTIDNR": "DE815020917",
+   "KUNDENSTRASSE": "Gewerbering 22",
+   "KUNDENPLZ": "04109",
+   "KUNDENORT": "Leipzig",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ALPHA HANDEL GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.15",
+   "quote": "\"100014\";\"DE815020917\";\"Gewerbering 22\";\"04109\";\"Leipzig\";\"DEU\";\"ALPHA HANDEL GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 16,
+  "raw": "\"100015\";\"DE357717474\";\"Bahnhofstraße 148\";\"70173\";\"Stuttgart\";\"DEU\";\"OST WERKSTOFFE AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100015",
+   "KUNDENUSTIDNR": "DE357717474",
+   "KUNDENSTRASSE": "Bahnhofstraße 148",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "OST WERKSTOFFE AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.16",
+   "quote": "\"100015\";\"DE357717474\";\"Bahnhofstraße 148\";\"70173\";\"Stuttgart\";\"DEU\";\"OST WERKSTOFFE AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 17,
+  "raw": "\"100016\";\"DE970540541\";\"Feldweg 83\";\"55116\";\"Mainz\";\"DEU\";\"MERKUR WERKSTOFFE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100016",
+   "KUNDENUSTIDNR": "DE970540541",
+   "KUNDENSTRASSE": "Feldweg 83",
+   "KUNDENPLZ": "55116",
+   "KUNDENORT": "Mainz",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "MERKUR WERKSTOFFE SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.17",
+   "quote": "\"100016\";\"DE970540541\";\"Feldweg 83\";\"55116\";\"Mainz\";\"DEU\";\"MERKUR WERKSTOFFE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 18,
+  "raw": "\"100017\";\"DE889724269\";\"Talstraße 23\";\"39104\";\"Magdeburg\";\"DEU\";\"HELIOS ETIKETTEN KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100017",
+   "KUNDENUSTIDNR": "DE889724269",
+   "KUNDENSTRASSE": "Talstraße 23",
+   "KUNDENPLZ": "39104",
+   "KUNDENORT": "Magdeburg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "HELIOS ETIKETTEN KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.18",
+   "quote": "\"100017\";\"DE889724269\";\"Talstraße 23\";\"39104\";\"Magdeburg\";\"DEU\";\"HELIOS ETIKETTEN KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 19,
+  "raw": "\"100018\";\"DE940090219\";\"Ringstraße 23\";\"60311\";\"Frankfurt\";\"DEU\";\"SOLUM RECYCLING AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100018",
+   "KUNDENUSTIDNR": "DE940090219",
+   "KUNDENSTRASSE": "Ringstraße 23",
+   "KUNDENPLZ": "60311",
+   "KUNDENORT": "Frankfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "SOLUM RECYCLING AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.19",
+   "quote": "\"100018\";\"DE940090219\";\"Ringstraße 23\";\"60311\";\"Frankfurt\";\"DEU\";\"SOLUM RECYCLING AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 20,
+  "raw": "\"100019\";\"DE845910243\";\"Carl-Benz-Straße 42\";\"01067\";\"Dresden\";\"DEU\";\"POLLUX SYSTEME GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100019",
+   "KUNDENUSTIDNR": "DE845910243",
+   "KUNDENSTRASSE": "Carl-Benz-Straße 42",
+   "KUNDENPLZ": "01067",
+   "KUNDENORT": "Dresden",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "POLLUX SYSTEME GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.20",
+   "quote": "\"100019\";\"DE845910243\";\"Carl-Benz-Straße 42\";\"01067\";\"Dresden\";\"DEU\";\"POLLUX SYSTEME GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 21,
+  "raw": "\"100020\";\"NL186849445\";\"Am Kanal 97\";\"01067\";\"Dresden\";\"EU\";\"ADLER TRANSPORT GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100020",
+   "KUNDENUSTIDNR": "NL186849445",
+   "KUNDENSTRASSE": "Am Kanal 97",
+   "KUNDENPLZ": "01067",
+   "KUNDENORT": "Dresden",
+   "KUNDENSTAAT": "EU",
+   "KUNDENNAME": "ADLER TRANSPORT GMBH",
+   "KUNDENGRUPPE": "C-EU",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-EU",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.21",
+   "quote": "\"100020\";\"NL186849445\";\"Am Kanal 97\";\"01067\";\"Dresden\";\"EU\";\"ADLER TRANSPORT GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 22,
+  "raw": "\"100021\";\"DE286455335\";\"Robert-Bosch-Straße 90\";\"99084\";\"Erfurt\";\"DEU\";\"HELIOS RECYCLING GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100021",
+   "KUNDENUSTIDNR": "DE286455335",
+   "KUNDENSTRASSE": "Robert-Bosch-Straße 90",
+   "KUNDENPLZ": "99084",
+   "KUNDENORT": "Erfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "HELIOS RECYCLING GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.22",
+   "quote": "\"100021\";\"DE286455335\";\"Robert-Bosch-Straße 90\";\"99084\";\"Erfurt\";\"DEU\";\"HELIOS RECYCLING GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 23,
+  "raw": "\"100022\";\"DE489709747\";\"Feldweg 182\";\"70173\";\"Stuttgart\";\"DEU\";\"WEST INDUSTRIEBEDARF GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100022",
+   "KUNDENUSTIDNR": "DE489709747",
+   "KUNDENSTRASSE": "Feldweg 182",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "WEST INDUSTRIEBEDARF GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.23",
+   "quote": "\"100022\";\"DE489709747\";\"Feldweg 182\";\"70173\";\"Stuttgart\";\"DEU\";\"WEST INDUSTRIEBEDARF GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 24,
+  "raw": "\"100023\";\"DE375610540\";\"Ringstraße 175\";\"99084\";\"Erfurt\";\"DEU\";\"OST PAPIER SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100023",
+   "KUNDENUSTIDNR": "DE375610540",
+   "KUNDENSTRASSE": "Ringstraße 175",
+   "KUNDENPLZ": "99084",
+   "KUNDENORT": "Erfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "OST PAPIER SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.24",
+   "quote": "\"100023\";\"DE375610540\";\"Ringstraße 175\";\"99084\";\"Erfurt\";\"DEU\";\"OST PAPIER SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 25,
+  "raw": "\"100024\";\"DE282721019\";\"Gewerbering 120\";\"34117\";\"Kassel\";\"DEU\";\"KRANICH HANDEL GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100024",
+   "KUNDENUSTIDNR": "DE282721019",
+   "KUNDENSTRASSE": "Gewerbering 120",
+   "KUNDENPLZ": "34117",
+   "KUNDENORT": "Kassel",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "KRANICH HANDEL GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.25",
+   "quote": "\"100024\";\"DE282721019\";\"Gewerbering 120\";\"34117\";\"Kassel\";\"DEU\";\"KRANICH HANDEL GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 26,
+  "raw": "\"100025\";\"DE401764520\";\"Ringstraße 90\";\"55116\";\"Mainz\";\"DEU\";\"LUPUS CHEMIE AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100025",
+   "KUNDENUSTIDNR": "DE401764520",
+   "KUNDENSTRASSE": "Ringstraße 90",
+   "KUNDENPLZ": "55116",
+   "KUNDENORT": "Mainz",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "LUPUS CHEMIE AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.26",
+   "quote": "\"100025\";\"DE401764520\";\"Ringstraße 90\";\"55116\";\"Mainz\";\"DEU\";\"LUPUS CHEMIE AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 27,
+  "raw": "\"100026\";\"DE755476788\";\"Industriestraße 185\";\"60311\";\"Frankfurt\";\"DEU\";\"IRIS KUNSTSTOFF E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100026",
+   "KUNDENUSTIDNR": "DE755476788",
+   "KUNDENSTRASSE": "Industriestraße 185",
+   "KUNDENPLZ": "60311",
+   "KUNDENORT": "Frankfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "IRIS KUNSTSTOFF E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.27",
+   "quote": "\"100026\";\"DE755476788\";\"Industriestraße 185\";\"60311\";\"Frankfurt\";\"DEU\";\"IRIS KUNSTSTOFF E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 28,
+  "raw": "\"100027\";\"DE392804169\";\"Ringstraße 58\";\"20095\";\"Hamburg\";\"DEU\";\"BOREAS TRANSPORT AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100027",
+   "KUNDENUSTIDNR": "DE392804169",
+   "KUNDENSTRASSE": "Ringstraße 58",
+   "KUNDENPLZ": "20095",
+   "KUNDENORT": "Hamburg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "BOREAS TRANSPORT AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.28",
+   "quote": "\"100027\";\"DE392804169\";\"Ringstraße 58\";\"20095\";\"Hamburg\";\"DEU\";\"BOREAS TRANSPORT AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 29,
+  "raw": "\"100028\";\"DE600263396\";\"Ringstraße 137\";\"44135\";\"Dortmund\";\"DEU\";\"VEGA FOLIEN GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100028",
+   "KUNDENUSTIDNR": "DE600263396",
+   "KUNDENSTRASSE": "Ringstraße 137",
+   "KUNDENPLZ": "44135",
+   "KUNDENORT": "Dortmund",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "VEGA FOLIEN GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.29",
+   "quote": "\"100028\";\"DE600263396\";\"Ringstraße 137\";\"44135\";\"Dortmund\";\"DEU\";\"VEGA FOLIEN GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 30,
+  "raw": "\"100029\";\"DE670425555\";\"Ringstraße 21\";\"18055\";\"Rostock\";\"DEU\";\"PRISMA WERKSTOFFE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100029",
+   "KUNDENUSTIDNR": "DE670425555",
+   "KUNDENSTRASSE": "Ringstraße 21",
+   "KUNDENPLZ": "18055",
+   "KUNDENORT": "Rostock",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "PRISMA WERKSTOFFE SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.30",
+   "quote": "\"100029\";\"DE670425555\";\"Ringstraße 21\";\"18055\";\"Rostock\";\"DEU\";\"PRISMA WERKSTOFFE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 31,
+  "raw": "\"100030\";\"BE881647309\";\"Hauptstraße 156\";\"70173\";\"Stuttgart\";\"EU\";\"PRISMA ETIKETTEN AG\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100030",
+   "KUNDENUSTIDNR": "BE881647309",
+   "KUNDENSTRASSE": "Hauptstraße 156",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "EU",
+   "KUNDENNAME": "PRISMA ETIKETTEN AG",
+   "KUNDENGRUPPE": "C-EU",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-EU",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.31",
+   "quote": "\"100030\";\"BE881647309\";\"Hauptstraße 156\";\"70173\";\"Stuttgart\";\"EU\";\"PRISMA ETIKETTEN AG\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 32,
+  "raw": "\"100031\";\"DE266182532\";\"Gewerbering 15\";\"99084\";\"Erfurt\";\"DEU\";\"RATIO PAPIER KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100031",
+   "KUNDENUSTIDNR": "DE266182532",
+   "KUNDENSTRASSE": "Gewerbering 15",
+   "KUNDENPLZ": "99084",
+   "KUNDENORT": "Erfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "RATIO PAPIER KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.32",
+   "quote": "\"100031\";\"DE266182532\";\"Gewerbering 15\";\"99084\";\"Erfurt\";\"DEU\";\"RATIO PAPIER KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 33,
+  "raw": "\"100032\";\"DE386145039\";\"Werkstraße 68\";\"50667\";\"Köln\";\"DEU\";\"OMEGA VERPACKUNG KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100032",
+   "KUNDENUSTIDNR": "DE386145039",
+   "KUNDENSTRASSE": "Werkstraße 68",
+   "KUNDENPLZ": "50667",
+   "KUNDENORT": "Köln",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "OMEGA VERPACKUNG KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.33",
+   "quote": "\"100032\";\"DE386145039\";\"Werkstraße 68\";\"50667\";\"Köln\";\"DEU\";\"OMEGA VERPACKUNG KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 34,
+  "raw": "\"100033\";\"PL215182327\";\"Werkstraße 109\";\"90402\";\"Nürnberg\";\"EU\";\"WEST TECHNIK GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100033",
+   "KUNDENUSTIDNR": "PL215182327",
+   "KUNDENSTRASSE": "Werkstraße 109",
+   "KUNDENPLZ": "90402",
+   "KUNDENORT": "Nürnberg",
+   "KUNDENSTAAT": "EU",
+   "KUNDENNAME": "WEST TECHNIK GMBH",
+   "KUNDENGRUPPE": "C-EU",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-EU",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.34",
+   "quote": "\"100033\";\"PL215182327\";\"Werkstraße 109\";\"90402\";\"Nürnberg\";\"EU\";\"WEST TECHNIK GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 35,
+  "raw": "\"100034\";\"DE779766236\";\"Werkstraße 115\";\"20095\";\"Hamburg\";\"DEU\";\"BOREAS PAPIER GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100034",
+   "KUNDENUSTIDNR": "DE779766236",
+   "KUNDENSTRASSE": "Werkstraße 115",
+   "KUNDENPLZ": "20095",
+   "KUNDENORT": "Hamburg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "BOREAS PAPIER GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.35",
+   "quote": "\"100034\";\"DE779766236\";\"Werkstraße 115\";\"20095\";\"Hamburg\";\"DEU\";\"BOREAS PAPIER GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 36,
+  "raw": "\"100035\";\"DE700175909\";\"Lindenallee 152\";\"70173\";\"Stuttgart\";\"DEU\";\"CIVES TECHNIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100035",
+   "KUNDENUSTIDNR": "DE700175909",
+   "KUNDENSTRASSE": "Lindenallee 152",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "CIVES TECHNIK GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.36",
+   "quote": "\"100035\";\"DE700175909\";\"Lindenallee 152\";\"70173\";\"Stuttgart\";\"DEU\";\"CIVES TECHNIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 37,
+  "raw": "\"100036\";\"DE209899143\";\"Talstraße 15\";\"30159\";\"Hannover\";\"DEU\";\"KRONOS PAPIER GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100036",
+   "KUNDENUSTIDNR": "DE209899143",
+   "KUNDENSTRASSE": "Talstraße 15",
+   "KUNDENPLZ": "30159",
+   "KUNDENORT": "Hannover",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "KRONOS PAPIER GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.37",
+   "quote": "\"100036\";\"DE209899143\";\"Talstraße 15\";\"30159\";\"Hannover\";\"DEU\";\"KRONOS PAPIER GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 38,
+  "raw": "\"100037\";\"DE216632413\";\"Hauptstraße 53\";\"45127\";\"Essen\";\"DEU\";\"PACTUM TECHNIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100037",
+   "KUNDENUSTIDNR": "DE216632413",
+   "KUNDENSTRASSE": "Hauptstraße 53",
+   "KUNDENPLZ": "45127",
+   "KUNDENORT": "Essen",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "PACTUM TECHNIK GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.38",
+   "quote": "\"100037\";\"DE216632413\";\"Hauptstraße 53\";\"45127\";\"Essen\";\"DEU\";\"PACTUM TECHNIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 39,
+  "raw": "\"100038\";\"DE470837335\";\"Am Hafen 109\";\"50667\";\"Köln\";\"DEU\";\"SATURN MASCHINEN GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100038",
+   "KUNDENUSTIDNR": "DE470837335",
+   "KUNDENSTRASSE": "Am Hafen 109",
+   "KUNDENPLZ": "50667",
+   "KUNDENORT": "Köln",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "SATURN MASCHINEN GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.39",
+   "quote": "\"100038\";\"DE470837335\";\"Am Hafen 109\";\"50667\";\"Köln\";\"DEU\";\"SATURN MASCHINEN GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 40,
+  "raw": "\"100039\";\"DE330280521\";\"Am Hafen 134\";\"28195\";\"Bremen\";\"DEU\";\"IRIS TECHNIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100039",
+   "KUNDENUSTIDNR": "DE330280521",
+   "KUNDENSTRASSE": "Am Hafen 134",
+   "KUNDENPLZ": "28195",
+   "KUNDENORT": "Bremen",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "IRIS TECHNIK GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.40",
+   "quote": "\"100039\";\"DE330280521\";\"Am Hafen 134\";\"28195\";\"Bremen\";\"DEU\";\"IRIS TECHNIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 41,
+  "raw": "\"100040\";\"DE502363187\";\"Feldweg 69\";\"07743\";\"Jena\";\"DEU\";\"SOLUM WERKSTOFFE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100040",
+   "KUNDENUSTIDNR": "DE502363187",
+   "KUNDENSTRASSE": "Feldweg 69",
+   "KUNDENPLZ": "07743",
+   "KUNDENORT": "Jena",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "SOLUM WERKSTOFFE GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.41",
+   "quote": "\"100040\";\"DE502363187\";\"Feldweg 69\";\"07743\";\"Jena\";\"DEU\";\"SOLUM WERKSTOFFE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 42,
+  "raw": "\"100041\";\"DE150195188\";\"Carl-Benz-Straße 42\";\"80331\";\"München\";\"DEU\";\"PRISMA HANDEL E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100041",
+   "KUNDENUSTIDNR": "DE150195188",
+   "KUNDENSTRASSE": "Carl-Benz-Straße 42",
+   "KUNDENPLZ": "80331",
+   "KUNDENORT": "München",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "PRISMA HANDEL E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.42",
+   "quote": "\"100041\";\"DE150195188\";\"Carl-Benz-Straße 42\";\"80331\";\"München\";\"DEU\";\"PRISMA HANDEL E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 43,
+  "raw": "\"100042\";\"DE183593905\";\"Talstraße 110\";\"70173\";\"Stuttgart\";\"DEU\";\"ADLER HANDEL GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100042",
+   "KUNDENUSTIDNR": "DE183593905",
+   "KUNDENSTRASSE": "Talstraße 110",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ADLER HANDEL GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.43",
+   "quote": "\"100042\";\"DE183593905\";\"Talstraße 110\";\"70173\";\"Stuttgart\";\"DEU\";\"ADLER HANDEL GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 44,
+  "raw": "\"100043\";\"DE619079814\";\"Talstraße 119\";\"70173\";\"Stuttgart\";\"DEU\";\"DELTA BESCHICHTUNG GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100043",
+   "KUNDENUSTIDNR": "DE619079814",
+   "KUNDENSTRASSE": "Talstraße 119",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "DELTA BESCHICHTUNG GMBH & CO. KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.44",
+   "quote": "\"100043\";\"DE619079814\";\"Talstraße 119\";\"70173\";\"Stuttgart\";\"DEU\";\"DELTA BESCHICHTUNG GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 45,
+  "raw": "\"100044\";\"AT735987336\";\"Bahnhofstraße 198\";\"44135\";\"Dortmund\";\"EU\";\"VEGA FORMTEILE GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100044",
+   "KUNDENUSTIDNR": "AT735987336",
+   "KUNDENSTRASSE": "Bahnhofstraße 198",
+   "KUNDENPLZ": "44135",
+   "KUNDENORT": "Dortmund",
+   "KUNDENSTAAT": "EU",
+   "KUNDENNAME": "VEGA FORMTEILE GMBH",
+   "KUNDENGRUPPE": "C-EU",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-EU",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.45",
+   "quote": "\"100044\";\"AT735987336\";\"Bahnhofstraße 198\";\"44135\";\"Dortmund\";\"EU\";\"VEGA FORMTEILE GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 46,
+  "raw": "\"100045\";\"DE544505819\";\"Lindenallee 190\";\"07743\";\"Jena\";\"DEU\";\"HELIOS DRUCK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100045",
+   "KUNDENUSTIDNR": "DE544505819",
+   "KUNDENSTRASSE": "Lindenallee 190",
+   "KUNDENPLZ": "07743",
+   "KUNDENORT": "Jena",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "HELIOS DRUCK GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.46",
+   "quote": "\"100045\";\"DE544505819\";\"Lindenallee 190\";\"07743\";\"Jena\";\"DEU\";\"HELIOS DRUCK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 47,
+  "raw": "\"100046\";\"DE546795053\";\"Marktplatz 115\";\"90402\";\"Nürnberg\";\"DEU\";\"SÜD KUNSTSTOFF KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100046",
+   "KUNDENUSTIDNR": "DE546795053",
+   "KUNDENSTRASSE": "Marktplatz 115",
+   "KUNDENPLZ": "90402",
+   "KUNDENORT": "Nürnberg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "SÜD KUNSTSTOFF KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.47",
+   "quote": "\"100046\";\"DE546795053\";\"Marktplatz 115\";\"90402\";\"Nürnberg\";\"DEU\";\"SÜD KUNSTSTOFF KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 48,
+  "raw": "\"100047\";\"DE724829262\";\"Marktplatz 44\";\"07743\";\"Jena\";\"DEU\";\"ADLER KARTON KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100047",
+   "KUNDENUSTIDNR": "DE724829262",
+   "KUNDENSTRASSE": "Marktplatz 44",
+   "KUNDENPLZ": "07743",
+   "KUNDENORT": "Jena",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ADLER KARTON KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.48",
+   "quote": "\"100047\";\"DE724829262\";\"Marktplatz 44\";\"07743\";\"Jena\";\"DEU\";\"ADLER KARTON KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 49,
+  "raw": "\"100048\";\"DE960797238\";\"Am Kanal 78\";\"28195\";\"Bremen\";\"DEU\";\"ATLAS ETIKETTEN GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100048",
+   "KUNDENUSTIDNR": "DE960797238",
+   "KUNDENSTRASSE": "Am Kanal 78",
+   "KUNDENPLZ": "28195",
+   "KUNDENORT": "Bremen",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ATLAS ETIKETTEN GMBH & CO. KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.49",
+   "quote": "\"100048\";\"DE960797238\";\"Am Kanal 78\";\"28195\";\"Bremen\";\"DEU\";\"ATLAS ETIKETTEN GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 50,
+  "raw": "\"100049\";\"DE432581875\";\"Ringstraße 132\";\"50667\";\"Köln\";\"DEU\";\"OST KARTON AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100049",
+   "KUNDENUSTIDNR": "DE432581875",
+   "KUNDENSTRASSE": "Ringstraße 132",
+   "KUNDENPLZ": "50667",
+   "KUNDENORT": "Köln",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "OST KARTON AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.50",
+   "quote": "\"100049\";\"DE432581875\";\"Ringstraße 132\";\"50667\";\"Köln\";\"DEU\";\"OST KARTON AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 51,
+  "raw": "\"100050\";\"DE301112254\";\"Industriestraße 26\";\"66111\";\"Saarbrücken\";\"DEU\";\"OST CHEMIE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100050",
+   "KUNDENUSTIDNR": "DE301112254",
+   "KUNDENSTRASSE": "Industriestraße 26",
+   "KUNDENPLZ": "66111",
+   "KUNDENORT": "Saarbrücken",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "OST CHEMIE GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.51",
+   "quote": "\"100050\";\"DE301112254\";\"Industriestraße 26\";\"66111\";\"Saarbrücken\";\"DEU\";\"OST CHEMIE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 52,
+  "raw": "\"100051\";\"DE281594119\";\"Talstraße 172\";\"50667\";\"Köln\";\"DEU\";\"PACTUM DISTRIBUTION KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100051",
+   "KUNDENUSTIDNR": "DE281594119",
+   "KUNDENSTRASSE": "Talstraße 172",
+   "KUNDENPLZ": "50667",
+   "KUNDENORT": "Köln",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "PACTUM DISTRIBUTION KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.52",
+   "quote": "\"100051\";\"DE281594119\";\"Talstraße 172\";\"50667\";\"Köln\";\"DEU\";\"PACTUM DISTRIBUTION KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 53,
+  "raw": "\"100052\";\"DE199283187\";\"Rheinstraße 25\";\"55116\";\"Mainz\";\"DEU\";\"ORION TRANSPORT GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100052",
+   "KUNDENUSTIDNR": "DE199283187",
+   "KUNDENSTRASSE": "Rheinstraße 25",
+   "KUNDENPLZ": "55116",
+   "KUNDENORT": "Mainz",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ORION TRANSPORT GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.53",
+   "quote": "\"100052\";\"DE199283187\";\"Rheinstraße 25\";\"55116\";\"Mainz\";\"DEU\";\"ORION TRANSPORT GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 54,
+  "raw": "\"100053\";\"DE687787920\";\"Bahnhofstraße 102\";\"01067\";\"Dresden\";\"DEU\";\"REIHER LOGISTIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100053",
+   "KUNDENUSTIDNR": "DE687787920",
+   "KUNDENSTRASSE": "Bahnhofstraße 102",
+   "KUNDENPLZ": "01067",
+   "KUNDENORT": "Dresden",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "REIHER LOGISTIK GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.54",
+   "quote": "\"100053\";\"DE687787920\";\"Bahnhofstraße 102\";\"01067\";\"Dresden\";\"DEU\";\"REIHER LOGISTIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 55,
+  "raw": "\"100054\";\"DE113709810\";\"Feldweg 13\";\"45127\";\"Essen\";\"DEU\";\"CIVES ETIKETTEN SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100054",
+   "KUNDENUSTIDNR": "DE113709810",
+   "KUNDENSTRASSE": "Feldweg 13",
+   "KUNDENPLZ": "45127",
+   "KUNDENORT": "Essen",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "CIVES ETIKETTEN SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.55",
+   "quote": "\"100054\";\"DE113709810\";\"Feldweg 13\";\"45127\";\"Essen\";\"DEU\";\"CIVES ETIKETTEN SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 56,
+  "raw": "\"100055\";\"DE559729747\";\"Industriestraße 154\";\"18055\";\"Rostock\";\"DEU\";\"ADLER DRUCK KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100055",
+   "KUNDENUSTIDNR": "DE559729747",
+   "KUNDENSTRASSE": "Industriestraße 154",
+   "KUNDENPLZ": "18055",
+   "KUNDENORT": "Rostock",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ADLER DRUCK KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.56",
+   "quote": "\"100055\";\"DE559729747\";\"Industriestraße 154\";\"18055\";\"Rostock\";\"DEU\";\"ADLER DRUCK KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 57,
+  "raw": "\"100056\";\"DE504583959\";\"Robert-Bosch-Straße 167\";\"20095\";\"Hamburg\";\"DEU\";\"NORD WERKSTOFFE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100056",
+   "KUNDENUSTIDNR": "DE504583959",
+   "KUNDENSTRASSE": "Robert-Bosch-Straße 167",
+   "KUNDENPLZ": "20095",
+   "KUNDENORT": "Hamburg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "NORD WERKSTOFFE SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.57",
+   "quote": "\"100056\";\"DE504583959\";\"Robert-Bosch-Straße 167\";\"20095\";\"Hamburg\";\"DEU\";\"NORD WERKSTOFFE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 58,
+  "raw": "\"100057\";\"DE532025571\";\"Marktplatz 97\";\"70173\";\"Stuttgart\";\"DEU\";\"CORVUS FORMTEILE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100057",
+   "KUNDENUSTIDNR": "DE532025571",
+   "KUNDENSTRASSE": "Marktplatz 97",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "CORVUS FORMTEILE GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.58",
+   "quote": "\"100057\";\"DE532025571\";\"Marktplatz 97\";\"70173\";\"Stuttgart\";\"DEU\";\"CORVUS FORMTEILE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 59,
+  "raw": "\"100058\";\"DE648236712\";\"Ringstraße 111\";\"90402\";\"Nürnberg\";\"DEU\";\"VEGA ETIKETTEN GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100058",
+   "KUNDENUSTIDNR": "DE648236712",
+   "KUNDENSTRASSE": "Ringstraße 111",
+   "KUNDENPLZ": "90402",
+   "KUNDENORT": "Nürnberg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "VEGA ETIKETTEN GMBH & CO. KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.59",
+   "quote": "\"100058\";\"DE648236712\";\"Ringstraße 111\";\"90402\";\"Nürnberg\";\"DEU\";\"VEGA ETIKETTEN GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 60,
+  "raw": "\"100059\";\"DE796823543\";\"Am Hafen 66\";\"28195\";\"Bremen\";\"DEU\";\"FOKUS RECYCLING GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100059",
+   "KUNDENUSTIDNR": "DE796823543",
+   "KUNDENSTRASSE": "Am Hafen 66",
+   "KUNDENPLZ": "28195",
+   "KUNDENORT": "Bremen",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "FOKUS RECYCLING GMBH & CO. KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.60",
+   "quote": "\"100059\";\"DE796823543\";\"Am Hafen 66\";\"28195\";\"Bremen\";\"DEU\";\"FOKUS RECYCLING GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 61,
+  "raw": "\"100060\";\"DE752767209\";\"Industriestraße 151\";\"44135\";\"Dortmund\";\"DEU\";\"ATLAS FOLIEN GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100060",
+   "KUNDENUSTIDNR": "DE752767209",
+   "KUNDENSTRASSE": "Industriestraße 151",
+   "KUNDENPLZ": "44135",
+   "KUNDENORT": "Dortmund",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ATLAS FOLIEN GMBH & CO. KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.61",
+   "quote": "\"100060\";\"DE752767209\";\"Industriestraße 151\";\"44135\";\"Dortmund\";\"DEU\";\"ATLAS FOLIEN GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 62,
+  "raw": "\"100061\";\"DE287336348\";\"Rheinstraße 176\";\"39104\";\"Magdeburg\";\"DEU\";\"TERRA KARTON E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100061",
+   "KUNDENUSTIDNR": "DE287336348",
+   "KUNDENSTRASSE": "Rheinstraße 176",
+   "KUNDENPLZ": "39104",
+   "KUNDENORT": "Magdeburg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "TERRA KARTON E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.62",
+   "quote": "\"100061\";\"DE287336348\";\"Rheinstraße 176\";\"39104\";\"Magdeburg\";\"DEU\";\"TERRA KARTON E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 63,
+  "raw": "\"100062\";\"DE471105209\";\"Ringstraße 124\";\"50667\";\"Köln\";\"DEU\";\"POLLUX BESCHICHTUNG GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100062",
+   "KUNDENUSTIDNR": "DE471105209",
+   "KUNDENSTRASSE": "Ringstraße 124",
+   "KUNDENPLZ": "50667",
+   "KUNDENORT": "Köln",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "POLLUX BESCHICHTUNG GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.63",
+   "quote": "\"100062\";\"DE471105209\";\"Ringstraße 124\";\"50667\";\"Köln\";\"DEU\";\"POLLUX BESCHICHTUNG GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 64,
+  "raw": "\"100063\";\"DE436404960\";\"Werkstraße 32\";\"18055\";\"Rostock\";\"DEU\";\"MERKUR DRUCK SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100063",
+   "KUNDENUSTIDNR": "DE436404960",
+   "KUNDENSTRASSE": "Werkstraße 32",
+   "KUNDENPLZ": "18055",
+   "KUNDENORT": "Rostock",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "MERKUR DRUCK SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.64",
+   "quote": "\"100063\";\"DE436404960\";\"Werkstraße 32\";\"18055\";\"Rostock\";\"DEU\";\"MERKUR DRUCK SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 65,
+  "raw": "\"100064\";\"DE917103209\";\"Bahnhofstraße 179\";\"99084\";\"Erfurt\";\"DEU\";\"FALKE MASCHINEN GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100064",
+   "KUNDENUSTIDNR": "DE917103209",
+   "KUNDENSTRASSE": "Bahnhofstraße 179",
+   "KUNDENPLZ": "99084",
+   "KUNDENORT": "Erfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "FALKE MASCHINEN GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.65",
+   "quote": "\"100064\";\"DE917103209\";\"Bahnhofstraße 179\";\"99084\";\"Erfurt\";\"DEU\";\"FALKE MASCHINEN GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 66,
+  "raw": "\"100065\";\"DE207169473\";\"Lindenallee 133\";\"90402\";\"Nürnberg\";\"DEU\";\"ATLAS ETIKETTEN E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100065",
+   "KUNDENUSTIDNR": "DE207169473",
+   "KUNDENSTRASSE": "Lindenallee 133",
+   "KUNDENPLZ": "90402",
+   "KUNDENORT": "Nürnberg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ATLAS ETIKETTEN E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.66",
+   "quote": "\"100065\";\"DE207169473\";\"Lindenallee 133\";\"90402\";\"Nürnberg\";\"DEU\";\"ATLAS ETIKETTEN E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 67,
+  "raw": "\"100066\";\"DE518849094\";\"Talstraße 35\";\"55116\";\"Mainz\";\"DEU\";\"SOLUM PAPIER GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100066",
+   "KUNDENUSTIDNR": "DE518849094",
+   "KUNDENSTRASSE": "Talstraße 35",
+   "KUNDENPLZ": "55116",
+   "KUNDENORT": "Mainz",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "SOLUM PAPIER GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.67",
+   "quote": "\"100066\";\"DE518849094\";\"Talstraße 35\";\"55116\";\"Mainz\";\"DEU\";\"SOLUM PAPIER GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 68,
+  "raw": "\"100067\";\"DE453639314\";\"Marktplatz 171\";\"55116\";\"Mainz\";\"DEU\";\"NOVA DRUCK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100067",
+   "KUNDENUSTIDNR": "DE453639314",
+   "KUNDENSTRASSE": "Marktplatz 171",
+   "KUNDENPLZ": "55116",
+   "KUNDENORT": "Mainz",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "NOVA DRUCK GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.68",
+   "quote": "\"100067\";\"DE453639314\";\"Marktplatz 171\";\"55116\";\"Mainz\";\"DEU\";\"NOVA DRUCK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 69,
+  "raw": "\"100068\";\"DE701066268\";\"Am Kanal 11\";\"04109\";\"Leipzig\";\"DEU\";\"VEGA ETIKETTEN KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100068",
+   "KUNDENUSTIDNR": "DE701066268",
+   "KUNDENSTRASSE": "Am Kanal 11",
+   "KUNDENPLZ": "04109",
+   "KUNDENORT": "Leipzig",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "VEGA ETIKETTEN KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.69",
+   "quote": "\"100068\";\"DE701066268\";\"Am Kanal 11\";\"04109\";\"Leipzig\";\"DEU\";\"VEGA ETIKETTEN KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 70,
+  "raw": "\"100069\";\"BE754055353\";\"Rheinstraße 146\";\"99084\";\"Erfurt\";\"EU\";\"HELIOS WERKSTOFFE GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100069",
+   "KUNDENUSTIDNR": "BE754055353",
+   "KUNDENSTRASSE": "Rheinstraße 146",
+   "KUNDENPLZ": "99084",
+   "KUNDENORT": "Erfurt",
+   "KUNDENSTAAT": "EU",
+   "KUNDENNAME": "HELIOS WERKSTOFFE GMBH",
+   "KUNDENGRUPPE": "C-EU",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-EU",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.70",
+   "quote": "\"100069\";\"BE754055353\";\"Rheinstraße 146\";\"99084\";\"Erfurt\";\"EU\";\"HELIOS WERKSTOFFE GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 71,
+  "raw": "\"100070\";\"DE920090516\";\"Robert-Bosch-Straße 130\";\"34117\";\"Kassel\";\"DEU\";\"ADLER DRUCK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100070",
+   "KUNDENUSTIDNR": "DE920090516",
+   "KUNDENSTRASSE": "Robert-Bosch-Straße 130",
+   "KUNDENPLZ": "34117",
+   "KUNDENORT": "Kassel",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ADLER DRUCK GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.71",
+   "quote": "\"100070\";\"DE920090516\";\"Robert-Bosch-Straße 130\";\"34117\";\"Kassel\";\"DEU\";\"ADLER DRUCK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 72,
+  "raw": "\"100071\";\"BE808316419\";\"Feldweg 9\";\"60311\";\"Frankfurt\";\"EU\";\"VEGA PAPIER GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100071",
+   "KUNDENUSTIDNR": "BE808316419",
+   "KUNDENSTRASSE": "Feldweg 9",
+   "KUNDENPLZ": "60311",
+   "KUNDENORT": "Frankfurt",
+   "KUNDENSTAAT": "EU",
+   "KUNDENNAME": "VEGA PAPIER GMBH",
+   "KUNDENGRUPPE": "C-EU",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-EU",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.72",
+   "quote": "\"100071\";\"BE808316419\";\"Feldweg 9\";\"60311\";\"Frankfurt\";\"EU\";\"VEGA PAPIER GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 73,
+  "raw": "\"100072\";\"DE220693589\";\"Am Hafen 171\";\"90402\";\"Nürnberg\";\"DEU\";\"IRIS LOGISTIK E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100072",
+   "KUNDENUSTIDNR": "DE220693589",
+   "KUNDENSTRASSE": "Am Hafen 171",
+   "KUNDENPLZ": "90402",
+   "KUNDENORT": "Nürnberg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "IRIS LOGISTIK E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.73",
+   "quote": "\"100072\";\"DE220693589\";\"Am Hafen 171\";\"90402\";\"Nürnberg\";\"DEU\";\"IRIS LOGISTIK E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 74,
+  "raw": "\"100073\";\"DE876728374\";\"Marktplatz 181\";\"50667\";\"Köln\";\"DEU\";\"KRANICH MASCHINEN AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100073",
+   "KUNDENUSTIDNR": "DE876728374",
+   "KUNDENSTRASSE": "Marktplatz 181",
+   "KUNDENPLZ": "50667",
+   "KUNDENORT": "Köln",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "KRANICH MASCHINEN AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.74",
+   "quote": "\"100073\";\"DE876728374\";\"Marktplatz 181\";\"50667\";\"Köln\";\"DEU\";\"KRANICH MASCHINEN AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 75,
+  "raw": "\"100074\";\"DE670658559\";\"Marktplatz 83\";\"80331\";\"München\";\"DEU\";\"WEST LOGISTIK KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100074",
+   "KUNDENUSTIDNR": "DE670658559",
+   "KUNDENSTRASSE": "Marktplatz 83",
+   "KUNDENPLZ": "80331",
+   "KUNDENORT": "München",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "WEST LOGISTIK KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.75",
+   "quote": "\"100074\";\"DE670658559\";\"Marktplatz 83\";\"80331\";\"München\";\"DEU\";\"WEST LOGISTIK KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 76,
+  "raw": "\"100075\";\"PL818537163\";\"Robert-Bosch-Straße 147\";\"55116\";\"Mainz\";\"EU\";\"FALKE ETIKETTEN E.K.\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100075",
+   "KUNDENUSTIDNR": "PL818537163",
+   "KUNDENSTRASSE": "Robert-Bosch-Straße 147",
+   "KUNDENPLZ": "55116",
+   "KUNDENORT": "Mainz",
+   "KUNDENSTAAT": "EU",
+   "KUNDENNAME": "FALKE ETIKETTEN E.K.",
+   "KUNDENGRUPPE": "C-EU",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-EU",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.76",
+   "quote": "\"100075\";\"PL818537163\";\"Robert-Bosch-Straße 147\";\"55116\";\"Mainz\";\"EU\";\"FALKE ETIKETTEN E.K.\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 77,
+  "raw": "\"100076\";\"DE605883238\";\"Carl-Benz-Straße 64\";\"01067\";\"Dresden\";\"DEU\";\"PACTUM LOGISTIK SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100076",
+   "KUNDENUSTIDNR": "DE605883238",
+   "KUNDENSTRASSE": "Carl-Benz-Straße 64",
+   "KUNDENPLZ": "01067",
+   "KUNDENORT": "Dresden",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "PACTUM LOGISTIK SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.77",
+   "quote": "\"100076\";\"DE605883238\";\"Carl-Benz-Straße 64\";\"01067\";\"Dresden\";\"DEU\";\"PACTUM LOGISTIK SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 78,
+  "raw": "\"100077\";\"DE917614922\";\"Ringstraße 16\";\"60311\";\"Frankfurt\";\"DEU\";\"KRANICH FORMTEILE E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100077",
+   "KUNDENUSTIDNR": "DE917614922",
+   "KUNDENSTRASSE": "Ringstraße 16",
+   "KUNDENPLZ": "60311",
+   "KUNDENORT": "Frankfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "KRANICH FORMTEILE E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.78",
+   "quote": "\"100077\";\"DE917614922\";\"Ringstraße 16\";\"60311\";\"Frankfurt\";\"DEU\";\"KRANICH FORMTEILE E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 79,
+  "raw": "\"100078\";\"DE481481487\";\"Feldweg 60\";\"50667\";\"Köln\";\"DEU\";\"FALKE SYSTEME GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100078",
+   "KUNDENUSTIDNR": "DE481481487",
+   "KUNDENSTRASSE": "Feldweg 60",
+   "KUNDENPLZ": "50667",
+   "KUNDENORT": "Köln",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "FALKE SYSTEME GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.79",
+   "quote": "\"100078\";\"DE481481487\";\"Feldweg 60\";\"50667\";\"Köln\";\"DEU\";\"FALKE SYSTEME GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 80,
+  "raw": "\"100079\";\"DE848727762\";\"Rheinstraße 82\";\"28195\";\"Bremen\";\"DEU\";\"CORVUS KARTON GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100079",
+   "KUNDENUSTIDNR": "DE848727762",
+   "KUNDENSTRASSE": "Rheinstraße 82",
+   "KUNDENPLZ": "28195",
+   "KUNDENORT": "Bremen",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "CORVUS KARTON GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.80",
+   "quote": "\"100079\";\"DE848727762\";\"Rheinstraße 82\";\"28195\";\"Bremen\";\"DEU\";\"CORVUS KARTON GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 81,
+  "raw": "\"100080\";\"DE728286738\";\"Rheinstraße 50\";\"70173\";\"Stuttgart\";\"DEU\";\"RATIO SYSTEME GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100080",
+   "KUNDENUSTIDNR": "DE728286738",
+   "KUNDENSTRASSE": "Rheinstraße 50",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "RATIO SYSTEME GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.81",
+   "quote": "\"100080\";\"DE728286738\";\"Rheinstraße 50\";\"70173\";\"Stuttgart\";\"DEU\";\"RATIO SYSTEME GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 82,
+  "raw": "\"100081\";\"DE222398910\";\"Werkstraße 56\";\"07743\";\"Jena\";\"DEU\";\"ADLER RECYCLING GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100081",
+   "KUNDENUSTIDNR": "DE222398910",
+   "KUNDENSTRASSE": "Werkstraße 56",
+   "KUNDENPLZ": "07743",
+   "KUNDENORT": "Jena",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ADLER RECYCLING GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.82",
+   "quote": "\"100081\";\"DE222398910\";\"Werkstraße 56\";\"07743\";\"Jena\";\"DEU\";\"ADLER RECYCLING GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 83,
+  "raw": "\"100082\";\"DE179518073\";\"Industriestraße 3\";\"70173\";\"Stuttgart\";\"DEU\";\"NORD PAPIER KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100082",
+   "KUNDENUSTIDNR": "DE179518073",
+   "KUNDENSTRASSE": "Industriestraße 3",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "NORD PAPIER KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.83",
+   "quote": "\"100082\";\"DE179518073\";\"Industriestraße 3\";\"70173\";\"Stuttgart\";\"DEU\";\"NORD PAPIER KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 84,
+  "raw": "\"100083\";\"DE842199760\";\"Am Hafen 5\";\"60311\";\"Frankfurt\";\"DEU\";\"MERKUR MASCHINEN GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100083",
+   "KUNDENUSTIDNR": "DE842199760",
+   "KUNDENSTRASSE": "Am Hafen 5",
+   "KUNDENPLZ": "60311",
+   "KUNDENORT": "Frankfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "MERKUR MASCHINEN GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.84",
+   "quote": "\"100083\";\"DE842199760\";\"Am Hafen 5\";\"60311\";\"Frankfurt\";\"DEU\";\"MERKUR MASCHINEN GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 85,
+  "raw": "\"100084\";\"DE511456079\";\"Am Kanal 4\";\"04109\";\"Leipzig\";\"DEU\";\"FOKUS LOGISTIK AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100084",
+   "KUNDENUSTIDNR": "DE511456079",
+   "KUNDENSTRASSE": "Am Kanal 4",
+   "KUNDENPLZ": "04109",
+   "KUNDENORT": "Leipzig",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "FOKUS LOGISTIK AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.85",
+   "quote": "\"100084\";\"DE511456079\";\"Am Kanal 4\";\"04109\";\"Leipzig\";\"DEU\";\"FOKUS LOGISTIK AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 86,
+  "raw": "\"100085\";\"DE537796887\";\"Hauptstraße 196\";\"66111\";\"Saarbrücken\";\"DEU\";\"WEST LOGISTIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100085",
+   "KUNDENUSTIDNR": "DE537796887",
+   "KUNDENSTRASSE": "Hauptstraße 196",
+   "KUNDENPLZ": "66111",
+   "KUNDENORT": "Saarbrücken",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "WEST LOGISTIK GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.86",
+   "quote": "\"100085\";\"DE537796887\";\"Hauptstraße 196\";\"66111\";\"Saarbrücken\";\"DEU\";\"WEST LOGISTIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 87,
+  "raw": "\"100086\";\"DE897926714\";\"Rheinstraße 115\";\"60311\";\"Frankfurt\";\"DEU\";\"HELIOS FOLIEN GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100086",
+   "KUNDENUSTIDNR": "DE897926714",
+   "KUNDENSTRASSE": "Rheinstraße 115",
+   "KUNDENPLZ": "60311",
+   "KUNDENORT": "Frankfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "HELIOS FOLIEN GMBH & CO. KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.87",
+   "quote": "\"100086\";\"DE897926714\";\"Rheinstraße 115\";\"60311\";\"Frankfurt\";\"DEU\";\"HELIOS FOLIEN GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 88,
+  "raw": "\"100087\";\"DE685714291\";\"Robert-Bosch-Straße 103\";\"20095\";\"Hamburg\";\"DEU\";\"SOLUM VERPACKUNG GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100087",
+   "KUNDENUSTIDNR": "DE685714291",
+   "KUNDENSTRASSE": "Robert-Bosch-Straße 103",
+   "KUNDENPLZ": "20095",
+   "KUNDENORT": "Hamburg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "SOLUM VERPACKUNG GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.88",
+   "quote": "\"100087\";\"DE685714291\";\"Robert-Bosch-Straße 103\";\"20095\";\"Hamburg\";\"DEU\";\"SOLUM VERPACKUNG GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 89,
+  "raw": "\"100088\";\"DE930436159\";\"Robert-Bosch-Straße 94\";\"18055\";\"Rostock\";\"DEU\";\"NOVA BESCHICHTUNG GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100088",
+   "KUNDENUSTIDNR": "DE930436159",
+   "KUNDENSTRASSE": "Robert-Bosch-Straße 94",
+   "KUNDENPLZ": "18055",
+   "KUNDENORT": "Rostock",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "NOVA BESCHICHTUNG GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.89",
+   "quote": "\"100088\";\"DE930436159\";\"Robert-Bosch-Straße 94\";\"18055\";\"Rostock\";\"DEU\";\"NOVA BESCHICHTUNG GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 90,
+  "raw": "\"100089\";\"DE481390337\";\"Talstraße 195\";\"70173\";\"Stuttgart\";\"DEU\";\"LUPUS RECYCLING GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100089",
+   "KUNDENUSTIDNR": "DE481390337",
+   "KUNDENSTRASSE": "Talstraße 195",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "LUPUS RECYCLING GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.90",
+   "quote": "\"100089\";\"DE481390337\";\"Talstraße 195\";\"70173\";\"Stuttgart\";\"DEU\";\"LUPUS RECYCLING GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 91,
+  "raw": "\"100090\";\"DE939955847\";\"Lindenallee 98\";\"99084\";\"Erfurt\";\"DEU\";\"WEST WERKSTOFFE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100090",
+   "KUNDENUSTIDNR": "DE939955847",
+   "KUNDENSTRASSE": "Lindenallee 98",
+   "KUNDENPLZ": "99084",
+   "KUNDENORT": "Erfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "WEST WERKSTOFFE GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.91",
+   "quote": "\"100090\";\"DE939955847\";\"Lindenallee 98\";\"99084\";\"Erfurt\";\"DEU\";\"WEST WERKSTOFFE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 92,
+  "raw": "\"100091\";\"DE966460552\";\"Am Hafen 89\";\"07743\";\"Jena\";\"DEU\";\"RATIO RECYCLING AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100091",
+   "KUNDENUSTIDNR": "DE966460552",
+   "KUNDENSTRASSE": "Am Hafen 89",
+   "KUNDENPLZ": "07743",
+   "KUNDENORT": "Jena",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "RATIO RECYCLING AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.92",
+   "quote": "\"100091\";\"DE966460552\";\"Am Hafen 89\";\"07743\";\"Jena\";\"DEU\";\"RATIO RECYCLING AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 93,
+  "raw": "\"100092\";\"DE480223633\";\"Gewerbering 31\";\"60311\";\"Frankfurt\";\"DEU\";\"SATURN ETIKETTEN GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100092",
+   "KUNDENUSTIDNR": "DE480223633",
+   "KUNDENSTRASSE": "Gewerbering 31",
+   "KUNDENPLZ": "60311",
+   "KUNDENORT": "Frankfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "SATURN ETIKETTEN GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.93",
+   "quote": "\"100092\";\"DE480223633\";\"Gewerbering 31\";\"60311\";\"Frankfurt\";\"DEU\";\"SATURN ETIKETTEN GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 94,
+  "raw": "\"100093\";\"DE102688035\";\"Ringstraße 131\";\"99084\";\"Erfurt\";\"DEU\";\"TERRA RECYCLING GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100093",
+   "KUNDENUSTIDNR": "DE102688035",
+   "KUNDENSTRASSE": "Ringstraße 131",
+   "KUNDENPLZ": "99084",
+   "KUNDENORT": "Erfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "TERRA RECYCLING GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.94",
+   "quote": "\"100093\";\"DE102688035\";\"Ringstraße 131\";\"99084\";\"Erfurt\";\"DEU\";\"TERRA RECYCLING GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 95,
+  "raw": "\"100094\";\"DE618175590\";\"Lindenallee 175\";\"18055\";\"Rostock\";\"DEU\";\"SATURN FORMTEILE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100094",
+   "KUNDENUSTIDNR": "DE618175590",
+   "KUNDENSTRASSE": "Lindenallee 175",
+   "KUNDENPLZ": "18055",
+   "KUNDENORT": "Rostock",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "SATURN FORMTEILE SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.95",
+   "quote": "\"100094\";\"DE618175590\";\"Lindenallee 175\";\"18055\";\"Rostock\";\"DEU\";\"SATURN FORMTEILE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 96,
+  "raw": "\"100095\";\"DE799491853\";\"Robert-Bosch-Straße 197\";\"40210\";\"Düsseldorf\";\"DEU\";\"KRONOS MASCHINEN SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100095",
+   "KUNDENUSTIDNR": "DE799491853",
+   "KUNDENSTRASSE": "Robert-Bosch-Straße 197",
+   "KUNDENPLZ": "40210",
+   "KUNDENORT": "Düsseldorf",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "KRONOS MASCHINEN SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.96",
+   "quote": "\"100095\";\"DE799491853\";\"Robert-Bosch-Straße 197\";\"40210\";\"Düsseldorf\";\"DEU\";\"KRONOS MASCHINEN SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 97,
+  "raw": "\"100096\";\"PL168846415\";\"Carl-Benz-Straße 70\";\"66111\";\"Saarbrücken\";\"EU\";\"ALPHA SYSTEME E.K.\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100096",
+   "KUNDENUSTIDNR": "PL168846415",
+   "KUNDENSTRASSE": "Carl-Benz-Straße 70",
+   "KUNDENPLZ": "66111",
+   "KUNDENORT": "Saarbrücken",
+   "KUNDENSTAAT": "EU",
+   "KUNDENNAME": "ALPHA SYSTEME E.K.",
+   "KUNDENGRUPPE": "C-EU",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-EU",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.97",
+   "quote": "\"100096\";\"PL168846415\";\"Carl-Benz-Straße 70\";\"66111\";\"Saarbrücken\";\"EU\";\"ALPHA SYSTEME E.K.\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 98,
+  "raw": "\"100097\";\"DE107036160\";\"Carl-Benz-Straße 17\";\"66111\";\"Saarbrücken\";\"DEU\";\"VEGA WERKSTOFFE KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100097",
+   "KUNDENUSTIDNR": "DE107036160",
+   "KUNDENSTRASSE": "Carl-Benz-Straße 17",
+   "KUNDENPLZ": "66111",
+   "KUNDENORT": "Saarbrücken",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "VEGA WERKSTOFFE KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.98",
+   "quote": "\"100097\";\"DE107036160\";\"Carl-Benz-Straße 17\";\"66111\";\"Saarbrücken\";\"DEU\";\"VEGA WERKSTOFFE KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 99,
+  "raw": "\"100098\";\"DE162281732\";\"Rheinstraße 194\";\"34117\";\"Kassel\";\"DEU\";\"PACTUM FOLIEN AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100098",
+   "KUNDENUSTIDNR": "DE162281732",
+   "KUNDENSTRASSE": "Rheinstraße 194",
+   "KUNDENPLZ": "34117",
+   "KUNDENORT": "Kassel",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "PACTUM FOLIEN AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.99",
+   "quote": "\"100098\";\"DE162281732\";\"Rheinstraße 194\";\"34117\";\"Kassel\";\"DEU\";\"PACTUM FOLIEN AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 100,
+  "raw": "\"100099\";\"PL395260415\";\"Marktplatz 64\";\"99084\";\"Erfurt\";\"EU\";\"VEGA CHEMIE KG\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100099",
+   "KUNDENUSTIDNR": "PL395260415",
+   "KUNDENSTRASSE": "Marktplatz 64",
+   "KUNDENPLZ": "99084",
+   "KUNDENORT": "Erfurt",
+   "KUNDENSTAAT": "EU",
+   "KUNDENNAME": "VEGA CHEMIE KG",
+   "KUNDENGRUPPE": "C-EU",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-EU",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.100",
+   "quote": "\"100099\";\"PL395260415\";\"Marktplatz 64\";\"99084\";\"Erfurt\";\"EU\";\"VEGA CHEMIE KG\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 101,
+  "raw": "\"100100\";\"DE655338032\";\"Talstraße 117\";\"28195\";\"Bremen\";\"DEU\";\"KRONOS TRANSPORT SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100100",
+   "KUNDENUSTIDNR": "DE655338032",
+   "KUNDENSTRASSE": "Talstraße 117",
+   "KUNDENPLZ": "28195",
+   "KUNDENORT": "Bremen",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "KRONOS TRANSPORT SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.101",
+   "quote": "\"100100\";\"DE655338032\";\"Talstraße 117\";\"28195\";\"Bremen\";\"DEU\";\"KRONOS TRANSPORT SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 102,
+  "raw": "\"100101\";\"DE368984804\";\"Industriestraße 113\";\"04109\";\"Leipzig\";\"DEU\";\"WEST KARTON GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100101",
+   "KUNDENUSTIDNR": "DE368984804",
+   "KUNDENSTRASSE": "Industriestraße 113",
+   "KUNDENPLZ": "04109",
+   "KUNDENORT": "Leipzig",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "WEST KARTON GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.102",
+   "quote": "\"100101\";\"DE368984804\";\"Industriestraße 113\";\"04109\";\"Leipzig\";\"DEU\";\"WEST KARTON GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 103,
+  "raw": "\"100102\";\"DE879208361\";\"Gewerbering 30\";\"70173\";\"Stuttgart\";\"DEU\";\"CASTOR FORMTEILE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100102",
+   "KUNDENUSTIDNR": "DE879208361",
+   "KUNDENSTRASSE": "Gewerbering 30",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "CASTOR FORMTEILE GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.103",
+   "quote": "\"100102\";\"DE879208361\";\"Gewerbering 30\";\"70173\";\"Stuttgart\";\"DEU\";\"CASTOR FORMTEILE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 104,
+  "raw": "\"100103\";\"DE938604271\";\"Werkstraße 63\";\"01067\";\"Dresden\";\"DEU\";\"IRIS MASCHINEN AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100103",
+   "KUNDENUSTIDNR": "DE938604271",
+   "KUNDENSTRASSE": "Werkstraße 63",
+   "KUNDENPLZ": "01067",
+   "KUNDENORT": "Dresden",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "IRIS MASCHINEN AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.104",
+   "quote": "\"100103\";\"DE938604271\";\"Werkstraße 63\";\"01067\";\"Dresden\";\"DEU\";\"IRIS MASCHINEN AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 105,
+  "raw": "\"100104\";\"DE419638584\";\"Talstraße 161\";\"66111\";\"Saarbrücken\";\"DEU\";\"NORD INDUSTRIEBEDARF GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100104",
+   "KUNDENUSTIDNR": "DE419638584",
+   "KUNDENSTRASSE": "Talstraße 161",
+   "KUNDENPLZ": "66111",
+   "KUNDENORT": "Saarbrücken",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "NORD INDUSTRIEBEDARF GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.105",
+   "quote": "\"100104\";\"DE419638584\";\"Talstraße 161\";\"66111\";\"Saarbrücken\";\"DEU\";\"NORD INDUSTRIEBEDARF GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 106,
+  "raw": "\"100105\";\"DE632906681\";\"Industriestraße 5\";\"70173\";\"Stuttgart\";\"DEU\";\"WEST SYSTEME GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100105",
+   "KUNDENUSTIDNR": "DE632906681",
+   "KUNDENSTRASSE": "Industriestraße 5",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "WEST SYSTEME GMBH & CO. KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.106",
+   "quote": "\"100105\";\"DE632906681\";\"Industriestraße 5\";\"70173\";\"Stuttgart\";\"DEU\";\"WEST SYSTEME GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 107,
+  "raw": "\"100106\";\"DE479741969\";\"Hauptstraße 192\";\"07743\";\"Jena\";\"DEU\";\"ALPHA RECYCLING AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100106",
+   "KUNDENUSTIDNR": "DE479741969",
+   "KUNDENSTRASSE": "Hauptstraße 192",
+   "KUNDENPLZ": "07743",
+   "KUNDENORT": "Jena",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ALPHA RECYCLING AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.107",
+   "quote": "\"100106\";\"DE479741969\";\"Hauptstraße 192\";\"07743\";\"Jena\";\"DEU\";\"ALPHA RECYCLING AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 108,
+  "raw": "\"100107\";\"DE800113194\";\"Rheinstraße 145\";\"40210\";\"Düsseldorf\";\"DEU\";\"CASTOR VERPACKUNG AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100107",
+   "KUNDENUSTIDNR": "DE800113194",
+   "KUNDENSTRASSE": "Rheinstraße 145",
+   "KUNDENPLZ": "40210",
+   "KUNDENORT": "Düsseldorf",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "CASTOR VERPACKUNG AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.108",
+   "quote": "\"100107\";\"DE800113194\";\"Rheinstraße 145\";\"40210\";\"Düsseldorf\";\"DEU\";\"CASTOR VERPACKUNG AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 109,
+  "raw": "\"100108\";\"DE853238786\";\"Feldweg 83\";\"07743\";\"Jena\";\"DEU\";\"ATLAS MASCHINEN AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100108",
+   "KUNDENUSTIDNR": "DE853238786",
+   "KUNDENSTRASSE": "Feldweg 83",
+   "KUNDENPLZ": "07743",
+   "KUNDENORT": "Jena",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ATLAS MASCHINEN AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.109",
+   "quote": "\"100108\";\"DE853238786\";\"Feldweg 83\";\"07743\";\"Jena\";\"DEU\";\"ATLAS MASCHINEN AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 110,
+  "raw": "\"100109\";\"DE821414794\";\"Talstraße 109\";\"70173\";\"Stuttgart\";\"DEU\";\"SOLUM KARTON GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100109",
+   "KUNDENUSTIDNR": "DE821414794",
+   "KUNDENSTRASSE": "Talstraße 109",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "SOLUM KARTON GMBH & CO. KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.110",
+   "quote": "\"100109\";\"DE821414794\";\"Talstraße 109\";\"70173\";\"Stuttgart\";\"DEU\";\"SOLUM KARTON GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 111,
+  "raw": "\"100110\";\"DE947817995\";\"Lindenallee 177\";\"44135\";\"Dortmund\";\"DEU\";\"RATIO RECYCLING E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100110",
+   "KUNDENUSTIDNR": "DE947817995",
+   "KUNDENSTRASSE": "Lindenallee 177",
+   "KUNDENPLZ": "44135",
+   "KUNDENORT": "Dortmund",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "RATIO RECYCLING E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.111",
+   "quote": "\"100110\";\"DE947817995\";\"Lindenallee 177\";\"44135\";\"Dortmund\";\"DEU\";\"RATIO RECYCLING E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 112,
+  "raw": "\"100111\";\"DE369447810\";\"Ringstraße 124\";\"66111\";\"Saarbrücken\";\"DEU\";\"PACTUM RECYCLING E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100111",
+   "KUNDENUSTIDNR": "DE369447810",
+   "KUNDENSTRASSE": "Ringstraße 124",
+   "KUNDENPLZ": "66111",
+   "KUNDENORT": "Saarbrücken",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "PACTUM RECYCLING E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.112",
+   "quote": "\"100111\";\"DE369447810\";\"Ringstraße 124\";\"66111\";\"Saarbrücken\";\"DEU\";\"PACTUM RECYCLING E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 113,
+  "raw": "\"100112\";\"BE740361127\";\"Werkstraße 59\";\"40210\";\"Düsseldorf\";\"EU\";\"WEST CHEMIE GMBH & CO. KG\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100112",
+   "KUNDENUSTIDNR": "BE740361127",
+   "KUNDENSTRASSE": "Werkstraße 59",
+   "KUNDENPLZ": "40210",
+   "KUNDENORT": "Düsseldorf",
+   "KUNDENSTAAT": "EU",
+   "KUNDENNAME": "WEST CHEMIE GMBH & CO. KG",
+   "KUNDENGRUPPE": "C-EU",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-EU",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.113",
+   "quote": "\"100112\";\"BE740361127\";\"Werkstraße 59\";\"40210\";\"Düsseldorf\";\"EU\";\"WEST CHEMIE GMBH & CO. KG\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 114,
+  "raw": "\"100113\";\"DE806274997\";\"Hauptstraße 105\";\"39104\";\"Magdeburg\";\"DEU\";\"MERKUR RECYCLING E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100113",
+   "KUNDENUSTIDNR": "DE806274997",
+   "KUNDENSTRASSE": "Hauptstraße 105",
+   "KUNDENPLZ": "39104",
+   "KUNDENORT": "Magdeburg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "MERKUR RECYCLING E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.114",
+   "quote": "\"100113\";\"DE806274997\";\"Hauptstraße 105\";\"39104\";\"Magdeburg\";\"DEU\";\"MERKUR RECYCLING E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 115,
+  "raw": "\"100114\";\"DE299383420\";\"Hauptstraße 113\";\"45127\";\"Essen\";\"DEU\";\"ATLAS CHEMIE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100114",
+   "KUNDENUSTIDNR": "DE299383420",
+   "KUNDENSTRASSE": "Hauptstraße 113",
+   "KUNDENPLZ": "45127",
+   "KUNDENORT": "Essen",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ATLAS CHEMIE GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.115",
+   "quote": "\"100114\";\"DE299383420\";\"Hauptstraße 113\";\"45127\";\"Essen\";\"DEU\";\"ATLAS CHEMIE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 116,
+  "raw": "\"100115\";\"DE292251856\";\"Industriestraße 197\";\"30159\";\"Hannover\";\"DEU\";\"BOREAS KUNSTSTOFF KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100115",
+   "KUNDENUSTIDNR": "DE292251856",
+   "KUNDENSTRASSE": "Industriestraße 197",
+   "KUNDENPLZ": "30159",
+   "KUNDENORT": "Hannover",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "BOREAS KUNSTSTOFF KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.116",
+   "quote": "\"100115\";\"DE292251856\";\"Industriestraße 197\";\"30159\";\"Hannover\";\"DEU\";\"BOREAS KUNSTSTOFF KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 117,
+  "raw": "\"100116\";\"DE334657862\";\"Marktplatz 198\";\"55116\";\"Mainz\";\"DEU\";\"KRANICH MASCHINEN KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100116",
+   "KUNDENUSTIDNR": "DE334657862",
+   "KUNDENSTRASSE": "Marktplatz 198",
+   "KUNDENPLZ": "55116",
+   "KUNDENORT": "Mainz",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "KRANICH MASCHINEN KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.117",
+   "quote": "\"100116\";\"DE334657862\";\"Marktplatz 198\";\"55116\";\"Mainz\";\"DEU\";\"KRANICH MASCHINEN KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 118,
+  "raw": "\"100117\";\"DE845604967\";\"Ringstraße 41\";\"07743\";\"Jena\";\"DEU\";\"ATLAS HANDEL E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100117",
+   "KUNDENUSTIDNR": "DE845604967",
+   "KUNDENSTRASSE": "Ringstraße 41",
+   "KUNDENPLZ": "07743",
+   "KUNDENORT": "Jena",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ATLAS HANDEL E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.118",
+   "quote": "\"100117\";\"DE845604967\";\"Ringstraße 41\";\"07743\";\"Jena\";\"DEU\";\"ATLAS HANDEL E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 119,
+  "raw": "\"100118\";\"DE965721011\";\"Lindenallee 101\";\"45127\";\"Essen\";\"DEU\";\"LUPUS PAPIER GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100118",
+   "KUNDENUSTIDNR": "DE965721011",
+   "KUNDENSTRASSE": "Lindenallee 101",
+   "KUNDENPLZ": "45127",
+   "KUNDENORT": "Essen",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "LUPUS PAPIER GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.119",
+   "quote": "\"100118\";\"DE965721011\";\"Lindenallee 101\";\"45127\";\"Essen\";\"DEU\";\"LUPUS PAPIER GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 120,
+  "raw": "\"100119\";\"DE824276868\";\"Am Kanal 124\";\"66111\";\"Saarbrücken\";\"DEU\";\"TITAN WERKSTOFFE GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100119",
+   "KUNDENUSTIDNR": "DE824276868",
+   "KUNDENSTRASSE": "Am Kanal 124",
+   "KUNDENPLZ": "66111",
+   "KUNDENORT": "Saarbrücken",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "TITAN WERKSTOFFE GMBH & CO. KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.120",
+   "quote": "\"100119\";\"DE824276868\";\"Am Kanal 124\";\"66111\";\"Saarbrücken\";\"DEU\";\"TITAN WERKSTOFFE GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 121,
+  "raw": "\"100120\";\"DE776531388\";\"Ringstraße 193\";\"34117\";\"Kassel\";\"DEU\";\"WEST TECHNIK SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100120",
+   "KUNDENUSTIDNR": "DE776531388",
+   "KUNDENSTRASSE": "Ringstraße 193",
+   "KUNDENPLZ": "34117",
+   "KUNDENORT": "Kassel",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "WEST TECHNIK SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.121",
+   "quote": "\"100120\";\"DE776531388\";\"Ringstraße 193\";\"34117\";\"Kassel\";\"DEU\";\"WEST TECHNIK SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 122,
+  "raw": "\"100121\";\"DE550995429\";\"Talstraße 3\";\"07743\";\"Jena\";\"DEU\";\"FALKE WERKSTOFFE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100121",
+   "KUNDENUSTIDNR": "DE550995429",
+   "KUNDENSTRASSE": "Talstraße 3",
+   "KUNDENPLZ": "07743",
+   "KUNDENORT": "Jena",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "FALKE WERKSTOFFE GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.122",
+   "quote": "\"100121\";\"DE550995429\";\"Talstraße 3\";\"07743\";\"Jena\";\"DEU\";\"FALKE WERKSTOFFE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 123,
+  "raw": "\"100122\";\"DE549303108\";\"Lindenallee 65\";\"90402\";\"Nürnberg\";\"DEU\";\"FOKUS SYSTEME GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100122",
+   "KUNDENUSTIDNR": "DE549303108",
+   "KUNDENSTRASSE": "Lindenallee 65",
+   "KUNDENPLZ": "90402",
+   "KUNDENORT": "Nürnberg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "FOKUS SYSTEME GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.123",
+   "quote": "\"100122\";\"DE549303108\";\"Lindenallee 65\";\"90402\";\"Nürnberg\";\"DEU\";\"FOKUS SYSTEME GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 124,
+  "raw": "\"100123\";\"DE573670283\";\"Industriestraße 37\";\"99084\";\"Erfurt\";\"DEU\";\"SÜD CHEMIE GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100123",
+   "KUNDENUSTIDNR": "DE573670283",
+   "KUNDENSTRASSE": "Industriestraße 37",
+   "KUNDENPLZ": "99084",
+   "KUNDENORT": "Erfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "SÜD CHEMIE GMBH & CO. KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.124",
+   "quote": "\"100123\";\"DE573670283\";\"Industriestraße 37\";\"99084\";\"Erfurt\";\"DEU\";\"SÜD CHEMIE GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 125,
+  "raw": "\"100124\";\"DE964108855\";\"Rheinstraße 103\";\"60311\";\"Frankfurt\";\"DEU\";\"MERKUR MASCHINEN KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100124",
+   "KUNDENUSTIDNR": "DE964108855",
+   "KUNDENSTRASSE": "Rheinstraße 103",
+   "KUNDENPLZ": "60311",
+   "KUNDENORT": "Frankfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "MERKUR MASCHINEN KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.125",
+   "quote": "\"100124\";\"DE964108855\";\"Rheinstraße 103\";\"60311\";\"Frankfurt\";\"DEU\";\"MERKUR MASCHINEN KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 126,
+  "raw": "\"100125\";\"DE897357084\";\"Industriestraße 111\";\"80331\";\"München\";\"DEU\";\"AURORA HANDEL GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100125",
+   "KUNDENUSTIDNR": "DE897357084",
+   "KUNDENSTRASSE": "Industriestraße 111",
+   "KUNDENPLZ": "80331",
+   "KUNDENORT": "München",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "AURORA HANDEL GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.126",
+   "quote": "\"100125\";\"DE897357084\";\"Industriestraße 111\";\"80331\";\"München\";\"DEU\";\"AURORA HANDEL GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 127,
+  "raw": "\"100126\";\"DE943053543\";\"Feldweg 88\";\"90402\";\"Nürnberg\";\"DEU\";\"DELTA TECHNIK SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100126",
+   "KUNDENUSTIDNR": "DE943053543",
+   "KUNDENSTRASSE": "Feldweg 88",
+   "KUNDENPLZ": "90402",
+   "KUNDENORT": "Nürnberg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "DELTA TECHNIK SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.127",
+   "quote": "\"100126\";\"DE943053543\";\"Feldweg 88\";\"90402\";\"Nürnberg\";\"DEU\";\"DELTA TECHNIK SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 128,
+  "raw": "\"100127\";\"DE894796214\";\"Rheinstraße 77\";\"55116\";\"Mainz\";\"DEU\";\"TERRA TECHNIK KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100127",
+   "KUNDENUSTIDNR": "DE894796214",
+   "KUNDENSTRASSE": "Rheinstraße 77",
+   "KUNDENPLZ": "55116",
+   "KUNDENORT": "Mainz",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "TERRA TECHNIK KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.128",
+   "quote": "\"100127\";\"DE894796214\";\"Rheinstraße 77\";\"55116\";\"Mainz\";\"DEU\";\"TERRA TECHNIK KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 129,
+  "raw": "\"100128\";\"DE268675542\";\"Bahnhofstraße 173\";\"45127\";\"Essen\";\"DEU\";\"RATIO INDUSTRIEBEDARF AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100128",
+   "KUNDENUSTIDNR": "DE268675542",
+   "KUNDENSTRASSE": "Bahnhofstraße 173",
+   "KUNDENPLZ": "45127",
+   "KUNDENORT": "Essen",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "RATIO INDUSTRIEBEDARF AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.129",
+   "quote": "\"100128\";\"DE268675542\";\"Bahnhofstraße 173\";\"45127\";\"Essen\";\"DEU\";\"RATIO INDUSTRIEBEDARF AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 130,
+  "raw": "\"100129\";\"DE129201003\";\"Ringstraße 64\";\"66111\";\"Saarbrücken\";\"DEU\";\"ALPHA PAPIER E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100129",
+   "KUNDENUSTIDNR": "DE129201003",
+   "KUNDENSTRASSE": "Ringstraße 64",
+   "KUNDENPLZ": "66111",
+   "KUNDENORT": "Saarbrücken",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ALPHA PAPIER E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.130",
+   "quote": "\"100129\";\"DE129201003\";\"Ringstraße 64\";\"66111\";\"Saarbrücken\";\"DEU\";\"ALPHA PAPIER E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 131,
+  "raw": "\"100130\";\"DE433897258\";\"Werkstraße 146\";\"07743\";\"Jena\";\"DEU\";\"TITAN DISTRIBUTION GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100130",
+   "KUNDENUSTIDNR": "DE433897258",
+   "KUNDENSTRASSE": "Werkstraße 146",
+   "KUNDENPLZ": "07743",
+   "KUNDENORT": "Jena",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "TITAN DISTRIBUTION GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.131",
+   "quote": "\"100130\";\"DE433897258\";\"Werkstraße 146\";\"07743\";\"Jena\";\"DEU\";\"TITAN DISTRIBUTION GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 132,
+  "raw": "\"100131\";\"DE139827805\";\"Robert-Bosch-Straße 146\";\"30159\";\"Hannover\";\"DEU\";\"WEST FORMTEILE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100131",
+   "KUNDENUSTIDNR": "DE139827805",
+   "KUNDENSTRASSE": "Robert-Bosch-Straße 146",
+   "KUNDENPLZ": "30159",
+   "KUNDENORT": "Hannover",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "WEST FORMTEILE GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.132",
+   "quote": "\"100131\";\"DE139827805\";\"Robert-Bosch-Straße 146\";\"30159\";\"Hannover\";\"DEU\";\"WEST FORMTEILE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 133,
+  "raw": "\"100132\";\"DE180582516\";\"Feldweg 161\";\"40210\";\"Düsseldorf\";\"DEU\";\"CORVUS CHEMIE KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100132",
+   "KUNDENUSTIDNR": "DE180582516",
+   "KUNDENSTRASSE": "Feldweg 161",
+   "KUNDENPLZ": "40210",
+   "KUNDENORT": "Düsseldorf",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "CORVUS CHEMIE KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.133",
+   "quote": "\"100132\";\"DE180582516\";\"Feldweg 161\";\"40210\";\"Düsseldorf\";\"DEU\";\"CORVUS CHEMIE KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 134,
+  "raw": "\"100133\";\"DE757815338\";\"Rheinstraße 150\";\"04109\";\"Leipzig\";\"DEU\";\"ADLER FORMTEILE GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100133",
+   "KUNDENUSTIDNR": "DE757815338",
+   "KUNDENSTRASSE": "Rheinstraße 150",
+   "KUNDENPLZ": "04109",
+   "KUNDENORT": "Leipzig",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ADLER FORMTEILE GMBH & CO. KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.134",
+   "quote": "\"100133\";\"DE757815338\";\"Rheinstraße 150\";\"04109\";\"Leipzig\";\"DEU\";\"ADLER FORMTEILE GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 135,
+  "raw": "\"100134\";\"DE637012508\";\"Rheinstraße 5\";\"18055\";\"Rostock\";\"DEU\";\"SOLUM TRANSPORT E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100134",
+   "KUNDENUSTIDNR": "DE637012508",
+   "KUNDENSTRASSE": "Rheinstraße 5",
+   "KUNDENPLZ": "18055",
+   "KUNDENORT": "Rostock",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "SOLUM TRANSPORT E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.135",
+   "quote": "\"100134\";\"DE637012508\";\"Rheinstraße 5\";\"18055\";\"Rostock\";\"DEU\";\"SOLUM TRANSPORT E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 136,
+  "raw": "\"100135\";\"DE364559977\";\"Marktplatz 127\";\"40210\";\"Düsseldorf\";\"DEU\";\"PACTUM KARTON E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100135",
+   "KUNDENUSTIDNR": "DE364559977",
+   "KUNDENSTRASSE": "Marktplatz 127",
+   "KUNDENPLZ": "40210",
+   "KUNDENORT": "Düsseldorf",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "PACTUM KARTON E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.136",
+   "quote": "\"100135\";\"DE364559977\";\"Marktplatz 127\";\"40210\";\"Düsseldorf\";\"DEU\";\"PACTUM KARTON E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 137,
+  "raw": "\"100136\";\"DE782826210\";\"Carl-Benz-Straße 130\";\"70173\";\"Stuttgart\";\"DEU\";\"KRANICH LOGISTIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100136",
+   "KUNDENUSTIDNR": "DE782826210",
+   "KUNDENSTRASSE": "Carl-Benz-Straße 130",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "KRANICH LOGISTIK GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.137",
+   "quote": "\"100136\";\"DE782826210\";\"Carl-Benz-Straße 130\";\"70173\";\"Stuttgart\";\"DEU\";\"KRANICH LOGISTIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 138,
+  "raw": "\"100137\";\"DE233296178\";\"Hauptstraße 66\";\"18055\";\"Rostock\";\"DEU\";\"PRISMA DISTRIBUTION GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100137",
+   "KUNDENUSTIDNR": "DE233296178",
+   "KUNDENSTRASSE": "Hauptstraße 66",
+   "KUNDENPLZ": "18055",
+   "KUNDENORT": "Rostock",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "PRISMA DISTRIBUTION GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.138",
+   "quote": "\"100137\";\"DE233296178\";\"Hauptstraße 66\";\"18055\";\"Rostock\";\"DEU\";\"PRISMA DISTRIBUTION GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 139,
+  "raw": "\"100138\";\"PL156094479\";\"Lindenallee 139\";\"80331\";\"München\";\"EU\";\"ALPHA FOLIEN GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100138",
+   "KUNDENUSTIDNR": "PL156094479",
+   "KUNDENSTRASSE": "Lindenallee 139",
+   "KUNDENPLZ": "80331",
+   "KUNDENORT": "München",
+   "KUNDENSTAAT": "EU",
+   "KUNDENNAME": "ALPHA FOLIEN GMBH",
+   "KUNDENGRUPPE": "C-EU",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-EU",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.139",
+   "quote": "\"100138\";\"PL156094479\";\"Lindenallee 139\";\"80331\";\"München\";\"EU\";\"ALPHA FOLIEN GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 140,
+  "raw": "\"100139\";\"DE235950332\";\"Industriestraße 155\";\"40210\";\"Düsseldorf\";\"DEU\";\"RATIO BESCHICHTUNG KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100139",
+   "KUNDENUSTIDNR": "DE235950332",
+   "KUNDENSTRASSE": "Industriestraße 155",
+   "KUNDENPLZ": "40210",
+   "KUNDENORT": "Düsseldorf",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "RATIO BESCHICHTUNG KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.140",
+   "quote": "\"100139\";\"DE235950332\";\"Industriestraße 155\";\"40210\";\"Düsseldorf\";\"DEU\";\"RATIO BESCHICHTUNG KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 141,
+  "raw": "\"100140\";\"FR365336047\";\"Lindenallee 78\";\"18055\";\"Rostock\";\"EU\";\"MERKUR HANDEL E.K.\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100140",
+   "KUNDENUSTIDNR": "FR365336047",
+   "KUNDENSTRASSE": "Lindenallee 78",
+   "KUNDENPLZ": "18055",
+   "KUNDENORT": "Rostock",
+   "KUNDENSTAAT": "EU",
+   "KUNDENNAME": "MERKUR HANDEL E.K.",
+   "KUNDENGRUPPE": "C-EU",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-EU",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.141",
+   "quote": "\"100140\";\"FR365336047\";\"Lindenallee 78\";\"18055\";\"Rostock\";\"EU\";\"MERKUR HANDEL E.K.\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 142,
+  "raw": "\"100141\";\"DE987428941\";\"Gewerbering 29\";\"50667\";\"Köln\";\"DEU\";\"SOLUM TRANSPORT KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100141",
+   "KUNDENUSTIDNR": "DE987428941",
+   "KUNDENSTRASSE": "Gewerbering 29",
+   "KUNDENPLZ": "50667",
+   "KUNDENORT": "Köln",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "SOLUM TRANSPORT KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.142",
+   "quote": "\"100141\";\"DE987428941\";\"Gewerbering 29\";\"50667\";\"Köln\";\"DEU\";\"SOLUM TRANSPORT KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 143,
+  "raw": "\"100142\";\"DE758067040\";\"Am Hafen 139\";\"66111\";\"Saarbrücken\";\"DEU\";\"NOVA RECYCLING SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100142",
+   "KUNDENUSTIDNR": "DE758067040",
+   "KUNDENSTRASSE": "Am Hafen 139",
+   "KUNDENPLZ": "66111",
+   "KUNDENORT": "Saarbrücken",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "NOVA RECYCLING SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.143",
+   "quote": "\"100142\";\"DE758067040\";\"Am Hafen 139\";\"66111\";\"Saarbrücken\";\"DEU\";\"NOVA RECYCLING SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 144,
+  "raw": "\"100143\";\"DE432534615\";\"Industriestraße 30\";\"20095\";\"Hamburg\";\"DEU\";\"NOVA WERKSTOFFE KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100143",
+   "KUNDENUSTIDNR": "DE432534615",
+   "KUNDENSTRASSE": "Industriestraße 30",
+   "KUNDENPLZ": "20095",
+   "KUNDENORT": "Hamburg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "NOVA WERKSTOFFE KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.144",
+   "quote": "\"100143\";\"DE432534615\";\"Industriestraße 30\";\"20095\";\"Hamburg\";\"DEU\";\"NOVA WERKSTOFFE KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 145,
+  "raw": "\"100144\";\"DE773965744\";\"Rheinstraße 35\";\"18055\";\"Rostock\";\"DEU\";\"WEST CHEMIE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100144",
+   "KUNDENUSTIDNR": "DE773965744",
+   "KUNDENSTRASSE": "Rheinstraße 35",
+   "KUNDENPLZ": "18055",
+   "KUNDENORT": "Rostock",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "WEST CHEMIE SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.145",
+   "quote": "\"100144\";\"DE773965744\";\"Rheinstraße 35\";\"18055\";\"Rostock\";\"DEU\";\"WEST CHEMIE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 146,
+  "raw": "\"100145\";\"DE109945895\";\"Robert-Bosch-Straße 155\";\"45127\";\"Essen\";\"DEU\";\"ATLAS RECYCLING SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100145",
+   "KUNDENUSTIDNR": "DE109945895",
+   "KUNDENSTRASSE": "Robert-Bosch-Straße 155",
+   "KUNDENPLZ": "45127",
+   "KUNDENORT": "Essen",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ATLAS RECYCLING SE",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.146",
+   "quote": "\"100145\";\"DE109945895\";\"Robert-Bosch-Straße 155\";\"45127\";\"Essen\";\"DEU\";\"ATLAS RECYCLING SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 147,
+  "raw": "\"100146\";\"DE960135326\";\"Marktplatz 179\";\"20095\";\"Hamburg\";\"DEU\";\"ORION KARTON GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100146",
+   "KUNDENUSTIDNR": "DE960135326",
+   "KUNDENSTRASSE": "Marktplatz 179",
+   "KUNDENPLZ": "20095",
+   "KUNDENORT": "Hamburg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "ORION KARTON GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.147",
+   "quote": "\"100146\";\"DE960135326\";\"Marktplatz 179\";\"20095\";\"Hamburg\";\"DEU\";\"ORION KARTON GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 148,
+  "raw": "\"100147\";\"DE480558365\";\"Am Hafen 137\";\"70173\";\"Stuttgart\";\"DEU\";\"NOVA BESCHICHTUNG KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100147",
+   "KUNDENUSTIDNR": "DE480558365",
+   "KUNDENSTRASSE": "Am Hafen 137",
+   "KUNDENPLZ": "70173",
+   "KUNDENORT": "Stuttgart",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "NOVA BESCHICHTUNG KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.148",
+   "quote": "\"100147\";\"DE480558365\";\"Am Hafen 137\";\"70173\";\"Stuttgart\";\"DEU\";\"NOVA BESCHICHTUNG KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 149,
+  "raw": "\"100148\";\"DE878771143\";\"Gewerbering 111\";\"66111\";\"Saarbrücken\";\"DEU\";\"AURORA INDUSTRIEBEDARF GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100148",
+   "KUNDENUSTIDNR": "DE878771143",
+   "KUNDENSTRASSE": "Gewerbering 111",
+   "KUNDENPLZ": "66111",
+   "KUNDENORT": "Saarbrücken",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "AURORA INDUSTRIEBEDARF GMBH & CO. KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.149",
+   "quote": "\"100148\";\"DE878771143\";\"Gewerbering 111\";\"66111\";\"Saarbrücken\";\"DEU\";\"AURORA INDUSTRIEBEDARF GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 150,
+  "raw": "\"100149\";\"DE619550094\";\"Ringstraße 51\";\"80331\";\"München\";\"DEU\";\"RATIO DISTRIBUTION GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100149",
+   "KUNDENUSTIDNR": "DE619550094",
+   "KUNDENSTRASSE": "Ringstraße 51",
+   "KUNDENPLZ": "80331",
+   "KUNDENORT": "München",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "RATIO DISTRIBUTION GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.150",
+   "quote": "\"100149\";\"DE619550094\";\"Ringstraße 51\";\"80331\";\"München\";\"DEU\";\"RATIO DISTRIBUTION GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 151,
+  "raw": "\"100150\";\"DE227592405\";\"Lindenallee 36\";\"18055\";\"Rostock\";\"DEU\";\"SÜD RECYCLING GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100150",
+   "KUNDENUSTIDNR": "DE227592405",
+   "KUNDENSTRASSE": "Lindenallee 36",
+   "KUNDENPLZ": "18055",
+   "KUNDENORT": "Rostock",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "SÜD RECYCLING GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.151",
+   "quote": "\"100150\";\"DE227592405\";\"Lindenallee 36\";\"18055\";\"Rostock\";\"DEU\";\"SÜD RECYCLING GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 152,
+  "raw": "\"100151\";\"DE224914981\";\"Lindenallee 111\";\"34117\";\"Kassel\";\"DEU\";\"KRONOS KUNSTSTOFF KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100151",
+   "KUNDENUSTIDNR": "DE224914981",
+   "KUNDENSTRASSE": "Lindenallee 111",
+   "KUNDENPLZ": "34117",
+   "KUNDENORT": "Kassel",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "KRONOS KUNSTSTOFF KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.152",
+   "quote": "\"100151\";\"DE224914981\";\"Lindenallee 111\";\"34117\";\"Kassel\";\"DEU\";\"KRONOS KUNSTSTOFF KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 153,
+  "raw": "\"100152\";\"DE157866711\";\"Robert-Bosch-Straße 69\";\"90402\";\"Nürnberg\";\"DEU\";\"NORD WERKSTOFFE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100152",
+   "KUNDENUSTIDNR": "DE157866711",
+   "KUNDENSTRASSE": "Robert-Bosch-Straße 69",
+   "KUNDENPLZ": "90402",
+   "KUNDENORT": "Nürnberg",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "NORD WERKSTOFFE GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.153",
+   "quote": "\"100152\";\"DE157866711\";\"Robert-Bosch-Straße 69\";\"90402\";\"Nürnberg\";\"DEU\";\"NORD WERKSTOFFE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 154,
+  "raw": "\"100153\";\"DE798969759\";\"Marktplatz 51\";\"44135\";\"Dortmund\";\"DEU\";\"KRONOS INDUSTRIEBEDARF E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100153",
+   "KUNDENUSTIDNR": "DE798969759",
+   "KUNDENSTRASSE": "Marktplatz 51",
+   "KUNDENPLZ": "44135",
+   "KUNDENORT": "Dortmund",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "KRONOS INDUSTRIEBEDARF E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.154",
+   "quote": "\"100153\";\"DE798969759\";\"Marktplatz 51\";\"44135\";\"Dortmund\";\"DEU\";\"KRONOS INDUSTRIEBEDARF E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 155,
+  "raw": "\"100154\";\"DE627143467\";\"Rheinstraße 177\";\"28195\";\"Bremen\";\"DEU\";\"CIVES WERKSTOFFE E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100154",
+   "KUNDENUSTIDNR": "DE627143467",
+   "KUNDENSTRASSE": "Rheinstraße 177",
+   "KUNDENPLZ": "28195",
+   "KUNDENORT": "Bremen",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "CIVES WERKSTOFFE E.K.",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.155",
+   "quote": "\"100154\";\"DE627143467\";\"Rheinstraße 177\";\"28195\";\"Bremen\";\"DEU\";\"CIVES WERKSTOFFE E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 156,
+  "raw": "\"100155\";\"DE543852298\";\"Industriestraße 89\";\"50667\";\"Köln\";\"DEU\";\"RATIO TRANSPORT GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100155",
+   "KUNDENUSTIDNR": "DE543852298",
+   "KUNDENSTRASSE": "Industriestraße 89",
+   "KUNDENPLZ": "50667",
+   "KUNDENORT": "Köln",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "RATIO TRANSPORT GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.156",
+   "quote": "\"100155\";\"DE543852298\";\"Industriestraße 89\";\"50667\";\"Köln\";\"DEU\";\"RATIO TRANSPORT GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 157,
+  "raw": "\"100156\";\"DE849756139\";\"Hauptstraße 5\";\"99084\";\"Erfurt\";\"DEU\";\"KRANICH PAPIER GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100156",
+   "KUNDENUSTIDNR": "DE849756139",
+   "KUNDENSTRASSE": "Hauptstraße 5",
+   "KUNDENPLZ": "99084",
+   "KUNDENORT": "Erfurt",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "KRANICH PAPIER GMBH & CO. KG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.157",
+   "quote": "\"100156\";\"DE849756139\";\"Hauptstraße 5\";\"99084\";\"Erfurt\";\"DEU\";\"KRANICH PAPIER GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 158,
+  "raw": "\"100157\";\"DE434030224\";\"Feldweg 171\";\"01067\";\"Dresden\";\"DEU\";\"IRIS DISTRIBUTION GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100157",
+   "KUNDENUSTIDNR": "DE434030224",
+   "KUNDENSTRASSE": "Feldweg 171",
+   "KUNDENPLZ": "01067",
+   "KUNDENORT": "Dresden",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "IRIS DISTRIBUTION GMBH",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.158",
+   "quote": "\"100157\";\"DE434030224\";\"Feldweg 171\";\"01067\";\"Dresden\";\"DEU\";\"IRIS DISTRIBUTION GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 159,
+  "raw": "\"100158\";\"DE811463650\";\"Robert-Bosch-Straße 182\";\"07743\";\"Jena\";\"DEU\";\"WEST SYSTEME AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100158",
+   "KUNDENUSTIDNR": "DE811463650",
+   "KUNDENSTRASSE": "Robert-Bosch-Straße 182",
+   "KUNDENPLZ": "07743",
+   "KUNDENORT": "Jena",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "WEST SYSTEME AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.159",
+   "quote": "\"100158\";\"DE811463650\";\"Robert-Bosch-Straße 182\";\"07743\";\"Jena\";\"DEU\";\"WEST SYSTEME AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 160,
+  "raw": "\"100159\";\"DE540709201\";\"Lindenallee 5\";\"01067\";\"Dresden\";\"DEU\";\"MERKUR DRUCK AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "values": {
+   "KUNDENKONTONUMMER": "100159",
+   "KUNDENUSTIDNR": "DE540709201",
+   "KUNDENSTRASSE": "Lindenallee 5",
+   "KUNDENPLZ": "01067",
+   "KUNDENORT": "Dresden",
+   "KUNDENSTAAT": "DEU",
+   "KUNDENNAME": "MERKUR DRUCK AG",
+   "KUNDENGRUPPE": "C-DOM",
+   "F1": "",
+   "F2": "",
+   "F3": "",
+   "MWST_GRUPPE": "DE-C-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "debitoren-kunden",
+   "ref": "Kunden!r.160",
+   "quote": "\"100159\";\"DE540709201\";\"Lindenallee 5\";\"01067\";\"Dresden\";\"DEU\";\"MERKUR DRUCK AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\""
+  }
+ }
+]

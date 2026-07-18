@@ -1,0 +1,1913 @@
+[
+ {
+  "rowNumber": 2,
+  "raw": "7700001;AB-2024;2;;MV-U02;01.01.2025;21:03:11;MV-U10;01.01.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7700001",
+   "JOURNALNAME": "AB-2024",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "01.01.2025",
+   "ERFASST_UM": "21:03:11",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "01.01.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.2",
+   "quote": "7700001;AB-2024;2;;MV-U02;01.01.2025;21:03:11;MV-U10;01.01.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 3,
+  "raw": "7700508;GJ6600049;2;;Admin;31.01.2025;12:15:43;MV-U02;31.01.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7700508",
+   "JOURNALNAME": "GJ6600049",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "Admin",
+   "ERFASST_AM": "31.01.2025",
+   "ERFASST_UM": "12:15:43",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "31.01.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.3",
+   "quote": "7700508;GJ6600049;2;;Admin;31.01.2025;12:15:43;MV-U02;31.01.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 4,
+  "raw": "7700509;GJ6600050;2;;MV-U02;25.01.2025;18:31:07;MV-U10;25.01.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7700509",
+   "JOURNALNAME": "GJ6600050",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "25.01.2025",
+   "ERFASST_UM": "18:31:07",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "25.01.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.4",
+   "quote": "7700509;GJ6600050;2;;MV-U02;25.01.2025;18:31:07;MV-U10;25.01.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 5,
+  "raw": "7700510;GJ6600051;2;;MV-U11;28.01.2025;08:38:34;MV-U10;28.01.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7700510",
+   "JOURNALNAME": "GJ6600051",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "28.01.2025",
+   "ERFASST_UM": "08:38:34",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "28.01.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.5",
+   "quote": "7700510;GJ6600051;2;;MV-U11;28.01.2025;08:38:34;MV-U10;28.01.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "7700511;GJ6600052;2;;MV-U02;31.01.2025;14:55:00;MV-U10;31.01.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7700511",
+   "JOURNALNAME": "GJ6600052",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.01.2025",
+   "ERFASST_UM": "14:55:00",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.01.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.6",
+   "quote": "7700511;GJ6600052;2;;MV-U02;31.01.2025;14:55:00;MV-U10;31.01.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 7,
+  "raw": "7700512;GJ6600053;2;;MV-U11;31.01.2025;13:56:31;MV-U02;31.01.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7700512",
+   "JOURNALNAME": "GJ6600053",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "31.01.2025",
+   "ERFASST_UM": "13:56:31",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "31.01.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.7",
+   "quote": "7700512;GJ6600053;2;;MV-U11;31.01.2025;13:56:31;MV-U02;31.01.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 8,
+  "raw": "7701173;GJ6600256;2;;Admin;28.02.2025;12:55:39;MV-U10;28.02.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7701173",
+   "JOURNALNAME": "GJ6600256",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "Admin",
+   "ERFASST_AM": "28.02.2025",
+   "ERFASST_UM": "12:55:39",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "28.02.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.8",
+   "quote": "7701173;GJ6600256;2;;Admin;28.02.2025;12:55:39;MV-U10;28.02.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 9,
+  "raw": "7701174;GJ6600257;2;;MV-U02;25.02.2025;19:55:44;MV-U10;25.02.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7701174",
+   "JOURNALNAME": "GJ6600257",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "25.02.2025",
+   "ERFASST_UM": "19:55:44",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "25.02.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.9",
+   "quote": "7701174;GJ6600257;2;;MV-U02;25.02.2025;19:55:44;MV-U10;25.02.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 10,
+  "raw": "7701175;GJ6600258;2;;MV-U11;28.02.2025;17:10:39;MV-U02;28.02.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7701175",
+   "JOURNALNAME": "GJ6600258",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "28.02.2025",
+   "ERFASST_UM": "17:10:39",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "28.02.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.10",
+   "quote": "7701175;GJ6600258;2;;MV-U11;28.02.2025;17:10:39;MV-U02;28.02.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 11,
+  "raw": "7701176;GJ6600259;2;;MV-U02;28.02.2025;09:47:29;MV-U10;28.02.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7701176",
+   "JOURNALNAME": "GJ6600259",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "28.02.2025",
+   "ERFASST_UM": "09:47:29",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "28.02.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.11",
+   "quote": "7701176;GJ6600259;2;;MV-U02;28.02.2025;09:47:29;MV-U10;28.02.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 12,
+  "raw": "7701177;GJ6600260;2;;MV-U11;28.02.2025;12:02:07;MV-U10;28.02.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7701177",
+   "JOURNALNAME": "GJ6600260",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "28.02.2025",
+   "ERFASST_UM": "12:02:07",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "28.02.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.12",
+   "quote": "7701177;GJ6600260;2;;MV-U11;28.02.2025;12:02:07;MV-U10;28.02.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 13,
+  "raw": "7701888;GJ6600513;2;;Admin;31.03.2025;16:21:23;MV-U02;31.03.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7701888",
+   "JOURNALNAME": "GJ6600513",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "Admin",
+   "ERFASST_AM": "31.03.2025",
+   "ERFASST_UM": "16:21:23",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "31.03.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.13",
+   "quote": "7701888;GJ6600513;2;;Admin;31.03.2025;16:21:23;MV-U02;31.03.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 14,
+  "raw": "7701889;GJ6600514;2;;MV-U02;25.03.2025;09:25:11;MV-U10;25.03.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7701889",
+   "JOURNALNAME": "GJ6600514",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "25.03.2025",
+   "ERFASST_UM": "09:25:11",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "25.03.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.14",
+   "quote": "7701889;GJ6600514;2;;MV-U02;25.03.2025;09:25:11;MV-U10;25.03.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 15,
+  "raw": "7701890;GJ6600515;2;;MV-U11;28.03.2025;13:21:37;MV-U02;28.03.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7701890",
+   "JOURNALNAME": "GJ6600515",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "28.03.2025",
+   "ERFASST_UM": "13:21:37",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "28.03.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.15",
+   "quote": "7701890;GJ6600515;2;;MV-U11;28.03.2025;13:21:37;MV-U02;28.03.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 16,
+  "raw": "7701891;GJ6600516;2;;MV-U02;31.03.2025;06:38:09;MV-U10;31.03.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7701891",
+   "JOURNALNAME": "GJ6600516",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.03.2025",
+   "ERFASST_UM": "06:38:09",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.03.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.16",
+   "quote": "7701891;GJ6600516;2;;MV-U02;31.03.2025;06:38:09;MV-U10;31.03.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 17,
+  "raw": "7701892;GJ6600517;2;;MV-U11;31.03.2025;16:14:10;MV-U10;31.03.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7701892",
+   "JOURNALNAME": "GJ6600517",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "31.03.2025",
+   "ERFASST_UM": "16:14:10",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.03.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.17",
+   "quote": "7701892;GJ6600517;2;;MV-U11;31.03.2025;16:14:10;MV-U10;31.03.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 18,
+  "raw": "7702597;GJ6600764;2;;Admin;30.04.2025;15:00:45;MV-U10;30.04.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7702597",
+   "JOURNALNAME": "GJ6600764",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "Admin",
+   "ERFASST_AM": "30.04.2025",
+   "ERFASST_UM": "15:00:45",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "30.04.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.18",
+   "quote": "7702597;GJ6600764;2;;Admin;30.04.2025;15:00:45;MV-U10;30.04.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 19,
+  "raw": "7702598;GJ6600765;2;;MV-U02;25.04.2025;06:36:32;MV-U10;25.04.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7702598",
+   "JOURNALNAME": "GJ6600765",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "25.04.2025",
+   "ERFASST_UM": "06:36:32",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "25.04.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.19",
+   "quote": "7702598;GJ6600765;2;;MV-U02;25.04.2025;06:36:32;MV-U10;25.04.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 20,
+  "raw": "7702599;GJ6600766;2;;MV-U11;28.04.2025;12:49:16;MV-U02;28.04.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7702599",
+   "JOURNALNAME": "GJ6600766",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "28.04.2025",
+   "ERFASST_UM": "12:49:16",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "28.04.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.20",
+   "quote": "7702599;GJ6600766;2;;MV-U11;28.04.2025;12:49:16;MV-U02;28.04.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 21,
+  "raw": "7702600;GJ6600767;2;;MV-U02;30.04.2025;11:17:00;MV-U10;30.04.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7702600",
+   "JOURNALNAME": "GJ6600767",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "30.04.2025",
+   "ERFASST_UM": "11:17:00",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "30.04.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.21",
+   "quote": "7702600;GJ6600767;2;;MV-U02;30.04.2025;11:17:00;MV-U10;30.04.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 22,
+  "raw": "7702601;GJ6600768;2;;MV-U11;30.04.2025;16:54:43;MV-U10;30.04.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7702601",
+   "JOURNALNAME": "GJ6600768",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "30.04.2025",
+   "ERFASST_UM": "16:54:43",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "30.04.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.22",
+   "quote": "7702601;GJ6600768;2;;MV-U11;30.04.2025;16:54:43;MV-U10;30.04.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 23,
+  "raw": "7703327;GJ6601036;2;;Admin;31.05.2025;14:19:51;MV-U02;31.05.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7703327",
+   "JOURNALNAME": "GJ6601036",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "Admin",
+   "ERFASST_AM": "31.05.2025",
+   "ERFASST_UM": "14:19:51",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "31.05.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.23",
+   "quote": "7703327;GJ6601036;2;;Admin;31.05.2025;14:19:51;MV-U02;31.05.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 24,
+  "raw": "7703328;GJ6601037;2;;MV-U02;25.05.2025;16:32:13;MV-U10;25.05.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7703328",
+   "JOURNALNAME": "GJ6601037",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "25.05.2025",
+   "ERFASST_UM": "16:32:13",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "25.05.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.24",
+   "quote": "7703328;GJ6601037;2;;MV-U02;25.05.2025;16:32:13;MV-U10;25.05.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 25,
+  "raw": "7703329;GJ6601038;2;;MV-U11;28.05.2025;12:08:57;MV-U02;28.05.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7703329",
+   "JOURNALNAME": "GJ6601038",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "28.05.2025",
+   "ERFASST_UM": "12:08:57",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "28.05.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.25",
+   "quote": "7703329;GJ6601038;2;;MV-U11;28.05.2025;12:08:57;MV-U02;28.05.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 26,
+  "raw": "7703330;GJ6601039;2;;MV-U02;31.05.2025;07:30:54;MV-U10;31.05.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7703330",
+   "JOURNALNAME": "GJ6601039",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.05.2025",
+   "ERFASST_UM": "07:30:54",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.05.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.26",
+   "quote": "7703330;GJ6601039;2;;MV-U02;31.05.2025;07:30:54;MV-U10;31.05.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 27,
+  "raw": "7703331;GJ6601040;2;;MV-U11;31.05.2025;16:52:49;MV-U10;31.05.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7703331",
+   "JOURNALNAME": "GJ6601040",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "31.05.2025",
+   "ERFASST_UM": "16:52:49",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.05.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.27",
+   "quote": "7703331;GJ6601040;2;;MV-U11;31.05.2025;16:52:49;MV-U10;31.05.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 28,
+  "raw": "7704035;GJ6601286;2;;Admin;30.06.2025;07:50:29;MV-U02;30.06.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7704035",
+   "JOURNALNAME": "GJ6601286",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "Admin",
+   "ERFASST_AM": "30.06.2025",
+   "ERFASST_UM": "07:50:29",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "30.06.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.28",
+   "quote": "7704035;GJ6601286;2;;Admin;30.06.2025;07:50:29;MV-U02;30.06.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 29,
+  "raw": "7704036;GJ6601287;2;;MV-U02;25.06.2025;16:53:32;MV-U10;25.06.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7704036",
+   "JOURNALNAME": "GJ6601287",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "25.06.2025",
+   "ERFASST_UM": "16:53:32",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "25.06.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.29",
+   "quote": "7704036;GJ6601287;2;;MV-U02;25.06.2025;16:53:32;MV-U10;25.06.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 30,
+  "raw": "7704037;GJ6601288;2;;MV-U11;28.06.2025;19:11:02;MV-U02;28.06.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7704037",
+   "JOURNALNAME": "GJ6601288",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "28.06.2025",
+   "ERFASST_UM": "19:11:02",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "28.06.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.30",
+   "quote": "7704037;GJ6601288;2;;MV-U11;28.06.2025;19:11:02;MV-U02;28.06.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 31,
+  "raw": "7704038;GJ6601289;2;;MV-U02;30.06.2025;18:25:05;MV-U10;30.06.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7704038",
+   "JOURNALNAME": "GJ6601289",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "30.06.2025",
+   "ERFASST_UM": "18:25:05",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "30.06.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.31",
+   "quote": "7704038;GJ6601289;2;;MV-U02;30.06.2025;18:25:05;MV-U10;30.06.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 32,
+  "raw": "7704039;GJ6601290;2;;MV-U11;30.06.2025;18:27:32;MV-U02;30.06.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7704039",
+   "JOURNALNAME": "GJ6601290",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "30.06.2025",
+   "ERFASST_UM": "18:27:32",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "30.06.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.32",
+   "quote": "7704039;GJ6601290;2;;MV-U11;30.06.2025;18:27:32;MV-U02;30.06.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 33,
+  "raw": "7704754;GJ6601547;2;;Admin;31.07.2025;19:01:54;MV-U10;31.07.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7704754",
+   "JOURNALNAME": "GJ6601547",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "Admin",
+   "ERFASST_AM": "31.07.2025",
+   "ERFASST_UM": "19:01:54",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.07.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.33",
+   "quote": "7704754;GJ6601547;2;;Admin;31.07.2025;19:01:54;MV-U10;31.07.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 34,
+  "raw": "7704755;GJ6601548;2;;MV-U02;25.07.2025;10:08:14;MV-U10;25.07.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7704755",
+   "JOURNALNAME": "GJ6601548",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "25.07.2025",
+   "ERFASST_UM": "10:08:14",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "25.07.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.34",
+   "quote": "7704755;GJ6601548;2;;MV-U02;25.07.2025;10:08:14;MV-U10;25.07.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 35,
+  "raw": "7704756;GJ6601549;2;;MV-U11;28.07.2025;09:11:47;MV-U02;28.07.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7704756",
+   "JOURNALNAME": "GJ6601549",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "28.07.2025",
+   "ERFASST_UM": "09:11:47",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "28.07.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.35",
+   "quote": "7704756;GJ6601549;2;;MV-U11;28.07.2025;09:11:47;MV-U02;28.07.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 36,
+  "raw": "7704757;GJ6601550;2;;MV-U02;31.07.2025;15:14:44;MV-U10;31.07.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7704757",
+   "JOURNALNAME": "GJ6601550",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.07.2025",
+   "ERFASST_UM": "15:14:44",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.07.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.36",
+   "quote": "7704757;GJ6601550;2;;MV-U02;31.07.2025;15:14:44;MV-U10;31.07.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 37,
+  "raw": "7704758;GJ6601551;2;;MV-U11;31.07.2025;14:30:47;MV-U02;31.07.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7704758",
+   "JOURNALNAME": "GJ6601551",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "31.07.2025",
+   "ERFASST_UM": "14:30:47",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "31.07.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.37",
+   "quote": "7704758;GJ6601551;2;;MV-U11;31.07.2025;14:30:47;MV-U02;31.07.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 38,
+  "raw": "7705476;GJ6601811;2;;Admin;31.08.2025;07:36:22;MV-U10;31.08.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7705476",
+   "JOURNALNAME": "GJ6601811",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "Admin",
+   "ERFASST_AM": "31.08.2025",
+   "ERFASST_UM": "07:36:22",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.08.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.38",
+   "quote": "7705476;GJ6601811;2;;Admin;31.08.2025;07:36:22;MV-U10;31.08.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 39,
+  "raw": "7705477;GJ6601812;2;;MV-U02;25.08.2025;06:22:27;MV-U10;25.08.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7705477",
+   "JOURNALNAME": "GJ6601812",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "25.08.2025",
+   "ERFASST_UM": "06:22:27",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "25.08.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.39",
+   "quote": "7705477;GJ6601812;2;;MV-U02;25.08.2025;06:22:27;MV-U10;25.08.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 40,
+  "raw": "7705478;GJ6601813;2;;MV-U11;28.08.2025;18:30:44;MV-U02;28.08.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7705478",
+   "JOURNALNAME": "GJ6601813",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "28.08.2025",
+   "ERFASST_UM": "18:30:44",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "28.08.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.40",
+   "quote": "7705478;GJ6601813;2;;MV-U11;28.08.2025;18:30:44;MV-U02;28.08.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 41,
+  "raw": "7705479;GJ6601814;2;;MV-U02;31.08.2025;13:39:43;MV-U10;31.08.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7705479",
+   "JOURNALNAME": "GJ6601814",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.08.2025",
+   "ERFASST_UM": "13:39:43",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.08.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.41",
+   "quote": "7705479;GJ6601814;2;;MV-U02;31.08.2025;13:39:43;MV-U10;31.08.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 42,
+  "raw": "7705480;GJ6601815;2;;MV-U11;31.08.2025;15:53:20;MV-U02;31.08.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7705480",
+   "JOURNALNAME": "GJ6601815",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "31.08.2025",
+   "ERFASST_UM": "15:53:20",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "31.08.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.42",
+   "quote": "7705480;GJ6601815;2;;MV-U11;31.08.2025;15:53:20;MV-U02;31.08.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 43,
+  "raw": "7706178;GJ6602055;2;;Admin;30.09.2025;10:49:06;MV-U10;30.09.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7706178",
+   "JOURNALNAME": "GJ6602055",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "Admin",
+   "ERFASST_AM": "30.09.2025",
+   "ERFASST_UM": "10:49:06",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "30.09.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.43",
+   "quote": "7706178;GJ6602055;2;;Admin;30.09.2025;10:49:06;MV-U10;30.09.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 44,
+  "raw": "7706179;GJ6602056;2;;MV-U02;25.09.2025;19:22:56;MV-U10;25.09.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7706179",
+   "JOURNALNAME": "GJ6602056",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "25.09.2025",
+   "ERFASST_UM": "19:22:56",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "25.09.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.44",
+   "quote": "7706179;GJ6602056;2;;MV-U02;25.09.2025;19:22:56;MV-U10;25.09.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 45,
+  "raw": "7706180;GJ6602057;2;;MV-U11;28.09.2025;12:50:01;MV-U10;28.09.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7706180",
+   "JOURNALNAME": "GJ6602057",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "28.09.2025",
+   "ERFASST_UM": "12:50:01",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "28.09.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.45",
+   "quote": "7706180;GJ6602057;2;;MV-U11;28.09.2025;12:50:01;MV-U10;28.09.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 46,
+  "raw": "7706181;GJ6602058;2;;MV-U02;30.09.2025;10:23:26;MV-U10;30.09.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7706181",
+   "JOURNALNAME": "GJ6602058",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "30.09.2025",
+   "ERFASST_UM": "10:23:26",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "30.09.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.46",
+   "quote": "7706181;GJ6602058;2;;MV-U02;30.09.2025;10:23:26;MV-U10;30.09.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 47,
+  "raw": "7706182;GJ6602059;2;;MV-U11;30.09.2025;06:28:47;MV-U10;30.09.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7706182",
+   "JOURNALNAME": "GJ6602059",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "30.09.2025",
+   "ERFASST_UM": "06:28:47",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "30.09.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.47",
+   "quote": "7706182;GJ6602059;2;;MV-U11;30.09.2025;06:28:47;MV-U10;30.09.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 48,
+  "raw": "7706910;GJ6602329;2;;Admin;31.10.2025;17:20:16;MV-U10;31.10.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7706910",
+   "JOURNALNAME": "GJ6602329",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "Admin",
+   "ERFASST_AM": "31.10.2025",
+   "ERFASST_UM": "17:20:16",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.10.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.48",
+   "quote": "7706910;GJ6602329;2;;Admin;31.10.2025;17:20:16;MV-U10;31.10.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 49,
+  "raw": "7706911;GJ6602330;2;;MV-U02;25.10.2025;11:39:33;MV-U10;25.10.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7706911",
+   "JOURNALNAME": "GJ6602330",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "25.10.2025",
+   "ERFASST_UM": "11:39:33",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "25.10.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.49",
+   "quote": "7706911;GJ6602330;2;;MV-U02;25.10.2025;11:39:33;MV-U10;25.10.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 50,
+  "raw": "7706912;GJ6602331;2;;MV-U11;28.10.2025;08:35:55;MV-U10;28.10.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7706912",
+   "JOURNALNAME": "GJ6602331",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "28.10.2025",
+   "ERFASST_UM": "08:35:55",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "28.10.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.50",
+   "quote": "7706912;GJ6602331;2;;MV-U11;28.10.2025;08:35:55;MV-U10;28.10.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 51,
+  "raw": "7706913;GJ6602332;2;;MV-U02;31.10.2025;12:38:53;MV-U10;31.10.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7706913",
+   "JOURNALNAME": "GJ6602332",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.10.2025",
+   "ERFASST_UM": "12:38:53",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.10.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.51",
+   "quote": "7706913;GJ6602332;2;;MV-U02;31.10.2025;12:38:53;MV-U10;31.10.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 52,
+  "raw": "7706914;GJ6602333;2;;MV-U11;31.10.2025;06:19:11;MV-U10;31.10.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7706914",
+   "JOURNALNAME": "GJ6602333",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "31.10.2025",
+   "ERFASST_UM": "06:19:11",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.10.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.52",
+   "quote": "7706914;GJ6602333;2;;MV-U11;31.10.2025;06:19:11;MV-U10;31.10.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 53,
+  "raw": "7707605;GJ6602566;2;;Admin;30.11.2025;18:44:53;MV-U02;30.11.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7707605",
+   "JOURNALNAME": "GJ6602566",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "Admin",
+   "ERFASST_AM": "30.11.2025",
+   "ERFASST_UM": "18:44:53",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "30.11.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.53",
+   "quote": "7707605;GJ6602566;2;;Admin;30.11.2025;18:44:53;MV-U02;30.11.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 54,
+  "raw": "7707606;GJ6602567;2;;MV-U02;25.11.2025;08:28:28;MV-U10;25.11.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7707606",
+   "JOURNALNAME": "GJ6602567",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "25.11.2025",
+   "ERFASST_UM": "08:28:28",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "25.11.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.54",
+   "quote": "7707606;GJ6602567;2;;MV-U02;25.11.2025;08:28:28;MV-U10;25.11.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 55,
+  "raw": "7707607;GJ6602568;2;;MV-U11;28.11.2025;15:50:55;MV-U02;28.11.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7707607",
+   "JOURNALNAME": "GJ6602568",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "28.11.2025",
+   "ERFASST_UM": "15:50:55",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "28.11.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.55",
+   "quote": "7707607;GJ6602568;2;;MV-U11;28.11.2025;15:50:55;MV-U02;28.11.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 56,
+  "raw": "7707608;GJ6602569;2;;MV-U02;30.11.2025;19:02:36;MV-U10;30.11.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7707608",
+   "JOURNALNAME": "GJ6602569",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "30.11.2025",
+   "ERFASST_UM": "19:02:36",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "30.11.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.56",
+   "quote": "7707608;GJ6602569;2;;MV-U02;30.11.2025;19:02:36;MV-U10;30.11.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 57,
+  "raw": "7707609;GJ6602570;2;;MV-U11;30.11.2025;07:04:41;MV-U02;30.11.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7707609",
+   "JOURNALNAME": "GJ6602570",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "30.11.2025",
+   "ERFASST_UM": "07:04:41",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "30.11.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.57",
+   "quote": "7707609;GJ6602570;2;;MV-U11;30.11.2025;07:04:41;MV-U02;30.11.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 58,
+  "raw": "7708323;GJ6602826;2;;Admin;31.12.2025;08:44:11;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708323",
+   "JOURNALNAME": "GJ6602826",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "Admin",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "08:44:11",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.58",
+   "quote": "7708323;GJ6602826;2;;Admin;31.12.2025;08:44:11;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 59,
+  "raw": "7708324;GJ6602827;2;;MV-U02;25.12.2025;13:58:36;MV-U10;25.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708324",
+   "JOURNALNAME": "GJ6602827",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "25.12.2025",
+   "ERFASST_UM": "13:58:36",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "25.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.59",
+   "quote": "7708324;GJ6602827;2;;MV-U02;25.12.2025;13:58:36;MV-U10;25.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 60,
+  "raw": "7708325;GJ6602828;2;;MV-U11;28.12.2025;10:04:56;MV-U02;28.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708325",
+   "JOURNALNAME": "GJ6602828",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "28.12.2025",
+   "ERFASST_UM": "10:04:56",
+   "FREIGEBER": "MV-U02",
+   "FREIGABEDATUM": "28.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.60",
+   "quote": "7708325;GJ6602828;2;;MV-U11;28.12.2025;10:04:56;MV-U02;28.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 61,
+  "raw": "7708326;GJ6602829;2;;MV-U02;31.12.2025;14:49:28;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708326",
+   "JOURNALNAME": "GJ6602829",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "14:49:28",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.61",
+   "quote": "7708326;GJ6602829;2;;MV-U02;31.12.2025;14:49:28;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 62,
+  "raw": "7708327;GJ6602830;2;;MV-U11;31.12.2025;15:52:53;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708327",
+   "JOURNALNAME": "GJ6602830",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U11",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "15:52:53",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.62",
+   "quote": "7708327;GJ6602830;2;;MV-U11;31.12.2025;15:52:53;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 63,
+  "raw": "7708328;GJ6602831;2;;MV-U02;31.03.2025;09:14:06;MV-U10;31.03.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708328",
+   "JOURNALNAME": "GJ6602831",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.03.2025",
+   "ERFASST_UM": "09:14:06",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.03.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.63",
+   "quote": "7708328;GJ6602831;2;;MV-U02;31.03.2025;09:14:06;MV-U10;31.03.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 64,
+  "raw": "7708329;GJ6602832;2;;MV-U02;30.06.2025;09:27:31;MV-U10;30.06.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708329",
+   "JOURNALNAME": "GJ6602832",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "30.06.2025",
+   "ERFASST_UM": "09:27:31",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "30.06.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.64",
+   "quote": "7708329;GJ6602832;2;;MV-U02;30.06.2025;09:27:31;MV-U10;30.06.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 65,
+  "raw": "7708330;GJ6602833;2;;MV-U02;30.09.2025;09:07:42;MV-U10;30.09.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708330",
+   "JOURNALNAME": "GJ6602833",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "30.09.2025",
+   "ERFASST_UM": "09:07:42",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "30.09.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.65",
+   "quote": "7708330;GJ6602833;2;;MV-U02;30.09.2025;09:07:42;MV-U10;30.09.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 66,
+  "raw": "7708331;GJ6602834;2;;MV-U02;31.12.2025;12:22:09;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708331",
+   "JOURNALNAME": "GJ6602834",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "12:22:09",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.66",
+   "quote": "7708331;GJ6602834;2;;MV-U02;31.12.2025;12:22:09;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 67,
+  "raw": "7708332;GB6602835;2;;MV-U02;31.12.2025;08:38:15;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708332",
+   "JOURNALNAME": "GB6602835",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "08:38:15",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.67",
+   "quote": "7708332;GB6602835;2;;MV-U02;31.12.2025;08:38:15;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 68,
+  "raw": "7708333;GB6602836;2;;MV-U02;31.12.2025;19:59:49;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708333",
+   "JOURNALNAME": "GB6602836",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "19:59:49",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.68",
+   "quote": "7708333;GB6602836;2;;MV-U02;31.12.2025;19:59:49;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 69,
+  "raw": "7708334;GB6602837;2;;MV-U02;31.12.2025;09:05:33;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708334",
+   "JOURNALNAME": "GB6602837",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "09:05:33",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.69",
+   "quote": "7708334;GB6602837;2;;MV-U02;31.12.2025;09:05:33;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 70,
+  "raw": "7708335;GB6602838;2;;MV-U02;31.12.2025;11:02:34;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708335",
+   "JOURNALNAME": "GB6602838",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "11:02:34",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.70",
+   "quote": "7708335;GB6602838;2;;MV-U02;31.12.2025;11:02:34;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 71,
+  "raw": "7708336;GB6602839;2;;MV-U02;31.12.2025;12:26:47;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708336",
+   "JOURNALNAME": "GB6602839",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "12:26:47",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.71",
+   "quote": "7708336;GB6602839;2;;MV-U02;31.12.2025;12:26:47;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 72,
+  "raw": "7708337;GB6602840;2;;MV-U02;31.12.2025;12:05:43;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708337",
+   "JOURNALNAME": "GB6602840",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "12:05:43",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.72",
+   "quote": "7708337;GB6602840;2;;MV-U02;31.12.2025;12:05:43;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 73,
+  "raw": "7708338;GB6602841;2;;MV-U02;31.12.2025;16:50:55;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708338",
+   "JOURNALNAME": "GB6602841",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "16:50:55",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.73",
+   "quote": "7708338;GB6602841;2;;MV-U02;31.12.2025;16:50:55;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 74,
+  "raw": "7708339;GB6602842;2;;MV-U02;31.12.2025;14:54:47;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708339",
+   "JOURNALNAME": "GB6602842",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "14:54:47",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.74",
+   "quote": "7708339;GB6602842;2;;MV-U02;31.12.2025;14:54:47;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 75,
+  "raw": "7708340;GB6602843;2;;MV-U02;31.12.2025;09:54:29;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708340",
+   "JOURNALNAME": "GB6602843",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "09:54:29",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.75",
+   "quote": "7708340;GB6602843;2;;MV-U02;31.12.2025;09:54:29;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 76,
+  "raw": "7708341;GB6602844;2;;MV-U02;31.12.2025;10:59:03;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708341",
+   "JOURNALNAME": "GB6602844",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "10:59:03",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.76",
+   "quote": "7708341;GB6602844;2;;MV-U02;31.12.2025;10:59:03;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 77,
+  "raw": "7708342;GB6602845;2;;MV-U02;31.12.2025;06:18:31;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708342",
+   "JOURNALNAME": "GB6602845",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "06:18:31",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.77",
+   "quote": "7708342;GB6602845;2;;MV-U02;31.12.2025;06:18:31;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 78,
+  "raw": "7708343;GB6602846;2;;MV-U02;31.12.2025;16:24:22;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708343",
+   "JOURNALNAME": "GB6602846",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "16:24:22",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.78",
+   "quote": "7708343;GB6602846;2;;MV-U02;31.12.2025;16:24:22;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 79,
+  "raw": "7708344;GB6602847;2;;MV-U02;31.12.2025;14:35:56;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708344",
+   "JOURNALNAME": "GB6602847",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "14:35:56",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.79",
+   "quote": "7708344;GB6602847;2;;MV-U02;31.12.2025;14:35:56;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 80,
+  "raw": "7708345;GB6602848;2;;MV-U02;31.12.2025;17:54:41;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708345",
+   "JOURNALNAME": "GB6602848",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "17:54:41",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.80",
+   "quote": "7708345;GB6602848;2;;MV-U02;31.12.2025;17:54:41;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 81,
+  "raw": "7708346;GB6602849;2;;MV-U02;31.12.2025;17:23:14;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708346",
+   "JOURNALNAME": "GB6602849",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "17:23:14",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.81",
+   "quote": "7708346;GB6602849;2;;MV-U02;31.12.2025;17:23:14;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 82,
+  "raw": "7708347;GB6602850;2;;MV-U02;31.12.2025;17:04:38;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708347",
+   "JOURNALNAME": "GB6602850",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "17:04:38",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.82",
+   "quote": "7708347;GB6602850;2;;MV-U02;31.12.2025;17:04:38;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 83,
+  "raw": "7708348;GB6602851;2;;MV-U02;31.12.2025;08:56:03;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708348",
+   "JOURNALNAME": "GB6602851",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "08:56:03",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.83",
+   "quote": "7708348;GB6602851;2;;MV-U02;31.12.2025;08:56:03;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 84,
+  "raw": "7708349;GB6602852;2;;MV-U02;31.12.2025;11:06:41;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708349",
+   "JOURNALNAME": "GB6602852",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "11:06:41",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.84",
+   "quote": "7708349;GB6602852;2;;MV-U02;31.12.2025;11:06:41;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 85,
+  "raw": "7708350;GB6602853;2;;MV-U02;31.12.2025;19:47:22;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708350",
+   "JOURNALNAME": "GB6602853",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "19:47:22",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.85",
+   "quote": "7708350;GB6602853;2;;MV-U02;31.12.2025;19:47:22;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 86,
+  "raw": "7708351;GB6602854;2;;MV-U02;31.12.2025;09:45:10;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708351",
+   "JOURNALNAME": "GB6602854",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "09:45:10",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.86",
+   "quote": "7708351;GB6602854;2;;MV-U02;31.12.2025;09:45:10;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 87,
+  "raw": "7708352;GB6602855;2;;MV-U02;31.12.2025;14:51:39;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708352",
+   "JOURNALNAME": "GB6602855",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "14:51:39",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.87",
+   "quote": "7708352;GB6602855;2;;MV-U02;31.12.2025;14:51:39;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 88,
+  "raw": "7708353;GB6602856;2;;MV-U02;31.12.2025;19:48:43;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708353",
+   "JOURNALNAME": "GB6602856",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "19:48:43",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.88",
+   "quote": "7708353;GB6602856;2;;MV-U02;31.12.2025;19:48:43;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 89,
+  "raw": "7708354;GJ6602857;2;;MV-U02;31.12.2025;08:45:23;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708354",
+   "JOURNALNAME": "GJ6602857",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "08:45:23",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.89",
+   "quote": "7708354;GJ6602857;2;;MV-U02;31.12.2025;08:45:23;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 90,
+  "raw": "7708355;GJ6602858;2;;MV-U02;10.12.2025;15:45:26;MV-U10;10.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708355",
+   "JOURNALNAME": "GJ6602858",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "10.12.2025",
+   "ERFASST_UM": "15:45:26",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "10.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.90",
+   "quote": "7708355;GJ6602858;2;;MV-U02;10.12.2025;15:45:26;MV-U10;10.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 91,
+  "raw": "7708372;GJ6602864;2;;MV-U02;31.12.2025;07:43:43;MV-U10;31.12.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708372",
+   "JOURNALNAME": "GJ6602864",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "31.12.2025",
+   "ERFASST_UM": "07:43:43",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "31.12.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.91",
+   "quote": "7708372;GJ6602864;2;;MV-U02;31.12.2025;07:43:43;MV-U10;31.12.2025;Freigegeben"
+  }
+ },
+ {
+  "rowNumber": 92,
+  "raw": "7708389;GJ6602869;2;;MV-U02;29.08.2025;06:31:27;MV-U10;29.08.2025;Freigegeben",
+  "values": {
+   "ERFASSUNGSNUMMER": "7708389",
+   "JOURNALNAME": "GJ6602869",
+   "ANZAHL_ZEILEN": "2",
+   "SUMME_ABS_EUR": "",
+   "ERSTELLER": "MV-U02",
+   "ERFASST_AM": "29.08.2025",
+   "ERFASST_UM": "06:31:27",
+   "FREIGEBER": "MV-U10",
+   "FREIGABEDATUM": "29.08.2025",
+   "FREIGABESTATUS": "Freigegeben"
+  },
+  "citation": {
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "ref": "Freigabe-Log_Journale_2025!r.92",
+   "quote": "7708389;GJ6602869;2;;MV-U02;29.08.2025;06:31:27;MV-U10;29.08.2025;Freigegeben"
+  }
+ }
+]

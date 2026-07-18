@@ -1,0 +1,3942 @@
+[
+ {
+  "rowNumber": 1,
+  "raw": "\"020000-000001\";\"Grundstück X200\";\"020000\";\"Land\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "020000-000001",
+   "ANLAGENBEZEICHNUNG": "Grundstück X200",
+   "ANLAGENGRUPPE": "020000",
+   "ANLAGENTYP": "Land",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.1",
+   "quote": "\"020000-000001\";\"Grundstück X200\";\"020000\";\"Land\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 2,
+  "raw": "\"021000-000002\";\"Betriebsgebäude Kompakt\";\"021000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "021000-000002",
+   "ANLAGENBEZEICHNUNG": "Betriebsgebäude Kompakt",
+   "ANLAGENGRUPPE": "021000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.2",
+   "quote": "\"021000-000002\";\"Betriebsgebäude Kompakt\";\"021000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 3,
+  "raw": "\"021000-000003\";\"Betriebsgebäude Serie 3\";\"021000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "021000-000003",
+   "ANLAGENBEZEICHNUNG": "Betriebsgebäude Serie 3",
+   "ANLAGENGRUPPE": "021000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.3",
+   "quote": "\"021000-000003\";\"Betriebsgebäude Serie 3\";\"021000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 4,
+  "raw": "\"021000-000004\";\"Betriebsgebäude Typ A\";\"021000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "021000-000004",
+   "ANLAGENBEZEICHNUNG": "Betriebsgebäude Typ A",
+   "ANLAGENGRUPPE": "021000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.4",
+   "quote": "\"021000-000004\";\"Betriebsgebäude Typ A\";\"021000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 5,
+  "raw": "\"040000-000005\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Abgang 29.08.2025\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000005",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Halle II",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Abgang 29.08.2025"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.5",
+   "quote": "\"040000-000005\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Abgang 29.08.2025\""
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "\"040000-000006\";\"Produktionsmaschine Kompakt\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000006",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Kompakt",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.6",
+   "quote": "\"040000-000006\";\"Produktionsmaschine Kompakt\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 7,
+  "raw": "\"040000-000007\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000007",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.7",
+   "quote": "\"040000-000007\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 8,
+  "raw": "\"040000-000008\";\"Produktionsmaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000008",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine X200",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.8",
+   "quote": "\"040000-000008\";\"Produktionsmaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 9,
+  "raw": "\"040000-000009\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000009",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Halle II",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.9",
+   "quote": "\"040000-000009\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 10,
+  "raw": "\"040000-000010\";\"Produktionsmaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000010",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Serie 3",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.10",
+   "quote": "\"040000-000010\";\"Produktionsmaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 11,
+  "raw": "\"040000-000011\";\"Produktionsmaschine Typ B\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000011",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Typ B",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.11",
+   "quote": "\"040000-000011\";\"Produktionsmaschine Typ B\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 12,
+  "raw": "\"040000-000012\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000012",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Typ A",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.12",
+   "quote": "\"040000-000012\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 13,
+  "raw": "\"040000-000013\";\"Produktionsmaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000013",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine X200",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.13",
+   "quote": "\"040000-000013\";\"Produktionsmaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 14,
+  "raw": "\"040000-000014\";\"Produktionsmaschine Kompakt\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000014",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Kompakt",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.14",
+   "quote": "\"040000-000014\";\"Produktionsmaschine Kompakt\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 15,
+  "raw": "\"040000-000015\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000015",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Halle II",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.15",
+   "quote": "\"040000-000015\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 16,
+  "raw": "\"040000-000016\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000016",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Typ A",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.16",
+   "quote": "\"040000-000016\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 17,
+  "raw": "\"040000-000017\";\"Produktionsmaschine Kompakt\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000017",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Kompakt",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.17",
+   "quote": "\"040000-000017\";\"Produktionsmaschine Kompakt\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 18,
+  "raw": "\"040000-000018\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000018",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Typ A",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.18",
+   "quote": "\"040000-000018\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 19,
+  "raw": "\"040000-000019\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000019",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Halle II",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.19",
+   "quote": "\"040000-000019\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 20,
+  "raw": "\"040000-000020\";\"Produktionsmaschine Linie 2\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000020",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Linie 2",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.20",
+   "quote": "\"040000-000020\";\"Produktionsmaschine Linie 2\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 21,
+  "raw": "\"040000-000021\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000021",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Halle II",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.21",
+   "quote": "\"040000-000021\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 22,
+  "raw": "\"040000-000022\";\"Produktionsmaschine Linie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000022",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Linie 3",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.22",
+   "quote": "\"040000-000022\";\"Produktionsmaschine Linie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 23,
+  "raw": "\"040000-000023\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000023",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Halle II",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.23",
+   "quote": "\"040000-000023\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 24,
+  "raw": "\"040000-000024\";\"Produktionsmaschine Typ B\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000024",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Typ B",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.24",
+   "quote": "\"040000-000024\";\"Produktionsmaschine Typ B\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 25,
+  "raw": "\"040000-000025\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000025",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Typ A",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.25",
+   "quote": "\"040000-000025\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 26,
+  "raw": "\"040000-000026\";\"Produktionsmaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000026",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Serie 3",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.26",
+   "quote": "\"040000-000026\";\"Produktionsmaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 27,
+  "raw": "\"040000-000027\";\"Produktionsmaschine Linie 1\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000027",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Linie 1",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.27",
+   "quote": "\"040000-000027\";\"Produktionsmaschine Linie 1\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 28,
+  "raw": "\"040000-000028\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000028",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Typ A",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.28",
+   "quote": "\"040000-000028\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 29,
+  "raw": "\"040000-000029\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000029",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Typ A",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.29",
+   "quote": "\"040000-000029\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 30,
+  "raw": "\"040000-000030\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000030",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Typ A",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.30",
+   "quote": "\"040000-000030\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 31,
+  "raw": "\"040000-000031\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000031",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.31",
+   "quote": "\"040000-000031\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 32,
+  "raw": "\"040000-000032\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000032",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.32",
+   "quote": "\"040000-000032\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 33,
+  "raw": "\"040000-000033\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000033",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Typ A",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.33",
+   "quote": "\"040000-000033\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 34,
+  "raw": "\"040000-000034\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000034",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.34",
+   "quote": "\"040000-000034\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 35,
+  "raw": "\"040000-000035\";\"Produktionsmaschine Linie 4\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000035",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Linie 4",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.35",
+   "quote": "\"040000-000035\";\"Produktionsmaschine Linie 4\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 36,
+  "raw": "\"040000-000036\";\"Produktionsmaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000036",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Serie 3",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.36",
+   "quote": "\"040000-000036\";\"Produktionsmaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 37,
+  "raw": "\"040000-000037\";\"Produktionsmaschine Linie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000037",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Linie 3",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.37",
+   "quote": "\"040000-000037\";\"Produktionsmaschine Linie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 38,
+  "raw": "\"040000-000038\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000038",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Typ A",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.38",
+   "quote": "\"040000-000038\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 39,
+  "raw": "\"040000-000039\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000039",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Typ A",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.39",
+   "quote": "\"040000-000039\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 40,
+  "raw": "\"040000-000040\";\"Produktionsmaschine Linie 4\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000040",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Linie 4",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.40",
+   "quote": "\"040000-000040\";\"Produktionsmaschine Linie 4\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 41,
+  "raw": "\"040000-000041\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000041",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Halle II",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.41",
+   "quote": "\"040000-000041\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 42,
+  "raw": "\"040000-000042\";\"Produktionsmaschine Typ B\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000042",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Typ B",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.42",
+   "quote": "\"040000-000042\";\"Produktionsmaschine Typ B\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 43,
+  "raw": "\"040000-000043\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000043",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.43",
+   "quote": "\"040000-000043\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 44,
+  "raw": "\"040000-000044\";\"Produktionsmaschine Linie 4\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000044",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Linie 4",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.44",
+   "quote": "\"040000-000044\";\"Produktionsmaschine Linie 4\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 45,
+  "raw": "\"040000-000045\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000045",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.45",
+   "quote": "\"040000-000045\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 46,
+  "raw": "\"040000-000046\";\"Produktionsmaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000046",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Serie 3",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.46",
+   "quote": "\"040000-000046\";\"Produktionsmaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 47,
+  "raw": "\"040000-000047\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000047",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.47",
+   "quote": "\"040000-000047\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 48,
+  "raw": "\"040000-000048\";\"Produktionsmaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000048",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine X200",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.48",
+   "quote": "\"040000-000048\";\"Produktionsmaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 49,
+  "raw": "\"040000-000049\";\"Produktionsmaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000049",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Serie 3",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.49",
+   "quote": "\"040000-000049\";\"Produktionsmaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 50,
+  "raw": "\"040000-000050\";\"Produktionsmaschine Linie 1\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000050",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Linie 1",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.50",
+   "quote": "\"040000-000050\";\"Produktionsmaschine Linie 1\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 51,
+  "raw": "\"040000-000051\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000051",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.51",
+   "quote": "\"040000-000051\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 52,
+  "raw": "\"040000-000052\";\"Produktionsmaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000052",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Serie 3",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.52",
+   "quote": "\"040000-000052\";\"Produktionsmaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 53,
+  "raw": "\"040000-000053\";\"Produktionsmaschine Kompakt\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000053",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Kompakt",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.53",
+   "quote": "\"040000-000053\";\"Produktionsmaschine Kompakt\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 54,
+  "raw": "\"040000-000054\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000054",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.54",
+   "quote": "\"040000-000054\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 55,
+  "raw": "\"040000-000055\";\"Produktionsmaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000055",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Serie 3",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.55",
+   "quote": "\"040000-000055\";\"Produktionsmaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 56,
+  "raw": "\"040000-000056\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000056",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Halle II",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.56",
+   "quote": "\"040000-000056\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 57,
+  "raw": "\"040000-000057\";\"Produktionsmaschine Typ B\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000057",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Typ B",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.57",
+   "quote": "\"040000-000057\";\"Produktionsmaschine Typ B\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 58,
+  "raw": "\"040000-000058\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000058",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Typ A",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.58",
+   "quote": "\"040000-000058\";\"Produktionsmaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 59,
+  "raw": "\"040000-000059\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000059",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Halle II",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.59",
+   "quote": "\"040000-000059\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 60,
+  "raw": "\"040000-000060\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000060",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Halle II",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.60",
+   "quote": "\"040000-000060\";\"Produktionsmaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 61,
+  "raw": "\"040000-000061\";\"Produktionsmaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000061",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine X200",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.61",
+   "quote": "\"040000-000061\";\"Produktionsmaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 62,
+  "raw": "\"040000-000062\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000062",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.62",
+   "quote": "\"040000-000062\";\"Produktionsmaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 63,
+  "raw": "\"040000-000063\";\"Produktionsmaschine Kompakt\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000063",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine Kompakt",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.63",
+   "quote": "\"040000-000063\";\"Produktionsmaschine Kompakt\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 64,
+  "raw": "\"040000-000064\";\"Produktionsmaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000064",
+   "ANLAGENBEZEICHNUNG": "Produktionsmaschine X200",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.64",
+   "quote": "\"040000-000064\";\"Produktionsmaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 65,
+  "raw": "\"040000-000065\";\"Konfektioniermaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000065",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine X200",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.65",
+   "quote": "\"040000-000065\";\"Konfektioniermaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 66,
+  "raw": "\"040000-000066\";\"Konfektioniermaschine Linie 4\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000066",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Linie 4",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.66",
+   "quote": "\"040000-000066\";\"Konfektioniermaschine Linie 4\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 67,
+  "raw": "\"040000-000067\";\"Konfektioniermaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000067",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Typ A",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.67",
+   "quote": "\"040000-000067\";\"Konfektioniermaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 68,
+  "raw": "\"040000-000068\";\"Konfektioniermaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000068",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.68",
+   "quote": "\"040000-000068\";\"Konfektioniermaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 69,
+  "raw": "\"040000-000069\";\"Konfektioniermaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000069",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine X200",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.69",
+   "quote": "\"040000-000069\";\"Konfektioniermaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 70,
+  "raw": "\"040000-000070\";\"Konfektioniermaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000070",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Serie 3",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.70",
+   "quote": "\"040000-000070\";\"Konfektioniermaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 71,
+  "raw": "\"040000-000071\";\"Konfektioniermaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000071",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine X200",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.71",
+   "quote": "\"040000-000071\";\"Konfektioniermaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 72,
+  "raw": "\"040000-000072\";\"Konfektioniermaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000072",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Typ A",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.72",
+   "quote": "\"040000-000072\";\"Konfektioniermaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 73,
+  "raw": "\"040000-000073\";\"Konfektioniermaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000073",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Typ A",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.73",
+   "quote": "\"040000-000073\";\"Konfektioniermaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 74,
+  "raw": "\"040000-000074\";\"Konfektioniermaschine Typ B\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000074",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Typ B",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.74",
+   "quote": "\"040000-000074\";\"Konfektioniermaschine Typ B\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 75,
+  "raw": "\"040000-000075\";\"Konfektioniermaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000075",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Serie 3",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.75",
+   "quote": "\"040000-000075\";\"Konfektioniermaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 76,
+  "raw": "\"040000-000076\";\"Konfektioniermaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000076",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.76",
+   "quote": "\"040000-000076\";\"Konfektioniermaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 77,
+  "raw": "\"040000-000077\";\"Konfektioniermaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000077",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.77",
+   "quote": "\"040000-000077\";\"Konfektioniermaschine\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 78,
+  "raw": "\"040000-000078\";\"Konfektioniermaschine Typ B\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000078",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Typ B",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.78",
+   "quote": "\"040000-000078\";\"Konfektioniermaschine Typ B\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 79,
+  "raw": "\"040000-000079\";\"Konfektioniermaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000079",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Typ A",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.79",
+   "quote": "\"040000-000079\";\"Konfektioniermaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 80,
+  "raw": "\"040000-000080\";\"Konfektioniermaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000080",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Typ A",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.80",
+   "quote": "\"040000-000080\";\"Konfektioniermaschine Typ A\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 81,
+  "raw": "\"040000-000081\";\"Konfektioniermaschine Kompakt\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000081",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Kompakt",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.81",
+   "quote": "\"040000-000081\";\"Konfektioniermaschine Kompakt\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 82,
+  "raw": "\"040000-000082\";\"Konfektioniermaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000082",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Halle II",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.82",
+   "quote": "\"040000-000082\";\"Konfektioniermaschine Halle II\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 83,
+  "raw": "\"040000-000083\";\"Konfektioniermaschine Linie 2\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000083",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Linie 2",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.83",
+   "quote": "\"040000-000083\";\"Konfektioniermaschine Linie 2\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 84,
+  "raw": "\"040000-000084\";\"Konfektioniermaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000084",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine X200",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.84",
+   "quote": "\"040000-000084\";\"Konfektioniermaschine X200\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 85,
+  "raw": "\"040000-000085\";\"Konfektioniermaschine Linie 2\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000085",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Linie 2",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.85",
+   "quote": "\"040000-000085\";\"Konfektioniermaschine Linie 2\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 86,
+  "raw": "\"040000-000086\";\"Konfektioniermaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000086",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Serie 3",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.86",
+   "quote": "\"040000-000086\";\"Konfektioniermaschine Serie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 87,
+  "raw": "\"040000-000087\";\"Konfektioniermaschine Linie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000087",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Linie 3",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.87",
+   "quote": "\"040000-000087\";\"Konfektioniermaschine Linie 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 88,
+  "raw": "\"040000-000088\";\"Konfektioniermaschine Kompakt\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000088",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Kompakt",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.88",
+   "quote": "\"040000-000088\";\"Konfektioniermaschine Kompakt\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 89,
+  "raw": "\"040000-000089\";\"Konfektioniermaschine Typ B\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000089",
+   "ANLAGENBEZEICHNUNG": "Konfektioniermaschine Typ B",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.89",
+   "quote": "\"040000-000089\";\"Konfektioniermaschine Typ B\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 90,
+  "raw": "\"060000-000090\";\"Betriebsausstattung Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000090",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Halle II",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.90",
+   "quote": "\"060000-000090\";\"Betriebsausstattung Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 91,
+  "raw": "\"060000-000091\";\"Betriebsausstattung Linie 1\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000091",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Linie 1",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.91",
+   "quote": "\"060000-000091\";\"Betriebsausstattung Linie 1\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 92,
+  "raw": "\"060000-000092\";\"Betriebsausstattung Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000092",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Halle II",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.92",
+   "quote": "\"060000-000092\";\"Betriebsausstattung Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 93,
+  "raw": "\"060000-000093\";\"Betriebsausstattung Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000093",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Halle II",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.93",
+   "quote": "\"060000-000093\";\"Betriebsausstattung Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 94,
+  "raw": "\"060000-000094\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000094",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Typ A",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.94",
+   "quote": "\"060000-000094\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 95,
+  "raw": "\"060000-000095\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000095",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Typ A",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.95",
+   "quote": "\"060000-000095\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 96,
+  "raw": "\"060000-000096\";\"Betriebsausstattung Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000096",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Halle II",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.96",
+   "quote": "\"060000-000096\";\"Betriebsausstattung Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 97,
+  "raw": "\"060000-000097\";\"Betriebsausstattung X200\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000097",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung X200",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.97",
+   "quote": "\"060000-000097\";\"Betriebsausstattung X200\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 98,
+  "raw": "\"060000-000098\";\"Betriebsausstattung Kompakt\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000098",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Kompakt",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.98",
+   "quote": "\"060000-000098\";\"Betriebsausstattung Kompakt\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 99,
+  "raw": "\"060000-000099\";\"Betriebsausstattung X200\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000099",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung X200",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.99",
+   "quote": "\"060000-000099\";\"Betriebsausstattung X200\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 100,
+  "raw": "\"060000-000100\";\"Betriebsausstattung Typ B\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000100",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Typ B",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.100",
+   "quote": "\"060000-000100\";\"Betriebsausstattung Typ B\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 101,
+  "raw": "\"060000-000101\";\"Betriebsausstattung Typ B\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000101",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Typ B",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.101",
+   "quote": "\"060000-000101\";\"Betriebsausstattung Typ B\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 102,
+  "raw": "\"060000-000102\";\"Betriebsausstattung Serie 3\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000102",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Serie 3",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.102",
+   "quote": "\"060000-000102\";\"Betriebsausstattung Serie 3\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 103,
+  "raw": "\"060000-000103\";\"Betriebsausstattung Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000103",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Halle II",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.103",
+   "quote": "\"060000-000103\";\"Betriebsausstattung Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 104,
+  "raw": "\"060000-000104\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000104",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Typ A",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.104",
+   "quote": "\"060000-000104\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 105,
+  "raw": "\"060000-000105\";\"Betriebsausstattung Linie 1\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000105",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Linie 1",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.105",
+   "quote": "\"060000-000105\";\"Betriebsausstattung Linie 1\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 106,
+  "raw": "\"060000-000106\";\"Betriebsausstattung Typ B\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000106",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Typ B",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.106",
+   "quote": "\"060000-000106\";\"Betriebsausstattung Typ B\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 107,
+  "raw": "\"060000-000107\";\"Betriebsausstattung Serie 3\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000107",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Serie 3",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.107",
+   "quote": "\"060000-000107\";\"Betriebsausstattung Serie 3\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 108,
+  "raw": "\"060000-000108\";\"Betriebsausstattung Serie 3\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000108",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Serie 3",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.108",
+   "quote": "\"060000-000108\";\"Betriebsausstattung Serie 3\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 109,
+  "raw": "\"060000-000109\";\"Betriebsausstattung Kompakt\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000109",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Kompakt",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.109",
+   "quote": "\"060000-000109\";\"Betriebsausstattung Kompakt\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 110,
+  "raw": "\"060000-000110\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000110",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Typ A",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.110",
+   "quote": "\"060000-000110\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 111,
+  "raw": "\"060000-000111\";\"Betriebsausstattung Serie 3\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000111",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Serie 3",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.111",
+   "quote": "\"060000-000111\";\"Betriebsausstattung Serie 3\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 112,
+  "raw": "\"060000-000112\";\"Betriebsausstattung Linie 1\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000112",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Linie 1",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.112",
+   "quote": "\"060000-000112\";\"Betriebsausstattung Linie 1\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 113,
+  "raw": "\"060000-000113\";\"Betriebsausstattung Linie 4\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000113",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Linie 4",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.113",
+   "quote": "\"060000-000113\";\"Betriebsausstattung Linie 4\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 114,
+  "raw": "\"060000-000114\";\"Betriebsausstattung Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000114",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Halle II",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.114",
+   "quote": "\"060000-000114\";\"Betriebsausstattung Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 115,
+  "raw": "\"060000-000115\";\"Betriebsausstattung X200\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000115",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung X200",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.115",
+   "quote": "\"060000-000115\";\"Betriebsausstattung X200\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 116,
+  "raw": "\"060000-000116\";\"Betriebsausstattung Serie 3\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000116",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Serie 3",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.116",
+   "quote": "\"060000-000116\";\"Betriebsausstattung Serie 3\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 117,
+  "raw": "\"060000-000117\";\"Betriebsausstattung X200\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000117",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung X200",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.117",
+   "quote": "\"060000-000117\";\"Betriebsausstattung X200\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 118,
+  "raw": "\"060000-000118\";\"Betriebsausstattung\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000118",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.118",
+   "quote": "\"060000-000118\";\"Betriebsausstattung\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 119,
+  "raw": "\"060000-000119\";\"Betriebsausstattung Kompakt\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000119",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Kompakt",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.119",
+   "quote": "\"060000-000119\";\"Betriebsausstattung Kompakt\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 120,
+  "raw": "\"060000-000120\";\"Betriebsausstattung Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000120",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Halle II",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.120",
+   "quote": "\"060000-000120\";\"Betriebsausstattung Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 121,
+  "raw": "\"060000-000121\";\"Betriebsausstattung Typ B\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000121",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Typ B",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.121",
+   "quote": "\"060000-000121\";\"Betriebsausstattung Typ B\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 122,
+  "raw": "\"060000-000122\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000122",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Typ A",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.122",
+   "quote": "\"060000-000122\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 123,
+  "raw": "\"060000-000123\";\"Betriebsausstattung Serie 3\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000123",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Serie 3",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.123",
+   "quote": "\"060000-000123\";\"Betriebsausstattung Serie 3\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 124,
+  "raw": "\"060000-000124\";\"Betriebsausstattung X200\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000124",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung X200",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.124",
+   "quote": "\"060000-000124\";\"Betriebsausstattung X200\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 125,
+  "raw": "\"060000-000125\";\"Betriebsausstattung\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000125",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.125",
+   "quote": "\"060000-000125\";\"Betriebsausstattung\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 126,
+  "raw": "\"060000-000126\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000126",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Typ A",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.126",
+   "quote": "\"060000-000126\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 127,
+  "raw": "\"060000-000127\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000127",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Typ A",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.127",
+   "quote": "\"060000-000127\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 128,
+  "raw": "\"060000-000128\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000128",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Typ A",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.128",
+   "quote": "\"060000-000128\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 129,
+  "raw": "\"060000-000129\";\"Betriebsausstattung Linie 4\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000129",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Linie 4",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.129",
+   "quote": "\"060000-000129\";\"Betriebsausstattung Linie 4\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 130,
+  "raw": "\"060000-000130\";\"Betriebsausstattung X200\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000130",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung X200",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.130",
+   "quote": "\"060000-000130\";\"Betriebsausstattung X200\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 131,
+  "raw": "\"060000-000131\";\"Betriebsausstattung X200\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000131",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung X200",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.131",
+   "quote": "\"060000-000131\";\"Betriebsausstattung X200\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 132,
+  "raw": "\"060000-000132\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000132",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Typ A",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.132",
+   "quote": "\"060000-000132\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 133,
+  "raw": "\"060000-000133\";\"Betriebsausstattung X200\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000133",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung X200",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.133",
+   "quote": "\"060000-000133\";\"Betriebsausstattung X200\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 134,
+  "raw": "\"060000-000134\";\"Betriebsausstattung\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000134",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.134",
+   "quote": "\"060000-000134\";\"Betriebsausstattung\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 135,
+  "raw": "\"060000-000135\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000135",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Typ A",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.135",
+   "quote": "\"060000-000135\";\"Betriebsausstattung Typ A\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 136,
+  "raw": "\"060000-000136\";\"Betriebsausstattung\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000136",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.136",
+   "quote": "\"060000-000136\";\"Betriebsausstattung\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 137,
+  "raw": "\"060000-000137\";\"Betriebsausstattung\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000137",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.137",
+   "quote": "\"060000-000137\";\"Betriebsausstattung\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 138,
+  "raw": "\"060000-000138\";\"Betriebsausstattung Serie 3\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000138",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Serie 3",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.138",
+   "quote": "\"060000-000138\";\"Betriebsausstattung Serie 3\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 139,
+  "raw": "\"060000-000139\";\"Betriebsausstattung Kompakt\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000139",
+   "ANLAGENBEZEICHNUNG": "Betriebsausstattung Kompakt",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.139",
+   "quote": "\"060000-000139\";\"Betriebsausstattung Kompakt\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 140,
+  "raw": "\"062000-000140\";\"EDV-Hardware X200\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000140",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware X200",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.140",
+   "quote": "\"062000-000140\";\"EDV-Hardware X200\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 141,
+  "raw": "\"062000-000141\";\"EDV-Hardware Typ A\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000141",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Typ A",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.141",
+   "quote": "\"062000-000141\";\"EDV-Hardware Typ A\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 142,
+  "raw": "\"062000-000142\";\"EDV-Hardware\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000142",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.142",
+   "quote": "\"062000-000142\";\"EDV-Hardware\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 143,
+  "raw": "\"062000-000143\";\"EDV-Hardware\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000143",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.143",
+   "quote": "\"062000-000143\";\"EDV-Hardware\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 144,
+  "raw": "\"062000-000144\";\"EDV-Hardware Linie 2\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000144",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Linie 2",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.144",
+   "quote": "\"062000-000144\";\"EDV-Hardware Linie 2\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 145,
+  "raw": "\"062000-000145\";\"EDV-Hardware Typ B\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000145",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Typ B",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.145",
+   "quote": "\"062000-000145\";\"EDV-Hardware Typ B\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 146,
+  "raw": "\"062000-000146\";\"EDV-Hardware Linie 1\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000146",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Linie 1",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.146",
+   "quote": "\"062000-000146\";\"EDV-Hardware Linie 1\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 147,
+  "raw": "\"062000-000147\";\"EDV-Hardware Typ B\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000147",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Typ B",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.147",
+   "quote": "\"062000-000147\";\"EDV-Hardware Typ B\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 148,
+  "raw": "\"062000-000148\";\"EDV-Hardware Typ A\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000148",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Typ A",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.148",
+   "quote": "\"062000-000148\";\"EDV-Hardware Typ A\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 149,
+  "raw": "\"062000-000149\";\"EDV-Hardware Serie 3\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000149",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Serie 3",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.149",
+   "quote": "\"062000-000149\";\"EDV-Hardware Serie 3\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 150,
+  "raw": "\"062000-000150\";\"EDV-Hardware Linie 4\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000150",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Linie 4",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.150",
+   "quote": "\"062000-000150\";\"EDV-Hardware Linie 4\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 151,
+  "raw": "\"062000-000151\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000151",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Halle II",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.151",
+   "quote": "\"062000-000151\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 152,
+  "raw": "\"062000-000152\";\"EDV-Hardware Typ B\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000152",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Typ B",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.152",
+   "quote": "\"062000-000152\";\"EDV-Hardware Typ B\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 153,
+  "raw": "\"062000-000153\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000153",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Halle II",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.153",
+   "quote": "\"062000-000153\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 154,
+  "raw": "\"062000-000154\";\"EDV-Hardware Kompakt\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000154",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Kompakt",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.154",
+   "quote": "\"062000-000154\";\"EDV-Hardware Kompakt\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 155,
+  "raw": "\"062000-000155\";\"EDV-Hardware X200\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000155",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware X200",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.155",
+   "quote": "\"062000-000155\";\"EDV-Hardware X200\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 156,
+  "raw": "\"062000-000156\";\"EDV-Hardware Serie 3\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000156",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Serie 3",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.156",
+   "quote": "\"062000-000156\";\"EDV-Hardware Serie 3\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 157,
+  "raw": "\"062000-000157\";\"EDV-Hardware Kompakt\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000157",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Kompakt",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.157",
+   "quote": "\"062000-000157\";\"EDV-Hardware Kompakt\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 158,
+  "raw": "\"062000-000158\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000158",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Halle II",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.158",
+   "quote": "\"062000-000158\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 159,
+  "raw": "\"062000-000159\";\"EDV-Hardware Kompakt\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000159",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Kompakt",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.159",
+   "quote": "\"062000-000159\";\"EDV-Hardware Kompakt\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 160,
+  "raw": "\"062000-000160\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000160",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Halle II",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.160",
+   "quote": "\"062000-000160\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 161,
+  "raw": "\"062000-000161\";\"EDV-Hardware Kompakt\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000161",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Kompakt",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.161",
+   "quote": "\"062000-000161\";\"EDV-Hardware Kompakt\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 162,
+  "raw": "\"062000-000162\";\"EDV-Hardware X200\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000162",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware X200",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.162",
+   "quote": "\"062000-000162\";\"EDV-Hardware X200\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 163,
+  "raw": "\"062000-000163\";\"EDV-Hardware Typ B\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000163",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Typ B",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.163",
+   "quote": "\"062000-000163\";\"EDV-Hardware Typ B\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 164,
+  "raw": "\"062000-000164\";\"EDV-Hardware X200\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000164",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware X200",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.164",
+   "quote": "\"062000-000164\";\"EDV-Hardware X200\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 165,
+  "raw": "\"062000-000165\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000165",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Halle II",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.165",
+   "quote": "\"062000-000165\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 166,
+  "raw": "\"062000-000166\";\"EDV-Hardware Serie 3\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000166",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Serie 3",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.166",
+   "quote": "\"062000-000166\";\"EDV-Hardware Serie 3\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 167,
+  "raw": "\"062000-000167\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000167",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Halle II",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.167",
+   "quote": "\"062000-000167\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 168,
+  "raw": "\"062000-000168\";\"EDV-Hardware Typ B\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000168",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Typ B",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.168",
+   "quote": "\"062000-000168\";\"EDV-Hardware Typ B\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 169,
+  "raw": "\"062000-000169\";\"EDV-Hardware Serie 3\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000169",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Serie 3",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.169",
+   "quote": "\"062000-000169\";\"EDV-Hardware Serie 3\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 170,
+  "raw": "\"062000-000170\";\"EDV-Hardware\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000170",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.170",
+   "quote": "\"062000-000170\";\"EDV-Hardware\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 171,
+  "raw": "\"062000-000171\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000171",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Halle II",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.171",
+   "quote": "\"062000-000171\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 172,
+  "raw": "\"062000-000172\";\"EDV-Hardware Typ A\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000172",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Typ A",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.172",
+   "quote": "\"062000-000172\";\"EDV-Hardware Typ A\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 173,
+  "raw": "\"062000-000173\";\"EDV-Hardware Linie 4\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000173",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Linie 4",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.173",
+   "quote": "\"062000-000173\";\"EDV-Hardware Linie 4\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 174,
+  "raw": "\"062000-000174\";\"EDV-Hardware Linie 2\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000174",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Linie 2",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.174",
+   "quote": "\"062000-000174\";\"EDV-Hardware Linie 2\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 175,
+  "raw": "\"062000-000175\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000175",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Halle II",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.175",
+   "quote": "\"062000-000175\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 176,
+  "raw": "\"062000-000176\";\"EDV-Hardware Linie 3\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000176",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Linie 3",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.176",
+   "quote": "\"062000-000176\";\"EDV-Hardware Linie 3\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 177,
+  "raw": "\"062000-000177\";\"EDV-Hardware Typ A\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000177",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Typ A",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.177",
+   "quote": "\"062000-000177\";\"EDV-Hardware Typ A\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 178,
+  "raw": "\"062000-000178\";\"EDV-Hardware Typ B\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000178",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Typ B",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.178",
+   "quote": "\"062000-000178\";\"EDV-Hardware Typ B\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 179,
+  "raw": "\"062000-000179\";\"EDV-Hardware Serie 3\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000179",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Serie 3",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.179",
+   "quote": "\"062000-000179\";\"EDV-Hardware Serie 3\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 180,
+  "raw": "\"062000-000180\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000180",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Halle II",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.180",
+   "quote": "\"062000-000180\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 181,
+  "raw": "\"062000-000181\";\"EDV-Hardware Typ B\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000181",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Typ B",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.181",
+   "quote": "\"062000-000181\";\"EDV-Hardware Typ B\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 182,
+  "raw": "\"062000-000182\";\"EDV-Hardware X200\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000182",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware X200",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.182",
+   "quote": "\"062000-000182\";\"EDV-Hardware X200\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 183,
+  "raw": "\"062000-000183\";\"EDV-Hardware\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000183",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.183",
+   "quote": "\"062000-000183\";\"EDV-Hardware\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 184,
+  "raw": "\"062000-000184\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "062000-000184",
+   "ANLAGENBEZEICHNUNG": "EDV-Hardware Halle II",
+   "ANLAGENGRUPPE": "062000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.184",
+   "quote": "\"062000-000184\";\"EDV-Hardware Halle II\";\"062000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 185,
+  "raw": "\"070000-000185\";\"Anlage im Bau Typ B\";\"070000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "070000-000185",
+   "ANLAGENBEZEICHNUNG": "Anlage im Bau Typ B",
+   "ANLAGENGRUPPE": "070000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.185",
+   "quote": "\"070000-000185\";\"Anlage im Bau Typ B\";\"070000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 186,
+  "raw": "\"070000-000186\";\"Anlage im Bau Typ A\";\"070000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "070000-000186",
+   "ANLAGENBEZEICHNUNG": "Anlage im Bau Typ A",
+   "ANLAGENGRUPPE": "070000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.186",
+   "quote": "\"070000-000186\";\"Anlage im Bau Typ A\";\"070000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 187,
+  "raw": "\"070000-000187\";\"Anlage im Bau Typ B\";\"070000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "070000-000187",
+   "ANLAGENBEZEICHNUNG": "Anlage im Bau Typ B",
+   "ANLAGENGRUPPE": "070000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.187",
+   "quote": "\"070000-000187\";\"Anlage im Bau Typ B\";\"070000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 188,
+  "raw": "\"070000-000188\";\"Anlage im Bau X200\";\"070000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "070000-000188",
+   "ANLAGENBEZEICHNUNG": "Anlage im Bau X200",
+   "ANLAGENGRUPPE": "070000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.188",
+   "quote": "\"070000-000188\";\"Anlage im Bau X200\";\"070000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 189,
+  "raw": "\"070000-000189\";\"Anlage im Bau\";\"070000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "070000-000189",
+   "ANLAGENBEZEICHNUNG": "Anlage im Bau",
+   "ANLAGENGRUPPE": "070000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.189",
+   "quote": "\"070000-000189\";\"Anlage im Bau\";\"070000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 190,
+  "raw": "\"070000-000190\";\"Anlage im Bau Halle II\";\"070000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "070000-000190",
+   "ANLAGENBEZEICHNUNG": "Anlage im Bau Halle II",
+   "ANLAGENGRUPPE": "070000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.190",
+   "quote": "\"070000-000190\";\"Anlage im Bau Halle II\";\"070000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 191,
+  "raw": "\"040000-000191\";\"Reparatur Konfektioniermaschine Linie 2\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000191",
+   "ANLAGENBEZEICHNUNG": "Reparatur Konfektioniermaschine Linie 2",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.191",
+   "quote": "\"040000-000191\";\"Reparatur Konfektioniermaschine Linie 2\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 192,
+  "raw": "\"040000-000192\";\"Austausch Hydraulikaggregat Presse 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000192",
+   "ANLAGENBEZEICHNUNG": "Austausch Hydraulikaggregat Presse 3",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.192",
+   "quote": "\"040000-000192\";\"Austausch Hydraulikaggregat Presse 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 193,
+  "raw": "\"060000-000193\";\"Instandsetzung Förderband Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000193",
+   "ANLAGENBEZEICHNUNG": "Instandsetzung Förderband Halle II",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.193",
+   "quote": "\"060000-000193\";\"Instandsetzung Förderband Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 194,
+  "raw": "\"040000-000194\";\"Generalüberholung Stanzautomat\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000194",
+   "ANLAGENBEZEICHNUNG": "Generalüberholung Stanzautomat",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.194",
+   "quote": "\"040000-000194\";\"Generalüberholung Stanzautomat\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 195,
+  "raw": "\"060000-000195\";\"Reparatur Kälteanlage Lager\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000195",
+   "ANLAGENBEZEICHNUNG": "Reparatur Kälteanlage Lager",
+   "ANLAGENGRUPPE": "060000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.195",
+   "quote": "\"060000-000195\";\"Reparatur Kälteanlage Lager\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 196,
+  "raw": "\"040000-000196\";\"Austausch Antriebssteuerung Palettierer\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000196",
+   "ANLAGENBEZEICHNUNG": "Austausch Antriebssteuerung Palettierer",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.196",
+   "quote": "\"040000-000196\";\"Austausch Antriebssteuerung Palettierer\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ },
+ {
+  "rowNumber": 197,
+  "raw": "\"040000-000197\";\"Produktionslinie Verpackung X500\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000197",
+   "ANLAGENBEZEICHNUNG": "Produktionslinie Verpackung X500",
+   "ANLAGENGRUPPE": "040000",
+   "ANLAGENTYP": "Tangible",
+   "ANLAGENSTANDORT": "",
+   "HAUPTANLAGE": "",
+   "ANLAGENHERSTELLER": "",
+   "ANLAGENMODELL": "",
+   "STATUS": "Aktiv"
+  },
+  "citation": {
+   "docId": "av-anlagen",
+   "ref": "Anlagen!r.197",
+   "quote": "\"040000-000197\";\"Produktionslinie Verpackung X500\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+  }
+ }
+]

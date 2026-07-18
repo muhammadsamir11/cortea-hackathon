@@ -1,0 +1,802 @@
+[
+ {
+  "ref": "Kunden!r.1",
+  "text": "\"100000\";\"DE490542028\";\"Rheinstraße 147\";\"01067\";\"Dresden\";\"DEU\";\"FALKE FOLIEN E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 1
+ },
+ {
+  "ref": "Kunden!r.2",
+  "text": "\"100001\";\"DE853598670\";\"Marktplatz 113\";\"07743\";\"Jena\";\"DEU\";\"FOKUS KUNSTSTOFF GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 2
+ },
+ {
+  "ref": "Kunden!r.3",
+  "text": "\"100002\";\"DE344639395\";\"Am Hafen 33\";\"04109\";\"Leipzig\";\"DEU\";\"FOKUS DRUCK SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 3
+ },
+ {
+  "ref": "Kunden!r.4",
+  "text": "\"100003\";\"DE852027195\";\"Carl-Benz-Straße 91\";\"39104\";\"Magdeburg\";\"DEU\";\"IRIS MASCHINEN KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 4
+ },
+ {
+  "ref": "Kunden!r.5",
+  "text": "\"100004\";\"DE683470102\";\"Gewerbering 150\";\"90402\";\"Nürnberg\";\"DEU\";\"PRISMA SYSTEME AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 5
+ },
+ {
+  "ref": "Kunden!r.6",
+  "text": "\"100005\";\"DE763371918\";\"Talstraße 47\";\"55116\";\"Mainz\";\"DEU\";\"CORVUS HANDEL KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 6
+ },
+ {
+  "ref": "Kunden!r.7",
+  "text": "\"100006\";\"DE108761392\";\"Robert-Bosch-Straße 53\";\"99084\";\"Erfurt\";\"DEU\";\"SÜD DRUCK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 7
+ },
+ {
+  "ref": "Kunden!r.8",
+  "text": "\"100007\";\"DE757675287\";\"Am Kanal 56\";\"07743\";\"Jena\";\"DEU\";\"RATIO LOGISTIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 8
+ },
+ {
+  "ref": "Kunden!r.9",
+  "text": "\"100008\";\"DE728872950\";\"Am Hafen 175\";\"50667\";\"Köln\";\"DEU\";\"FALKE CHEMIE KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 9
+ },
+ {
+  "ref": "Kunden!r.10",
+  "text": "\"100009\";\"DE558411070\";\"Feldweg 116\";\"70173\";\"Stuttgart\";\"DEU\";\"TITAN TECHNIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 10
+ },
+ {
+  "ref": "Kunden!r.11",
+  "text": "\"100010\";\"DE590443445\";\"Carl-Benz-Straße 139\";\"40210\";\"Düsseldorf\";\"DEU\";\"FOKUS TECHNIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 11
+ },
+ {
+  "ref": "Kunden!r.12",
+  "text": "\"100011\";\"DE295394511\";\"Carl-Benz-Straße 108\";\"99084\";\"Erfurt\";\"DEU\";\"BOREAS BESCHICHTUNG E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 12
+ },
+ {
+  "ref": "Kunden!r.13",
+  "text": "\"100012\";\"DE569861583\";\"Industriestraße 3\";\"80331\";\"München\";\"DEU\";\"ATLAS FORMTEILE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 13
+ },
+ {
+  "ref": "Kunden!r.14",
+  "text": "\"100013\";\"DE309418183\";\"Carl-Benz-Straße 93\";\"70173\";\"Stuttgart\";\"DEU\";\"NOVA FORMTEILE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 14
+ },
+ {
+  "ref": "Kunden!r.15",
+  "text": "\"100014\";\"DE815020917\";\"Gewerbering 22\";\"04109\";\"Leipzig\";\"DEU\";\"ALPHA HANDEL GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 15
+ },
+ {
+  "ref": "Kunden!r.16",
+  "text": "\"100015\";\"DE357717474\";\"Bahnhofstraße 148\";\"70173\";\"Stuttgart\";\"DEU\";\"OST WERKSTOFFE AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 16
+ },
+ {
+  "ref": "Kunden!r.17",
+  "text": "\"100016\";\"DE970540541\";\"Feldweg 83\";\"55116\";\"Mainz\";\"DEU\";\"MERKUR WERKSTOFFE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 17
+ },
+ {
+  "ref": "Kunden!r.18",
+  "text": "\"100017\";\"DE889724269\";\"Talstraße 23\";\"39104\";\"Magdeburg\";\"DEU\";\"HELIOS ETIKETTEN KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 18
+ },
+ {
+  "ref": "Kunden!r.19",
+  "text": "\"100018\";\"DE940090219\";\"Ringstraße 23\";\"60311\";\"Frankfurt\";\"DEU\";\"SOLUM RECYCLING AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 19
+ },
+ {
+  "ref": "Kunden!r.20",
+  "text": "\"100019\";\"DE845910243\";\"Carl-Benz-Straße 42\";\"01067\";\"Dresden\";\"DEU\";\"POLLUX SYSTEME GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 20
+ },
+ {
+  "ref": "Kunden!r.21",
+  "text": "\"100020\";\"NL186849445\";\"Am Kanal 97\";\"01067\";\"Dresden\";\"EU\";\"ADLER TRANSPORT GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "startLine": 21
+ },
+ {
+  "ref": "Kunden!r.22",
+  "text": "\"100021\";\"DE286455335\";\"Robert-Bosch-Straße 90\";\"99084\";\"Erfurt\";\"DEU\";\"HELIOS RECYCLING GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 22
+ },
+ {
+  "ref": "Kunden!r.23",
+  "text": "\"100022\";\"DE489709747\";\"Feldweg 182\";\"70173\";\"Stuttgart\";\"DEU\";\"WEST INDUSTRIEBEDARF GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 23
+ },
+ {
+  "ref": "Kunden!r.24",
+  "text": "\"100023\";\"DE375610540\";\"Ringstraße 175\";\"99084\";\"Erfurt\";\"DEU\";\"OST PAPIER SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 24
+ },
+ {
+  "ref": "Kunden!r.25",
+  "text": "\"100024\";\"DE282721019\";\"Gewerbering 120\";\"34117\";\"Kassel\";\"DEU\";\"KRANICH HANDEL GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 25
+ },
+ {
+  "ref": "Kunden!r.26",
+  "text": "\"100025\";\"DE401764520\";\"Ringstraße 90\";\"55116\";\"Mainz\";\"DEU\";\"LUPUS CHEMIE AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 26
+ },
+ {
+  "ref": "Kunden!r.27",
+  "text": "\"100026\";\"DE755476788\";\"Industriestraße 185\";\"60311\";\"Frankfurt\";\"DEU\";\"IRIS KUNSTSTOFF E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 27
+ },
+ {
+  "ref": "Kunden!r.28",
+  "text": "\"100027\";\"DE392804169\";\"Ringstraße 58\";\"20095\";\"Hamburg\";\"DEU\";\"BOREAS TRANSPORT AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 28
+ },
+ {
+  "ref": "Kunden!r.29",
+  "text": "\"100028\";\"DE600263396\";\"Ringstraße 137\";\"44135\";\"Dortmund\";\"DEU\";\"VEGA FOLIEN GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 29
+ },
+ {
+  "ref": "Kunden!r.30",
+  "text": "\"100029\";\"DE670425555\";\"Ringstraße 21\";\"18055\";\"Rostock\";\"DEU\";\"PRISMA WERKSTOFFE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 30
+ },
+ {
+  "ref": "Kunden!r.31",
+  "text": "\"100030\";\"BE881647309\";\"Hauptstraße 156\";\"70173\";\"Stuttgart\";\"EU\";\"PRISMA ETIKETTEN AG\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "startLine": 31
+ },
+ {
+  "ref": "Kunden!r.32",
+  "text": "\"100031\";\"DE266182532\";\"Gewerbering 15\";\"99084\";\"Erfurt\";\"DEU\";\"RATIO PAPIER KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 32
+ },
+ {
+  "ref": "Kunden!r.33",
+  "text": "\"100032\";\"DE386145039\";\"Werkstraße 68\";\"50667\";\"Köln\";\"DEU\";\"OMEGA VERPACKUNG KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 33
+ },
+ {
+  "ref": "Kunden!r.34",
+  "text": "\"100033\";\"PL215182327\";\"Werkstraße 109\";\"90402\";\"Nürnberg\";\"EU\";\"WEST TECHNIK GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "startLine": 34
+ },
+ {
+  "ref": "Kunden!r.35",
+  "text": "\"100034\";\"DE779766236\";\"Werkstraße 115\";\"20095\";\"Hamburg\";\"DEU\";\"BOREAS PAPIER GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 35
+ },
+ {
+  "ref": "Kunden!r.36",
+  "text": "\"100035\";\"DE700175909\";\"Lindenallee 152\";\"70173\";\"Stuttgart\";\"DEU\";\"CIVES TECHNIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 36
+ },
+ {
+  "ref": "Kunden!r.37",
+  "text": "\"100036\";\"DE209899143\";\"Talstraße 15\";\"30159\";\"Hannover\";\"DEU\";\"KRONOS PAPIER GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 37
+ },
+ {
+  "ref": "Kunden!r.38",
+  "text": "\"100037\";\"DE216632413\";\"Hauptstraße 53\";\"45127\";\"Essen\";\"DEU\";\"PACTUM TECHNIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 38
+ },
+ {
+  "ref": "Kunden!r.39",
+  "text": "\"100038\";\"DE470837335\";\"Am Hafen 109\";\"50667\";\"Köln\";\"DEU\";\"SATURN MASCHINEN GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 39
+ },
+ {
+  "ref": "Kunden!r.40",
+  "text": "\"100039\";\"DE330280521\";\"Am Hafen 134\";\"28195\";\"Bremen\";\"DEU\";\"IRIS TECHNIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 40
+ },
+ {
+  "ref": "Kunden!r.41",
+  "text": "\"100040\";\"DE502363187\";\"Feldweg 69\";\"07743\";\"Jena\";\"DEU\";\"SOLUM WERKSTOFFE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 41
+ },
+ {
+  "ref": "Kunden!r.42",
+  "text": "\"100041\";\"DE150195188\";\"Carl-Benz-Straße 42\";\"80331\";\"München\";\"DEU\";\"PRISMA HANDEL E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 42
+ },
+ {
+  "ref": "Kunden!r.43",
+  "text": "\"100042\";\"DE183593905\";\"Talstraße 110\";\"70173\";\"Stuttgart\";\"DEU\";\"ADLER HANDEL GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 43
+ },
+ {
+  "ref": "Kunden!r.44",
+  "text": "\"100043\";\"DE619079814\";\"Talstraße 119\";\"70173\";\"Stuttgart\";\"DEU\";\"DELTA BESCHICHTUNG GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 44
+ },
+ {
+  "ref": "Kunden!r.45",
+  "text": "\"100044\";\"AT735987336\";\"Bahnhofstraße 198\";\"44135\";\"Dortmund\";\"EU\";\"VEGA FORMTEILE GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "startLine": 45
+ },
+ {
+  "ref": "Kunden!r.46",
+  "text": "\"100045\";\"DE544505819\";\"Lindenallee 190\";\"07743\";\"Jena\";\"DEU\";\"HELIOS DRUCK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 46
+ },
+ {
+  "ref": "Kunden!r.47",
+  "text": "\"100046\";\"DE546795053\";\"Marktplatz 115\";\"90402\";\"Nürnberg\";\"DEU\";\"SÜD KUNSTSTOFF KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 47
+ },
+ {
+  "ref": "Kunden!r.48",
+  "text": "\"100047\";\"DE724829262\";\"Marktplatz 44\";\"07743\";\"Jena\";\"DEU\";\"ADLER KARTON KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 48
+ },
+ {
+  "ref": "Kunden!r.49",
+  "text": "\"100048\";\"DE960797238\";\"Am Kanal 78\";\"28195\";\"Bremen\";\"DEU\";\"ATLAS ETIKETTEN GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 49
+ },
+ {
+  "ref": "Kunden!r.50",
+  "text": "\"100049\";\"DE432581875\";\"Ringstraße 132\";\"50667\";\"Köln\";\"DEU\";\"OST KARTON AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 50
+ },
+ {
+  "ref": "Kunden!r.51",
+  "text": "\"100050\";\"DE301112254\";\"Industriestraße 26\";\"66111\";\"Saarbrücken\";\"DEU\";\"OST CHEMIE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 51
+ },
+ {
+  "ref": "Kunden!r.52",
+  "text": "\"100051\";\"DE281594119\";\"Talstraße 172\";\"50667\";\"Köln\";\"DEU\";\"PACTUM DISTRIBUTION KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 52
+ },
+ {
+  "ref": "Kunden!r.53",
+  "text": "\"100052\";\"DE199283187\";\"Rheinstraße 25\";\"55116\";\"Mainz\";\"DEU\";\"ORION TRANSPORT GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 53
+ },
+ {
+  "ref": "Kunden!r.54",
+  "text": "\"100053\";\"DE687787920\";\"Bahnhofstraße 102\";\"01067\";\"Dresden\";\"DEU\";\"REIHER LOGISTIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 54
+ },
+ {
+  "ref": "Kunden!r.55",
+  "text": "\"100054\";\"DE113709810\";\"Feldweg 13\";\"45127\";\"Essen\";\"DEU\";\"CIVES ETIKETTEN SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 55
+ },
+ {
+  "ref": "Kunden!r.56",
+  "text": "\"100055\";\"DE559729747\";\"Industriestraße 154\";\"18055\";\"Rostock\";\"DEU\";\"ADLER DRUCK KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 56
+ },
+ {
+  "ref": "Kunden!r.57",
+  "text": "\"100056\";\"DE504583959\";\"Robert-Bosch-Straße 167\";\"20095\";\"Hamburg\";\"DEU\";\"NORD WERKSTOFFE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 57
+ },
+ {
+  "ref": "Kunden!r.58",
+  "text": "\"100057\";\"DE532025571\";\"Marktplatz 97\";\"70173\";\"Stuttgart\";\"DEU\";\"CORVUS FORMTEILE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 58
+ },
+ {
+  "ref": "Kunden!r.59",
+  "text": "\"100058\";\"DE648236712\";\"Ringstraße 111\";\"90402\";\"Nürnberg\";\"DEU\";\"VEGA ETIKETTEN GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 59
+ },
+ {
+  "ref": "Kunden!r.60",
+  "text": "\"100059\";\"DE796823543\";\"Am Hafen 66\";\"28195\";\"Bremen\";\"DEU\";\"FOKUS RECYCLING GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 60
+ },
+ {
+  "ref": "Kunden!r.61",
+  "text": "\"100060\";\"DE752767209\";\"Industriestraße 151\";\"44135\";\"Dortmund\";\"DEU\";\"ATLAS FOLIEN GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 61
+ },
+ {
+  "ref": "Kunden!r.62",
+  "text": "\"100061\";\"DE287336348\";\"Rheinstraße 176\";\"39104\";\"Magdeburg\";\"DEU\";\"TERRA KARTON E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 62
+ },
+ {
+  "ref": "Kunden!r.63",
+  "text": "\"100062\";\"DE471105209\";\"Ringstraße 124\";\"50667\";\"Köln\";\"DEU\";\"POLLUX BESCHICHTUNG GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 63
+ },
+ {
+  "ref": "Kunden!r.64",
+  "text": "\"100063\";\"DE436404960\";\"Werkstraße 32\";\"18055\";\"Rostock\";\"DEU\";\"MERKUR DRUCK SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 64
+ },
+ {
+  "ref": "Kunden!r.65",
+  "text": "\"100064\";\"DE917103209\";\"Bahnhofstraße 179\";\"99084\";\"Erfurt\";\"DEU\";\"FALKE MASCHINEN GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 65
+ },
+ {
+  "ref": "Kunden!r.66",
+  "text": "\"100065\";\"DE207169473\";\"Lindenallee 133\";\"90402\";\"Nürnberg\";\"DEU\";\"ATLAS ETIKETTEN E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 66
+ },
+ {
+  "ref": "Kunden!r.67",
+  "text": "\"100066\";\"DE518849094\";\"Talstraße 35\";\"55116\";\"Mainz\";\"DEU\";\"SOLUM PAPIER GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 67
+ },
+ {
+  "ref": "Kunden!r.68",
+  "text": "\"100067\";\"DE453639314\";\"Marktplatz 171\";\"55116\";\"Mainz\";\"DEU\";\"NOVA DRUCK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 68
+ },
+ {
+  "ref": "Kunden!r.69",
+  "text": "\"100068\";\"DE701066268\";\"Am Kanal 11\";\"04109\";\"Leipzig\";\"DEU\";\"VEGA ETIKETTEN KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 69
+ },
+ {
+  "ref": "Kunden!r.70",
+  "text": "\"100069\";\"BE754055353\";\"Rheinstraße 146\";\"99084\";\"Erfurt\";\"EU\";\"HELIOS WERKSTOFFE GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "startLine": 70
+ },
+ {
+  "ref": "Kunden!r.71",
+  "text": "\"100070\";\"DE920090516\";\"Robert-Bosch-Straße 130\";\"34117\";\"Kassel\";\"DEU\";\"ADLER DRUCK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 71
+ },
+ {
+  "ref": "Kunden!r.72",
+  "text": "\"100071\";\"BE808316419\";\"Feldweg 9\";\"60311\";\"Frankfurt\";\"EU\";\"VEGA PAPIER GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "startLine": 72
+ },
+ {
+  "ref": "Kunden!r.73",
+  "text": "\"100072\";\"DE220693589\";\"Am Hafen 171\";\"90402\";\"Nürnberg\";\"DEU\";\"IRIS LOGISTIK E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 73
+ },
+ {
+  "ref": "Kunden!r.74",
+  "text": "\"100073\";\"DE876728374\";\"Marktplatz 181\";\"50667\";\"Köln\";\"DEU\";\"KRANICH MASCHINEN AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 74
+ },
+ {
+  "ref": "Kunden!r.75",
+  "text": "\"100074\";\"DE670658559\";\"Marktplatz 83\";\"80331\";\"München\";\"DEU\";\"WEST LOGISTIK KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 75
+ },
+ {
+  "ref": "Kunden!r.76",
+  "text": "\"100075\";\"PL818537163\";\"Robert-Bosch-Straße 147\";\"55116\";\"Mainz\";\"EU\";\"FALKE ETIKETTEN E.K.\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "startLine": 76
+ },
+ {
+  "ref": "Kunden!r.77",
+  "text": "\"100076\";\"DE605883238\";\"Carl-Benz-Straße 64\";\"01067\";\"Dresden\";\"DEU\";\"PACTUM LOGISTIK SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 77
+ },
+ {
+  "ref": "Kunden!r.78",
+  "text": "\"100077\";\"DE917614922\";\"Ringstraße 16\";\"60311\";\"Frankfurt\";\"DEU\";\"KRANICH FORMTEILE E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 78
+ },
+ {
+  "ref": "Kunden!r.79",
+  "text": "\"100078\";\"DE481481487\";\"Feldweg 60\";\"50667\";\"Köln\";\"DEU\";\"FALKE SYSTEME GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 79
+ },
+ {
+  "ref": "Kunden!r.80",
+  "text": "\"100079\";\"DE848727762\";\"Rheinstraße 82\";\"28195\";\"Bremen\";\"DEU\";\"CORVUS KARTON GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 80
+ },
+ {
+  "ref": "Kunden!r.81",
+  "text": "\"100080\";\"DE728286738\";\"Rheinstraße 50\";\"70173\";\"Stuttgart\";\"DEU\";\"RATIO SYSTEME GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 81
+ },
+ {
+  "ref": "Kunden!r.82",
+  "text": "\"100081\";\"DE222398910\";\"Werkstraße 56\";\"07743\";\"Jena\";\"DEU\";\"ADLER RECYCLING GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 82
+ },
+ {
+  "ref": "Kunden!r.83",
+  "text": "\"100082\";\"DE179518073\";\"Industriestraße 3\";\"70173\";\"Stuttgart\";\"DEU\";\"NORD PAPIER KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 83
+ },
+ {
+  "ref": "Kunden!r.84",
+  "text": "\"100083\";\"DE842199760\";\"Am Hafen 5\";\"60311\";\"Frankfurt\";\"DEU\";\"MERKUR MASCHINEN GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 84
+ },
+ {
+  "ref": "Kunden!r.85",
+  "text": "\"100084\";\"DE511456079\";\"Am Kanal 4\";\"04109\";\"Leipzig\";\"DEU\";\"FOKUS LOGISTIK AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 85
+ },
+ {
+  "ref": "Kunden!r.86",
+  "text": "\"100085\";\"DE537796887\";\"Hauptstraße 196\";\"66111\";\"Saarbrücken\";\"DEU\";\"WEST LOGISTIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 86
+ },
+ {
+  "ref": "Kunden!r.87",
+  "text": "\"100086\";\"DE897926714\";\"Rheinstraße 115\";\"60311\";\"Frankfurt\";\"DEU\";\"HELIOS FOLIEN GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 87
+ },
+ {
+  "ref": "Kunden!r.88",
+  "text": "\"100087\";\"DE685714291\";\"Robert-Bosch-Straße 103\";\"20095\";\"Hamburg\";\"DEU\";\"SOLUM VERPACKUNG GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 88
+ },
+ {
+  "ref": "Kunden!r.89",
+  "text": "\"100088\";\"DE930436159\";\"Robert-Bosch-Straße 94\";\"18055\";\"Rostock\";\"DEU\";\"NOVA BESCHICHTUNG GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 89
+ },
+ {
+  "ref": "Kunden!r.90",
+  "text": "\"100089\";\"DE481390337\";\"Talstraße 195\";\"70173\";\"Stuttgart\";\"DEU\";\"LUPUS RECYCLING GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 90
+ },
+ {
+  "ref": "Kunden!r.91",
+  "text": "\"100090\";\"DE939955847\";\"Lindenallee 98\";\"99084\";\"Erfurt\";\"DEU\";\"WEST WERKSTOFFE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 91
+ },
+ {
+  "ref": "Kunden!r.92",
+  "text": "\"100091\";\"DE966460552\";\"Am Hafen 89\";\"07743\";\"Jena\";\"DEU\";\"RATIO RECYCLING AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 92
+ },
+ {
+  "ref": "Kunden!r.93",
+  "text": "\"100092\";\"DE480223633\";\"Gewerbering 31\";\"60311\";\"Frankfurt\";\"DEU\";\"SATURN ETIKETTEN GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 93
+ },
+ {
+  "ref": "Kunden!r.94",
+  "text": "\"100093\";\"DE102688035\";\"Ringstraße 131\";\"99084\";\"Erfurt\";\"DEU\";\"TERRA RECYCLING GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 94
+ },
+ {
+  "ref": "Kunden!r.95",
+  "text": "\"100094\";\"DE618175590\";\"Lindenallee 175\";\"18055\";\"Rostock\";\"DEU\";\"SATURN FORMTEILE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 95
+ },
+ {
+  "ref": "Kunden!r.96",
+  "text": "\"100095\";\"DE799491853\";\"Robert-Bosch-Straße 197\";\"40210\";\"Düsseldorf\";\"DEU\";\"KRONOS MASCHINEN SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 96
+ },
+ {
+  "ref": "Kunden!r.97",
+  "text": "\"100096\";\"PL168846415\";\"Carl-Benz-Straße 70\";\"66111\";\"Saarbrücken\";\"EU\";\"ALPHA SYSTEME E.K.\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "startLine": 97
+ },
+ {
+  "ref": "Kunden!r.98",
+  "text": "\"100097\";\"DE107036160\";\"Carl-Benz-Straße 17\";\"66111\";\"Saarbrücken\";\"DEU\";\"VEGA WERKSTOFFE KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 98
+ },
+ {
+  "ref": "Kunden!r.99",
+  "text": "\"100098\";\"DE162281732\";\"Rheinstraße 194\";\"34117\";\"Kassel\";\"DEU\";\"PACTUM FOLIEN AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 99
+ },
+ {
+  "ref": "Kunden!r.100",
+  "text": "\"100099\";\"PL395260415\";\"Marktplatz 64\";\"99084\";\"Erfurt\";\"EU\";\"VEGA CHEMIE KG\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "startLine": 100
+ },
+ {
+  "ref": "Kunden!r.101",
+  "text": "\"100100\";\"DE655338032\";\"Talstraße 117\";\"28195\";\"Bremen\";\"DEU\";\"KRONOS TRANSPORT SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 101
+ },
+ {
+  "ref": "Kunden!r.102",
+  "text": "\"100101\";\"DE368984804\";\"Industriestraße 113\";\"04109\";\"Leipzig\";\"DEU\";\"WEST KARTON GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 102
+ },
+ {
+  "ref": "Kunden!r.103",
+  "text": "\"100102\";\"DE879208361\";\"Gewerbering 30\";\"70173\";\"Stuttgart\";\"DEU\";\"CASTOR FORMTEILE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 103
+ },
+ {
+  "ref": "Kunden!r.104",
+  "text": "\"100103\";\"DE938604271\";\"Werkstraße 63\";\"01067\";\"Dresden\";\"DEU\";\"IRIS MASCHINEN AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 104
+ },
+ {
+  "ref": "Kunden!r.105",
+  "text": "\"100104\";\"DE419638584\";\"Talstraße 161\";\"66111\";\"Saarbrücken\";\"DEU\";\"NORD INDUSTRIEBEDARF GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 105
+ },
+ {
+  "ref": "Kunden!r.106",
+  "text": "\"100105\";\"DE632906681\";\"Industriestraße 5\";\"70173\";\"Stuttgart\";\"DEU\";\"WEST SYSTEME GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 106
+ },
+ {
+  "ref": "Kunden!r.107",
+  "text": "\"100106\";\"DE479741969\";\"Hauptstraße 192\";\"07743\";\"Jena\";\"DEU\";\"ALPHA RECYCLING AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 107
+ },
+ {
+  "ref": "Kunden!r.108",
+  "text": "\"100107\";\"DE800113194\";\"Rheinstraße 145\";\"40210\";\"Düsseldorf\";\"DEU\";\"CASTOR VERPACKUNG AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 108
+ },
+ {
+  "ref": "Kunden!r.109",
+  "text": "\"100108\";\"DE853238786\";\"Feldweg 83\";\"07743\";\"Jena\";\"DEU\";\"ATLAS MASCHINEN AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 109
+ },
+ {
+  "ref": "Kunden!r.110",
+  "text": "\"100109\";\"DE821414794\";\"Talstraße 109\";\"70173\";\"Stuttgart\";\"DEU\";\"SOLUM KARTON GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 110
+ },
+ {
+  "ref": "Kunden!r.111",
+  "text": "\"100110\";\"DE947817995\";\"Lindenallee 177\";\"44135\";\"Dortmund\";\"DEU\";\"RATIO RECYCLING E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 111
+ },
+ {
+  "ref": "Kunden!r.112",
+  "text": "\"100111\";\"DE369447810\";\"Ringstraße 124\";\"66111\";\"Saarbrücken\";\"DEU\";\"PACTUM RECYCLING E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 112
+ },
+ {
+  "ref": "Kunden!r.113",
+  "text": "\"100112\";\"BE740361127\";\"Werkstraße 59\";\"40210\";\"Düsseldorf\";\"EU\";\"WEST CHEMIE GMBH & CO. KG\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "startLine": 113
+ },
+ {
+  "ref": "Kunden!r.114",
+  "text": "\"100113\";\"DE806274997\";\"Hauptstraße 105\";\"39104\";\"Magdeburg\";\"DEU\";\"MERKUR RECYCLING E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 114
+ },
+ {
+  "ref": "Kunden!r.115",
+  "text": "\"100114\";\"DE299383420\";\"Hauptstraße 113\";\"45127\";\"Essen\";\"DEU\";\"ATLAS CHEMIE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 115
+ },
+ {
+  "ref": "Kunden!r.116",
+  "text": "\"100115\";\"DE292251856\";\"Industriestraße 197\";\"30159\";\"Hannover\";\"DEU\";\"BOREAS KUNSTSTOFF KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 116
+ },
+ {
+  "ref": "Kunden!r.117",
+  "text": "\"100116\";\"DE334657862\";\"Marktplatz 198\";\"55116\";\"Mainz\";\"DEU\";\"KRANICH MASCHINEN KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 117
+ },
+ {
+  "ref": "Kunden!r.118",
+  "text": "\"100117\";\"DE845604967\";\"Ringstraße 41\";\"07743\";\"Jena\";\"DEU\";\"ATLAS HANDEL E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 118
+ },
+ {
+  "ref": "Kunden!r.119",
+  "text": "\"100118\";\"DE965721011\";\"Lindenallee 101\";\"45127\";\"Essen\";\"DEU\";\"LUPUS PAPIER GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 119
+ },
+ {
+  "ref": "Kunden!r.120",
+  "text": "\"100119\";\"DE824276868\";\"Am Kanal 124\";\"66111\";\"Saarbrücken\";\"DEU\";\"TITAN WERKSTOFFE GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 120
+ },
+ {
+  "ref": "Kunden!r.121",
+  "text": "\"100120\";\"DE776531388\";\"Ringstraße 193\";\"34117\";\"Kassel\";\"DEU\";\"WEST TECHNIK SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 121
+ },
+ {
+  "ref": "Kunden!r.122",
+  "text": "\"100121\";\"DE550995429\";\"Talstraße 3\";\"07743\";\"Jena\";\"DEU\";\"FALKE WERKSTOFFE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 122
+ },
+ {
+  "ref": "Kunden!r.123",
+  "text": "\"100122\";\"DE549303108\";\"Lindenallee 65\";\"90402\";\"Nürnberg\";\"DEU\";\"FOKUS SYSTEME GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 123
+ },
+ {
+  "ref": "Kunden!r.124",
+  "text": "\"100123\";\"DE573670283\";\"Industriestraße 37\";\"99084\";\"Erfurt\";\"DEU\";\"SÜD CHEMIE GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 124
+ },
+ {
+  "ref": "Kunden!r.125",
+  "text": "\"100124\";\"DE964108855\";\"Rheinstraße 103\";\"60311\";\"Frankfurt\";\"DEU\";\"MERKUR MASCHINEN KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 125
+ },
+ {
+  "ref": "Kunden!r.126",
+  "text": "\"100125\";\"DE897357084\";\"Industriestraße 111\";\"80331\";\"München\";\"DEU\";\"AURORA HANDEL GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 126
+ },
+ {
+  "ref": "Kunden!r.127",
+  "text": "\"100126\";\"DE943053543\";\"Feldweg 88\";\"90402\";\"Nürnberg\";\"DEU\";\"DELTA TECHNIK SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 127
+ },
+ {
+  "ref": "Kunden!r.128",
+  "text": "\"100127\";\"DE894796214\";\"Rheinstraße 77\";\"55116\";\"Mainz\";\"DEU\";\"TERRA TECHNIK KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 128
+ },
+ {
+  "ref": "Kunden!r.129",
+  "text": "\"100128\";\"DE268675542\";\"Bahnhofstraße 173\";\"45127\";\"Essen\";\"DEU\";\"RATIO INDUSTRIEBEDARF AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 129
+ },
+ {
+  "ref": "Kunden!r.130",
+  "text": "\"100129\";\"DE129201003\";\"Ringstraße 64\";\"66111\";\"Saarbrücken\";\"DEU\";\"ALPHA PAPIER E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 130
+ },
+ {
+  "ref": "Kunden!r.131",
+  "text": "\"100130\";\"DE433897258\";\"Werkstraße 146\";\"07743\";\"Jena\";\"DEU\";\"TITAN DISTRIBUTION GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 131
+ },
+ {
+  "ref": "Kunden!r.132",
+  "text": "\"100131\";\"DE139827805\";\"Robert-Bosch-Straße 146\";\"30159\";\"Hannover\";\"DEU\";\"WEST FORMTEILE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 132
+ },
+ {
+  "ref": "Kunden!r.133",
+  "text": "\"100132\";\"DE180582516\";\"Feldweg 161\";\"40210\";\"Düsseldorf\";\"DEU\";\"CORVUS CHEMIE KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 133
+ },
+ {
+  "ref": "Kunden!r.134",
+  "text": "\"100133\";\"DE757815338\";\"Rheinstraße 150\";\"04109\";\"Leipzig\";\"DEU\";\"ADLER FORMTEILE GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 134
+ },
+ {
+  "ref": "Kunden!r.135",
+  "text": "\"100134\";\"DE637012508\";\"Rheinstraße 5\";\"18055\";\"Rostock\";\"DEU\";\"SOLUM TRANSPORT E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 135
+ },
+ {
+  "ref": "Kunden!r.136",
+  "text": "\"100135\";\"DE364559977\";\"Marktplatz 127\";\"40210\";\"Düsseldorf\";\"DEU\";\"PACTUM KARTON E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 136
+ },
+ {
+  "ref": "Kunden!r.137",
+  "text": "\"100136\";\"DE782826210\";\"Carl-Benz-Straße 130\";\"70173\";\"Stuttgart\";\"DEU\";\"KRANICH LOGISTIK GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 137
+ },
+ {
+  "ref": "Kunden!r.138",
+  "text": "\"100137\";\"DE233296178\";\"Hauptstraße 66\";\"18055\";\"Rostock\";\"DEU\";\"PRISMA DISTRIBUTION GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 138
+ },
+ {
+  "ref": "Kunden!r.139",
+  "text": "\"100138\";\"PL156094479\";\"Lindenallee 139\";\"80331\";\"München\";\"EU\";\"ALPHA FOLIEN GMBH\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "startLine": 139
+ },
+ {
+  "ref": "Kunden!r.140",
+  "text": "\"100139\";\"DE235950332\";\"Industriestraße 155\";\"40210\";\"Düsseldorf\";\"DEU\";\"RATIO BESCHICHTUNG KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 140
+ },
+ {
+  "ref": "Kunden!r.141",
+  "text": "\"100140\";\"FR365336047\";\"Lindenallee 78\";\"18055\";\"Rostock\";\"EU\";\"MERKUR HANDEL E.K.\";\"C-EU\";\"\";\"\";\"\";\"DE-C-EU\";\"EUR\"",
+  "startLine": 141
+ },
+ {
+  "ref": "Kunden!r.142",
+  "text": "\"100141\";\"DE987428941\";\"Gewerbering 29\";\"50667\";\"Köln\";\"DEU\";\"SOLUM TRANSPORT KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 142
+ },
+ {
+  "ref": "Kunden!r.143",
+  "text": "\"100142\";\"DE758067040\";\"Am Hafen 139\";\"66111\";\"Saarbrücken\";\"DEU\";\"NOVA RECYCLING SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 143
+ },
+ {
+  "ref": "Kunden!r.144",
+  "text": "\"100143\";\"DE432534615\";\"Industriestraße 30\";\"20095\";\"Hamburg\";\"DEU\";\"NOVA WERKSTOFFE KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 144
+ },
+ {
+  "ref": "Kunden!r.145",
+  "text": "\"100144\";\"DE773965744\";\"Rheinstraße 35\";\"18055\";\"Rostock\";\"DEU\";\"WEST CHEMIE SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 145
+ },
+ {
+  "ref": "Kunden!r.146",
+  "text": "\"100145\";\"DE109945895\";\"Robert-Bosch-Straße 155\";\"45127\";\"Essen\";\"DEU\";\"ATLAS RECYCLING SE\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 146
+ },
+ {
+  "ref": "Kunden!r.147",
+  "text": "\"100146\";\"DE960135326\";\"Marktplatz 179\";\"20095\";\"Hamburg\";\"DEU\";\"ORION KARTON GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 147
+ },
+ {
+  "ref": "Kunden!r.148",
+  "text": "\"100147\";\"DE480558365\";\"Am Hafen 137\";\"70173\";\"Stuttgart\";\"DEU\";\"NOVA BESCHICHTUNG KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 148
+ },
+ {
+  "ref": "Kunden!r.149",
+  "text": "\"100148\";\"DE878771143\";\"Gewerbering 111\";\"66111\";\"Saarbrücken\";\"DEU\";\"AURORA INDUSTRIEBEDARF GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 149
+ },
+ {
+  "ref": "Kunden!r.150",
+  "text": "\"100149\";\"DE619550094\";\"Ringstraße 51\";\"80331\";\"München\";\"DEU\";\"RATIO DISTRIBUTION GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 150
+ },
+ {
+  "ref": "Kunden!r.151",
+  "text": "\"100150\";\"DE227592405\";\"Lindenallee 36\";\"18055\";\"Rostock\";\"DEU\";\"SÜD RECYCLING GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 151
+ },
+ {
+  "ref": "Kunden!r.152",
+  "text": "\"100151\";\"DE224914981\";\"Lindenallee 111\";\"34117\";\"Kassel\";\"DEU\";\"KRONOS KUNSTSTOFF KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 152
+ },
+ {
+  "ref": "Kunden!r.153",
+  "text": "\"100152\";\"DE157866711\";\"Robert-Bosch-Straße 69\";\"90402\";\"Nürnberg\";\"DEU\";\"NORD WERKSTOFFE GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 153
+ },
+ {
+  "ref": "Kunden!r.154",
+  "text": "\"100153\";\"DE798969759\";\"Marktplatz 51\";\"44135\";\"Dortmund\";\"DEU\";\"KRONOS INDUSTRIEBEDARF E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 154
+ },
+ {
+  "ref": "Kunden!r.155",
+  "text": "\"100154\";\"DE627143467\";\"Rheinstraße 177\";\"28195\";\"Bremen\";\"DEU\";\"CIVES WERKSTOFFE E.K.\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 155
+ },
+ {
+  "ref": "Kunden!r.156",
+  "text": "\"100155\";\"DE543852298\";\"Industriestraße 89\";\"50667\";\"Köln\";\"DEU\";\"RATIO TRANSPORT GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 156
+ },
+ {
+  "ref": "Kunden!r.157",
+  "text": "\"100156\";\"DE849756139\";\"Hauptstraße 5\";\"99084\";\"Erfurt\";\"DEU\";\"KRANICH PAPIER GMBH & CO. KG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 157
+ },
+ {
+  "ref": "Kunden!r.158",
+  "text": "\"100157\";\"DE434030224\";\"Feldweg 171\";\"01067\";\"Dresden\";\"DEU\";\"IRIS DISTRIBUTION GMBH\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 158
+ },
+ {
+  "ref": "Kunden!r.159",
+  "text": "\"100158\";\"DE811463650\";\"Robert-Bosch-Straße 182\";\"07743\";\"Jena\";\"DEU\";\"WEST SYSTEME AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 159
+ },
+ {
+  "ref": "Kunden!r.160",
+  "text": "\"100159\";\"DE540709201\";\"Lindenallee 5\";\"01067\";\"Dresden\";\"DEU\";\"MERKUR DRUCK AG\";\"C-DOM\";\"\";\"\";\"\";\"DE-C-DOM\";\"EUR\"",
+  "startLine": 160
+ }
+]

@@ -1,0 +1,1178 @@
+[
+ {
+  "rowNumber": 1,
+  "raw": "\"021000\";31.01.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "021000",
+   "WERTSTELLUNG": "31.01.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "021000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.1",
+   "quote": "\"021000\";31.01.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 2,
+  "raw": "\"040000\";31.01.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000",
+   "WERTSTELLUNG": "31.01.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.2",
+   "quote": "\"040000\";31.01.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 3,
+  "raw": "\"060000\";31.01.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "060000",
+   "WERTSTELLUNG": "31.01.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "060000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.3",
+   "quote": "\"060000\";31.01.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 4,
+  "raw": "\"062000\";31.01.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "062000",
+   "WERTSTELLUNG": "31.01.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "062000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.4",
+   "quote": "\"062000\";31.01.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 5,
+  "raw": "\"021000\";28.02.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "021000",
+   "WERTSTELLUNG": "28.02.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "021000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.5",
+   "quote": "\"021000\";28.02.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "\"040000\";28.02.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000",
+   "WERTSTELLUNG": "28.02.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.6",
+   "quote": "\"040000\";28.02.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 7,
+  "raw": "\"060000\";28.02.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "060000",
+   "WERTSTELLUNG": "28.02.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "060000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.7",
+   "quote": "\"060000\";28.02.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 8,
+  "raw": "\"062000\";28.02.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "062000",
+   "WERTSTELLUNG": "28.02.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "062000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.8",
+   "quote": "\"062000\";28.02.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 9,
+  "raw": "\"021000\";31.03.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "021000",
+   "WERTSTELLUNG": "31.03.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "021000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.9",
+   "quote": "\"021000\";31.03.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 10,
+  "raw": "\"040000\";31.03.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000",
+   "WERTSTELLUNG": "31.03.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.10",
+   "quote": "\"040000\";31.03.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 11,
+  "raw": "\"060000\";31.03.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "060000",
+   "WERTSTELLUNG": "31.03.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "060000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.11",
+   "quote": "\"060000\";31.03.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 12,
+  "raw": "\"062000\";31.03.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "062000",
+   "WERTSTELLUNG": "31.03.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "062000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.12",
+   "quote": "\"062000\";31.03.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 13,
+  "raw": "\"021000\";30.04.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "021000",
+   "WERTSTELLUNG": "30.04.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "021000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.13",
+   "quote": "\"021000\";30.04.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 14,
+  "raw": "\"040000\";30.04.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000",
+   "WERTSTELLUNG": "30.04.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.14",
+   "quote": "\"040000\";30.04.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 15,
+  "raw": "\"060000\";30.04.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "060000",
+   "WERTSTELLUNG": "30.04.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "060000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.15",
+   "quote": "\"060000\";30.04.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 16,
+  "raw": "\"062000\";30.04.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "062000",
+   "WERTSTELLUNG": "30.04.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "062000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.16",
+   "quote": "\"062000\";30.04.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 17,
+  "raw": "\"021000\";31.05.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "021000",
+   "WERTSTELLUNG": "31.05.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "021000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.17",
+   "quote": "\"021000\";31.05.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 18,
+  "raw": "\"040000\";31.05.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000",
+   "WERTSTELLUNG": "31.05.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.18",
+   "quote": "\"040000\";31.05.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 19,
+  "raw": "\"060000\";31.05.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "060000",
+   "WERTSTELLUNG": "31.05.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "060000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.19",
+   "quote": "\"060000\";31.05.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 20,
+  "raw": "\"062000\";31.05.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "062000",
+   "WERTSTELLUNG": "31.05.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "062000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.20",
+   "quote": "\"062000\";31.05.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 21,
+  "raw": "\"021000\";30.06.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "021000",
+   "WERTSTELLUNG": "30.06.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "021000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.21",
+   "quote": "\"021000\";30.06.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 22,
+  "raw": "\"040000\";30.06.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000",
+   "WERTSTELLUNG": "30.06.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.22",
+   "quote": "\"040000\";30.06.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 23,
+  "raw": "\"060000\";30.06.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "060000",
+   "WERTSTELLUNG": "30.06.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "060000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.23",
+   "quote": "\"060000\";30.06.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 24,
+  "raw": "\"062000\";30.06.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "062000",
+   "WERTSTELLUNG": "30.06.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "062000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.24",
+   "quote": "\"062000\";30.06.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 25,
+  "raw": "\"021000\";31.07.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "021000",
+   "WERTSTELLUNG": "31.07.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "021000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.25",
+   "quote": "\"021000\";31.07.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 26,
+  "raw": "\"040000\";31.07.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000",
+   "WERTSTELLUNG": "31.07.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.26",
+   "quote": "\"040000\";31.07.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 27,
+  "raw": "\"060000\";31.07.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "060000",
+   "WERTSTELLUNG": "31.07.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "060000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.27",
+   "quote": "\"060000\";31.07.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 28,
+  "raw": "\"062000\";31.07.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "062000",
+   "WERTSTELLUNG": "31.07.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "062000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.28",
+   "quote": "\"062000\";31.07.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 29,
+  "raw": "\"021000\";31.08.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "021000",
+   "WERTSTELLUNG": "31.08.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "021000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.29",
+   "quote": "\"021000\";31.08.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 30,
+  "raw": "\"040000\";31.08.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000",
+   "WERTSTELLUNG": "31.08.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.30",
+   "quote": "\"040000\";31.08.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 31,
+  "raw": "\"060000\";31.08.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "060000",
+   "WERTSTELLUNG": "31.08.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "060000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.31",
+   "quote": "\"060000\";31.08.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 32,
+  "raw": "\"062000\";31.08.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "062000",
+   "WERTSTELLUNG": "31.08.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "062000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.32",
+   "quote": "\"062000\";31.08.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 33,
+  "raw": "\"021000\";30.09.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "021000",
+   "WERTSTELLUNG": "30.09.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "021000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.33",
+   "quote": "\"021000\";30.09.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 34,
+  "raw": "\"040000\";30.09.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000",
+   "WERTSTELLUNG": "30.09.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.34",
+   "quote": "\"040000\";30.09.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 35,
+  "raw": "\"060000\";30.09.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "060000",
+   "WERTSTELLUNG": "30.09.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "060000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.35",
+   "quote": "\"060000\";30.09.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 36,
+  "raw": "\"062000\";30.09.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "062000",
+   "WERTSTELLUNG": "30.09.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "062000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.36",
+   "quote": "\"062000\";30.09.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 37,
+  "raw": "\"021000\";31.10.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "021000",
+   "WERTSTELLUNG": "31.10.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "021000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.37",
+   "quote": "\"021000\";31.10.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 38,
+  "raw": "\"040000\";31.10.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000",
+   "WERTSTELLUNG": "31.10.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.38",
+   "quote": "\"040000\";31.10.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 39,
+  "raw": "\"060000\";31.10.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "060000",
+   "WERTSTELLUNG": "31.10.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "060000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.39",
+   "quote": "\"060000\";31.10.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 40,
+  "raw": "\"062000\";31.10.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "062000",
+   "WERTSTELLUNG": "31.10.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "062000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.40",
+   "quote": "\"062000\";31.10.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 41,
+  "raw": "\"021000\";30.11.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "021000",
+   "WERTSTELLUNG": "30.11.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "021000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.41",
+   "quote": "\"021000\";30.11.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 42,
+  "raw": "\"040000\";30.11.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000",
+   "WERTSTELLUNG": "30.11.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.42",
+   "quote": "\"040000\";30.11.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 43,
+  "raw": "\"060000\";30.11.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "060000",
+   "WERTSTELLUNG": "30.11.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "060000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.43",
+   "quote": "\"060000\";30.11.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 44,
+  "raw": "\"062000\";30.11.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "062000",
+   "WERTSTELLUNG": "30.11.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "062000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.44",
+   "quote": "\"062000\";30.11.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 45,
+  "raw": "\"021000\";31.12.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "021000",
+   "WERTSTELLUNG": "31.12.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "021000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.45",
+   "quote": "\"021000\";31.12.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 46,
+  "raw": "\"040000\";31.12.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000",
+   "WERTSTELLUNG": "31.12.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.46",
+   "quote": "\"040000\";31.12.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 47,
+  "raw": "\"060000\";31.12.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "060000",
+   "WERTSTELLUNG": "31.12.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "060000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.47",
+   "quote": "\"060000\";31.12.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 48,
+  "raw": "\"062000\";31.12.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "062000",
+   "WERTSTELLUNG": "31.12.2025",
+   "BELEGNUMMER": "AfA",
+   "BUCHUNGSBETRAG": "-34800,38",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-34800,38",
+   "BUCHUNGSART": "Depreciation",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "062000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.48",
+   "quote": "\"062000\";31.12.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 49,
+  "raw": "\"040000-000191\";20.11.2025;\"ER901421\";28000,00;\"EUR\";28000,00;\"Acquisition\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000191",
+   "WERTSTELLUNG": "20.11.2025",
+   "BELEGNUMMER": "ER901421",
+   "BUCHUNGSBETRAG": "28000,00",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "28000,00",
+   "BUCHUNGSART": "Acquisition",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.49",
+   "quote": "\"040000-000191\";20.11.2025;\"ER901421\";28000,00;\"EUR\";28000,00;\"Acquisition\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 50,
+  "raw": "\"040000-000192\";04.03.2025;\"ER901422\";34000,00;\"EUR\";34000,00;\"Acquisition\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000192",
+   "WERTSTELLUNG": "04.03.2025",
+   "BELEGNUMMER": "ER901422",
+   "BUCHUNGSBETRAG": "34000,00",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "34000,00",
+   "BUCHUNGSART": "Acquisition",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.50",
+   "quote": "\"040000-000192\";04.03.2025;\"ER901422\";34000,00;\"EUR\";34000,00;\"Acquisition\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 51,
+  "raw": "\"060000-000193\";13.03.2025;\"ER901423\";15500,00;\"EUR\";15500,00;\"Acquisition\";\"\";\"060000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000193",
+   "WERTSTELLUNG": "13.03.2025",
+   "BELEGNUMMER": "ER901423",
+   "BUCHUNGSBETRAG": "15500,00",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "15500,00",
+   "BUCHUNGSART": "Acquisition",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "060000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.51",
+   "quote": "\"060000-000193\";13.03.2025;\"ER901423\";15500,00;\"EUR\";15500,00;\"Acquisition\";\"\";\"060000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 52,
+  "raw": "\"040000-000194\";26.11.2025;\"ER901424\";41000,00;\"EUR\";41000,00;\"Acquisition\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000194",
+   "WERTSTELLUNG": "26.11.2025",
+   "BELEGNUMMER": "ER901424",
+   "BUCHUNGSBETRAG": "41000,00",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "41000,00",
+   "BUCHUNGSART": "Acquisition",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.52",
+   "quote": "\"040000-000194\";26.11.2025;\"ER901424\";41000,00;\"EUR\";41000,00;\"Acquisition\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 53,
+  "raw": "\"060000-000195\";23.05.2025;\"ER901425\";12800,00;\"EUR\";12800,00;\"Acquisition\";\"\";\"060000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "060000-000195",
+   "WERTSTELLUNG": "23.05.2025",
+   "BELEGNUMMER": "ER901425",
+   "BUCHUNGSBETRAG": "12800,00",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "12800,00",
+   "BUCHUNGSART": "Acquisition",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "060000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.53",
+   "quote": "\"060000-000195\";23.05.2025;\"ER901425\";12800,00;\"EUR\";12800,00;\"Acquisition\";\"\";\"060000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 54,
+  "raw": "\"040000-000196\";20.11.2025;\"ER901426\";19500,00;\"EUR\";19500,00;\"Acquisition\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000196",
+   "WERTSTELLUNG": "20.11.2025",
+   "BELEGNUMMER": "ER901426",
+   "BUCHUNGSBETRAG": "19500,00",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "19500,00",
+   "BUCHUNGSART": "Acquisition",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.54",
+   "quote": "\"040000-000196\";20.11.2025;\"ER901426\";19500,00;\"EUR\";19500,00;\"Acquisition\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 55,
+  "raw": "\"040000-000197\";17.06.2025;\"ER901435\";480000,00;\"EUR\";480000,00;\"Acquisition\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000197",
+   "WERTSTELLUNG": "17.06.2025",
+   "BELEGNUMMER": "ER901435",
+   "BUCHUNGSBETRAG": "480000,00",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "480000,00",
+   "BUCHUNGSART": "Acquisition",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.55",
+   "quote": "\"040000-000197\";17.06.2025;\"ER901435\";480000,00;\"EUR\";480000,00;\"Acquisition\";\"\";\"040000\";\"Current\""
+  }
+ },
+ {
+  "rowNumber": 56,
+  "raw": "\"040000-000005\";29.08.2025;\"GJ6602869\";-111595,00;\"EUR\";-111595,00;\"Disposal\";\"\";\"040000\";\"Current\"",
+  "values": {
+   "ANLAGENNUMMER": "040000-000005",
+   "WERTSTELLUNG": "29.08.2025",
+   "BELEGNUMMER": "GJ6602869",
+   "BUCHUNGSBETRAG": "-111595,00",
+   "BUCHUNGSWÄHRUNG": "EUR",
+   "BUCHUNGSWERT": "-111595,00",
+   "BUCHUNGSART": "Disposal",
+   "BUCHUNGSTEXT": "",
+   "ANLAGENGRUPPE": "040000",
+   "BUCHUNGSEBENE": "Current"
+  },
+  "citation": {
+   "docId": "av-anlagenbuchungen",
+   "ref": "Anlagenbuchungen!r.56",
+   "quote": "\"040000-000005\";29.08.2025;\"GJ6602869\";-111595,00;\"EUR\";-111595,00;\"Disposal\";\"\";\"040000\";\"Current\""
+  }
+ }
+]

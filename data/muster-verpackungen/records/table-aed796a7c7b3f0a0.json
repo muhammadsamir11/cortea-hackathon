@@ -1,0 +1,401 @@
+[
+ {
+  "rowNumber": 2,
+  "raw": "08.01.2025;Debitor;100129;ALPHA PAPIER E.K.;Name/Firmierung;alt;neu;MV-U08;MV-U02;Ja",
+  "values": {
+   "DATUM": "08.01.2025",
+   "ART": "Debitor",
+   "KONTO": "100129",
+   "NAME": "ALPHA PAPIER E.K.",
+   "FELD": "Name/Firmierung",
+   "WERT_ALT": "alt",
+   "WERT_NEU": "neu",
+   "GEAENDERT_VON": "MV-U08",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.2",
+   "quote": "08.01.2025;Debitor;100129;ALPHA PAPIER E.K.;Name/Firmierung;alt;neu;MV-U08;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 3,
+  "raw": "11.01.2025;Kreditor;200065;Reiher Kunststoff GmbH;Mahnsperre;alt;neu;MV-U03;MV-U02;Ja",
+  "values": {
+   "DATUM": "11.01.2025",
+   "ART": "Kreditor",
+   "KONTO": "200065",
+   "NAME": "Reiher Kunststoff GmbH",
+   "FELD": "Mahnsperre",
+   "WERT_ALT": "alt",
+   "WERT_NEU": "neu",
+   "GEAENDERT_VON": "MV-U03",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.3",
+   "quote": "11.01.2025;Kreditor;200065;Reiher Kunststoff GmbH;Mahnsperre;alt;neu;MV-U03;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 4,
+  "raw": "17.01.2025;Kreditor;200012;Orion Distribution SE;Adresse;alt;neu;MV-U08;MV-U02;Ja",
+  "values": {
+   "DATUM": "17.01.2025",
+   "ART": "Kreditor",
+   "KONTO": "200012",
+   "NAME": "Orion Distribution SE",
+   "FELD": "Adresse",
+   "WERT_ALT": "alt",
+   "WERT_NEU": "neu",
+   "GEAENDERT_VON": "MV-U08",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.4",
+   "quote": "17.01.2025;Kreditor;200012;Orion Distribution SE;Adresse;alt;neu;MV-U08;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 5,
+  "raw": "18.03.2025;Kreditor;200022;Solum Kunststoff GmbH;Zahlungsziel;alt;neu;MV-U03;MV-U02;Ja",
+  "values": {
+   "DATUM": "18.03.2025",
+   "ART": "Kreditor",
+   "KONTO": "200022",
+   "NAME": "Solum Kunststoff GmbH",
+   "FELD": "Zahlungsziel",
+   "WERT_ALT": "alt",
+   "WERT_NEU": "neu",
+   "GEAENDERT_VON": "MV-U03",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.5",
+   "quote": "18.03.2025;Kreditor;200022;Solum Kunststoff GmbH;Zahlungsziel;alt;neu;MV-U03;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "20.03.2025;Kreditor;200086;Adler Papier GmbH;USt-IdNr.;alt;neu;MV-U11;MV-U02;Ja",
+  "values": {
+   "DATUM": "20.03.2025",
+   "ART": "Kreditor",
+   "KONTO": "200086",
+   "NAME": "Adler Papier GmbH",
+   "FELD": "USt-IdNr.",
+   "WERT_ALT": "alt",
+   "WERT_NEU": "neu",
+   "GEAENDERT_VON": "MV-U11",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.6",
+   "quote": "20.03.2025;Kreditor;200086;Adler Papier GmbH;USt-IdNr.;alt;neu;MV-U11;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 7,
+  "raw": "10.04.2025;Kreditor;200061;Iris Etiketten SE;Zahlungsziel;alt;neu;MV-U03;MV-U02;Ja",
+  "values": {
+   "DATUM": "10.04.2025",
+   "ART": "Kreditor",
+   "KONTO": "200061",
+   "NAME": "Iris Etiketten SE",
+   "FELD": "Zahlungsziel",
+   "WERT_ALT": "alt",
+   "WERT_NEU": "neu",
+   "GEAENDERT_VON": "MV-U03",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.7",
+   "quote": "10.04.2025;Kreditor;200061;Iris Etiketten SE;Zahlungsziel;alt;neu;MV-U03;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 8,
+  "raw": "12.05.2025;Kreditor;209101;Ratio Consulting GmbH;Neuanlage Kreditor;;angelegt inkl. Bankverbindung;MV-U05;MV-U05;Ja",
+  "values": {
+   "DATUM": "12.05.2025",
+   "ART": "Kreditor",
+   "KONTO": "209101",
+   "NAME": "Ratio Consulting GmbH",
+   "FELD": "Neuanlage Kreditor",
+   "WERT_ALT": "",
+   "WERT_NEU": "angelegt inkl. Bankverbindung",
+   "GEAENDERT_VON": "MV-U05",
+   "GENEHMIGT_VON": "MV-U05",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.8",
+   "quote": "12.05.2025;Kreditor;209101;Ratio Consulting GmbH;Neuanlage Kreditor;;angelegt inkl. Bankverbindung;MV-U05;MV-U05;Ja"
+  }
+ },
+ {
+  "rowNumber": 9,
+  "raw": "19.05.2025;Kreditor;200045;Ost Industriebedarf GmbH;Mahnsperre;alt;neu;MV-U08;MV-U02;Ja",
+  "values": {
+   "DATUM": "19.05.2025",
+   "ART": "Kreditor",
+   "KONTO": "200045",
+   "NAME": "Ost Industriebedarf GmbH",
+   "FELD": "Mahnsperre",
+   "WERT_ALT": "alt",
+   "WERT_NEU": "neu",
+   "GEAENDERT_VON": "MV-U08",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.9",
+   "quote": "19.05.2025;Kreditor;200045;Ost Industriebedarf GmbH;Mahnsperre;alt;neu;MV-U08;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 10,
+  "raw": "20.05.2025;Kreditor;200076;Alpha Beschichtung e.K.;Adresse;alt;neu;MV-U03;MV-U02;Ja",
+  "values": {
+   "DATUM": "20.05.2025",
+   "ART": "Kreditor",
+   "KONTO": "200076",
+   "NAME": "Alpha Beschichtung e.K.",
+   "FELD": "Adresse",
+   "WERT_ALT": "alt",
+   "WERT_NEU": "neu",
+   "GEAENDERT_VON": "MV-U03",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.10",
+   "quote": "20.05.2025;Kreditor;200076;Alpha Beschichtung e.K.;Adresse;alt;neu;MV-U03;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 11,
+  "raw": "03.06.2025;Kreditor;209112;Vega Werkstoffe GmbH;Neuanlage Kreditor;;angelegt inkl. Bankverbindung;MV-U03;MV-U02;Ja",
+  "values": {
+   "DATUM": "03.06.2025",
+   "ART": "Kreditor",
+   "KONTO": "209112",
+   "NAME": "Vega Werkstoffe GmbH",
+   "FELD": "Neuanlage Kreditor",
+   "WERT_ALT": "",
+   "WERT_NEU": "angelegt inkl. Bankverbindung",
+   "GEAENDERT_VON": "MV-U03",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.11",
+   "quote": "03.06.2025;Kreditor;209112;Vega Werkstoffe GmbH;Neuanlage Kreditor;;angelegt inkl. Bankverbindung;MV-U03;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 12,
+  "raw": "18.06.2025;Debitor;100083;MERKUR MASCHINEN GMBH;Zahlungsziel;alt;neu;MV-U11;MV-U02;Ja",
+  "values": {
+   "DATUM": "18.06.2025",
+   "ART": "Debitor",
+   "KONTO": "100083",
+   "NAME": "MERKUR MASCHINEN GMBH",
+   "FELD": "Zahlungsziel",
+   "WERT_ALT": "alt",
+   "WERT_NEU": "neu",
+   "GEAENDERT_VON": "MV-U11",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.12",
+   "quote": "18.06.2025;Debitor;100083;MERKUR MASCHINEN GMBH;Zahlungsziel;alt;neu;MV-U11;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 13,
+  "raw": "21.06.2025;Kreditor;200121;Vega Kunststoff AG;Zahlungsziel;alt;neu;MV-U08;MV-U02;Ja",
+  "values": {
+   "DATUM": "21.06.2025",
+   "ART": "Kreditor",
+   "KONTO": "200121",
+   "NAME": "Vega Kunststoff AG",
+   "FELD": "Zahlungsziel",
+   "WERT_ALT": "alt",
+   "WERT_NEU": "neu",
+   "GEAENDERT_VON": "MV-U08",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.13",
+   "quote": "21.06.2025;Kreditor;200121;Vega Kunststoff AG;Zahlungsziel;alt;neu;MV-U08;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 14,
+  "raw": "14.09.2025;Kreditor;200075;Delta Logistik SE;Bankverbindung;DE..alt;DE..neu;MV-U03;MV-U02;Ja",
+  "values": {
+   "DATUM": "14.09.2025",
+   "ART": "Kreditor",
+   "KONTO": "200075",
+   "NAME": "Delta Logistik SE",
+   "FELD": "Bankverbindung",
+   "WERT_ALT": "DE..alt",
+   "WERT_NEU": "DE..neu",
+   "GEAENDERT_VON": "MV-U03",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.14",
+   "quote": "14.09.2025;Kreditor;200075;Delta Logistik SE;Bankverbindung;DE..alt;DE..neu;MV-U03;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 15,
+  "raw": "22.10.2025;Debitor;100015;OST WERKSTOFFE AG;Adresse;alt;neu;MV-U08;MV-U02;Ja",
+  "values": {
+   "DATUM": "22.10.2025",
+   "ART": "Debitor",
+   "KONTO": "100015",
+   "NAME": "OST WERKSTOFFE AG",
+   "FELD": "Adresse",
+   "WERT_ALT": "alt",
+   "WERT_NEU": "neu",
+   "GEAENDERT_VON": "MV-U08",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.15",
+   "quote": "22.10.2025;Debitor;100015;OST WERKSTOFFE AG;Adresse;alt;neu;MV-U08;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 16,
+  "raw": "23.10.2025;Kreditor;200086;Adler Papier GmbH;Adresse;alt;neu;MV-U11;MV-U02;Ja",
+  "values": {
+   "DATUM": "23.10.2025",
+   "ART": "Kreditor",
+   "KONTO": "200086",
+   "NAME": "Adler Papier GmbH",
+   "FELD": "Adresse",
+   "WERT_ALT": "alt",
+   "WERT_NEU": "neu",
+   "GEAENDERT_VON": "MV-U11",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.16",
+   "quote": "23.10.2025;Kreditor;200086;Adler Papier GmbH;Adresse;alt;neu;MV-U11;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 17,
+  "raw": "23.10.2025;Debitor;100132;CORVUS CHEMIE KG;USt-IdNr.;alt;neu;MV-U08;MV-U02;Ja",
+  "values": {
+   "DATUM": "23.10.2025",
+   "ART": "Debitor",
+   "KONTO": "100132",
+   "NAME": "CORVUS CHEMIE KG",
+   "FELD": "USt-IdNr.",
+   "WERT_ALT": "alt",
+   "WERT_NEU": "neu",
+   "GEAENDERT_VON": "MV-U08",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.17",
+   "quote": "23.10.2025;Debitor;100132;CORVUS CHEMIE KG;USt-IdNr.;alt;neu;MV-U08;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 18,
+  "raw": "03.11.2025;Debitor;100134;SOLUM TRANSPORT E.K.;Mahnsperre;alt;neu;MV-U11;MV-U02;Ja",
+  "values": {
+   "DATUM": "03.11.2025",
+   "ART": "Debitor",
+   "KONTO": "100134",
+   "NAME": "SOLUM TRANSPORT E.K.",
+   "FELD": "Mahnsperre",
+   "WERT_ALT": "alt",
+   "WERT_NEU": "neu",
+   "GEAENDERT_VON": "MV-U11",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.18",
+   "quote": "03.11.2025;Debitor;100134;SOLUM TRANSPORT E.K.;Mahnsperre;alt;neu;MV-U11;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 19,
+  "raw": "13.11.2025;Debitor;100006;SÜD DRUCK GMBH;USt-IdNr.;alt;neu;MV-U11;MV-U02;Ja",
+  "values": {
+   "DATUM": "13.11.2025",
+   "ART": "Debitor",
+   "KONTO": "100006",
+   "NAME": "SÜD DRUCK GMBH",
+   "FELD": "USt-IdNr.",
+   "WERT_ALT": "alt",
+   "WERT_NEU": "neu",
+   "GEAENDERT_VON": "MV-U11",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.19",
+   "quote": "13.11.2025;Debitor;100006;SÜD DRUCK GMBH;USt-IdNr.;alt;neu;MV-U11;MV-U02;Ja"
+  }
+ },
+ {
+  "rowNumber": 20,
+  "raw": "24.12.2025;Kreditor;200093;Pactum Druck GmbH;Zahlungsziel;alt;neu;MV-U11;MV-U02;Ja",
+  "values": {
+   "DATUM": "24.12.2025",
+   "ART": "Kreditor",
+   "KONTO": "200093",
+   "NAME": "Pactum Druck GmbH",
+   "FELD": "Zahlungsziel",
+   "WERT_ALT": "alt",
+   "WERT_NEU": "neu",
+   "GEAENDERT_VON": "MV-U11",
+   "GENEHMIGT_VON": "MV-U02",
+   "GENEHMIGT": "Ja"
+  },
+  "citation": {
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "ref": "Stammdatenaenderungen_2025!r.20",
+   "quote": "24.12.2025;Kreditor;200093;Pactum Druck GmbH;Zahlungsziel;alt;neu;MV-U11;MV-U02;Ja"
+  }
+ }
+]

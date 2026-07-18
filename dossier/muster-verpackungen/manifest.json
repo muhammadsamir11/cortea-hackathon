@@ -1,0 +1,9 @@
+{
+  "name": "muster-verpackungen",
+  "title": "Muster Verpackungen GmbH — Audit 2025",
+  "sourceRoot": "../../examples/Uebungsdaten Muster Verpackungen",
+  "companyName": "Muster Verpackungen GmbH",
+  "fiscalPeriod": "2025",
+  "analysisAsOf": "2026-02-04T00:00:00.000Z",
+  "public": true
+}

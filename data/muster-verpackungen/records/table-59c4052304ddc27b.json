@@ -1,0 +1,1142 @@
+[
+ {
+  "rowNumber": 2,
+  "raw": "06.01.2026;BE754987;100012;ATLAS FORMTEILE SE;-59660,65;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "06.01.2026",
+   "BELEG": "BE754987",
+   "DEBITOR": "100012",
+   "DEBITORNAME": "ATLAS FORMTEILE SE",
+   "BETRAG_EUR": "-59660,65",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.2",
+   "quote": "06.01.2026;BE754987;100012;ATLAS FORMTEILE SE;-59660,65;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 3,
+  "raw": "03.01.2026;BE751856;100109;SOLUM KARTON GMBH & CO. KG;-15146,32;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "03.01.2026",
+   "BELEG": "BE751856",
+   "DEBITOR": "100109",
+   "DEBITORNAME": "SOLUM KARTON GMBH & CO. KG",
+   "BETRAG_EUR": "-15146,32",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.3",
+   "quote": "03.01.2026;BE751856;100109;SOLUM KARTON GMBH & CO. KG;-15146,32;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 4,
+  "raw": "10.01.2026;BE746490;100092;SATURN ETIKETTEN GMBH;-40990,74;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "10.01.2026",
+   "BELEG": "BE746490",
+   "DEBITOR": "100092",
+   "DEBITORNAME": "SATURN ETIKETTEN GMBH",
+   "BETRAG_EUR": "-40990,74",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.4",
+   "quote": "10.01.2026;BE746490;100092;SATURN ETIKETTEN GMBH;-40990,74;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 5,
+  "raw": "02.01.2026;BE710535;100022;WEST INDUSTRIEBEDARF GMBH;-19200,65;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "02.01.2026",
+   "BELEG": "BE710535",
+   "DEBITOR": "100022",
+   "DEBITORNAME": "WEST INDUSTRIEBEDARF GMBH",
+   "BETRAG_EUR": "-19200,65",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.5",
+   "quote": "02.01.2026;BE710535;100022;WEST INDUSTRIEBEDARF GMBH;-19200,65;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "14.01.2026;BE754283;100154;CIVES WERKSTOFFE E.K.;-53353,65;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "14.01.2026",
+   "BELEG": "BE754283",
+   "DEBITOR": "100154",
+   "DEBITORNAME": "CIVES WERKSTOFFE E.K.",
+   "BETRAG_EUR": "-53353,65",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.6",
+   "quote": "14.01.2026;BE754283;100154;CIVES WERKSTOFFE E.K.;-53353,65;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 7,
+  "raw": "05.01.2026;BE771761;100093;TERRA RECYCLING GMBH;-44317,98;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "05.01.2026",
+   "BELEG": "BE771761",
+   "DEBITOR": "100093",
+   "DEBITORNAME": "TERRA RECYCLING GMBH",
+   "BETRAG_EUR": "-44317,98",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.7",
+   "quote": "05.01.2026;BE771761;100093;TERRA RECYCLING GMBH;-44317,98;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 8,
+  "raw": "12.01.2026;BE798217;100094;SATURN FORMTEILE SE;-1606,50;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "12.01.2026",
+   "BELEG": "BE798217",
+   "DEBITOR": "100094",
+   "DEBITORNAME": "SATURN FORMTEILE SE",
+   "BETRAG_EUR": "-1606,50",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.8",
+   "quote": "12.01.2026;BE798217;100094;SATURN FORMTEILE SE;-1606,50;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 9,
+  "raw": "13.01.2026;BE739993;100146;ORION KARTON GMBH;-52939,53;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "13.01.2026",
+   "BELEG": "BE739993",
+   "DEBITOR": "100146",
+   "DEBITORNAME": "ORION KARTON GMBH",
+   "BETRAG_EUR": "-52939,53",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.9",
+   "quote": "13.01.2026;BE739993;100146;ORION KARTON GMBH;-52939,53;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 10,
+  "raw": "06.01.2026;BE775034;100034;BOREAS PAPIER GMBH;-27663,93;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "06.01.2026",
+   "BELEG": "BE775034",
+   "DEBITOR": "100034",
+   "DEBITORNAME": "BOREAS PAPIER GMBH",
+   "BETRAG_EUR": "-27663,93",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.10",
+   "quote": "06.01.2026;BE775034;100034;BOREAS PAPIER GMBH;-27663,93;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 11,
+  "raw": "04.01.2026;BE788180;100001;FOKUS KUNSTSTOFF GMBH;-58478,98;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "04.01.2026",
+   "BELEG": "BE788180",
+   "DEBITOR": "100001",
+   "DEBITORNAME": "FOKUS KUNSTSTOFF GMBH",
+   "BETRAG_EUR": "-58478,98",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.11",
+   "quote": "04.01.2026;BE788180;100001;FOKUS KUNSTSTOFF GMBH;-58478,98;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 12,
+  "raw": "03.01.2026;BE781299;100059;FOKUS RECYCLING GMBH & CO. KG;-30818,62;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "03.01.2026",
+   "BELEG": "BE781299",
+   "DEBITOR": "100059",
+   "DEBITORNAME": "FOKUS RECYCLING GMBH & CO. KG",
+   "BETRAG_EUR": "-30818,62",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.12",
+   "quote": "03.01.2026;BE781299;100059;FOKUS RECYCLING GMBH & CO. KG;-30818,62;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 13,
+  "raw": "14.01.2026;BE710546;100089;LUPUS RECYCLING GMBH;-3348,66;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "14.01.2026",
+   "BELEG": "BE710546",
+   "DEBITOR": "100089",
+   "DEBITORNAME": "LUPUS RECYCLING GMBH",
+   "BETRAG_EUR": "-3348,66",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.13",
+   "quote": "14.01.2026;BE710546;100089;LUPUS RECYCLING GMBH;-3348,66;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 14,
+  "raw": "17.01.2026;BE749813;100026;IRIS KUNSTSTOFF E.K.;-8782,20;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "17.01.2026",
+   "BELEG": "BE749813",
+   "DEBITOR": "100026",
+   "DEBITORNAME": "IRIS KUNSTSTOFF E.K.",
+   "BETRAG_EUR": "-8782,20",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.14",
+   "quote": "17.01.2026;BE749813;100026;IRIS KUNSTSTOFF E.K.;-8782,20;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 15,
+  "raw": "09.01.2026;BE726935;100153;KRONOS INDUSTRIEBEDARF E.K.;-16065,00;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "09.01.2026",
+   "BELEG": "BE726935",
+   "DEBITOR": "100153",
+   "DEBITORNAME": "KRONOS INDUSTRIEBEDARF E.K.",
+   "BETRAG_EUR": "-16065,00",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.15",
+   "quote": "09.01.2026;BE726935;100153;KRONOS INDUSTRIEBEDARF E.K.;-16065,00;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 16,
+  "raw": "07.01.2026;BE733101;100103;IRIS MASCHINEN AG;-6574,75;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "07.01.2026",
+   "BELEG": "BE733101",
+   "DEBITOR": "100103",
+   "DEBITORNAME": "IRIS MASCHINEN AG",
+   "BETRAG_EUR": "-6574,75",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.16",
+   "quote": "07.01.2026;BE733101;100103;IRIS MASCHINEN AG;-6574,75;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 17,
+  "raw": "09.01.2026;BE792157;100039;IRIS TECHNIK GMBH;-7038,85;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "09.01.2026",
+   "BELEG": "BE792157",
+   "DEBITOR": "100039",
+   "DEBITORNAME": "IRIS TECHNIK GMBH",
+   "BETRAG_EUR": "-7038,85",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.17",
+   "quote": "09.01.2026;BE792157;100039;IRIS TECHNIK GMBH;-7038,85;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 18,
+  "raw": "20.01.2026;BE762115;100041;PRISMA HANDEL E.K.;-9596,16;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "20.01.2026",
+   "BELEG": "BE762115",
+   "DEBITOR": "100041",
+   "DEBITORNAME": "PRISMA HANDEL E.K.",
+   "BETRAG_EUR": "-9596,16",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.18",
+   "quote": "20.01.2026;BE762115;100041;PRISMA HANDEL E.K.;-9596,16;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 19,
+  "raw": "03.01.2026;BE788120;100058;VEGA ETIKETTEN GMBH & CO. KG;-28763,49;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "03.01.2026",
+   "BELEG": "BE788120",
+   "DEBITOR": "100058",
+   "DEBITORNAME": "VEGA ETIKETTEN GMBH & CO. KG",
+   "BETRAG_EUR": "-28763,49",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.19",
+   "quote": "03.01.2026;BE788120;100058;VEGA ETIKETTEN GMBH & CO. KG;-28763,49;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 20,
+  "raw": "11.01.2026;BE751231;100063;MERKUR DRUCK SE;-1026,97;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "11.01.2026",
+   "BELEG": "BE751231",
+   "DEBITOR": "100063",
+   "DEBITORNAME": "MERKUR DRUCK SE",
+   "BETRAG_EUR": "-1026,97",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.20",
+   "quote": "11.01.2026;BE751231;100063;MERKUR DRUCK SE;-1026,97;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 21,
+  "raw": "20.01.2026;BE737737;100043;DELTA BESCHICHTUNG GMBH & CO. KG;-34581,40;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "20.01.2026",
+   "BELEG": "BE737737",
+   "DEBITOR": "100043",
+   "DEBITORNAME": "DELTA BESCHICHTUNG GMBH & CO. KG",
+   "BETRAG_EUR": "-34581,40",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.21",
+   "quote": "20.01.2026;BE737737;100043;DELTA BESCHICHTUNG GMBH & CO. KG;-34581,40;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 22,
+  "raw": "14.01.2026;BE733039;100018;SOLUM RECYCLING AG;-4136,44;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "14.01.2026",
+   "BELEG": "BE733039",
+   "DEBITOR": "100018",
+   "DEBITORNAME": "SOLUM RECYCLING AG",
+   "BETRAG_EUR": "-4136,44",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.22",
+   "quote": "14.01.2026;BE733039;100018;SOLUM RECYCLING AG;-4136,44;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 23,
+  "raw": "03.01.2026;BE768238;100154;CIVES WERKSTOFFE E.K.;-47081,16;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "03.01.2026",
+   "BELEG": "BE768238",
+   "DEBITOR": "100154",
+   "DEBITORNAME": "CIVES WERKSTOFFE E.K.",
+   "BETRAG_EUR": "-47081,16",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.23",
+   "quote": "03.01.2026;BE768238;100154;CIVES WERKSTOFFE E.K.;-47081,16;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 24,
+  "raw": "18.01.2026;BE794833;100007;RATIO LOGISTIK GMBH;-15811,53;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "18.01.2026",
+   "BELEG": "BE794833",
+   "DEBITOR": "100007",
+   "DEBITORNAME": "RATIO LOGISTIK GMBH",
+   "BETRAG_EUR": "-15811,53",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.24",
+   "quote": "18.01.2026;BE794833;100007;RATIO LOGISTIK GMBH;-15811,53;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 25,
+  "raw": "08.01.2026;BE702230;100013;NOVA FORMTEILE GMBH;-60694,76;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "08.01.2026",
+   "BELEG": "BE702230",
+   "DEBITOR": "100013",
+   "DEBITORNAME": "NOVA FORMTEILE GMBH",
+   "BETRAG_EUR": "-60694,76",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.25",
+   "quote": "08.01.2026;BE702230;100013;NOVA FORMTEILE GMBH;-60694,76;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 26,
+  "raw": "17.01.2026;BE712521;100024;KRANICH HANDEL GMBH;-8507,31;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "17.01.2026",
+   "BELEG": "BE712521",
+   "DEBITOR": "100024",
+   "DEBITORNAME": "KRANICH HANDEL GMBH",
+   "BETRAG_EUR": "-8507,31",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.26",
+   "quote": "17.01.2026;BE712521;100024;KRANICH HANDEL GMBH;-8507,31;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 27,
+  "raw": "13.01.2026;BE777657;100084;FOKUS LOGISTIK AG;-50021,65;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "13.01.2026",
+   "BELEG": "BE777657",
+   "DEBITOR": "100084",
+   "DEBITORNAME": "FOKUS LOGISTIK AG",
+   "BETRAG_EUR": "-50021,65",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.27",
+   "quote": "13.01.2026;BE777657;100084;FOKUS LOGISTIK AG;-50021,65;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 28,
+  "raw": "05.01.2026;BE711046;100144;WEST CHEMIE SE;-61775,28;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "05.01.2026",
+   "BELEG": "BE711046",
+   "DEBITOR": "100144",
+   "DEBITORNAME": "WEST CHEMIE SE",
+   "BETRAG_EUR": "-61775,28",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.28",
+   "quote": "05.01.2026;BE711046;100144;WEST CHEMIE SE;-61775,28;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 29,
+  "raw": "04.01.2026;BE758366;100088;NOVA BESCHICHTUNG GMBH;-61299,28;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "04.01.2026",
+   "BELEG": "BE758366",
+   "DEBITOR": "100088",
+   "DEBITORNAME": "NOVA BESCHICHTUNG GMBH",
+   "BETRAG_EUR": "-61299,28",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.29",
+   "quote": "04.01.2026;BE758366;100088;NOVA BESCHICHTUNG GMBH;-61299,28;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 30,
+  "raw": "06.01.2026;BE775265;100098;PACTUM FOLIEN AG;-52593,24;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "06.01.2026",
+   "BELEG": "BE775265",
+   "DEBITOR": "100098",
+   "DEBITORNAME": "PACTUM FOLIEN AG",
+   "BETRAG_EUR": "-52593,24",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.30",
+   "quote": "06.01.2026;BE775265;100098;PACTUM FOLIEN AG;-52593,24;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 31,
+  "raw": "08.01.2026;BE742076;100054;CIVES ETIKETTEN SE;-44891,56;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "08.01.2026",
+   "BELEG": "BE742076",
+   "DEBITOR": "100054",
+   "DEBITORNAME": "CIVES ETIKETTEN SE",
+   "BETRAG_EUR": "-44891,56",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.31",
+   "quote": "08.01.2026;BE742076;100054;CIVES ETIKETTEN SE;-44891,56;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 32,
+  "raw": "11.01.2026;BE794228;100011;BOREAS BESCHICHTUNG E.K.;-27810,30;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "11.01.2026",
+   "BELEG": "BE794228",
+   "DEBITOR": "100011",
+   "DEBITORNAME": "BOREAS BESCHICHTUNG E.K.",
+   "BETRAG_EUR": "-27810,30",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.32",
+   "quote": "11.01.2026;BE794228;100011;BOREAS BESCHICHTUNG E.K.;-27810,30;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 33,
+  "raw": "05.01.2026;BE751091;100099;VEGA CHEMIE KG;-2999,00;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "05.01.2026",
+   "BELEG": "BE751091",
+   "DEBITOR": "100099",
+   "DEBITORNAME": "VEGA CHEMIE KG",
+   "BETRAG_EUR": "-2999,00",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.33",
+   "quote": "05.01.2026;BE751091;100099;VEGA CHEMIE KG;-2999,00;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 34,
+  "raw": "11.01.2026;BE757842;100075;FALKE ETIKETTEN E.K.;-5486,00;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "11.01.2026",
+   "BELEG": "BE757842",
+   "DEBITOR": "100075",
+   "DEBITORNAME": "FALKE ETIKETTEN E.K.",
+   "BETRAG_EUR": "-5486,00",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.34",
+   "quote": "11.01.2026;BE757842;100075;FALKE ETIKETTEN E.K.;-5486,00;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 35,
+  "raw": "03.01.2026;BE789616;100158;WEST SYSTEME AG;-33399,73;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "03.01.2026",
+   "BELEG": "BE789616",
+   "DEBITOR": "100158",
+   "DEBITORNAME": "WEST SYSTEME AG",
+   "BETRAG_EUR": "-33399,73",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.35",
+   "quote": "03.01.2026;BE789616;100158;WEST SYSTEME AG;-33399,73;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 36,
+  "raw": "03.01.2026;BE719692;100073;KRANICH MASCHINEN AG;-3320,10;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "03.01.2026",
+   "BELEG": "BE719692",
+   "DEBITOR": "100073",
+   "DEBITORNAME": "KRANICH MASCHINEN AG",
+   "BETRAG_EUR": "-3320,10",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.36",
+   "quote": "03.01.2026;BE719692;100073;KRANICH MASCHINEN AG;-3320,10;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 37,
+  "raw": "03.01.2026;BE735883;100067;NOVA DRUCK GMBH;-28795,62;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "03.01.2026",
+   "BELEG": "BE735883",
+   "DEBITOR": "100067",
+   "DEBITORNAME": "NOVA DRUCK GMBH",
+   "BETRAG_EUR": "-28795,62",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.37",
+   "quote": "03.01.2026;BE735883;100067;NOVA DRUCK GMBH;-28795,62;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 38,
+  "raw": "07.01.2026;BE716273;100054;CIVES ETIKETTEN SE;-8340,71;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "07.01.2026",
+   "BELEG": "BE716273",
+   "DEBITOR": "100054",
+   "DEBITORNAME": "CIVES ETIKETTEN SE",
+   "BETRAG_EUR": "-8340,71",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.38",
+   "quote": "07.01.2026;BE716273;100054;CIVES ETIKETTEN SE;-8340,71;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 39,
+  "raw": "06.01.2026;BE771402;100068;VEGA ETIKETTEN KG;-14454,93;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "06.01.2026",
+   "BELEG": "BE771402",
+   "DEBITOR": "100068",
+   "DEBITORNAME": "VEGA ETIKETTEN KG",
+   "BETRAG_EUR": "-14454,93",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.39",
+   "quote": "06.01.2026;BE771402;100068;VEGA ETIKETTEN KG;-14454,93;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 40,
+  "raw": "20.01.2026;BE779936;100081;ADLER RECYCLING GMBH;-63787,57;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "20.01.2026",
+   "BELEG": "BE779936",
+   "DEBITOR": "100081",
+   "DEBITORNAME": "ADLER RECYCLING GMBH",
+   "BETRAG_EUR": "-63787,57",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.40",
+   "quote": "20.01.2026;BE779936;100081;ADLER RECYCLING GMBH;-63787,57;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 41,
+  "raw": "19.01.2026;BE783578;100082;NORD PAPIER KG;-30629,41;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "19.01.2026",
+   "BELEG": "BE783578",
+   "DEBITOR": "100082",
+   "DEBITORNAME": "NORD PAPIER KG",
+   "BETRAG_EUR": "-30629,41",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.41",
+   "quote": "19.01.2026;BE783578;100082;NORD PAPIER KG;-30629,41;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 42,
+  "raw": "04.01.2026;BE728130;100045;HELIOS DRUCK GMBH;-5434,73;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "04.01.2026",
+   "BELEG": "BE728130",
+   "DEBITOR": "100045",
+   "DEBITORNAME": "HELIOS DRUCK GMBH",
+   "BETRAG_EUR": "-5434,73",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.42",
+   "quote": "04.01.2026;BE728130;100045;HELIOS DRUCK GMBH;-5434,73;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 43,
+  "raw": "11.01.2026;BE718162;100159;MERKUR DRUCK AG;-17387,09;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "11.01.2026",
+   "BELEG": "BE718162",
+   "DEBITOR": "100159",
+   "DEBITORNAME": "MERKUR DRUCK AG",
+   "BETRAG_EUR": "-17387,09",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.43",
+   "quote": "11.01.2026;BE718162;100159;MERKUR DRUCK AG;-17387,09;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 44,
+  "raw": "13.01.2026;BE768968;100048;ATLAS ETIKETTEN GMBH & CO. KG;-8583,47;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "13.01.2026",
+   "BELEG": "BE768968",
+   "DEBITOR": "100048",
+   "DEBITORNAME": "ATLAS ETIKETTEN GMBH & CO. KG",
+   "BETRAG_EUR": "-8583,47",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.44",
+   "quote": "13.01.2026;BE768968;100048;ATLAS ETIKETTEN GMBH & CO. KG;-8583,47;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 45,
+  "raw": "18.01.2026;BE769408;100087;SOLUM VERPACKUNG GMBH;-59797,50;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "18.01.2026",
+   "BELEG": "BE769408",
+   "DEBITOR": "100087",
+   "DEBITORNAME": "SOLUM VERPACKUNG GMBH",
+   "BETRAG_EUR": "-59797,50",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.45",
+   "quote": "18.01.2026;BE769408;100087;SOLUM VERPACKUNG GMBH;-59797,50;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 46,
+  "raw": "20.01.2026;BE765883;100112;WEST CHEMIE GMBH & CO. KG;-21370,00;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "20.01.2026",
+   "BELEG": "BE765883",
+   "DEBITOR": "100112",
+   "DEBITORNAME": "WEST CHEMIE GMBH & CO. KG",
+   "BETRAG_EUR": "-21370,00",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.46",
+   "quote": "20.01.2026;BE765883;100112;WEST CHEMIE GMBH & CO. KG;-21370,00;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 47,
+  "raw": "12.01.2026;BE760639;100117;ATLAS HANDEL E.K.;-42699,58;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "12.01.2026",
+   "BELEG": "BE760639",
+   "DEBITOR": "100117",
+   "DEBITORNAME": "ATLAS HANDEL E.K.",
+   "BETRAG_EUR": "-42699,58",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.47",
+   "quote": "12.01.2026;BE760639;100117;ATLAS HANDEL E.K.;-42699,58;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 48,
+  "raw": "12.01.2026;BE719850;100087;SOLUM VERPACKUNG GMBH;-43500,45;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "12.01.2026",
+   "BELEG": "BE719850",
+   "DEBITOR": "100087",
+   "DEBITORNAME": "SOLUM VERPACKUNG GMBH",
+   "BETRAG_EUR": "-43500,45",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.48",
+   "quote": "12.01.2026;BE719850;100087;SOLUM VERPACKUNG GMBH;-43500,45;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 49,
+  "raw": "17.01.2026;BE733033;100085;WEST LOGISTIK GMBH;-7589,82;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "17.01.2026",
+   "BELEG": "BE733033",
+   "DEBITOR": "100085",
+   "DEBITORNAME": "WEST LOGISTIK GMBH",
+   "BETRAG_EUR": "-7589,82",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.49",
+   "quote": "17.01.2026;BE733033;100085;WEST LOGISTIK GMBH;-7589,82;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 50,
+  "raw": "19.01.2026;BE733847;100131;WEST FORMTEILE GMBH;-6537,86;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "19.01.2026",
+   "BELEG": "BE733847",
+   "DEBITOR": "100131",
+   "DEBITORNAME": "WEST FORMTEILE GMBH",
+   "BETRAG_EUR": "-6537,86",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.50",
+   "quote": "19.01.2026;BE733847;100131;WEST FORMTEILE GMBH;-6537,86;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 51,
+  "raw": "04.01.2026;BE763968;100105;WEST SYSTEME GMBH & CO. KG;-1549,38;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "04.01.2026",
+   "BELEG": "BE763968",
+   "DEBITOR": "100105",
+   "DEBITORNAME": "WEST SYSTEME GMBH & CO. KG",
+   "BETRAG_EUR": "-1549,38",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.51",
+   "quote": "04.01.2026;BE763968;100105;WEST SYSTEME GMBH & CO. KG;-1549,38;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 52,
+  "raw": "07.01.2026;BE749904;100154;CIVES WERKSTOFFE E.K.;-38694,04;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "07.01.2026",
+   "BELEG": "BE749904",
+   "DEBITOR": "100154",
+   "DEBITORNAME": "CIVES WERKSTOFFE E.K.",
+   "BETRAG_EUR": "-38694,04",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.52",
+   "quote": "07.01.2026;BE749904;100154;CIVES WERKSTOFFE E.K.;-38694,04;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 53,
+  "raw": "03.01.2026;BE729142;100134;SOLUM TRANSPORT E.K.;-12580,68;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "03.01.2026",
+   "BELEG": "BE729142",
+   "DEBITOR": "100134",
+   "DEBITORNAME": "SOLUM TRANSPORT E.K.",
+   "BETRAG_EUR": "-12580,68",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.53",
+   "quote": "03.01.2026;BE729142;100134;SOLUM TRANSPORT E.K.;-12580,68;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 54,
+  "raw": "03.01.2026;BE757466;100063;MERKUR DRUCK SE;-2340,73;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "03.01.2026",
+   "BELEG": "BE757466",
+   "DEBITOR": "100063",
+   "DEBITORNAME": "MERKUR DRUCK SE",
+   "BETRAG_EUR": "-2340,73",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.54",
+   "quote": "03.01.2026;BE757466;100063;MERKUR DRUCK SE;-2340,73;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 55,
+  "raw": "03.01.2026;BE793428;100145;ATLAS RECYCLING SE;-2045,61;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "03.01.2026",
+   "BELEG": "BE793428",
+   "DEBITOR": "100145",
+   "DEBITORNAME": "ATLAS RECYCLING SE",
+   "BETRAG_EUR": "-2045,61",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.55",
+   "quote": "03.01.2026;BE793428;100145;ATLAS RECYCLING SE;-2045,61;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 56,
+  "raw": "16.01.2026;BE738719;100115;BOREAS KUNSTSTOFF KG;-15239,14;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "16.01.2026",
+   "BELEG": "BE738719",
+   "DEBITOR": "100115",
+   "DEBITORNAME": "BOREAS KUNSTSTOFF KG",
+   "BETRAG_EUR": "-15239,14",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.56",
+   "quote": "16.01.2026;BE738719;100115;BOREAS KUNSTSTOFF KG;-15239,14;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 57,
+  "raw": "20.01.2026;BE775335;100113;MERKUR RECYCLING E.K.;-8188,39;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "20.01.2026",
+   "BELEG": "BE775335",
+   "DEBITOR": "100113",
+   "DEBITORNAME": "MERKUR RECYCLING E.K.",
+   "BETRAG_EUR": "-8188,39",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.57",
+   "quote": "20.01.2026;BE775335;100113;MERKUR RECYCLING E.K.;-8188,39;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 58,
+  "raw": "13.01.2026;BE779595;100024;KRANICH HANDEL GMBH;-59941,49;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "13.01.2026",
+   "BELEG": "BE779595",
+   "DEBITOR": "100024",
+   "DEBITORNAME": "KRANICH HANDEL GMBH",
+   "BETRAG_EUR": "-59941,49",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.58",
+   "quote": "13.01.2026;BE779595;100024;KRANICH HANDEL GMBH;-59941,49;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 59,
+  "raw": "08.01.2026;BE765373;100029;PRISMA WERKSTOFFE SE;-3578,33;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "08.01.2026",
+   "BELEG": "BE765373",
+   "DEBITOR": "100029",
+   "DEBITORNAME": "PRISMA WERKSTOFFE SE",
+   "BETRAG_EUR": "-3578,33",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.59",
+   "quote": "08.01.2026;BE765373;100029;PRISMA WERKSTOFFE SE;-3578,33;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 60,
+  "raw": "09.01.2026;BE798619;100137;PRISMA DISTRIBUTION GMBH;-26673,85;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "09.01.2026",
+   "BELEG": "BE798619",
+   "DEBITOR": "100137",
+   "DEBITORNAME": "PRISMA DISTRIBUTION GMBH",
+   "BETRAG_EUR": "-26673,85",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.60",
+   "quote": "09.01.2026;BE798619;100137;PRISMA DISTRIBUTION GMBH;-26673,85;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ },
+ {
+  "rowNumber": 61,
+  "raw": "12.01.2026;BE735429;100022;WEST INDUSTRIEBEDARF GMBH;-29313,27;EUR;230000;Zahlungseingang / Ausgleich",
+  "values": {
+   "BUCHUNGSDATUM": "12.01.2026",
+   "BELEG": "BE735429",
+   "DEBITOR": "100022",
+   "DEBITORNAME": "WEST INDUSTRIEBEDARF GMBH",
+   "BETRAG_EUR": "-29313,27",
+   "WAEHRUNG": "EUR",
+   "GEGENKONTO_HB": "230000",
+   "BUCHUNGSTEXT": "Zahlungseingang / Ausgleich"
+  },
+  "citation": {
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "ref": "Buchungen_Folgeperiode_2026!r.61",
+   "quote": "12.01.2026;BE735429;100022;WEST INDUSTRIEBEDARF GMBH;-29313,27;EUR;230000;Zahlungseingang / Ausgleich"
+  }
+ }
+]

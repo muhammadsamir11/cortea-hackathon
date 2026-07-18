@@ -1,0 +1,282 @@
+[
+ {
+  "ref": "Anlagenbuchungen!r.1",
+  "text": "\"021000\";31.01.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "startLine": 1
+ },
+ {
+  "ref": "Anlagenbuchungen!r.2",
+  "text": "\"040000\";31.01.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "startLine": 2
+ },
+ {
+  "ref": "Anlagenbuchungen!r.3",
+  "text": "\"060000\";31.01.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "startLine": 3
+ },
+ {
+  "ref": "Anlagenbuchungen!r.4",
+  "text": "\"062000\";31.01.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "startLine": 4
+ },
+ {
+  "ref": "Anlagenbuchungen!r.5",
+  "text": "\"021000\";28.02.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "startLine": 5
+ },
+ {
+  "ref": "Anlagenbuchungen!r.6",
+  "text": "\"040000\";28.02.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "startLine": 6
+ },
+ {
+  "ref": "Anlagenbuchungen!r.7",
+  "text": "\"060000\";28.02.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "startLine": 7
+ },
+ {
+  "ref": "Anlagenbuchungen!r.8",
+  "text": "\"062000\";28.02.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "startLine": 8
+ },
+ {
+  "ref": "Anlagenbuchungen!r.9",
+  "text": "\"021000\";31.03.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "startLine": 9
+ },
+ {
+  "ref": "Anlagenbuchungen!r.10",
+  "text": "\"040000\";31.03.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "startLine": 10
+ },
+ {
+  "ref": "Anlagenbuchungen!r.11",
+  "text": "\"060000\";31.03.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "startLine": 11
+ },
+ {
+  "ref": "Anlagenbuchungen!r.12",
+  "text": "\"062000\";31.03.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "startLine": 12
+ },
+ {
+  "ref": "Anlagenbuchungen!r.13",
+  "text": "\"021000\";30.04.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "startLine": 13
+ },
+ {
+  "ref": "Anlagenbuchungen!r.14",
+  "text": "\"040000\";30.04.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "startLine": 14
+ },
+ {
+  "ref": "Anlagenbuchungen!r.15",
+  "text": "\"060000\";30.04.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "startLine": 15
+ },
+ {
+  "ref": "Anlagenbuchungen!r.16",
+  "text": "\"062000\";30.04.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "startLine": 16
+ },
+ {
+  "ref": "Anlagenbuchungen!r.17",
+  "text": "\"021000\";31.05.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "startLine": 17
+ },
+ {
+  "ref": "Anlagenbuchungen!r.18",
+  "text": "\"040000\";31.05.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "startLine": 18
+ },
+ {
+  "ref": "Anlagenbuchungen!r.19",
+  "text": "\"060000\";31.05.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "startLine": 19
+ },
+ {
+  "ref": "Anlagenbuchungen!r.20",
+  "text": "\"062000\";31.05.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "startLine": 20
+ },
+ {
+  "ref": "Anlagenbuchungen!r.21",
+  "text": "\"021000\";30.06.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "startLine": 21
+ },
+ {
+  "ref": "Anlagenbuchungen!r.22",
+  "text": "\"040000\";30.06.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "startLine": 22
+ },
+ {
+  "ref": "Anlagenbuchungen!r.23",
+  "text": "\"060000\";30.06.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "startLine": 23
+ },
+ {
+  "ref": "Anlagenbuchungen!r.24",
+  "text": "\"062000\";30.06.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "startLine": 24
+ },
+ {
+  "ref": "Anlagenbuchungen!r.25",
+  "text": "\"021000\";31.07.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "startLine": 25
+ },
+ {
+  "ref": "Anlagenbuchungen!r.26",
+  "text": "\"040000\";31.07.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "startLine": 26
+ },
+ {
+  "ref": "Anlagenbuchungen!r.27",
+  "text": "\"060000\";31.07.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "startLine": 27
+ },
+ {
+  "ref": "Anlagenbuchungen!r.28",
+  "text": "\"062000\";31.07.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "startLine": 28
+ },
+ {
+  "ref": "Anlagenbuchungen!r.29",
+  "text": "\"021000\";31.08.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "startLine": 29
+ },
+ {
+  "ref": "Anlagenbuchungen!r.30",
+  "text": "\"040000\";31.08.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "startLine": 30
+ },
+ {
+  "ref": "Anlagenbuchungen!r.31",
+  "text": "\"060000\";31.08.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "startLine": 31
+ },
+ {
+  "ref": "Anlagenbuchungen!r.32",
+  "text": "\"062000\";31.08.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "startLine": 32
+ },
+ {
+  "ref": "Anlagenbuchungen!r.33",
+  "text": "\"021000\";30.09.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "startLine": 33
+ },
+ {
+  "ref": "Anlagenbuchungen!r.34",
+  "text": "\"040000\";30.09.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "startLine": 34
+ },
+ {
+  "ref": "Anlagenbuchungen!r.35",
+  "text": "\"060000\";30.09.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "startLine": 35
+ },
+ {
+  "ref": "Anlagenbuchungen!r.36",
+  "text": "\"062000\";30.09.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "startLine": 36
+ },
+ {
+  "ref": "Anlagenbuchungen!r.37",
+  "text": "\"021000\";31.10.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "startLine": 37
+ },
+ {
+  "ref": "Anlagenbuchungen!r.38",
+  "text": "\"040000\";31.10.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "startLine": 38
+ },
+ {
+  "ref": "Anlagenbuchungen!r.39",
+  "text": "\"060000\";31.10.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "startLine": 39
+ },
+ {
+  "ref": "Anlagenbuchungen!r.40",
+  "text": "\"062000\";31.10.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "startLine": 40
+ },
+ {
+  "ref": "Anlagenbuchungen!r.41",
+  "text": "\"021000\";30.11.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "startLine": 41
+ },
+ {
+  "ref": "Anlagenbuchungen!r.42",
+  "text": "\"040000\";30.11.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "startLine": 42
+ },
+ {
+  "ref": "Anlagenbuchungen!r.43",
+  "text": "\"060000\";30.11.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "startLine": 43
+ },
+ {
+  "ref": "Anlagenbuchungen!r.44",
+  "text": "\"062000\";30.11.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "startLine": 44
+ },
+ {
+  "ref": "Anlagenbuchungen!r.45",
+  "text": "\"021000\";31.12.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"021000\";\"Current\"",
+  "startLine": 45
+ },
+ {
+  "ref": "Anlagenbuchungen!r.46",
+  "text": "\"040000\";31.12.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"040000\";\"Current\"",
+  "startLine": 46
+ },
+ {
+  "ref": "Anlagenbuchungen!r.47",
+  "text": "\"060000\";31.12.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"060000\";\"Current\"",
+  "startLine": 47
+ },
+ {
+  "ref": "Anlagenbuchungen!r.48",
+  "text": "\"062000\";31.12.2025;\"AfA\";-34800,38;\"EUR\";-34800,38;\"Depreciation\";\"\";\"062000\";\"Current\"",
+  "startLine": 48
+ },
+ {
+  "ref": "Anlagenbuchungen!r.49",
+  "text": "\"040000-000191\";20.11.2025;\"ER901421\";28000,00;\"EUR\";28000,00;\"Acquisition\";\"\";\"040000\";\"Current\"",
+  "startLine": 49
+ },
+ {
+  "ref": "Anlagenbuchungen!r.50",
+  "text": "\"040000-000192\";04.03.2025;\"ER901422\";34000,00;\"EUR\";34000,00;\"Acquisition\";\"\";\"040000\";\"Current\"",
+  "startLine": 50
+ },
+ {
+  "ref": "Anlagenbuchungen!r.51",
+  "text": "\"060000-000193\";13.03.2025;\"ER901423\";15500,00;\"EUR\";15500,00;\"Acquisition\";\"\";\"060000\";\"Current\"",
+  "startLine": 51
+ },
+ {
+  "ref": "Anlagenbuchungen!r.52",
+  "text": "\"040000-000194\";26.11.2025;\"ER901424\";41000,00;\"EUR\";41000,00;\"Acquisition\";\"\";\"040000\";\"Current\"",
+  "startLine": 52
+ },
+ {
+  "ref": "Anlagenbuchungen!r.53",
+  "text": "\"060000-000195\";23.05.2025;\"ER901425\";12800,00;\"EUR\";12800,00;\"Acquisition\";\"\";\"060000\";\"Current\"",
+  "startLine": 53
+ },
+ {
+  "ref": "Anlagenbuchungen!r.54",
+  "text": "\"040000-000196\";20.11.2025;\"ER901426\";19500,00;\"EUR\";19500,00;\"Acquisition\";\"\";\"040000\";\"Current\"",
+  "startLine": 54
+ },
+ {
+  "ref": "Anlagenbuchungen!r.55",
+  "text": "\"040000-000197\";17.06.2025;\"ER901435\";480000,00;\"EUR\";480000,00;\"Acquisition\";\"\";\"040000\";\"Current\"",
+  "startLine": 55
+ },
+ {
+  "ref": "Anlagenbuchungen!r.56",
+  "text": "\"040000-000005\";29.08.2025;\"GJ6602869\";-111595,00;\"EUR\";-111595,00;\"Disposal\";\"\";\"040000\";\"Current\"",
+  "startLine": 56
+ }
+]

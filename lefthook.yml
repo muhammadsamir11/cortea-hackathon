@@ -1,0 +1,10 @@
+# https://lefthook.dev/configuration/
+pre-commit:
+  jobs:
+    - name: gitleaks
+      run: gitleaks protect --staged --verbose --redact
+
+pre-push:
+  jobs:
+    - name: gitleaks
+      run: gitleaks protect --verbose --redact

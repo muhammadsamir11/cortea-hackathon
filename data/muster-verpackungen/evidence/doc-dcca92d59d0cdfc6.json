@@ -1,0 +1,7 @@
+[
+ {
+  "ref": "p.1",
+  "text": "Muster Verpackungen GmbH – Bestätigung der IT zur Vollständigkeit und\nUnveränderbarkeit der Journaldaten 2025\nAn den Abschlussprüfer. Für das Buchführungssystem Microsoft Dynamics 365 Finance bestätigen wir:\n1. Vollständigkeit. Die Datei Sachkontobuchungen.txt enthält sämtliche 20258 Hauptbuch-Buchungszeilen des\nGeschäftsjahres 2025 (einschließlich der Eröffnungsschicht aus der Saldenübernahme 2024, Journal AB-2024).\nDatensatzabgleich gegen das Produktivsystem ohne Differenzen.\n2. Buchungslogik. Jede Buchung ist zeilenweise ausgeglichen; die Summe aller Buchungsbeträge beträgt 0,00 EUR\n(Soll- und Habenvolumen je 345.350.778,06 EUR).\n3. Festschreibung (GoBD). Die Perioden 01–12/2025 wurden zum Monatsende gesperrt; die Festschreibung des\nGeschäftsjahres erfolgte zum 20.01.2026. Korrekturen ausschließlich über Stornobuchungen.\n4. Erfassungsmetadaten. Für jede Zeile sind Erfassungsdatum, -uhrzeit und Benutzerkennung enthalten\n(Batch-Kennung „Admin“ für Schnittstellen).\n5. Berechtigungen. Auswertung der buchungsberechtigten Kennungen als Berechtigungsauswertung_2025.xlsx\nbeigefügt.\nMusterhausen, 04.02.2026 · gez. IT-Leitung",
+  "page": 1
+ }
+]

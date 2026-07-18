@@ -1,0 +1,217 @@
+[
+ {
+  "ref": "Sachkonten!r.1",
+  "text": "\"020000\";\"Grundstücke\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 1
+ },
+ {
+  "ref": "Sachkonten!r.2",
+  "text": "\"021000\";\"Gebäude und Außenanlagen\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 2
+ },
+ {
+  "ref": "Sachkonten!r.3",
+  "text": "\"040000\";\"Maschinen und maschinelle Anlagen\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 3
+ },
+ {
+  "ref": "Sachkonten!r.4",
+  "text": "\"060000\";\"Betriebs- und Geschäftsausstattung\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 4
+ },
+ {
+  "ref": "Sachkonten!r.5",
+  "text": "\"062000\";\"EDV-Hardware\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 5
+ },
+ {
+  "ref": "Sachkonten!r.6",
+  "text": "\"070000\";\"Anlagen im Bau\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 6
+ },
+ {
+  "ref": "Sachkonten!r.7",
+  "text": "\"110000\";\"Roh-, Hilfs- und Betriebsstoffe\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 7
+ },
+ {
+  "ref": "Sachkonten!r.8",
+  "text": "\"160000\";\"Fertigerzeugnisse\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 8
+ },
+ {
+  "ref": "Sachkonten!r.9",
+  "text": "\"176000\";\"Handelsware\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 9
+ },
+ {
+  "ref": "Sachkonten!r.10",
+  "text": "\"147000\";\"Vorsteuer\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 10
+ },
+ {
+  "ref": "Sachkonten!r.11",
+  "text": "\"230000\";\"Forderungen aus L.u.L.\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 11
+ },
+ {
+  "ref": "Sachkonten!r.12",
+  "text": "\"260000\";\"Sonstige Vermögensgegenstände\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 12
+ },
+ {
+  "ref": "Sachkonten!r.13",
+  "text": "\"271000\";\"Bank Girokonto Handelsbank\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 13
+ },
+ {
+  "ref": "Sachkonten!r.14",
+  "text": "\"272000\";\"Bank Kontokorrent Musterbank\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 14
+ },
+ {
+  "ref": "Sachkonten!r.15",
+  "text": "\"288000\";\"Kasse\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 15
+ },
+ {
+  "ref": "Sachkonten!r.16",
+  "text": "\"300000\";\"Gezeichnetes Kapital und Rücklagen\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 16
+ },
+ {
+  "ref": "Sachkonten!r.17",
+  "text": "\"302000\";\"Sonstige Rückstellungen\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 17
+ },
+ {
+  "ref": "Sachkonten!r.18",
+  "text": "\"305000\";\"Steuerrückstellungen\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 18
+ },
+ {
+  "ref": "Sachkonten!r.19",
+  "text": "\"330000\";\"Verbindlichkeiten aus L.u.L.\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 19
+ },
+ {
+  "ref": "Sachkonten!r.20",
+  "text": "\"332000\";\"Kreditorische Debitoren\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 20
+ },
+ {
+  "ref": "Sachkonten!r.21",
+  "text": "\"340000\";\"Verbindlichkeiten Kreditinstitute\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 21
+ },
+ {
+  "ref": "Sachkonten!r.22",
+  "text": "\"347200\";\"Umsatzsteuer\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 22
+ },
+ {
+  "ref": "Sachkonten!r.23",
+  "text": "\"360000\";\"Sonstige Verbindlichkeiten\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "startLine": 23
+ },
+ {
+  "ref": "Sachkonten!r.24",
+  "text": "\"400000\";\"Umsatzerlöse Inland 19%\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 24
+ },
+ {
+  "ref": "Sachkonten!r.25",
+  "text": "\"408000\";\"Umsatzerlöse Export EU 0%\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 25
+ },
+ {
+  "ref": "Sachkonten!r.26",
+  "text": "\"440020\";\"Umsatzboni und Rückvergütungen\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 26
+ },
+ {
+  "ref": "Sachkonten!r.27",
+  "text": "\"480000\";\"Sonstige betriebliche Erträge\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 27
+ },
+ {
+  "ref": "Sachkonten!r.28",
+  "text": "\"500000\";\"Materialaufwand / Wareneinsatz\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 28
+ },
+ {
+  "ref": "Sachkonten!r.29",
+  "text": "\"510000\";\"Bezugsnebenkosten\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 29
+ },
+ {
+  "ref": "Sachkonten!r.30",
+  "text": "\"600000\";\"Löhne und Gehälter\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 30
+ },
+ {
+  "ref": "Sachkonten!r.31",
+  "text": "\"610000\";\"Soziale Abgaben\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 31
+ },
+ {
+  "ref": "Sachkonten!r.32",
+  "text": "\"620000\";\"Abschreibungen\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 32
+ },
+ {
+  "ref": "Sachkonten!r.33",
+  "text": "\"670000\";\"Instandhaltung und Reparaturen\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 33
+ },
+ {
+  "ref": "Sachkonten!r.34",
+  "text": "\"671000\";\"Energie\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 34
+ },
+ {
+  "ref": "Sachkonten!r.35",
+  "text": "\"672000\";\"Mieten und Leasing\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 35
+ },
+ {
+  "ref": "Sachkonten!r.36",
+  "text": "\"673000\";\"Rechts- und Beratungskosten\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 36
+ },
+ {
+  "ref": "Sachkonten!r.37",
+  "text": "\"674000\";\"Werbe- und Reisekosten\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 37
+ },
+ {
+  "ref": "Sachkonten!r.38",
+  "text": "\"675000\";\"Fuhrpark\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 38
+ },
+ {
+  "ref": "Sachkonten!r.39",
+  "text": "\"676000\";\"Versicherungen und Beiträge\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 39
+ },
+ {
+  "ref": "Sachkonten!r.40",
+  "text": "\"677000\";\"Sonstiger Betriebsbedarf\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 40
+ },
+ {
+  "ref": "Sachkonten!r.41",
+  "text": "\"680000\";\"Konzernumlage / Verwaltungsleistungen\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 41
+ },
+ {
+  "ref": "Sachkonten!r.42",
+  "text": "\"700000\";\"Zinsaufwand\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 42
+ },
+ {
+  "ref": "Sachkonten!r.43",
+  "text": "\"710000\";\"Zinsertrag\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "startLine": 43
+ }
+]

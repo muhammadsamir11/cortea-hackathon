@@ -1,0 +1,82 @@
+[
+ {
+  "rowNumber": 2,
+  "raw": "GESELLSCHAFTER;;;;",
+  "values": {
+   "NAME": "GESELLSCHAFTER",
+   "ANTEIL_PROZENT": "",
+   "IC_KENNZEICHEN": "",
+   "VERHAELTNIS": "",
+   "BEMERKUNG": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-gesellschafterliste-beteiligungen",
+   "ref": "Gesellschafterliste_Beteiligungen!r.2",
+   "quote": "GESELLSCHAFTER;;;;"
+  }
+ },
+ {
+  "rowNumber": 3,
+  "raw": "Muster Beteiligungs GmbH, Wien (AUT);100,00;IC;Muttergesellschaft;oberste Konzernmutter",
+  "values": {
+   "NAME": "Muster Beteiligungs GmbH, Wien (AUT)",
+   "ANTEIL_PROZENT": "100,00",
+   "IC_KENNZEICHEN": "IC",
+   "VERHAELTNIS": "Muttergesellschaft",
+   "BEMERKUNG": "oberste Konzernmutter"
+  },
+  "citation": {
+   "docId": "begleitdokumente-gesellschafterliste-beteiligungen",
+   "ref": "Gesellschafterliste_Beteiligungen!r.3",
+   "quote": "Muster Beteiligungs GmbH, Wien (AUT);100,00;IC;Muttergesellschaft;oberste Konzernmutter"
+  }
+ },
+ {
+  "rowNumber": 4,
+  "raw": ";;;;",
+  "values": {
+   "NAME": "",
+   "ANTEIL_PROZENT": "",
+   "IC_KENNZEICHEN": "",
+   "VERHAELTNIS": "",
+   "BEMERKUNG": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-gesellschafterliste-beteiligungen",
+   "ref": "Gesellschafterliste_Beteiligungen!r.4",
+   "quote": ";;;;"
+  }
+ },
+ {
+  "rowNumber": 5,
+  "raw": "VERBUNDENE UNTERNEHMEN;;;;",
+  "values": {
+   "NAME": "VERBUNDENE UNTERNEHMEN",
+   "ANTEIL_PROZENT": "",
+   "IC_KENNZEICHEN": "",
+   "VERHAELTNIS": "",
+   "BEMERKUNG": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-gesellschafterliste-beteiligungen",
+   "ref": "Gesellschafterliste_Beteiligungen!r.5",
+   "quote": "VERBUNDENE UNTERNEHMEN;;;;"
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "Muster Verpackung Austria GmbH (AUT);0,00;IC;Schwestergesellschaft;Personenkonto Kreditor 209113",
+  "values": {
+   "NAME": "Muster Verpackung Austria GmbH (AUT)",
+   "ANTEIL_PROZENT": "0,00",
+   "IC_KENNZEICHEN": "IC",
+   "VERHAELTNIS": "Schwestergesellschaft",
+   "BEMERKUNG": "Personenkonto Kreditor 209113"
+  },
+  "citation": {
+   "docId": "begleitdokumente-gesellschafterliste-beteiligungen",
+   "ref": "Gesellschafterliste_Beteiligungen!r.6",
+   "quote": "Muster Verpackung Austria GmbH (AUT);0,00;IC;Schwestergesellschaft;Personenkonto Kreditor 209113"
+  }
+ }
+]

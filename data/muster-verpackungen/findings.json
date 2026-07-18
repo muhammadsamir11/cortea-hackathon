@@ -1,0 +1,922 @@
+[
+ {
+  "id": "finding-2296e8526ef8",
+  "checkId": "capitalizedRepairs",
+  "title": "6 repair and maintenance costs capitalized as fixed assets",
+  "tier": "corroborated",
+  "fraudType": "capitalized_repairs",
+  "narrative": "6 asset additions carry repair-type descriptions and were posted as acquisitions to fixed-asset classes. Their EUR 150800.00 net cost overstates both assets and profit.",
+  "amountInvolved": 150800,
+  "severity": "high",
+  "factIds": [],
+  "citations": [
+   {
+    "docId": "av-anlagenbuchungen",
+    "ref": "Anlagenbuchungen!r.49",
+    "quote": "\"040000-000191\";20.11.2025;\"ER901421\";28000,00;\"EUR\";28000,00;\"Acquisition\";\"\";\"040000\";\"Current\""
+   },
+   {
+    "docId": "av-anlagen",
+    "ref": "Anlagen!r.191",
+    "quote": "\"040000-000191\";\"Reparatur Konfektioniermaschine Linie 2\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2563",
+    "quote": "\"200056\";\"ER901421\";20.11.2025;\"\";20.11.2025;\"Reparatur Konfektioniermaschine Linie 2\";-33320,00;\"EUR\";-33320,00;\"\";\"\";\"Purch\";\"Yes\""
+   },
+   {
+    "docId": "av-anlagenbuchungen",
+    "ref": "Anlagenbuchungen!r.50",
+    "quote": "\"040000-000192\";04.03.2025;\"ER901422\";34000,00;\"EUR\";34000,00;\"Acquisition\";\"\";\"040000\";\"Current\""
+   },
+   {
+    "docId": "av-anlagen",
+    "ref": "Anlagen!r.192",
+    "quote": "\"040000-000192\";\"Austausch Hydraulikaggregat Presse 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2564",
+    "quote": "\"200059\";\"ER901422\";04.03.2025;\"\";04.03.2025;\"Austausch Hydraulikaggregat Presse 3\";-40460,00;\"EUR\";-40460,00;\"\";\"\";\"Purch\";\"Yes\""
+   },
+   {
+    "docId": "av-anlagenbuchungen",
+    "ref": "Anlagenbuchungen!r.51",
+    "quote": "\"060000-000193\";13.03.2025;\"ER901423\";15500,00;\"EUR\";15500,00;\"Acquisition\";\"\";\"060000\";\"Current\""
+   },
+   {
+    "docId": "av-anlagen",
+    "ref": "Anlagen!r.193",
+    "quote": "\"060000-000193\";\"Instandsetzung Förderband Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2565",
+    "quote": "\"200127\";\"ER901423\";13.03.2025;\"\";13.03.2025;\"Instandsetzung Förderband Halle II\";-18445,00;\"EUR\";-18445,00;\"\";\"\";\"Purch\";\"Yes\""
+   },
+   {
+    "docId": "av-anlagenbuchungen",
+    "ref": "Anlagenbuchungen!r.52",
+    "quote": "\"040000-000194\";26.11.2025;\"ER901424\";41000,00;\"EUR\";41000,00;\"Acquisition\";\"\";\"040000\";\"Current\""
+   },
+   {
+    "docId": "av-anlagen",
+    "ref": "Anlagen!r.194",
+    "quote": "\"040000-000194\";\"Generalüberholung Stanzautomat\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2566",
+    "quote": "\"200118\";\"ER901424\";26.11.2025;\"\";26.11.2025;\"Generalüberholung Stanzautomat\";-48790,00;\"EUR\";-48790,00;\"\";\"\";\"Purch\";\"Yes\""
+   },
+   {
+    "docId": "av-anlagenbuchungen",
+    "ref": "Anlagenbuchungen!r.53",
+    "quote": "\"060000-000195\";23.05.2025;\"ER901425\";12800,00;\"EUR\";12800,00;\"Acquisition\";\"\";\"060000\";\"Current\""
+   },
+   {
+    "docId": "av-anlagen",
+    "ref": "Anlagen!r.195",
+    "quote": "\"060000-000195\";\"Reparatur Kälteanlage Lager\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2567",
+    "quote": "\"200101\";\"ER901425\";23.05.2025;\"\";23.05.2025;\"Reparatur Kälteanlage Lager\";-15232,00;\"EUR\";-15232,00;\"\";\"\";\"Purch\";\"Yes\""
+   },
+   {
+    "docId": "av-anlagenbuchungen",
+    "ref": "Anlagenbuchungen!r.54",
+    "quote": "\"040000-000196\";20.11.2025;\"ER901426\";19500,00;\"EUR\";19500,00;\"Acquisition\";\"\";\"040000\";\"Current\""
+   }
+  ],
+  "lineItems": [
+   {
+    "label": "Reparatur Konfektioniermaschine Linie 2",
+    "documentNumber": "ER901421",
+    "date": "2025-11-20",
+    "counterparty": "Nova Technik GmbH",
+    "description": "040000-000191 booked to asset class 040000",
+    "amount": 28000,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "av-anlagenbuchungen",
+      "ref": "Anlagenbuchungen!r.49",
+      "quote": "\"040000-000191\";20.11.2025;\"ER901421\";28000,00;\"EUR\";28000,00;\"Acquisition\";\"\";\"040000\";\"Current\""
+     },
+     {
+      "docId": "av-anlagen",
+      "ref": "Anlagen!r.191",
+      "quote": "\"040000-000191\";\"Reparatur Konfektioniermaschine Linie 2\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+     },
+     {
+      "docId": "kreditoren-lieferantenbuchungen",
+      "ref": "Lieferantenbuchungen!r.2563",
+      "quote": "\"200056\";\"ER901421\";20.11.2025;\"\";20.11.2025;\"Reparatur Konfektioniermaschine Linie 2\";-33320,00;\"EUR\";-33320,00;\"\";\"\";\"Purch\";\"Yes\""
+     }
+    ],
+    "id": "li-c48cb9e1285b"
+   },
+   {
+    "label": "Austausch Hydraulikaggregat Presse 3",
+    "documentNumber": "ER901422",
+    "date": "2025-03-04",
+    "counterparty": "Lupus Handel SE",
+    "description": "040000-000192 booked to asset class 040000",
+    "amount": 34000,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "av-anlagenbuchungen",
+      "ref": "Anlagenbuchungen!r.50",
+      "quote": "\"040000-000192\";04.03.2025;\"ER901422\";34000,00;\"EUR\";34000,00;\"Acquisition\";\"\";\"040000\";\"Current\""
+     },
+     {
+      "docId": "av-anlagen",
+      "ref": "Anlagen!r.192",
+      "quote": "\"040000-000192\";\"Austausch Hydraulikaggregat Presse 3\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+     },
+     {
+      "docId": "kreditoren-lieferantenbuchungen",
+      "ref": "Lieferantenbuchungen!r.2564",
+      "quote": "\"200059\";\"ER901422\";04.03.2025;\"\";04.03.2025;\"Austausch Hydraulikaggregat Presse 3\";-40460,00;\"EUR\";-40460,00;\"\";\"\";\"Purch\";\"Yes\""
+     }
+    ],
+    "id": "li-f4be894ba244"
+   },
+   {
+    "label": "Instandsetzung Förderband Halle II",
+    "documentNumber": "ER901423",
+    "date": "2025-03-13",
+    "counterparty": "Ost Systeme e.K.",
+    "description": "060000-000193 booked to asset class 060000",
+    "amount": 15500,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "av-anlagenbuchungen",
+      "ref": "Anlagenbuchungen!r.51",
+      "quote": "\"060000-000193\";13.03.2025;\"ER901423\";15500,00;\"EUR\";15500,00;\"Acquisition\";\"\";\"060000\";\"Current\""
+     },
+     {
+      "docId": "av-anlagen",
+      "ref": "Anlagen!r.193",
+      "quote": "\"060000-000193\";\"Instandsetzung Förderband Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+     },
+     {
+      "docId": "kreditoren-lieferantenbuchungen",
+      "ref": "Lieferantenbuchungen!r.2565",
+      "quote": "\"200127\";\"ER901423\";13.03.2025;\"\";13.03.2025;\"Instandsetzung Förderband Halle II\";-18445,00;\"EUR\";-18445,00;\"\";\"\";\"Purch\";\"Yes\""
+     }
+    ],
+    "id": "li-da877790ac8f"
+   },
+   {
+    "label": "Generalüberholung Stanzautomat",
+    "documentNumber": "ER901424",
+    "date": "2025-11-26",
+    "counterparty": "Nova Chemie GmbH & Co. KG",
+    "description": "040000-000194 booked to asset class 040000",
+    "amount": 41000,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "av-anlagenbuchungen",
+      "ref": "Anlagenbuchungen!r.52",
+      "quote": "\"040000-000194\";26.11.2025;\"ER901424\";41000,00;\"EUR\";41000,00;\"Acquisition\";\"\";\"040000\";\"Current\""
+     },
+     {
+      "docId": "av-anlagen",
+      "ref": "Anlagen!r.194",
+      "quote": "\"040000-000194\";\"Generalüberholung Stanzautomat\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+     },
+     {
+      "docId": "kreditoren-lieferantenbuchungen",
+      "ref": "Lieferantenbuchungen!r.2566",
+      "quote": "\"200118\";\"ER901424\";26.11.2025;\"\";26.11.2025;\"Generalüberholung Stanzautomat\";-48790,00;\"EUR\";-48790,00;\"\";\"\";\"Purch\";\"Yes\""
+     }
+    ],
+    "id": "li-7c3082658f1e"
+   },
+   {
+    "label": "Reparatur Kälteanlage Lager",
+    "documentNumber": "ER901425",
+    "date": "2025-05-23",
+    "counterparty": "Prisma Etiketten SE",
+    "description": "060000-000195 booked to asset class 060000",
+    "amount": 12800,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "av-anlagenbuchungen",
+      "ref": "Anlagenbuchungen!r.53",
+      "quote": "\"060000-000195\";23.05.2025;\"ER901425\";12800,00;\"EUR\";12800,00;\"Acquisition\";\"\";\"060000\";\"Current\""
+     },
+     {
+      "docId": "av-anlagen",
+      "ref": "Anlagen!r.195",
+      "quote": "\"060000-000195\";\"Reparatur Kälteanlage Lager\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+     },
+     {
+      "docId": "kreditoren-lieferantenbuchungen",
+      "ref": "Lieferantenbuchungen!r.2567",
+      "quote": "\"200101\";\"ER901425\";23.05.2025;\"\";23.05.2025;\"Reparatur Kälteanlage Lager\";-15232,00;\"EUR\";-15232,00;\"\";\"\";\"Purch\";\"Yes\""
+     }
+    ],
+    "id": "li-fdcf07067fb3"
+   },
+   {
+    "label": "Austausch Antriebssteuerung Palettierer",
+    "documentNumber": "ER901426",
+    "date": "2025-11-20",
+    "counterparty": "Kranich Druck e.K.",
+    "description": "040000-000196 booked to asset class 040000",
+    "amount": 19500,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "av-anlagenbuchungen",
+      "ref": "Anlagenbuchungen!r.54",
+      "quote": "\"040000-000196\";20.11.2025;\"ER901426\";19500,00;\"EUR\";19500,00;\"Acquisition\";\"\";\"040000\";\"Current\""
+     },
+     {
+      "docId": "av-anlagen",
+      "ref": "Anlagen!r.196",
+      "quote": "\"040000-000196\";\"Austausch Antriebssteuerung Palettierer\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+     },
+     {
+      "docId": "kreditoren-lieferantenbuchungen",
+      "ref": "Lieferantenbuchungen!r.2568",
+      "quote": "\"200016\";\"ER901426\";20.11.2025;\"\";20.11.2025;\"Austausch Antriebssteuerung Palettierer\";-23205,00;\"EUR\";-23205,00;\"\";\"\";\"Purch\";\"Yes\""
+     }
+    ],
+    "id": "li-589d540dcb69"
+   }
+  ],
+  "impactCategories": [
+   "profit_overstatement",
+   "asset_overstatement"
+  ],
+  "calculations": [
+   {
+    "label": "Capitalized repair cost",
+    "expression": "6 asset acquisitions",
+    "value": 150800,
+    "currency": "EUR"
+   }
+  ],
+  "engineStatus": "detected",
+  "aiStatus": "not-run"
+ },
+ {
+  "id": "finding-d99c288eba93",
+  "checkId": "cutoff",
+  "title": "8 December costs omitted from the 2025 close",
+  "tier": "corroborated",
+  "fraudType": "cutoff_failure",
+  "narrative": "8 invoices booked in 2026 have 2025 service dates and matching December receipts marked as still open. No matching 2025 posting exists, leaving EUR 192000.00 unaccrued and overstating profit.",
+  "amountInvolved": 192000,
+  "severity": "high",
+  "factIds": [],
+  "citations": [
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+    "ref": "Fakturajournal_Januar_2026_Kreditoren!r.2",
+    "quote": "ER901427;Rechnung;209130;Nord Transport GmbH;15.01.2026;21.12.2025;22000,00;EUR;Frachten Dez 2025"
+   },
+   {
+    "docId": "begleitdokumente-wareneingangsliste-2025",
+    "ref": "Wareneingangsliste_2025!r.842",
+    "quote": "WE400840;21.12.2025;;209130;Nord Transport GmbH;22000,00;Dez-Lieferung, Rechnung offen"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+    "ref": "Fakturajournal_Januar_2026_Kreditoren!r.3",
+    "quote": "ER901428;Rechnung;209131;Delta Energie GmbH;03.01.2026;26.12.2025;38000,00;EUR;Energie Dez 2025"
+   },
+   {
+    "docId": "begleitdokumente-wareneingangsliste-2025",
+    "ref": "Wareneingangsliste_2025!r.843",
+    "quote": "WE400841;26.12.2025;;209131;Delta Energie GmbH;38000,00;Dez-Lieferung, Rechnung offen"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+    "ref": "Fakturajournal_Januar_2026_Kreditoren!r.4",
+    "quote": "ER901429;Rechnung;209132;Atlas Werkstoffe GmbH;15.01.2026;22.12.2025;41000,00;EUR;Materiallieferung 22.12.2025"
+   },
+   {
+    "docId": "begleitdokumente-wareneingangsliste-2025",
+    "ref": "Wareneingangsliste_2025!r.844",
+    "quote": "WE400842;22.12.2025;;209132;Atlas Werkstoffe GmbH;41000,00;Dez-Lieferung, Rechnung offen"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+    "ref": "Fakturajournal_Januar_2026_Kreditoren!r.5",
+    "quote": "ER901430;Rechnung;209133;Vega Technik GmbH;11.01.2026;22.12.2025;17000,00;EUR;Wartung Dez 2025"
+   },
+   {
+    "docId": "begleitdokumente-wareneingangsliste-2025",
+    "ref": "Wareneingangsliste_2025!r.845",
+    "quote": "WE400843;22.12.2025;;209133;Vega Technik GmbH;17000,00;Dez-Lieferung, Rechnung offen"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+    "ref": "Fakturajournal_Januar_2026_Kreditoren!r.6",
+    "quote": "ER901431;Rechnung;209134;Orion Logistik GmbH;13.01.2026;25.12.2025;26000,00;EUR;Logistik Dez 2025"
+   },
+   {
+    "docId": "begleitdokumente-wareneingangsliste-2025",
+    "ref": "Wareneingangsliste_2025!r.846",
+    "quote": "WE400844;25.12.2025;;209134;Orion Logistik GmbH;26000,00;Dez-Lieferung, Rechnung offen"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+    "ref": "Fakturajournal_Januar_2026_Kreditoren!r.7",
+    "quote": "ER901432;Rechnung;209135;Kronos Druck GmbH;13.01.2026;19.12.2025;14500,00;EUR;Druckleistung Dez 2025"
+   },
+   {
+    "docId": "begleitdokumente-wareneingangsliste-2025",
+    "ref": "Wareneingangsliste_2025!r.847",
+    "quote": "WE400845;19.12.2025;;209135;Kronos Druck GmbH;14500,00;Dez-Lieferung, Rechnung offen"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+    "ref": "Fakturajournal_Januar_2026_Kreditoren!r.8",
+    "quote": "ER901433;Rechnung;209136;Prisma Chemie GmbH;14.01.2026;20.12.2025;20500,00;EUR;Rohstoffe 27.12.2025"
+   },
+   {
+    "docId": "begleitdokumente-wareneingangsliste-2025",
+    "ref": "Wareneingangsliste_2025!r.848",
+    "quote": "WE400846;20.12.2025;;209136;Prisma Chemie GmbH;20500,00;Dez-Lieferung, Rechnung offen"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+    "ref": "Fakturajournal_Januar_2026_Kreditoren!r.9",
+    "quote": "ER901434;Rechnung;209137;Helios Systeme GmbH;06.01.2026;20.12.2025;13000,00;EUR;IT-Leistung Dez 2025"
+   },
+   {
+    "docId": "begleitdokumente-wareneingangsliste-2025",
+    "ref": "Wareneingangsliste_2025!r.849",
+    "quote": "WE400847;20.12.2025;;209137;Helios Systeme GmbH;13000,00;Dez-Lieferung, Rechnung offen"
+   }
+  ],
+  "lineItems": [
+   {
+    "label": "Frachten Dez 2025",
+    "documentNumber": "ER901427",
+    "date": "2025-12-21",
+    "counterparty": "Nord Transport GmbH",
+    "description": "Service/goods received 2025-12-21; invoice dated 2026-01-15",
+    "amount": 22000,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+      "ref": "Fakturajournal_Januar_2026_Kreditoren!r.2",
+      "quote": "ER901427;Rechnung;209130;Nord Transport GmbH;15.01.2026;21.12.2025;22000,00;EUR;Frachten Dez 2025"
+     },
+     {
+      "docId": "begleitdokumente-wareneingangsliste-2025",
+      "ref": "Wareneingangsliste_2025!r.842",
+      "quote": "WE400840;21.12.2025;;209130;Nord Transport GmbH;22000,00;Dez-Lieferung, Rechnung offen"
+     }
+    ],
+    "id": "li-536f2ccad513"
+   },
+   {
+    "label": "Energie Dez 2025",
+    "documentNumber": "ER901428",
+    "date": "2025-12-26",
+    "counterparty": "Delta Energie GmbH",
+    "description": "Service/goods received 2025-12-26; invoice dated 2026-01-03",
+    "amount": 38000,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+      "ref": "Fakturajournal_Januar_2026_Kreditoren!r.3",
+      "quote": "ER901428;Rechnung;209131;Delta Energie GmbH;03.01.2026;26.12.2025;38000,00;EUR;Energie Dez 2025"
+     },
+     {
+      "docId": "begleitdokumente-wareneingangsliste-2025",
+      "ref": "Wareneingangsliste_2025!r.843",
+      "quote": "WE400841;26.12.2025;;209131;Delta Energie GmbH;38000,00;Dez-Lieferung, Rechnung offen"
+     }
+    ],
+    "id": "li-a2a2250775ba"
+   },
+   {
+    "label": "Materiallieferung 22.12.2025",
+    "documentNumber": "ER901429",
+    "date": "2025-12-22",
+    "counterparty": "Atlas Werkstoffe GmbH",
+    "description": "Service/goods received 2025-12-22; invoice dated 2026-01-15",
+    "amount": 41000,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+      "ref": "Fakturajournal_Januar_2026_Kreditoren!r.4",
+      "quote": "ER901429;Rechnung;209132;Atlas Werkstoffe GmbH;15.01.2026;22.12.2025;41000,00;EUR;Materiallieferung 22.12.2025"
+     },
+     {
+      "docId": "begleitdokumente-wareneingangsliste-2025",
+      "ref": "Wareneingangsliste_2025!r.844",
+      "quote": "WE400842;22.12.2025;;209132;Atlas Werkstoffe GmbH;41000,00;Dez-Lieferung, Rechnung offen"
+     }
+    ],
+    "id": "li-6a68f642afc7"
+   },
+   {
+    "label": "Wartung Dez 2025",
+    "documentNumber": "ER901430",
+    "date": "2025-12-22",
+    "counterparty": "Vega Technik GmbH",
+    "description": "Service/goods received 2025-12-22; invoice dated 2026-01-11",
+    "amount": 17000,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+      "ref": "Fakturajournal_Januar_2026_Kreditoren!r.5",
+      "quote": "ER901430;Rechnung;209133;Vega Technik GmbH;11.01.2026;22.12.2025;17000,00;EUR;Wartung Dez 2025"
+     },
+     {
+      "docId": "begleitdokumente-wareneingangsliste-2025",
+      "ref": "Wareneingangsliste_2025!r.845",
+      "quote": "WE400843;22.12.2025;;209133;Vega Technik GmbH;17000,00;Dez-Lieferung, Rechnung offen"
+     }
+    ],
+    "id": "li-29d7c18af2ed"
+   },
+   {
+    "label": "Logistik Dez 2025",
+    "documentNumber": "ER901431",
+    "date": "2025-12-25",
+    "counterparty": "Orion Logistik GmbH",
+    "description": "Service/goods received 2025-12-25; invoice dated 2026-01-13",
+    "amount": 26000,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+      "ref": "Fakturajournal_Januar_2026_Kreditoren!r.6",
+      "quote": "ER901431;Rechnung;209134;Orion Logistik GmbH;13.01.2026;25.12.2025;26000,00;EUR;Logistik Dez 2025"
+     },
+     {
+      "docId": "begleitdokumente-wareneingangsliste-2025",
+      "ref": "Wareneingangsliste_2025!r.846",
+      "quote": "WE400844;25.12.2025;;209134;Orion Logistik GmbH;26000,00;Dez-Lieferung, Rechnung offen"
+     }
+    ],
+    "id": "li-c7390dfdf6ed"
+   },
+   {
+    "label": "Druckleistung Dez 2025",
+    "documentNumber": "ER901432",
+    "date": "2025-12-19",
+    "counterparty": "Kronos Druck GmbH",
+    "description": "Service/goods received 2025-12-19; invoice dated 2026-01-13",
+    "amount": 14500,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+      "ref": "Fakturajournal_Januar_2026_Kreditoren!r.7",
+      "quote": "ER901432;Rechnung;209135;Kronos Druck GmbH;13.01.2026;19.12.2025;14500,00;EUR;Druckleistung Dez 2025"
+     },
+     {
+      "docId": "begleitdokumente-wareneingangsliste-2025",
+      "ref": "Wareneingangsliste_2025!r.847",
+      "quote": "WE400845;19.12.2025;;209135;Kronos Druck GmbH;14500,00;Dez-Lieferung, Rechnung offen"
+     }
+    ],
+    "id": "li-27d3e8cbb280"
+   },
+   {
+    "label": "Rohstoffe 27.12.2025",
+    "documentNumber": "ER901433",
+    "date": "2025-12-20",
+    "counterparty": "Prisma Chemie GmbH",
+    "description": "Service/goods received 2025-12-20; invoice dated 2026-01-14",
+    "amount": 20500,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+      "ref": "Fakturajournal_Januar_2026_Kreditoren!r.8",
+      "quote": "ER901433;Rechnung;209136;Prisma Chemie GmbH;14.01.2026;20.12.2025;20500,00;EUR;Rohstoffe 27.12.2025"
+     },
+     {
+      "docId": "begleitdokumente-wareneingangsliste-2025",
+      "ref": "Wareneingangsliste_2025!r.848",
+      "quote": "WE400846;20.12.2025;;209136;Prisma Chemie GmbH;20500,00;Dez-Lieferung, Rechnung offen"
+     }
+    ],
+    "id": "li-806ca7d9c1c6"
+   },
+   {
+    "label": "IT-Leistung Dez 2025",
+    "documentNumber": "ER901434",
+    "date": "2025-12-20",
+    "counterparty": "Helios Systeme GmbH",
+    "description": "Service/goods received 2025-12-20; invoice dated 2026-01-06",
+    "amount": 13000,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+      "ref": "Fakturajournal_Januar_2026_Kreditoren!r.9",
+      "quote": "ER901434;Rechnung;209137;Helios Systeme GmbH;06.01.2026;20.12.2025;13000,00;EUR;IT-Leistung Dez 2025"
+     },
+     {
+      "docId": "begleitdokumente-wareneingangsliste-2025",
+      "ref": "Wareneingangsliste_2025!r.849",
+      "quote": "WE400847;20.12.2025;;209137;Helios Systeme GmbH;13000,00;Dez-Lieferung, Rechnung offen"
+     }
+    ],
+    "id": "li-e63b484ca3a5"
+   }
+  ],
+  "impactCategories": [
+   "profit_overstatement"
+  ],
+  "calculations": [
+   {
+    "label": "Unaccrued prior-period cost",
+    "expression": "8 next-period invoices",
+    "value": 192000,
+    "currency": "EUR"
+   }
+  ],
+  "engineStatus": "detected",
+  "aiStatus": "not-run"
+ },
+ {
+  "id": "finding-087a294ab3b3",
+  "checkId": "splitPayments",
+  "title": "Castor Papier GmbH: 4 same-day payments split below the EUR 10000 approval threshold",
+  "tier": "corroborated",
+  "fraudType": "threshold_avoidance",
+  "narrative": "4 payments on 2025-10-14 were each placed just below the second-approval threshold but total EUR 39040.00.",
+  "amountInvolved": 39040,
+  "severity": "high",
+  "factIds": [],
+  "citations": [
+   {
+    "docId": "begleitdokumente-pruefungsplanung-jet-2025",
+    "ref": "l.1-15",
+    "quote": "Zahlungsfreigaben ab 10.000 EUR erfordern eine zweite Freigabe (Vier-Augen-Prinzip)."
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2569",
+    "quote": "\"200007\";\"SAMMEL-200007\";14.10.2025;\"\";14.10.2025;\"Teilzahlung Lieferantenrechnung\";9780,00;\"EUR\";9780,00;\"\";\"\";\"Purch\";\"Yes\""
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2570",
+    "quote": "\"200007\";\"SAMMEL-200007\";14.10.2025;\"\";14.10.2025;\"Teilzahlung Lieferantenrechnung\";9820,00;\"EUR\";9820,00;\"\";\"\";\"Purch\";\"Yes\""
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2571",
+    "quote": "\"200007\";\"SAMMEL-200007\";14.10.2025;\"\";14.10.2025;\"Teilzahlung Lieferantenrechnung\";9750,00;\"EUR\";9750,00;\"\";\"\";\"Purch\";\"Yes\""
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2572",
+    "quote": "\"200007\";\"SAMMEL-200007\";14.10.2025;\"\";14.10.2025;\"Teilzahlung Lieferantenrechnung\";9690,00;\"EUR\";9690,00;\"\";\"\";\"Purch\";\"Yes\""
+   }
+  ],
+  "lineItems": [
+   {
+    "label": "Payment 1",
+    "documentNumber": "SAMMEL-200007",
+    "date": "2025-10-14",
+    "counterparty": "Castor Papier GmbH",
+    "description": "Teilzahlung Lieferantenrechnung",
+    "amount": 9780,
+    "amountType": "control",
+    "citations": [
+     {
+      "docId": "kreditoren-lieferantenbuchungen",
+      "ref": "Lieferantenbuchungen!r.2569",
+      "quote": "\"200007\";\"SAMMEL-200007\";14.10.2025;\"\";14.10.2025;\"Teilzahlung Lieferantenrechnung\";9780,00;\"EUR\";9780,00;\"\";\"\";\"Purch\";\"Yes\""
+     },
+     {
+      "docId": "begleitdokumente-pruefungsplanung-jet-2025",
+      "ref": "l.1-15",
+      "quote": "Zahlungsfreigaben ab 10.000 EUR erfordern eine zweite Freigabe (Vier-Augen-Prinzip)."
+     }
+    ],
+    "id": "li-fe1f5eace10d"
+   },
+   {
+    "label": "Payment 2",
+    "documentNumber": "SAMMEL-200007",
+    "date": "2025-10-14",
+    "counterparty": "Castor Papier GmbH",
+    "description": "Teilzahlung Lieferantenrechnung",
+    "amount": 9820,
+    "amountType": "control",
+    "citations": [
+     {
+      "docId": "kreditoren-lieferantenbuchungen",
+      "ref": "Lieferantenbuchungen!r.2570",
+      "quote": "\"200007\";\"SAMMEL-200007\";14.10.2025;\"\";14.10.2025;\"Teilzahlung Lieferantenrechnung\";9820,00;\"EUR\";9820,00;\"\";\"\";\"Purch\";\"Yes\""
+     },
+     {
+      "docId": "begleitdokumente-pruefungsplanung-jet-2025",
+      "ref": "l.1-15",
+      "quote": "Zahlungsfreigaben ab 10.000 EUR erfordern eine zweite Freigabe (Vier-Augen-Prinzip)."
+     }
+    ],
+    "id": "li-37294f5de708"
+   },
+   {
+    "label": "Payment 3",
+    "documentNumber": "SAMMEL-200007",
+    "date": "2025-10-14",
+    "counterparty": "Castor Papier GmbH",
+    "description": "Teilzahlung Lieferantenrechnung",
+    "amount": 9750,
+    "amountType": "control",
+    "citations": [
+     {
+      "docId": "kreditoren-lieferantenbuchungen",
+      "ref": "Lieferantenbuchungen!r.2571",
+      "quote": "\"200007\";\"SAMMEL-200007\";14.10.2025;\"\";14.10.2025;\"Teilzahlung Lieferantenrechnung\";9750,00;\"EUR\";9750,00;\"\";\"\";\"Purch\";\"Yes\""
+     },
+     {
+      "docId": "begleitdokumente-pruefungsplanung-jet-2025",
+      "ref": "l.1-15",
+      "quote": "Zahlungsfreigaben ab 10.000 EUR erfordern eine zweite Freigabe (Vier-Augen-Prinzip)."
+     }
+    ],
+    "id": "li-53b82f4f8314"
+   },
+   {
+    "label": "Payment 4",
+    "documentNumber": "SAMMEL-200007",
+    "date": "2025-10-14",
+    "counterparty": "Castor Papier GmbH",
+    "description": "Teilzahlung Lieferantenrechnung",
+    "amount": 9690,
+    "amountType": "control",
+    "citations": [
+     {
+      "docId": "kreditoren-lieferantenbuchungen",
+      "ref": "Lieferantenbuchungen!r.2572",
+      "quote": "\"200007\";\"SAMMEL-200007\";14.10.2025;\"\";14.10.2025;\"Teilzahlung Lieferantenrechnung\";9690,00;\"EUR\";9690,00;\"\";\"\";\"Purch\";\"Yes\""
+     },
+     {
+      "docId": "begleitdokumente-pruefungsplanung-jet-2025",
+      "ref": "l.1-15",
+      "quote": "Zahlungsfreigaben ab 10.000 EUR erfordern eine zweite Freigabe (Vier-Augen-Prinzip)."
+     }
+    ],
+    "id": "li-60547c5fa01e"
+   }
+  ],
+  "impactCategories": [
+   "control_breach"
+  ],
+  "calculations": [
+   {
+    "label": "Same-day aggregate",
+    "expression": "9780.00 + 9820.00 + 9750.00 + 9690.00",
+    "value": 39040,
+    "currency": "EUR"
+   }
+  ],
+  "engineStatus": "detected",
+  "aiStatus": "not-run"
+ },
+ {
+  "id": "finding-1c19f1d4abb7",
+  "checkId": "vendorControls",
+  "title": "Ratio Consulting GmbH: vendor creation and payments bypass segregation of duties",
+  "tier": "corroborated",
+  "fraudType": "vendor_control_breach",
+  "narrative": "Ratio Consulting GmbH (209101) was created and approved by MV-U05. The same user can book, create vendors, and run payments, posted both the invoices and payments, and the goods-receipt register contains no fulfillment for this vendor. The records support EUR 248000.00 of net expense and EUR 295120.00 of gross cash paid.",
+  "amountInvolved": 248000,
+  "severity": "high",
+  "factIds": [],
+  "citations": [
+   {
+    "docId": "begleitdokumente-stammdatenaenderungen-2025",
+    "ref": "Stammdatenaenderungen_2025!r.8",
+    "quote": "12.05.2025;Kreditor;209101;Ratio Consulting GmbH;Neuanlage Kreditor;;angelegt inkl. Bankverbindung;MV-U05;MV-U05;Ja"
+   },
+   {
+    "docId": "begleitdokumente-berechtigungsauswertung-2025",
+    "ref": "Berechtigungen!r.7",
+    "quote": "MV-U05 | Einkauf | X |  | X | X |  |  |  | "
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2553",
+    "quote": "\"209101\";\"ER901416\";19.05.2025;\"\";19.05.2025;\"Beratungsleistungen lt. Rahmenvertrag\";-53550,00;\"EUR\";-53550,00;\"\";\"\";\"Purch\";\"Yes\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.20162",
+    "quote": "\"673000\";\"Periode 5\";\"\";\"Vortrag\";\"Kreditorenrechnung\";\"Nein\";\"Nein\";45000,00;\"EUR\";45000,00;\"Beratungsleistungen lt. Rahmenvertrag\";19.05.2025;\"ER901416\";19.05.2025;\"ER901416\";\"Aktuell\";\"\";\"\";7708356;\"ER901416\";\"MV-U05\";19.05.2025;\"18:25:18\";\"Ja\""
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2555",
+    "quote": "\"209101\";\"ER901417\";04.07.2025;\"\";04.07.2025;\"Beratungsleistungen lt. Rahmenvertrag\";-71400,00;\"EUR\";-71400,00;\"\";\"\";\"Purch\";\"Yes\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.20167",
+    "quote": "\"673000\";\"Periode 7\";\"\";\"Vortrag\";\"Kreditorenrechnung\";\"Nein\";\"Nein\";60000,00;\"EUR\";60000,00;\"Beratungsleistungen lt. Rahmenvertrag\";04.07.2025;\"ER901417\";04.07.2025;\"ER901417\";\"Aktuell\";\"\";\"\";7708358;\"ER901417\";\"MV-U05\";04.07.2025;\"07:12:20\";\"Ja\""
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2557",
+    "quote": "\"209101\";\"ER901418\";15.09.2025;\"\";15.09.2025;\"Beratungsleistungen lt. Rahmenvertrag\";-45220,00;\"EUR\";-45220,00;\"\";\"\";\"Purch\";\"Yes\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.20172",
+    "quote": "\"673000\";\"Periode 9\";\"\";\"Vortrag\";\"Kreditorenrechnung\";\"Nein\";\"Nein\";38000,00;\"EUR\";38000,00;\"Beratungsleistungen lt. Rahmenvertrag\";15.09.2025;\"ER901418\";15.09.2025;\"ER901418\";\"Aktuell\";\"\";\"\";7708360;\"ER901418\";\"MV-U05\";15.09.2025;\"07:05:53\";\"Ja\""
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2559",
+    "quote": "\"209101\";\"ER901419\";10.11.2025;\"\";10.11.2025;\"Beratungsleistungen lt. Rahmenvertrag\";-61880,00;\"EUR\";-61880,00;\"\";\"\";\"Purch\";\"Yes\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.20177",
+    "quote": "\"673000\";\"Periode 11\";\"\";\"Vortrag\";\"Kreditorenrechnung\";\"Nein\";\"Nein\";52000,00;\"EUR\";52000,00;\"Beratungsleistungen lt. Rahmenvertrag\";10.11.2025;\"ER901419\";10.11.2025;\"ER901419\";\"Aktuell\";\"\";\"\";7708362;\"ER901419\";\"MV-U05\";10.11.2025;\"13:11:16\";\"Ja\""
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2561",
+    "quote": "\"209101\";\"ER901420\";18.12.2025;\"\";18.12.2025;\"Beratungsleistungen lt. Rahmenvertrag\";-63070,00;\"EUR\";-63070,00;\"\";\"\";\"Purch\";\"Yes\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.20182",
+    "quote": "\"673000\";\"Periode 12\";\"\";\"Vortrag\";\"Kreditorenrechnung\";\"Nein\";\"Nein\";53000,00;\"EUR\";53000,00;\"Beratungsleistungen lt. Rahmenvertrag\";18.12.2025;\"ER901420\";18.12.2025;\"ER901420\";\"Aktuell\";\"\";\"\";7708364;\"ER901420\";\"MV-U05\";18.12.2025;\"06:20:12\";\"Ja\""
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2554",
+    "quote": "\"209101\";\"ER901416\";21.05.2025;\"\";21.05.2025;\"Zahlungsausgang Beratung\";53550,00;\"EUR\";53550,00;\"\";\"\";\"Purch\";\"Yes\""
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2556",
+    "quote": "\"209101\";\"ER901417\";06.07.2025;\"\";06.07.2025;\"Zahlungsausgang Beratung\";71400,00;\"EUR\";71400,00;\"\";\"\";\"Purch\";\"Yes\""
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2558",
+    "quote": "\"209101\";\"ER901418\";17.09.2025;\"\";17.09.2025;\"Zahlungsausgang Beratung\";45220,00;\"EUR\";45220,00;\"\";\"\";\"Purch\";\"Yes\""
+   },
+   {
+    "docId": "kreditoren-lieferantenbuchungen",
+    "ref": "Lieferantenbuchungen!r.2560",
+    "quote": "\"209101\";\"ER901419\";12.11.2025;\"\";12.11.2025;\"Zahlungsausgang Beratung\";61880,00;\"EUR\";61880,00;\"\";\"\";\"Purch\";\"Yes\""
+   }
+  ],
+  "lineItems": [
+   {
+    "label": "ER901416",
+    "documentNumber": "ER901416",
+    "date": "2025-05-19",
+    "counterparty": "Ratio Consulting GmbH",
+    "description": "Beratungsleistungen lt. Rahmenvertrag",
+    "amount": 45000,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "kreditoren-lieferantenbuchungen",
+      "ref": "Lieferantenbuchungen!r.2553",
+      "quote": "\"209101\";\"ER901416\";19.05.2025;\"\";19.05.2025;\"Beratungsleistungen lt. Rahmenvertrag\";-53550,00;\"EUR\";-53550,00;\"\";\"\";\"Purch\";\"Yes\""
+     },
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.20162",
+      "quote": "\"673000\";\"Periode 5\";\"\";\"Vortrag\";\"Kreditorenrechnung\";\"Nein\";\"Nein\";45000,00;\"EUR\";45000,00;\"Beratungsleistungen lt. Rahmenvertrag\";19.05.2025;\"ER901416\";19.05.2025;\"ER901416\";\"Aktuell\";\"\";\"\";7708356;\"ER901416\";\"MV-U05\";19.05.2025;\"18:25:18\";\"Ja\""
+     }
+    ],
+    "id": "li-d7ac74672671"
+   },
+   {
+    "label": "ER901417",
+    "documentNumber": "ER901417",
+    "date": "2025-07-04",
+    "counterparty": "Ratio Consulting GmbH",
+    "description": "Beratungsleistungen lt. Rahmenvertrag",
+    "amount": 60000,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "kreditoren-lieferantenbuchungen",
+      "ref": "Lieferantenbuchungen!r.2555",
+      "quote": "\"209101\";\"ER901417\";04.07.2025;\"\";04.07.2025;\"Beratungsleistungen lt. Rahmenvertrag\";-71400,00;\"EUR\";-71400,00;\"\";\"\";\"Purch\";\"Yes\""
+     },
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.20167",
+      "quote": "\"673000\";\"Periode 7\";\"\";\"Vortrag\";\"Kreditorenrechnung\";\"Nein\";\"Nein\";60000,00;\"EUR\";60000,00;\"Beratungsleistungen lt. Rahmenvertrag\";04.07.2025;\"ER901417\";04.07.2025;\"ER901417\";\"Aktuell\";\"\";\"\";7708358;\"ER901417\";\"MV-U05\";04.07.2025;\"07:12:20\";\"Ja\""
+     }
+    ],
+    "id": "li-02a752699afc"
+   },
+   {
+    "label": "ER901418",
+    "documentNumber": "ER901418",
+    "date": "2025-09-15",
+    "counterparty": "Ratio Consulting GmbH",
+    "description": "Beratungsleistungen lt. Rahmenvertrag",
+    "amount": 38000,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "kreditoren-lieferantenbuchungen",
+      "ref": "Lieferantenbuchungen!r.2557",
+      "quote": "\"209101\";\"ER901418\";15.09.2025;\"\";15.09.2025;\"Beratungsleistungen lt. Rahmenvertrag\";-45220,00;\"EUR\";-45220,00;\"\";\"\";\"Purch\";\"Yes\""
+     },
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.20172",
+      "quote": "\"673000\";\"Periode 9\";\"\";\"Vortrag\";\"Kreditorenrechnung\";\"Nein\";\"Nein\";38000,00;\"EUR\";38000,00;\"Beratungsleistungen lt. Rahmenvertrag\";15.09.2025;\"ER901418\";15.09.2025;\"ER901418\";\"Aktuell\";\"\";\"\";7708360;\"ER901418\";\"MV-U05\";15.09.2025;\"07:05:53\";\"Ja\""
+     }
+    ],
+    "id": "li-04c4592e4c0e"
+   },
+   {
+    "label": "ER901419",
+    "documentNumber": "ER901419",
+    "date": "2025-11-10",
+    "counterparty": "Ratio Consulting GmbH",
+    "description": "Beratungsleistungen lt. Rahmenvertrag",
+    "amount": 52000,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "kreditoren-lieferantenbuchungen",
+      "ref": "Lieferantenbuchungen!r.2559",
+      "quote": "\"209101\";\"ER901419\";10.11.2025;\"\";10.11.2025;\"Beratungsleistungen lt. Rahmenvertrag\";-61880,00;\"EUR\";-61880,00;\"\";\"\";\"Purch\";\"Yes\""
+     },
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.20177",
+      "quote": "\"673000\";\"Periode 11\";\"\";\"Vortrag\";\"Kreditorenrechnung\";\"Nein\";\"Nein\";52000,00;\"EUR\";52000,00;\"Beratungsleistungen lt. Rahmenvertrag\";10.11.2025;\"ER901419\";10.11.2025;\"ER901419\";\"Aktuell\";\"\";\"\";7708362;\"ER901419\";\"MV-U05\";10.11.2025;\"13:11:16\";\"Ja\""
+     }
+    ],
+    "id": "li-f3bdf28fe4b7"
+   },
+   {
+    "label": "ER901420",
+    "documentNumber": "ER901420",
+    "date": "2025-12-18",
+    "counterparty": "Ratio Consulting GmbH",
+    "description": "Beratungsleistungen lt. Rahmenvertrag",
+    "amount": 53000,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "kreditoren-lieferantenbuchungen",
+      "ref": "Lieferantenbuchungen!r.2561",
+      "quote": "\"209101\";\"ER901420\";18.12.2025;\"\";18.12.2025;\"Beratungsleistungen lt. Rahmenvertrag\";-63070,00;\"EUR\";-63070,00;\"\";\"\";\"Purch\";\"Yes\""
+     },
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.20182",
+      "quote": "\"673000\";\"Periode 12\";\"\";\"Vortrag\";\"Kreditorenrechnung\";\"Nein\";\"Nein\";53000,00;\"EUR\";53000,00;\"Beratungsleistungen lt. Rahmenvertrag\";18.12.2025;\"ER901420\";18.12.2025;\"ER901420\";\"Aktuell\";\"\";\"\";7708364;\"ER901420\";\"MV-U05\";18.12.2025;\"06:20:12\";\"Ja\""
+     }
+    ],
+    "id": "li-218fab170c54"
+   }
+  ],
+  "impactCategories": [
+   "cash_misappropriation"
+  ],
+  "calculations": [
+   {
+    "label": "Net expense",
+    "expression": "5 matched expense postings",
+    "value": 248000,
+    "currency": "EUR"
+   },
+   {
+    "label": "Gross cash paid",
+    "expression": "5 matched outgoing payments",
+    "value": 295120,
+    "currency": "EUR"
+   }
+  ],
+  "engineStatus": "detected",
+  "aiStatus": "not-run"
+ }
+]

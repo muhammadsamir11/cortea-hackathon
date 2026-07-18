@@ -1,0 +1,1832 @@
+[
+ {
+  "rowNumber": 4,
+  "raw": "200000 | Delta Distribution SE | V-DOM | -154326.46",
+  "values": {
+   "Konto": "200000",
+   "Name": "Delta Distribution SE",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-154326.46"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.4",
+   "quote": "200000 | Delta Distribution SE | V-DOM | -154326.46"
+  }
+ },
+ {
+  "rowNumber": 5,
+  "raw": "200001 | Boreas Distribution KG | V-DOM | -14063.42",
+  "values": {
+   "Konto": "200001",
+   "Name": "Boreas Distribution KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-14063.42"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.5",
+   "quote": "200001 | Boreas Distribution KG | V-DOM | -14063.42"
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "200002 | Vega Systeme e.K. | V-DOM | -98079.8",
+  "values": {
+   "Konto": "200002",
+   "Name": "Vega Systeme e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-98079.8"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.6",
+   "quote": "200002 | Vega Systeme e.K. | V-DOM | -98079.8"
+  }
+ },
+ {
+  "rowNumber": 7,
+  "raw": "200003 | Iris Industriebedarf KG | V-DOM | -571200",
+  "values": {
+   "Konto": "200003",
+   "Name": "Iris Industriebedarf KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-571200"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.7",
+   "quote": "200003 | Iris Industriebedarf KG | V-DOM | -571200"
+  }
+ },
+ {
+  "rowNumber": 8,
+  "raw": "200004 | Ratio Maschinen e.K. | V-DOM | -20791.68",
+  "values": {
+   "Konto": "200004",
+   "Name": "Ratio Maschinen e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-20791.68"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.8",
+   "quote": "200004 | Ratio Maschinen e.K. | V-DOM | -20791.68"
+  }
+ },
+ {
+  "rowNumber": 9,
+  "raw": "200005 | Kronos Technik KG | V-DOM | -334736.1",
+  "values": {
+   "Konto": "200005",
+   "Name": "Kronos Technik KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-334736.1"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.9",
+   "quote": "200005 | Kronos Technik KG | V-DOM | -334736.1"
+  }
+ },
+ {
+  "rowNumber": 10,
+  "raw": "200006 | Cives Maschinen GmbH | V-DOM | -91481.25",
+  "values": {
+   "Konto": "200006",
+   "Name": "Cives Maschinen GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-91481.25"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.10",
+   "quote": "200006 | Cives Maschinen GmbH | V-DOM | -91481.25"
+  }
+ },
+ {
+  "rowNumber": 11,
+  "raw": "200007 | Castor Papier GmbH | V-DOM | -112932.24",
+  "values": {
+   "Konto": "200007",
+   "Name": "Castor Papier GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-112932.24"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.11",
+   "quote": "200007 | Castor Papier GmbH | V-DOM | -112932.24"
+  }
+ },
+ {
+  "rowNumber": 12,
+  "raw": "200008 | Vega Recycling GmbH | V-DOM | -115001.6",
+  "values": {
+   "Konto": "200008",
+   "Name": "Vega Recycling GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-115001.6"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.12",
+   "quote": "200008 | Vega Recycling GmbH | V-DOM | -115001.6"
+  }
+ },
+ {
+  "rowNumber": 13,
+  "raw": "200009 | Titan Transport SE | V-DOM | -168137.48",
+  "values": {
+   "Konto": "200009",
+   "Name": "Titan Transport SE",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-168137.48"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.13",
+   "quote": "200009 | Titan Transport SE | V-DOM | -168137.48"
+  }
+ },
+ {
+  "rowNumber": 14,
+  "raw": "200010 | West Handel GmbH | V-DOM | -114842.14",
+  "values": {
+   "Konto": "200010",
+   "Name": "West Handel GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-114842.14"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.14",
+   "quote": "200010 | West Handel GmbH | V-DOM | -114842.14"
+  }
+ },
+ {
+  "rowNumber": 15,
+  "raw": "200011 | Boreas Druck GmbH & Co. KG | V-DOM | -40966.59",
+  "values": {
+   "Konto": "200011",
+   "Name": "Boreas Druck GmbH & Co. KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-40966.59"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.15",
+   "quote": "200011 | Boreas Druck GmbH & Co. KG | V-DOM | -40966.59"
+  }
+ },
+ {
+  "rowNumber": 16,
+  "raw": "200013 | West Papier AG | V-DOM | -180182.66",
+  "values": {
+   "Konto": "200013",
+   "Name": "West Papier AG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-180182.66"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.16",
+   "quote": "200013 | West Papier AG | V-DOM | -180182.66"
+  }
+ },
+ {
+  "rowNumber": 17,
+  "raw": "200015 | Omega Transport GmbH | V-DOM | -40109",
+  "values": {
+   "Konto": "200015",
+   "Name": "Omega Transport GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-40109"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.17",
+   "quote": "200015 | Omega Transport GmbH | V-DOM | -40109"
+  }
+ },
+ {
+  "rowNumber": 18,
+  "raw": "200016 | Kranich Druck e.K. | V-DOM | -122533.09",
+  "values": {
+   "Konto": "200016",
+   "Name": "Kranich Druck e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-122533.09"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.18",
+   "quote": "200016 | Kranich Druck e.K. | V-DOM | -122533.09"
+  }
+ },
+ {
+  "rowNumber": 19,
+  "raw": "200017 | Orion Handel GmbH & Co. KG | V-DOM | -215680.36",
+  "values": {
+   "Konto": "200017",
+   "Name": "Orion Handel GmbH & Co. KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-215680.36"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.19",
+   "quote": "200017 | Orion Handel GmbH & Co. KG | V-DOM | -215680.36"
+  }
+ },
+ {
+  "rowNumber": 20,
+  "raw": "200018 | Titan Kunststoff AG | V-DOM | -135502.92",
+  "values": {
+   "Konto": "200018",
+   "Name": "Titan Kunststoff AG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-135502.92"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.20",
+   "quote": "200018 | Titan Kunststoff AG | V-DOM | -135502.92"
+  }
+ },
+ {
+  "rowNumber": 21,
+  "raw": "200019 | Süd Handel e.K. | V-DOM | -87788.68",
+  "values": {
+   "Konto": "200019",
+   "Name": "Süd Handel e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-87788.68"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.21",
+   "quote": "200019 | Süd Handel e.K. | V-DOM | -87788.68"
+  }
+ },
+ {
+  "rowNumber": 22,
+  "raw": "200020 | Reiher Etiketten KG | V-DOM | -50031.17",
+  "values": {
+   "Konto": "200020",
+   "Name": "Reiher Etiketten KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-50031.17"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.22",
+   "quote": "200020 | Reiher Etiketten KG | V-DOM | -50031.17"
+  }
+ },
+ {
+  "rowNumber": 23,
+  "raw": "200021 | Süd Chemie GmbH | V-DOM | -109454.9",
+  "values": {
+   "Konto": "200021",
+   "Name": "Süd Chemie GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-109454.9"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.23",
+   "quote": "200021 | Süd Chemie GmbH | V-DOM | -109454.9"
+  }
+ },
+ {
+  "rowNumber": 24,
+  "raw": "200022 | Solum Kunststoff GmbH | V-DOM | -29193.08",
+  "values": {
+   "Konto": "200022",
+   "Name": "Solum Kunststoff GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-29193.08"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.24",
+   "quote": "200022 | Solum Kunststoff GmbH | V-DOM | -29193.08"
+  }
+ },
+ {
+  "rowNumber": 25,
+  "raw": "200023 | Orion Werkstoffe SE | V-DOM | -46617.06",
+  "values": {
+   "Konto": "200023",
+   "Name": "Orion Werkstoffe SE",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-46617.06"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.25",
+   "quote": "200023 | Orion Werkstoffe SE | V-DOM | -46617.06"
+  }
+ },
+ {
+  "rowNumber": 26,
+  "raw": "200024 | Atlas Distribution GmbH | V-DOM | -130124.12",
+  "values": {
+   "Konto": "200024",
+   "Name": "Atlas Distribution GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-130124.12"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.26",
+   "quote": "200024 | Atlas Distribution GmbH | V-DOM | -130124.12"
+  }
+ },
+ {
+  "rowNumber": 27,
+  "raw": "200025 | Ratio Beschichtung KG | V-DOM | -98453.46",
+  "values": {
+   "Konto": "200025",
+   "Name": "Ratio Beschichtung KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-98453.46"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.27",
+   "quote": "200025 | Ratio Beschichtung KG | V-DOM | -98453.46"
+  }
+ },
+ {
+  "rowNumber": 28,
+  "raw": "200026 | Prisma Formteile e.K. | V-DOM | -77785.54",
+  "values": {
+   "Konto": "200026",
+   "Name": "Prisma Formteile e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-77785.54"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.28",
+   "quote": "200026 | Prisma Formteile e.K. | V-DOM | -77785.54"
+  }
+ },
+ {
+  "rowNumber": 29,
+  "raw": "200027 | Titan Beschichtung SE | V-DOM | -117236.42",
+  "values": {
+   "Konto": "200027",
+   "Name": "Titan Beschichtung SE",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-117236.42"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.29",
+   "quote": "200027 | Titan Beschichtung SE | V-DOM | -117236.42"
+  }
+ },
+ {
+  "rowNumber": 30,
+  "raw": "200028 | Merkur Kunststoff GmbH | V-DOM | -345022.65",
+  "values": {
+   "Konto": "200028",
+   "Name": "Merkur Kunststoff GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-345022.65"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.30",
+   "quote": "200028 | Merkur Kunststoff GmbH | V-DOM | -345022.65"
+  }
+ },
+ {
+  "rowNumber": 31,
+  "raw": "200029 | West Logistik KG | V-DOM | -49978.81",
+  "values": {
+   "Konto": "200029",
+   "Name": "West Logistik KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-49978.81"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.31",
+   "quote": "200029 | West Logistik KG | V-DOM | -49978.81"
+  }
+ },
+ {
+  "rowNumber": 32,
+  "raw": "200030 | Pactum Maschinen e.K. | V-DOM | -202828.36",
+  "values": {
+   "Konto": "200030",
+   "Name": "Pactum Maschinen e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-202828.36"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.32",
+   "quote": "200030 | Pactum Maschinen e.K. | V-DOM | -202828.36"
+  }
+ },
+ {
+  "rowNumber": 33,
+  "raw": "200032 | Iris Karton GmbH | V-DOM | -206777.27",
+  "values": {
+   "Konto": "200032",
+   "Name": "Iris Karton GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-206777.27"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.33",
+   "quote": "200032 | Iris Karton GmbH | V-DOM | -206777.27"
+  }
+ },
+ {
+  "rowNumber": 34,
+  "raw": "200033 | Aurora Formteile e.K. | V-DOM | -42807.87",
+  "values": {
+   "Konto": "200033",
+   "Name": "Aurora Formteile e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-42807.87"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.34",
+   "quote": "200033 | Aurora Formteile e.K. | V-DOM | -42807.87"
+  }
+ },
+ {
+  "rowNumber": 35,
+  "raw": "200034 | Cives Transport GmbH | V-DOM | -36408.2",
+  "values": {
+   "Konto": "200034",
+   "Name": "Cives Transport GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-36408.2"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.35",
+   "quote": "200034 | Cives Transport GmbH | V-DOM | -36408.2"
+  }
+ },
+ {
+  "rowNumber": 36,
+  "raw": "200035 | Fokus Handel GmbH | V-DOM | -151025.28",
+  "values": {
+   "Konto": "200035",
+   "Name": "Fokus Handel GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-151025.28"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.36",
+   "quote": "200035 | Fokus Handel GmbH | V-DOM | -151025.28"
+  }
+ },
+ {
+  "rowNumber": 37,
+  "raw": "200036 | Titan Recycling GmbH & Co. KG | V-DOM | -228327.68",
+  "values": {
+   "Konto": "200036",
+   "Name": "Titan Recycling GmbH & Co. KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-228327.68"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.37",
+   "quote": "200036 | Titan Recycling GmbH & Co. KG | V-DOM | -228327.68"
+  }
+ },
+ {
+  "rowNumber": 38,
+  "raw": "200039 | Corvus Formteile GmbH | V-DOM | -85425.34",
+  "values": {
+   "Konto": "200039",
+   "Name": "Corvus Formteile GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-85425.34"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.38",
+   "quote": "200039 | Corvus Formteile GmbH | V-DOM | -85425.34"
+  }
+ },
+ {
+  "rowNumber": 39,
+  "raw": "200041 | Corvus Karton KG | V-DOM | -163245.39",
+  "values": {
+   "Konto": "200041",
+   "Name": "Corvus Karton KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-163245.39"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.39",
+   "quote": "200041 | Corvus Karton KG | V-DOM | -163245.39"
+  }
+ },
+ {
+  "rowNumber": 40,
+  "raw": "200042 | Orion Technik GmbH | V-DOM | -107008.37",
+  "values": {
+   "Konto": "200042",
+   "Name": "Orion Technik GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-107008.37"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.40",
+   "quote": "200042 | Orion Technik GmbH | V-DOM | -107008.37"
+  }
+ },
+ {
+  "rowNumber": 41,
+  "raw": "200043 | Delta Etiketten GmbH | V-DOM | -52005.38",
+  "values": {
+   "Konto": "200043",
+   "Name": "Delta Etiketten GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-52005.38"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.41",
+   "quote": "200043 | Delta Etiketten GmbH | V-DOM | -52005.38"
+  }
+ },
+ {
+  "rowNumber": 42,
+  "raw": "200044 | Delta Etiketten GmbH & Co. KG | V-DOM | -114736.23",
+  "values": {
+   "Konto": "200044",
+   "Name": "Delta Etiketten GmbH & Co. KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-114736.23"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.42",
+   "quote": "200044 | Delta Etiketten GmbH & Co. KG | V-DOM | -114736.23"
+  }
+ },
+ {
+  "rowNumber": 43,
+  "raw": "200045 | Ost Industriebedarf GmbH | V-DOM | -63795.9",
+  "values": {
+   "Konto": "200045",
+   "Name": "Ost Industriebedarf GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-63795.9"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.43",
+   "quote": "200045 | Ost Industriebedarf GmbH | V-DOM | -63795.9"
+  }
+ },
+ {
+  "rowNumber": 44,
+  "raw": "200046 | Kronos Handel GmbH | V-DOM | -177945.46",
+  "values": {
+   "Konto": "200046",
+   "Name": "Kronos Handel GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-177945.46"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.44",
+   "quote": "200046 | Kronos Handel GmbH | V-DOM | -177945.46"
+  }
+ },
+ {
+  "rowNumber": 45,
+  "raw": "200047 | Terra Verpackung SE | V-DOM | -111188.84",
+  "values": {
+   "Konto": "200047",
+   "Name": "Terra Verpackung SE",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-111188.84"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.45",
+   "quote": "200047 | Terra Verpackung SE | V-DOM | -111188.84"
+  }
+ },
+ {
+  "rowNumber": 46,
+  "raw": "200048 | Vega Chemie GmbH | V-DOM | -25697.9",
+  "values": {
+   "Konto": "200048",
+   "Name": "Vega Chemie GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-25697.9"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.46",
+   "quote": "200048 | Vega Chemie GmbH | V-DOM | -25697.9"
+  }
+ },
+ {
+  "rowNumber": 47,
+  "raw": "200049 | Aurora Technik GmbH | V-DOM | -122342.71",
+  "values": {
+   "Konto": "200049",
+   "Name": "Aurora Technik GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-122342.71"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.47",
+   "quote": "200049 | Aurora Technik GmbH | V-DOM | -122342.71"
+  }
+ },
+ {
+  "rowNumber": 48,
+  "raw": "200050 | Titan Technik GmbH | V-DOM | -51783.97",
+  "values": {
+   "Konto": "200050",
+   "Name": "Titan Technik GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-51783.97"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.48",
+   "quote": "200050 | Titan Technik GmbH | V-DOM | -51783.97"
+  }
+ },
+ {
+  "rowNumber": 49,
+  "raw": "200051 | Corvus Transport SE | V-DOM | -159343.23",
+  "values": {
+   "Konto": "200051",
+   "Name": "Corvus Transport SE",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-159343.23"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.49",
+   "quote": "200051 | Corvus Transport SE | V-DOM | -159343.23"
+  }
+ },
+ {
+  "rowNumber": 50,
+  "raw": "200052 | Solum Chemie GmbH | V-DOM | -167386.21",
+  "values": {
+   "Konto": "200052",
+   "Name": "Solum Chemie GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-167386.21"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.50",
+   "quote": "200052 | Solum Chemie GmbH | V-DOM | -167386.21"
+  }
+ },
+ {
+  "rowNumber": 51,
+  "raw": "200053 | Castor Industriebedarf SE | V-DOM | -71510.67",
+  "values": {
+   "Konto": "200053",
+   "Name": "Castor Industriebedarf SE",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-71510.67"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.51",
+   "quote": "200053 | Castor Industriebedarf SE | V-DOM | -71510.67"
+  }
+ },
+ {
+  "rowNumber": 52,
+  "raw": "200054 | Saturn Folien GmbH | V-DOM | -168913.36",
+  "values": {
+   "Konto": "200054",
+   "Name": "Saturn Folien GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-168913.36"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.52",
+   "quote": "200054 | Saturn Folien GmbH | V-DOM | -168913.36"
+  }
+ },
+ {
+  "rowNumber": 53,
+  "raw": "200055 | Ost Kunststoff AG | V-DOM | -126249.48",
+  "values": {
+   "Konto": "200055",
+   "Name": "Ost Kunststoff AG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-126249.48"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.53",
+   "quote": "200055 | Ost Kunststoff AG | V-DOM | -126249.48"
+  }
+ },
+ {
+  "rowNumber": 54,
+  "raw": "200056 | Nova Technik GmbH | V-DOM | -74402",
+  "values": {
+   "Konto": "200056",
+   "Name": "Nova Technik GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-74402"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.54",
+   "quote": "200056 | Nova Technik GmbH | V-DOM | -74402"
+  }
+ },
+ {
+  "rowNumber": 55,
+  "raw": "200057 | Saturn Maschinen GmbH | V-DOM | -96937.4",
+  "values": {
+   "Konto": "200057",
+   "Name": "Saturn Maschinen GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-96937.4"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.55",
+   "quote": "200057 | Saturn Maschinen GmbH | V-DOM | -96937.4"
+  }
+ },
+ {
+  "rowNumber": 56,
+  "raw": "200058 | Alpha Werkstoffe GmbH | V-DOM | -32084.78",
+  "values": {
+   "Konto": "200058",
+   "Name": "Alpha Werkstoffe GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-32084.78"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.56",
+   "quote": "200058 | Alpha Werkstoffe GmbH | V-DOM | -32084.78"
+  }
+ },
+ {
+  "rowNumber": 57,
+  "raw": "200059 | Lupus Handel SE | V-DOM | -212032.7",
+  "values": {
+   "Konto": "200059",
+   "Name": "Lupus Handel SE",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-212032.7"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.57",
+   "quote": "200059 | Lupus Handel SE | V-DOM | -212032.7"
+  }
+ },
+ {
+  "rowNumber": 58,
+  "raw": "200060 | Merkur Chemie KG | V-DOM | -11277.63",
+  "values": {
+   "Konto": "200060",
+   "Name": "Merkur Chemie KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-11277.63"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.58",
+   "quote": "200060 | Merkur Chemie KG | V-DOM | -11277.63"
+  }
+ },
+ {
+  "rowNumber": 59,
+  "raw": "200061 | Iris Etiketten SE | V-DOM | -188171.35",
+  "values": {
+   "Konto": "200061",
+   "Name": "Iris Etiketten SE",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-188171.35"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.59",
+   "quote": "200061 | Iris Etiketten SE | V-DOM | -188171.35"
+  }
+ },
+ {
+  "rowNumber": 60,
+  "raw": "200062 | Pactum Industriebedarf GmbH & Co. KG | V-DOM | -124118.19",
+  "values": {
+   "Konto": "200062",
+   "Name": "Pactum Industriebedarf GmbH & Co. KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-124118.19"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.60",
+   "quote": "200062 | Pactum Industriebedarf GmbH & Co. KG | V-DOM | -124118.19"
+  }
+ },
+ {
+  "rowNumber": 61,
+  "raw": "200064 | Titan Papier GmbH | V-DOM | -102894.54",
+  "values": {
+   "Konto": "200064",
+   "Name": "Titan Papier GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-102894.54"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.61",
+   "quote": "200064 | Titan Papier GmbH | V-DOM | -102894.54"
+  }
+ },
+ {
+  "rowNumber": 62,
+  "raw": "200066 | Castor Transport KG | V-DOM | -84864.85",
+  "values": {
+   "Konto": "200066",
+   "Name": "Castor Transport KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-84864.85"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.62",
+   "quote": "200066 | Castor Transport KG | V-DOM | -84864.85"
+  }
+ },
+ {
+  "rowNumber": 63,
+  "raw": "200067 | Ost Recycling GmbH | V-DOM | -19724.25",
+  "values": {
+   "Konto": "200067",
+   "Name": "Ost Recycling GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-19724.25"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.63",
+   "quote": "200067 | Ost Recycling GmbH | V-DOM | -19724.25"
+  }
+ },
+ {
+  "rowNumber": 64,
+  "raw": "200069 | Ost Folien e.K. | V-DOM | -290235.05",
+  "values": {
+   "Konto": "200069",
+   "Name": "Ost Folien e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-290235.05"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.64",
+   "quote": "200069 | Ost Folien e.K. | V-DOM | -290235.05"
+  }
+ },
+ {
+  "rowNumber": 65,
+  "raw": "200070 | Kronos Etiketten e.K. | V-DOM | -95136.93",
+  "values": {
+   "Konto": "200070",
+   "Name": "Kronos Etiketten e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-95136.93"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.65",
+   "quote": "200070 | Kronos Etiketten e.K. | V-DOM | -95136.93"
+  }
+ },
+ {
+  "rowNumber": 66,
+  "raw": "200071 | Pactum Handel GmbH | V-DOM | -27066.55",
+  "values": {
+   "Konto": "200071",
+   "Name": "Pactum Handel GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-27066.55"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.66",
+   "quote": "200071 | Pactum Handel GmbH | V-DOM | -27066.55"
+  }
+ },
+ {
+  "rowNumber": 67,
+  "raw": "200072 | Cives Handel KG | V-DOM | -102256.7",
+  "values": {
+   "Konto": "200072",
+   "Name": "Cives Handel KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-102256.7"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.67",
+   "quote": "200072 | Cives Handel KG | V-DOM | -102256.7"
+  }
+ },
+ {
+  "rowNumber": 68,
+  "raw": "200073 | Cives Handel GmbH & Co. KG | V-DOM | -24049.9",
+  "values": {
+   "Konto": "200073",
+   "Name": "Cives Handel GmbH & Co. KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-24049.9"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.68",
+   "quote": "200073 | Cives Handel GmbH & Co. KG | V-DOM | -24049.9"
+  }
+ },
+ {
+  "rowNumber": 69,
+  "raw": "200074 | Delta Kunststoff GmbH | V-DOM | -126448.78",
+  "values": {
+   "Konto": "200074",
+   "Name": "Delta Kunststoff GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-126448.78"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.69",
+   "quote": "200074 | Delta Kunststoff GmbH | V-DOM | -126448.78"
+  }
+ },
+ {
+  "rowNumber": 70,
+  "raw": "200075 | Delta Logistik SE | V-DOM | -18613.98",
+  "values": {
+   "Konto": "200075",
+   "Name": "Delta Logistik SE",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-18613.98"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.70",
+   "quote": "200075 | Delta Logistik SE | V-DOM | -18613.98"
+  }
+ },
+ {
+  "rowNumber": 71,
+  "raw": "200076 | Alpha Beschichtung e.K. | V-DOM | -56867.72",
+  "values": {
+   "Konto": "200076",
+   "Name": "Alpha Beschichtung e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-56867.72"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.71",
+   "quote": "200076 | Alpha Beschichtung e.K. | V-DOM | -56867.72"
+  }
+ },
+ {
+  "rowNumber": 72,
+  "raw": "200077 | Alpha Transport AG | V-DOM | -99647.03",
+  "values": {
+   "Konto": "200077",
+   "Name": "Alpha Transport AG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-99647.03"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.72",
+   "quote": "200077 | Alpha Transport AG | V-DOM | -99647.03"
+  }
+ },
+ {
+  "rowNumber": 73,
+  "raw": "200079 | Titan Papier AG | V-DOM | -5665.59",
+  "values": {
+   "Konto": "200079",
+   "Name": "Titan Papier AG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-5665.59"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.73",
+   "quote": "200079 | Titan Papier AG | V-DOM | -5665.59"
+  }
+ },
+ {
+  "rowNumber": 74,
+  "raw": "200080 | Pactum Transport e.K. | V-DOM | -39077.22",
+  "values": {
+   "Konto": "200080",
+   "Name": "Pactum Transport e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-39077.22"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.74",
+   "quote": "200080 | Pactum Transport e.K. | V-DOM | -39077.22"
+  }
+ },
+ {
+  "rowNumber": 75,
+  "raw": "200081 | Orion Maschinen GmbH | V-DOM | -85462.23",
+  "values": {
+   "Konto": "200081",
+   "Name": "Orion Maschinen GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-85462.23"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.75",
+   "quote": "200081 | Orion Maschinen GmbH | V-DOM | -85462.23"
+  }
+ },
+ {
+  "rowNumber": 76,
+  "raw": "200082 | Fokus Industriebedarf GmbH | V-DOM | -28383",
+  "values": {
+   "Konto": "200082",
+   "Name": "Fokus Industriebedarf GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-28383"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.76",
+   "quote": "200082 | Fokus Industriebedarf GmbH | V-DOM | -28383"
+  }
+ },
+ {
+  "rowNumber": 77,
+  "raw": "200083 | Castor Chemie GmbH & Co. KG | V-DOM | -114224.53",
+  "values": {
+   "Konto": "200083",
+   "Name": "Castor Chemie GmbH & Co. KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-114224.53"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.77",
+   "quote": "200083 | Castor Chemie GmbH & Co. KG | V-DOM | -114224.53"
+  }
+ },
+ {
+  "rowNumber": 78,
+  "raw": "200084 | Ratio Druck SE | V-DOM | -74775.01",
+  "values": {
+   "Konto": "200084",
+   "Name": "Ratio Druck SE",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-74775.01"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.78",
+   "quote": "200084 | Ratio Druck SE | V-DOM | -74775.01"
+  }
+ },
+ {
+  "rowNumber": 79,
+  "raw": "200085 | Orion Logistik AG | V-DOM | -134568.77",
+  "values": {
+   "Konto": "200085",
+   "Name": "Orion Logistik AG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-134568.77"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.79",
+   "quote": "200085 | Orion Logistik AG | V-DOM | -134568.77"
+  }
+ },
+ {
+  "rowNumber": 80,
+  "raw": "200086 | Adler Papier GmbH | V-DOM | -61588.45",
+  "values": {
+   "Konto": "200086",
+   "Name": "Adler Papier GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-61588.45"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.80",
+   "quote": "200086 | Adler Papier GmbH | V-DOM | -61588.45"
+  }
+ },
+ {
+  "rowNumber": 81,
+  "raw": "200087 | Pollux Werkstoffe GmbH | V-DOM | -90780.34",
+  "values": {
+   "Konto": "200087",
+   "Name": "Pollux Werkstoffe GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-90780.34"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.81",
+   "quote": "200087 | Pollux Werkstoffe GmbH | V-DOM | -90780.34"
+  }
+ },
+ {
+  "rowNumber": 82,
+  "raw": "200088 | Saturn Recycling GmbH | V-DOM | -146489.09",
+  "values": {
+   "Konto": "200088",
+   "Name": "Saturn Recycling GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-146489.09"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.82",
+   "quote": "200088 | Saturn Recycling GmbH | V-DOM | -146489.09"
+  }
+ },
+ {
+  "rowNumber": 83,
+  "raw": "200089 | Nova Transport GmbH & Co. KG | V-DOM | -122178.49",
+  "values": {
+   "Konto": "200089",
+   "Name": "Nova Transport GmbH & Co. KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-122178.49"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.83",
+   "quote": "200089 | Nova Transport GmbH & Co. KG | V-DOM | -122178.49"
+  }
+ },
+ {
+  "rowNumber": 84,
+  "raw": "200090 | Pactum Chemie SE | V-DOM | -94031.42",
+  "values": {
+   "Konto": "200090",
+   "Name": "Pactum Chemie SE",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-94031.42"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.84",
+   "quote": "200090 | Pactum Chemie SE | V-DOM | -94031.42"
+  }
+ },
+ {
+  "rowNumber": 85,
+  "raw": "200091 | Nova Recycling AG | V-DOM | -119798.49",
+  "values": {
+   "Konto": "200091",
+   "Name": "Nova Recycling AG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-119798.49"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.85",
+   "quote": "200091 | Nova Recycling AG | V-DOM | -119798.49"
+  }
+ },
+ {
+  "rowNumber": 86,
+  "raw": "200092 | Titan Verpackung KG | V-DOM | -49023.24",
+  "values": {
+   "Konto": "200092",
+   "Name": "Titan Verpackung KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-49023.24"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.86",
+   "quote": "200092 | Titan Verpackung KG | V-DOM | -49023.24"
+  }
+ },
+ {
+  "rowNumber": 87,
+  "raw": "200093 | Pactum Druck GmbH | V-DOM | -80263.65",
+  "values": {
+   "Konto": "200093",
+   "Name": "Pactum Druck GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-80263.65"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.87",
+   "quote": "200093 | Pactum Druck GmbH | V-DOM | -80263.65"
+  }
+ },
+ {
+  "rowNumber": 88,
+  "raw": "200094 | Solum Handel e.K. | V-DOM | -34237.49",
+  "values": {
+   "Konto": "200094",
+   "Name": "Solum Handel e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-34237.49"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.88",
+   "quote": "200094 | Solum Handel e.K. | V-DOM | -34237.49"
+  }
+ },
+ {
+  "rowNumber": 89,
+  "raw": "200096 | Terra Beschichtung GmbH | V-DOM | -61504.77",
+  "values": {
+   "Konto": "200096",
+   "Name": "Terra Beschichtung GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-61504.77"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.89",
+   "quote": "200096 | Terra Beschichtung GmbH | V-DOM | -61504.77"
+  }
+ },
+ {
+  "rowNumber": 90,
+  "raw": "200097 | Saturn Distribution e.K. | V-DOM | -17894",
+  "values": {
+   "Konto": "200097",
+   "Name": "Saturn Distribution e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-17894"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.90",
+   "quote": "200097 | Saturn Distribution e.K. | V-DOM | -17894"
+  }
+ },
+ {
+  "rowNumber": 91,
+  "raw": "200098 | Prisma Systeme GmbH & Co. KG | V-DOM | -116055.54",
+  "values": {
+   "Konto": "200098",
+   "Name": "Prisma Systeme GmbH & Co. KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-116055.54"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.91",
+   "quote": "200098 | Prisma Systeme GmbH & Co. KG | V-DOM | -116055.54"
+  }
+ },
+ {
+  "rowNumber": 92,
+  "raw": "200099 | Nova Systeme SE | V-DOM | -64124.34",
+  "values": {
+   "Konto": "200099",
+   "Name": "Nova Systeme SE",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-64124.34"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.92",
+   "quote": "200099 | Nova Systeme SE | V-DOM | -64124.34"
+  }
+ },
+ {
+  "rowNumber": 93,
+  "raw": "200100 | Pollux Verpackung e.K. | V-DOM | -55540.87",
+  "values": {
+   "Konto": "200100",
+   "Name": "Pollux Verpackung e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-55540.87"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.93",
+   "quote": "200100 | Pollux Verpackung e.K. | V-DOM | -55540.87"
+  }
+ },
+ {
+  "rowNumber": 94,
+  "raw": "200101 | Prisma Etiketten SE | V-DOM | -64352.74",
+  "values": {
+   "Konto": "200101",
+   "Name": "Prisma Etiketten SE",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-64352.74"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.94",
+   "quote": "200101 | Prisma Etiketten SE | V-DOM | -64352.74"
+  }
+ },
+ {
+  "rowNumber": 95,
+  "raw": "200102 | Orion Maschinen e.K. | V-DOM | -43284.83",
+  "values": {
+   "Konto": "200102",
+   "Name": "Orion Maschinen e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-43284.83"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.95",
+   "quote": "200102 | Orion Maschinen e.K. | V-DOM | -43284.83"
+  }
+ },
+ {
+  "rowNumber": 96,
+  "raw": "200103 | Omega Recycling GmbH | V-DOM | -122530.73",
+  "values": {
+   "Konto": "200103",
+   "Name": "Omega Recycling GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-122530.73"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.96",
+   "quote": "200103 | Omega Recycling GmbH | V-DOM | -122530.73"
+  }
+ },
+ {
+  "rowNumber": 97,
+  "raw": "200104 | Kronos Verpackung AG | V-DOM | -107282.07",
+  "values": {
+   "Konto": "200104",
+   "Name": "Kronos Verpackung AG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-107282.07"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.97",
+   "quote": "200104 | Kronos Verpackung AG | V-DOM | -107282.07"
+  }
+ },
+ {
+  "rowNumber": 98,
+  "raw": "200105 | Castor Recycling GmbH & Co. KG | V-DOM | -121829.21",
+  "values": {
+   "Konto": "200105",
+   "Name": "Castor Recycling GmbH & Co. KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-121829.21"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.98",
+   "quote": "200105 | Castor Recycling GmbH & Co. KG | V-DOM | -121829.21"
+  }
+ },
+ {
+  "rowNumber": 99,
+  "raw": "200106 | Vega Werkstoffe AG | V-DOM | -142283.54",
+  "values": {
+   "Konto": "200106",
+   "Name": "Vega Werkstoffe AG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-142283.54"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.99",
+   "quote": "200106 | Vega Werkstoffe AG | V-DOM | -142283.54"
+  }
+ },
+ {
+  "rowNumber": 100,
+  "raw": "200107 | Cives Etiketten SE | V-DOM | -98289.24",
+  "values": {
+   "Konto": "200107",
+   "Name": "Cives Etiketten SE",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-98289.24"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.100",
+   "quote": "200107 | Cives Etiketten SE | V-DOM | -98289.24"
+  }
+ },
+ {
+  "rowNumber": 101,
+  "raw": "200108 | Castor Distribution GmbH | V-DOM | -103799.09",
+  "values": {
+   "Konto": "200108",
+   "Name": "Castor Distribution GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-103799.09"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.101",
+   "quote": "200108 | Castor Distribution GmbH | V-DOM | -103799.09"
+  }
+ },
+ {
+  "rowNumber": 102,
+  "raw": "200109 | Lupus Papier e.K. | V-DOM | -201643.12",
+  "values": {
+   "Konto": "200109",
+   "Name": "Lupus Papier e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-201643.12"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.102",
+   "quote": "200109 | Lupus Papier e.K. | V-DOM | -201643.12"
+  }
+ },
+ {
+  "rowNumber": 103,
+  "raw": "200110 | Saturn Formteile GmbH | V-DOM | -47699.96",
+  "values": {
+   "Konto": "200110",
+   "Name": "Saturn Formteile GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-47699.96"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.103",
+   "quote": "200110 | Saturn Formteile GmbH | V-DOM | -47699.96"
+  }
+ },
+ {
+  "rowNumber": 104,
+  "raw": "200111 | Corvus Maschinen KG | V-DOM | -155850.41",
+  "values": {
+   "Konto": "200111",
+   "Name": "Corvus Maschinen KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-155850.41"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.104",
+   "quote": "200111 | Corvus Maschinen KG | V-DOM | -155850.41"
+  }
+ },
+ {
+  "rowNumber": 105,
+  "raw": "200112 | Cives Maschinen GmbH & Co. KG | V-DOM | -81160.38",
+  "values": {
+   "Konto": "200112",
+   "Name": "Cives Maschinen GmbH & Co. KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-81160.38"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.105",
+   "quote": "200112 | Cives Maschinen GmbH & Co. KG | V-DOM | -81160.38"
+  }
+ },
+ {
+  "rowNumber": 106,
+  "raw": "200113 | Pollux Systeme GmbH & Co. KG | V-DOM | -15663.97",
+  "values": {
+   "Konto": "200113",
+   "Name": "Pollux Systeme GmbH & Co. KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-15663.97"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.106",
+   "quote": "200113 | Pollux Systeme GmbH & Co. KG | V-DOM | -15663.97"
+  }
+ },
+ {
+  "rowNumber": 107,
+  "raw": "200114 | Merkur Etiketten AG | V-DOM | -59128.72",
+  "values": {
+   "Konto": "200114",
+   "Name": "Merkur Etiketten AG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-59128.72"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.107",
+   "quote": "200114 | Merkur Etiketten AG | V-DOM | -59128.72"
+  }
+ },
+ {
+  "rowNumber": 108,
+  "raw": "200115 | Castor Maschinen SE | V-DOM | -127404.97",
+  "values": {
+   "Konto": "200115",
+   "Name": "Castor Maschinen SE",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-127404.97"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.108",
+   "quote": "200115 | Castor Maschinen SE | V-DOM | -127404.97"
+  }
+ },
+ {
+  "rowNumber": 109,
+  "raw": "200116 | Lupus Werkstoffe GmbH | V-DOM | -218074.64",
+  "values": {
+   "Konto": "200116",
+   "Name": "Lupus Werkstoffe GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-218074.64"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.109",
+   "quote": "200116 | Lupus Werkstoffe GmbH | V-DOM | -218074.64"
+  }
+ },
+ {
+  "rowNumber": 110,
+  "raw": "200117 | Titan Maschinen GmbH | V-DOM | -137293.87",
+  "values": {
+   "Konto": "200117",
+   "Name": "Titan Maschinen GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-137293.87"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.110",
+   "quote": "200117 | Titan Maschinen GmbH | V-DOM | -137293.87"
+  }
+ },
+ {
+  "rowNumber": 111,
+  "raw": "200118 | Nova Chemie GmbH & Co. KG | V-DOM | -108282.86",
+  "values": {
+   "Konto": "200118",
+   "Name": "Nova Chemie GmbH & Co. KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-108282.86"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.111",
+   "quote": "200118 | Nova Chemie GmbH & Co. KG | V-DOM | -108282.86"
+  }
+ },
+ {
+  "rowNumber": 112,
+  "raw": "200119 | Castor Formteile KG | V-DOM | -103303.9",
+  "values": {
+   "Konto": "200119",
+   "Name": "Castor Formteile KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-103303.9"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.112",
+   "quote": "200119 | Castor Formteile KG | V-DOM | -103303.9"
+  }
+ },
+ {
+  "rowNumber": 113,
+  "raw": "200120 | Atlas Formteile KG | V-DOM | -134674.52",
+  "values": {
+   "Konto": "200120",
+   "Name": "Atlas Formteile KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-134674.52"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.113",
+   "quote": "200120 | Atlas Formteile KG | V-DOM | -134674.52"
+  }
+ },
+ {
+  "rowNumber": 114,
+  "raw": "200121 | Vega Kunststoff AG | V-DOM | -68129.88",
+  "values": {
+   "Konto": "200121",
+   "Name": "Vega Kunststoff AG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-68129.88"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.114",
+   "quote": "200121 | Vega Kunststoff AG | V-DOM | -68129.88"
+  }
+ },
+ {
+  "rowNumber": 115,
+  "raw": "200122 | Fokus Beschichtung GmbH | V-DOM | -212942.63",
+  "values": {
+   "Konto": "200122",
+   "Name": "Fokus Beschichtung GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-212942.63"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.115",
+   "quote": "200122 | Fokus Beschichtung GmbH | V-DOM | -212942.63"
+  }
+ },
+ {
+  "rowNumber": 116,
+  "raw": "200123 | Kronos Folien KG | V-DOM | -48087.9",
+  "values": {
+   "Konto": "200123",
+   "Name": "Kronos Folien KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-48087.9"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.116",
+   "quote": "200123 | Kronos Folien KG | V-DOM | -48087.9"
+  }
+ },
+ {
+  "rowNumber": 117,
+  "raw": "200124 | Iris Technik GmbH & Co. KG | V-DOM | -209240.08",
+  "values": {
+   "Konto": "200124",
+   "Name": "Iris Technik GmbH & Co. KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-209240.08"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.117",
+   "quote": "200124 | Iris Technik GmbH & Co. KG | V-DOM | -209240.08"
+  }
+ },
+ {
+  "rowNumber": 118,
+  "raw": "200126 | Corvus Handel GmbH | V-DOM | -142661.96",
+  "values": {
+   "Konto": "200126",
+   "Name": "Corvus Handel GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-142661.96"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.118",
+   "quote": "200126 | Corvus Handel GmbH | V-DOM | -142661.96"
+  }
+ },
+ {
+  "rowNumber": 119,
+  "raw": "200127 | Ost Systeme e.K. | V-DOM | -89090.54",
+  "values": {
+   "Konto": "200127",
+   "Name": "Ost Systeme e.K.",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-89090.54"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.119",
+   "quote": "200127 | Ost Systeme e.K. | V-DOM | -89090.54"
+  }
+ },
+ {
+  "rowNumber": 120,
+  "raw": "200128 | Helios Karton KG | V-DOM | -106856.05",
+  "values": {
+   "Konto": "200128",
+   "Name": "Helios Karton KG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-106856.05"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.120",
+   "quote": "200128 | Helios Karton KG | V-DOM | -106856.05"
+  }
+ },
+ {
+  "rowNumber": 121,
+  "raw": "200129 | Omega Papier AG | V-DOM | -130372.83",
+  "values": {
+   "Konto": "200129",
+   "Name": "Omega Papier AG",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-130372.83"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.121",
+   "quote": "200129 | Omega Papier AG | V-DOM | -130372.83"
+  }
+ },
+ {
+  "rowNumber": 122,
+  "raw": "209110 | Nord Logistik GmbH | V-DOM | -21490.21",
+  "values": {
+   "Konto": "209110",
+   "Name": "Nord Logistik GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-21490.21"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.122",
+   "quote": "209110 | Nord Logistik GmbH | V-DOM | -21490.21"
+  }
+ },
+ {
+  "rowNumber": 123,
+  "raw": "209111 | Nordlicht Logistik GmbH | V-DOM | -17949.96",
+  "values": {
+   "Konto": "209111",
+   "Name": "Nordlicht Logistik GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-17949.96"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.123",
+   "quote": "209111 | Nordlicht Logistik GmbH | V-DOM | -17949.96"
+  }
+ },
+ {
+  "rowNumber": 124,
+  "raw": "209112 | Vega Werkstoffe GmbH | V-DOM | -56697.55",
+  "values": {
+   "Konto": "209112",
+   "Name": "Vega Werkstoffe GmbH",
+   "Gruppe": "V-DOM",
+   "Saldo 31.12.2025": "-56697.55"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.124",
+   "quote": "209112 | Vega Werkstoffe GmbH | V-DOM | -56697.55"
+  }
+ },
+ {
+  "rowNumber": 125,
+  "raw": "209113 | Muster Beteiligungs GmbH, Wien | V-IC-EU | -220000",
+  "values": {
+   "Konto": "209113",
+   "Name": "Muster Beteiligungs GmbH, Wien",
+   "Gruppe": "V-IC-EU",
+   "Saldo 31.12.2025": "-220000"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "ref": "Saldenliste Personenkonten!r.125",
+   "quote": "209113 | Muster Beteiligungs GmbH, Wien | V-IC-EU | -220000"
+  }
+ }
+]

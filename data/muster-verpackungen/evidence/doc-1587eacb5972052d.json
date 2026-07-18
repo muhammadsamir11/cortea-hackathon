@@ -1,0 +1,734 @@
+[
+ {
+  "ref": "Saldenliste Personenkonten!r.4",
+  "text": "200000 | Delta Distribution SE | V-DOM | -154326.46",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 4
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.5",
+  "text": "200001 | Boreas Distribution KG | V-DOM | -14063.42",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 5
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.6",
+  "text": "200002 | Vega Systeme e.K. | V-DOM | -98079.8",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 6
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.7",
+  "text": "200003 | Iris Industriebedarf KG | V-DOM | -571200",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 7
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.8",
+  "text": "200004 | Ratio Maschinen e.K. | V-DOM | -20791.68",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 8
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.9",
+  "text": "200005 | Kronos Technik KG | V-DOM | -334736.1",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 9
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.10",
+  "text": "200006 | Cives Maschinen GmbH | V-DOM | -91481.25",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 10
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.11",
+  "text": "200007 | Castor Papier GmbH | V-DOM | -112932.24",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 11
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.12",
+  "text": "200008 | Vega Recycling GmbH | V-DOM | -115001.6",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 12
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.13",
+  "text": "200009 | Titan Transport SE | V-DOM | -168137.48",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 13
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.14",
+  "text": "200010 | West Handel GmbH | V-DOM | -114842.14",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 14
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.15",
+  "text": "200011 | Boreas Druck GmbH & Co. KG | V-DOM | -40966.59",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 15
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.16",
+  "text": "200013 | West Papier AG | V-DOM | -180182.66",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 16
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.17",
+  "text": "200015 | Omega Transport GmbH | V-DOM | -40109",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 17
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.18",
+  "text": "200016 | Kranich Druck e.K. | V-DOM | -122533.09",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 18
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.19",
+  "text": "200017 | Orion Handel GmbH & Co. KG | V-DOM | -215680.36",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 19
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.20",
+  "text": "200018 | Titan Kunststoff AG | V-DOM | -135502.92",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 20
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.21",
+  "text": "200019 | Süd Handel e.K. | V-DOM | -87788.68",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 21
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.22",
+  "text": "200020 | Reiher Etiketten KG | V-DOM | -50031.17",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 22
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.23",
+  "text": "200021 | Süd Chemie GmbH | V-DOM | -109454.9",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 23
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.24",
+  "text": "200022 | Solum Kunststoff GmbH | V-DOM | -29193.08",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 24
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.25",
+  "text": "200023 | Orion Werkstoffe SE | V-DOM | -46617.06",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 25
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.26",
+  "text": "200024 | Atlas Distribution GmbH | V-DOM | -130124.12",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 26
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.27",
+  "text": "200025 | Ratio Beschichtung KG | V-DOM | -98453.46",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 27
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.28",
+  "text": "200026 | Prisma Formteile e.K. | V-DOM | -77785.54",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 28
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.29",
+  "text": "200027 | Titan Beschichtung SE | V-DOM | -117236.42",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 29
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.30",
+  "text": "200028 | Merkur Kunststoff GmbH | V-DOM | -345022.65",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 30
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.31",
+  "text": "200029 | West Logistik KG | V-DOM | -49978.81",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 31
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.32",
+  "text": "200030 | Pactum Maschinen e.K. | V-DOM | -202828.36",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 32
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.33",
+  "text": "200032 | Iris Karton GmbH | V-DOM | -206777.27",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 33
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.34",
+  "text": "200033 | Aurora Formteile e.K. | V-DOM | -42807.87",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 34
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.35",
+  "text": "200034 | Cives Transport GmbH | V-DOM | -36408.2",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 35
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.36",
+  "text": "200035 | Fokus Handel GmbH | V-DOM | -151025.28",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 36
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.37",
+  "text": "200036 | Titan Recycling GmbH & Co. KG | V-DOM | -228327.68",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 37
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.38",
+  "text": "200039 | Corvus Formteile GmbH | V-DOM | -85425.34",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 38
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.39",
+  "text": "200041 | Corvus Karton KG | V-DOM | -163245.39",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 39
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.40",
+  "text": "200042 | Orion Technik GmbH | V-DOM | -107008.37",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 40
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.41",
+  "text": "200043 | Delta Etiketten GmbH | V-DOM | -52005.38",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 41
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.42",
+  "text": "200044 | Delta Etiketten GmbH & Co. KG | V-DOM | -114736.23",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 42
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.43",
+  "text": "200045 | Ost Industriebedarf GmbH | V-DOM | -63795.9",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 43
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.44",
+  "text": "200046 | Kronos Handel GmbH | V-DOM | -177945.46",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 44
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.45",
+  "text": "200047 | Terra Verpackung SE | V-DOM | -111188.84",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 45
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.46",
+  "text": "200048 | Vega Chemie GmbH | V-DOM | -25697.9",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 46
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.47",
+  "text": "200049 | Aurora Technik GmbH | V-DOM | -122342.71",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 47
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.48",
+  "text": "200050 | Titan Technik GmbH | V-DOM | -51783.97",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 48
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.49",
+  "text": "200051 | Corvus Transport SE | V-DOM | -159343.23",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 49
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.50",
+  "text": "200052 | Solum Chemie GmbH | V-DOM | -167386.21",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 50
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.51",
+  "text": "200053 | Castor Industriebedarf SE | V-DOM | -71510.67",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 51
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.52",
+  "text": "200054 | Saturn Folien GmbH | V-DOM | -168913.36",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 52
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.53",
+  "text": "200055 | Ost Kunststoff AG | V-DOM | -126249.48",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 53
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.54",
+  "text": "200056 | Nova Technik GmbH | V-DOM | -74402",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 54
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.55",
+  "text": "200057 | Saturn Maschinen GmbH | V-DOM | -96937.4",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 55
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.56",
+  "text": "200058 | Alpha Werkstoffe GmbH | V-DOM | -32084.78",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 56
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.57",
+  "text": "200059 | Lupus Handel SE | V-DOM | -212032.7",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 57
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.58",
+  "text": "200060 | Merkur Chemie KG | V-DOM | -11277.63",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 58
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.59",
+  "text": "200061 | Iris Etiketten SE | V-DOM | -188171.35",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 59
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.60",
+  "text": "200062 | Pactum Industriebedarf GmbH & Co. KG | V-DOM | -124118.19",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 60
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.61",
+  "text": "200064 | Titan Papier GmbH | V-DOM | -102894.54",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 61
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.62",
+  "text": "200066 | Castor Transport KG | V-DOM | -84864.85",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 62
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.63",
+  "text": "200067 | Ost Recycling GmbH | V-DOM | -19724.25",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 63
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.64",
+  "text": "200069 | Ost Folien e.K. | V-DOM | -290235.05",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 64
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.65",
+  "text": "200070 | Kronos Etiketten e.K. | V-DOM | -95136.93",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 65
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.66",
+  "text": "200071 | Pactum Handel GmbH | V-DOM | -27066.55",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 66
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.67",
+  "text": "200072 | Cives Handel KG | V-DOM | -102256.7",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 67
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.68",
+  "text": "200073 | Cives Handel GmbH & Co. KG | V-DOM | -24049.9",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 68
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.69",
+  "text": "200074 | Delta Kunststoff GmbH | V-DOM | -126448.78",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 69
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.70",
+  "text": "200075 | Delta Logistik SE | V-DOM | -18613.98",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 70
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.71",
+  "text": "200076 | Alpha Beschichtung e.K. | V-DOM | -56867.72",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 71
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.72",
+  "text": "200077 | Alpha Transport AG | V-DOM | -99647.03",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 72
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.73",
+  "text": "200079 | Titan Papier AG | V-DOM | -5665.59",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 73
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.74",
+  "text": "200080 | Pactum Transport e.K. | V-DOM | -39077.22",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 74
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.75",
+  "text": "200081 | Orion Maschinen GmbH | V-DOM | -85462.23",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 75
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.76",
+  "text": "200082 | Fokus Industriebedarf GmbH | V-DOM | -28383",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 76
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.77",
+  "text": "200083 | Castor Chemie GmbH & Co. KG | V-DOM | -114224.53",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 77
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.78",
+  "text": "200084 | Ratio Druck SE | V-DOM | -74775.01",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 78
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.79",
+  "text": "200085 | Orion Logistik AG | V-DOM | -134568.77",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 79
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.80",
+  "text": "200086 | Adler Papier GmbH | V-DOM | -61588.45",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 80
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.81",
+  "text": "200087 | Pollux Werkstoffe GmbH | V-DOM | -90780.34",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 81
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.82",
+  "text": "200088 | Saturn Recycling GmbH | V-DOM | -146489.09",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 82
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.83",
+  "text": "200089 | Nova Transport GmbH & Co. KG | V-DOM | -122178.49",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 83
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.84",
+  "text": "200090 | Pactum Chemie SE | V-DOM | -94031.42",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 84
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.85",
+  "text": "200091 | Nova Recycling AG | V-DOM | -119798.49",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 85
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.86",
+  "text": "200092 | Titan Verpackung KG | V-DOM | -49023.24",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 86
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.87",
+  "text": "200093 | Pactum Druck GmbH | V-DOM | -80263.65",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 87
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.88",
+  "text": "200094 | Solum Handel e.K. | V-DOM | -34237.49",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 88
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.89",
+  "text": "200096 | Terra Beschichtung GmbH | V-DOM | -61504.77",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 89
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.90",
+  "text": "200097 | Saturn Distribution e.K. | V-DOM | -17894",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 90
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.91",
+  "text": "200098 | Prisma Systeme GmbH & Co. KG | V-DOM | -116055.54",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 91
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.92",
+  "text": "200099 | Nova Systeme SE | V-DOM | -64124.34",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 92
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.93",
+  "text": "200100 | Pollux Verpackung e.K. | V-DOM | -55540.87",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 93
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.94",
+  "text": "200101 | Prisma Etiketten SE | V-DOM | -64352.74",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 94
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.95",
+  "text": "200102 | Orion Maschinen e.K. | V-DOM | -43284.83",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 95
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.96",
+  "text": "200103 | Omega Recycling GmbH | V-DOM | -122530.73",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 96
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.97",
+  "text": "200104 | Kronos Verpackung AG | V-DOM | -107282.07",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 97
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.98",
+  "text": "200105 | Castor Recycling GmbH & Co. KG | V-DOM | -121829.21",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 98
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.99",
+  "text": "200106 | Vega Werkstoffe AG | V-DOM | -142283.54",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 99
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.100",
+  "text": "200107 | Cives Etiketten SE | V-DOM | -98289.24",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 100
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.101",
+  "text": "200108 | Castor Distribution GmbH | V-DOM | -103799.09",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 101
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.102",
+  "text": "200109 | Lupus Papier e.K. | V-DOM | -201643.12",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 102
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.103",
+  "text": "200110 | Saturn Formteile GmbH | V-DOM | -47699.96",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 103
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.104",
+  "text": "200111 | Corvus Maschinen KG | V-DOM | -155850.41",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 104
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.105",
+  "text": "200112 | Cives Maschinen GmbH & Co. KG | V-DOM | -81160.38",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 105
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.106",
+  "text": "200113 | Pollux Systeme GmbH & Co. KG | V-DOM | -15663.97",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 106
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.107",
+  "text": "200114 | Merkur Etiketten AG | V-DOM | -59128.72",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 107
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.108",
+  "text": "200115 | Castor Maschinen SE | V-DOM | -127404.97",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 108
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.109",
+  "text": "200116 | Lupus Werkstoffe GmbH | V-DOM | -218074.64",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 109
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.110",
+  "text": "200117 | Titan Maschinen GmbH | V-DOM | -137293.87",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 110
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.111",
+  "text": "200118 | Nova Chemie GmbH & Co. KG | V-DOM | -108282.86",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 111
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.112",
+  "text": "200119 | Castor Formteile KG | V-DOM | -103303.9",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 112
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.113",
+  "text": "200120 | Atlas Formteile KG | V-DOM | -134674.52",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 113
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.114",
+  "text": "200121 | Vega Kunststoff AG | V-DOM | -68129.88",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 114
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.115",
+  "text": "200122 | Fokus Beschichtung GmbH | V-DOM | -212942.63",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 115
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.116",
+  "text": "200123 | Kronos Folien KG | V-DOM | -48087.9",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 116
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.117",
+  "text": "200124 | Iris Technik GmbH & Co. KG | V-DOM | -209240.08",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 117
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.118",
+  "text": "200126 | Corvus Handel GmbH | V-DOM | -142661.96",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 118
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.119",
+  "text": "200127 | Ost Systeme e.K. | V-DOM | -89090.54",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 119
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.120",
+  "text": "200128 | Helios Karton KG | V-DOM | -106856.05",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 120
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.121",
+  "text": "200129 | Omega Papier AG | V-DOM | -130372.83",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 121
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.122",
+  "text": "209110 | Nord Logistik GmbH | V-DOM | -21490.21",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 122
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.123",
+  "text": "209111 | Nordlicht Logistik GmbH | V-DOM | -17949.96",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 123
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.124",
+  "text": "209112 | Vega Werkstoffe GmbH | V-DOM | -56697.55",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 124
+ },
+ {
+  "ref": "Saldenliste Personenkonten!r.125",
+  "text": "209113 | Muster Beteiligungs GmbH, Wien | V-IC-EU | -220000",
+  "sheet": "Saldenliste Personenkonten",
+  "startLine": 125
+ }
+]

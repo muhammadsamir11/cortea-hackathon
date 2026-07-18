@@ -1,0 +1,56 @@
+[
+ {
+  "ref": "Berechtigungen!r.4",
+  "text": "MV-U01 | Vertrieb | X |  |  |  |  |  |  | ",
+  "sheet": "Berechtigungen",
+  "startLine": 4
+ },
+ {
+  "ref": "Berechtigungen!r.5",
+  "text": "MV-U02 | Leitung RW | X | X | X | X | X |  | Ja | ",
+  "sheet": "Berechtigungen",
+  "startLine": 5
+ },
+ {
+  "ref": "Berechtigungen!r.6",
+  "text": "MV-U03 | Einkauf/Kreditoren | X |  |  | X |  |  |  | ",
+  "sheet": "Berechtigungen",
+  "startLine": 6
+ },
+ {
+  "ref": "Berechtigungen!r.7",
+  "text": "MV-U05 | Einkauf | X |  | X | X |  |  |  | ",
+  "sheet": "Berechtigungen",
+  "startLine": 7
+ },
+ {
+  "ref": "Berechtigungen!r.8",
+  "text": "MV-U08 | Debitorenbuchhaltung | X |  |  | X |  |  |  | ",
+  "sheet": "Berechtigungen",
+  "startLine": 8
+ },
+ {
+  "ref": "Berechtigungen!r.9",
+  "text": "MV-U10 | Rechnungswesen | X | X |  |  | X |  | Ja | ",
+  "sheet": "Berechtigungen",
+  "startLine": 9
+ },
+ {
+  "ref": "Berechtigungen!r.10",
+  "text": "MV-U11 | Zahlungsverkehr | X |  | X |  |  |  |  | ",
+  "sheet": "Berechtigungen",
+  "startLine": 10
+ },
+ {
+  "ref": "Berechtigungen!r.11",
+  "text": "MV-U12 | Zahlungsverkehr | X |  | X |  |  |  |  | ",
+  "sheet": "Berechtigungen",
+  "startLine": 11
+ },
+ {
+  "ref": "Berechtigungen!r.12",
+  "text": "Admin | IT/Schnittstellen | X | X | X | X | X | X |  | Sammel-/Batch-Kennung, nicht personalisiert",
+  "sheet": "Berechtigungen",
+  "startLine": 12
+ }
+]

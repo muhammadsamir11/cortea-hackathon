@@ -1,0 +1,3148 @@
+[
+ {
+  "rowNumber": 1,
+  "raw": "\"200000\";\"DE950314035\";\"Lindenallee 84\";\"45127\";\"Essen\";\"DEU\";\"Delta Distribution SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200000",
+   "LIEFERANTENUSTIDNR": "DE950314035",
+   "LIEFERANTENSTRASSE": "Lindenallee 84",
+   "LIEFERANTENPLZ": "45127",
+   "LIEFERANTENORT": "Essen",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Delta Distribution SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.1",
+   "quote": "\"200000\";\"DE950314035\";\"Lindenallee 84\";\"45127\";\"Essen\";\"DEU\";\"Delta Distribution SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 2,
+  "raw": "\"200001\";\"DE544057813\";\"Am Kanal 74\";\"80331\";\"München\";\"DEU\";\"Boreas Distribution KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200001",
+   "LIEFERANTENUSTIDNR": "DE544057813",
+   "LIEFERANTENSTRASSE": "Am Kanal 74",
+   "LIEFERANTENPLZ": "80331",
+   "LIEFERANTENORT": "München",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Boreas Distribution KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.2",
+   "quote": "\"200001\";\"DE544057813\";\"Am Kanal 74\";\"80331\";\"München\";\"DEU\";\"Boreas Distribution KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 3,
+  "raw": "\"200002\";\"DE459810695\";\"Am Kanal 195\";\"55116\";\"Mainz\";\"DEU\";\"Vega Systeme e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200002",
+   "LIEFERANTENUSTIDNR": "DE459810695",
+   "LIEFERANTENSTRASSE": "Am Kanal 195",
+   "LIEFERANTENPLZ": "55116",
+   "LIEFERANTENORT": "Mainz",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Vega Systeme e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.3",
+   "quote": "\"200002\";\"DE459810695\";\"Am Kanal 195\";\"55116\";\"Mainz\";\"DEU\";\"Vega Systeme e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 4,
+  "raw": "\"200003\";\"DE420485345\";\"Robert-Bosch-Straße 12\";\"39104\";\"Magdeburg\";\"DEU\";\"Iris Industriebedarf KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200003",
+   "LIEFERANTENUSTIDNR": "DE420485345",
+   "LIEFERANTENSTRASSE": "Robert-Bosch-Straße 12",
+   "LIEFERANTENPLZ": "39104",
+   "LIEFERANTENORT": "Magdeburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Iris Industriebedarf KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.4",
+   "quote": "\"200003\";\"DE420485345\";\"Robert-Bosch-Straße 12\";\"39104\";\"Magdeburg\";\"DEU\";\"Iris Industriebedarf KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 5,
+  "raw": "\"200004\";\"DE686768986\";\"Carl-Benz-Straße 182\";\"80331\";\"München\";\"DEU\";\"Ratio Maschinen e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200004",
+   "LIEFERANTENUSTIDNR": "DE686768986",
+   "LIEFERANTENSTRASSE": "Carl-Benz-Straße 182",
+   "LIEFERANTENPLZ": "80331",
+   "LIEFERANTENORT": "München",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Ratio Maschinen e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.5",
+   "quote": "\"200004\";\"DE686768986\";\"Carl-Benz-Straße 182\";\"80331\";\"München\";\"DEU\";\"Ratio Maschinen e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "\"200005\";\"DE568366998\";\"Feldweg 130\";\"99084\";\"Erfurt\";\"DEU\";\"Kronos Technik KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200005",
+   "LIEFERANTENUSTIDNR": "DE568366998",
+   "LIEFERANTENSTRASSE": "Feldweg 130",
+   "LIEFERANTENPLZ": "99084",
+   "LIEFERANTENORT": "Erfurt",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Kronos Technik KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.6",
+   "quote": "\"200005\";\"DE568366998\";\"Feldweg 130\";\"99084\";\"Erfurt\";\"DEU\";\"Kronos Technik KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 7,
+  "raw": "\"200006\";\"DE657683340\";\"Marktplatz 67\";\"34117\";\"Kassel\";\"DEU\";\"Cives Maschinen GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200006",
+   "LIEFERANTENUSTIDNR": "DE657683340",
+   "LIEFERANTENSTRASSE": "Marktplatz 67",
+   "LIEFERANTENPLZ": "34117",
+   "LIEFERANTENORT": "Kassel",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Cives Maschinen GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.7",
+   "quote": "\"200006\";\"DE657683340\";\"Marktplatz 67\";\"34117\";\"Kassel\";\"DEU\";\"Cives Maschinen GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 8,
+  "raw": "\"200007\";\"DE436667631\";\"Marktplatz 132\";\"45127\";\"Essen\";\"DEU\";\"Castor Papier GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200007",
+   "LIEFERANTENUSTIDNR": "DE436667631",
+   "LIEFERANTENSTRASSE": "Marktplatz 132",
+   "LIEFERANTENPLZ": "45127",
+   "LIEFERANTENORT": "Essen",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Castor Papier GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.8",
+   "quote": "\"200007\";\"DE436667631\";\"Marktplatz 132\";\"45127\";\"Essen\";\"DEU\";\"Castor Papier GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 9,
+  "raw": "\"200008\";\"DE160456723\";\"Robert-Bosch-Straße 55\";\"70173\";\"Stuttgart\";\"DEU\";\"Vega Recycling GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200008",
+   "LIEFERANTENUSTIDNR": "DE160456723",
+   "LIEFERANTENSTRASSE": "Robert-Bosch-Straße 55",
+   "LIEFERANTENPLZ": "70173",
+   "LIEFERANTENORT": "Stuttgart",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Vega Recycling GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.9",
+   "quote": "\"200008\";\"DE160456723\";\"Robert-Bosch-Straße 55\";\"70173\";\"Stuttgart\";\"DEU\";\"Vega Recycling GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 10,
+  "raw": "\"200009\";\"DE851051163\";\"Lindenallee 152\";\"55116\";\"Mainz\";\"DEU\";\"Titan Transport SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200009",
+   "LIEFERANTENUSTIDNR": "DE851051163",
+   "LIEFERANTENSTRASSE": "Lindenallee 152",
+   "LIEFERANTENPLZ": "55116",
+   "LIEFERANTENORT": "Mainz",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Titan Transport SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.10",
+   "quote": "\"200009\";\"DE851051163\";\"Lindenallee 152\";\"55116\";\"Mainz\";\"DEU\";\"Titan Transport SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 11,
+  "raw": "\"200010\";\"DE864167463\";\"Marktplatz 140\";\"20095\";\"Hamburg\";\"DEU\";\"West Handel GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200010",
+   "LIEFERANTENUSTIDNR": "DE864167463",
+   "LIEFERANTENSTRASSE": "Marktplatz 140",
+   "LIEFERANTENPLZ": "20095",
+   "LIEFERANTENORT": "Hamburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "West Handel GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.11",
+   "quote": "\"200010\";\"DE864167463\";\"Marktplatz 140\";\"20095\";\"Hamburg\";\"DEU\";\"West Handel GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 12,
+  "raw": "\"200011\";\"DE318793663\";\"Gewerbering 195\";\"07743\";\"Jena\";\"DEU\";\"Boreas Druck GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200011",
+   "LIEFERANTENUSTIDNR": "DE318793663",
+   "LIEFERANTENSTRASSE": "Gewerbering 195",
+   "LIEFERANTENPLZ": "07743",
+   "LIEFERANTENORT": "Jena",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Boreas Druck GmbH & Co. KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.12",
+   "quote": "\"200011\";\"DE318793663\";\"Gewerbering 195\";\"07743\";\"Jena\";\"DEU\";\"Boreas Druck GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 13,
+  "raw": "\"200012\";\"DE574542320\";\"Carl-Benz-Straße 46\";\"28195\";\"Bremen\";\"DEU\";\"Orion Distribution SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200012",
+   "LIEFERANTENUSTIDNR": "DE574542320",
+   "LIEFERANTENSTRASSE": "Carl-Benz-Straße 46",
+   "LIEFERANTENPLZ": "28195",
+   "LIEFERANTENORT": "Bremen",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Orion Distribution SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.13",
+   "quote": "\"200012\";\"DE574542320\";\"Carl-Benz-Straße 46\";\"28195\";\"Bremen\";\"DEU\";\"Orion Distribution SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 14,
+  "raw": "\"200013\";\"DE332518776\";\"Bahnhofstraße 197\";\"55116\";\"Mainz\";\"DEU\";\"West Papier AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200013",
+   "LIEFERANTENUSTIDNR": "DE332518776",
+   "LIEFERANTENSTRASSE": "Bahnhofstraße 197",
+   "LIEFERANTENPLZ": "55116",
+   "LIEFERANTENORT": "Mainz",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "West Papier AG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.14",
+   "quote": "\"200013\";\"DE332518776\";\"Bahnhofstraße 197\";\"55116\";\"Mainz\";\"DEU\";\"West Papier AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 15,
+  "raw": "\"200014\";\"DE341879601\";\"Industriestraße 18\";\"40210\";\"Düsseldorf\";\"DEU\";\"Reiher Recycling GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200014",
+   "LIEFERANTENUSTIDNR": "DE341879601",
+   "LIEFERANTENSTRASSE": "Industriestraße 18",
+   "LIEFERANTENPLZ": "40210",
+   "LIEFERANTENORT": "Düsseldorf",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Reiher Recycling GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.15",
+   "quote": "\"200014\";\"DE341879601\";\"Industriestraße 18\";\"40210\";\"Düsseldorf\";\"DEU\";\"Reiher Recycling GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 16,
+  "raw": "\"200015\";\"DE736226287\";\"Am Kanal 120\";\"18055\";\"Rostock\";\"DEU\";\"Omega Transport GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200015",
+   "LIEFERANTENUSTIDNR": "DE736226287",
+   "LIEFERANTENSTRASSE": "Am Kanal 120",
+   "LIEFERANTENPLZ": "18055",
+   "LIEFERANTENORT": "Rostock",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Omega Transport GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.16",
+   "quote": "\"200015\";\"DE736226287\";\"Am Kanal 120\";\"18055\";\"Rostock\";\"DEU\";\"Omega Transport GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 17,
+  "raw": "\"200016\";\"DE795910143\";\"Robert-Bosch-Straße 126\";\"45127\";\"Essen\";\"DEU\";\"Kranich Druck e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200016",
+   "LIEFERANTENUSTIDNR": "DE795910143",
+   "LIEFERANTENSTRASSE": "Robert-Bosch-Straße 126",
+   "LIEFERANTENPLZ": "45127",
+   "LIEFERANTENORT": "Essen",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Kranich Druck e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.17",
+   "quote": "\"200016\";\"DE795910143\";\"Robert-Bosch-Straße 126\";\"45127\";\"Essen\";\"DEU\";\"Kranich Druck e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 18,
+  "raw": "\"200017\";\"DE301505715\";\"Gewerbering 149\";\"07743\";\"Jena\";\"DEU\";\"Orion Handel GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200017",
+   "LIEFERANTENUSTIDNR": "DE301505715",
+   "LIEFERANTENSTRASSE": "Gewerbering 149",
+   "LIEFERANTENPLZ": "07743",
+   "LIEFERANTENORT": "Jena",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Orion Handel GmbH & Co. KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.18",
+   "quote": "\"200017\";\"DE301505715\";\"Gewerbering 149\";\"07743\";\"Jena\";\"DEU\";\"Orion Handel GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 19,
+  "raw": "\"200018\";\"DE724908576\";\"Bahnhofstraße 199\";\"70173\";\"Stuttgart\";\"DEU\";\"Titan Kunststoff AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200018",
+   "LIEFERANTENUSTIDNR": "DE724908576",
+   "LIEFERANTENSTRASSE": "Bahnhofstraße 199",
+   "LIEFERANTENPLZ": "70173",
+   "LIEFERANTENORT": "Stuttgart",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Titan Kunststoff AG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.19",
+   "quote": "\"200018\";\"DE724908576\";\"Bahnhofstraße 199\";\"70173\";\"Stuttgart\";\"DEU\";\"Titan Kunststoff AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 20,
+  "raw": "\"200019\";\"DE970202592\";\"Am Hafen 78\";\"01067\";\"Dresden\";\"DEU\";\"Süd Handel e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200019",
+   "LIEFERANTENUSTIDNR": "DE970202592",
+   "LIEFERANTENSTRASSE": "Am Hafen 78",
+   "LIEFERANTENPLZ": "01067",
+   "LIEFERANTENORT": "Dresden",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Süd Handel e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.20",
+   "quote": "\"200019\";\"DE970202592\";\"Am Hafen 78\";\"01067\";\"Dresden\";\"DEU\";\"Süd Handel e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 21,
+  "raw": "\"200020\";\"DE866963207\";\"Hauptstraße 140\";\"30159\";\"Hannover\";\"DEU\";\"Reiher Etiketten KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200020",
+   "LIEFERANTENUSTIDNR": "DE866963207",
+   "LIEFERANTENSTRASSE": "Hauptstraße 140",
+   "LIEFERANTENPLZ": "30159",
+   "LIEFERANTENORT": "Hannover",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Reiher Etiketten KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.21",
+   "quote": "\"200020\";\"DE866963207\";\"Hauptstraße 140\";\"30159\";\"Hannover\";\"DEU\";\"Reiher Etiketten KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 22,
+  "raw": "\"200021\";\"DE489218020\";\"Gewerbering 44\";\"28195\";\"Bremen\";\"DEU\";\"Süd Chemie GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200021",
+   "LIEFERANTENUSTIDNR": "DE489218020",
+   "LIEFERANTENSTRASSE": "Gewerbering 44",
+   "LIEFERANTENPLZ": "28195",
+   "LIEFERANTENORT": "Bremen",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Süd Chemie GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.22",
+   "quote": "\"200021\";\"DE489218020\";\"Gewerbering 44\";\"28195\";\"Bremen\";\"DEU\";\"Süd Chemie GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 23,
+  "raw": "\"200022\";\"DE797998210\";\"Marktplatz 158\";\"50667\";\"Köln\";\"DEU\";\"Solum Kunststoff GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200022",
+   "LIEFERANTENUSTIDNR": "DE797998210",
+   "LIEFERANTENSTRASSE": "Marktplatz 158",
+   "LIEFERANTENPLZ": "50667",
+   "LIEFERANTENORT": "Köln",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Solum Kunststoff GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.23",
+   "quote": "\"200022\";\"DE797998210\";\"Marktplatz 158\";\"50667\";\"Köln\";\"DEU\";\"Solum Kunststoff GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 24,
+  "raw": "\"200023\";\"DE960090361\";\"Am Kanal 19\";\"07743\";\"Jena\";\"DEU\";\"Orion Werkstoffe SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200023",
+   "LIEFERANTENUSTIDNR": "DE960090361",
+   "LIEFERANTENSTRASSE": "Am Kanal 19",
+   "LIEFERANTENPLZ": "07743",
+   "LIEFERANTENORT": "Jena",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Orion Werkstoffe SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.24",
+   "quote": "\"200023\";\"DE960090361\";\"Am Kanal 19\";\"07743\";\"Jena\";\"DEU\";\"Orion Werkstoffe SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 25,
+  "raw": "\"200024\";\"DE949254724\";\"Lindenallee 24\";\"80331\";\"München\";\"DEU\";\"Atlas Distribution GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200024",
+   "LIEFERANTENUSTIDNR": "DE949254724",
+   "LIEFERANTENSTRASSE": "Lindenallee 24",
+   "LIEFERANTENPLZ": "80331",
+   "LIEFERANTENORT": "München",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Atlas Distribution GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.25",
+   "quote": "\"200024\";\"DE949254724\";\"Lindenallee 24\";\"80331\";\"München\";\"DEU\";\"Atlas Distribution GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 26,
+  "raw": "\"200025\";\"DE293585797\";\"Industriestraße 177\";\"01067\";\"Dresden\";\"DEU\";\"Ratio Beschichtung KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200025",
+   "LIEFERANTENUSTIDNR": "DE293585797",
+   "LIEFERANTENSTRASSE": "Industriestraße 177",
+   "LIEFERANTENPLZ": "01067",
+   "LIEFERANTENORT": "Dresden",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Ratio Beschichtung KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.26",
+   "quote": "\"200025\";\"DE293585797\";\"Industriestraße 177\";\"01067\";\"Dresden\";\"DEU\";\"Ratio Beschichtung KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 27,
+  "raw": "\"200026\";\"DE766751801\";\"Am Kanal 172\";\"70173\";\"Stuttgart\";\"DEU\";\"Prisma Formteile e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200026",
+   "LIEFERANTENUSTIDNR": "DE766751801",
+   "LIEFERANTENSTRASSE": "Am Kanal 172",
+   "LIEFERANTENPLZ": "70173",
+   "LIEFERANTENORT": "Stuttgart",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Prisma Formteile e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.27",
+   "quote": "\"200026\";\"DE766751801\";\"Am Kanal 172\";\"70173\";\"Stuttgart\";\"DEU\";\"Prisma Formteile e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 28,
+  "raw": "\"200027\";\"DE598077358\";\"Am Kanal 133\";\"60311\";\"Frankfurt\";\"DEU\";\"Titan Beschichtung SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200027",
+   "LIEFERANTENUSTIDNR": "DE598077358",
+   "LIEFERANTENSTRASSE": "Am Kanal 133",
+   "LIEFERANTENPLZ": "60311",
+   "LIEFERANTENORT": "Frankfurt",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Titan Beschichtung SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.28",
+   "quote": "\"200027\";\"DE598077358\";\"Am Kanal 133\";\"60311\";\"Frankfurt\";\"DEU\";\"Titan Beschichtung SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 29,
+  "raw": "\"200028\";\"DE644911092\";\"Rheinstraße 123\";\"34117\";\"Kassel\";\"DEU\";\"Merkur Kunststoff GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200028",
+   "LIEFERANTENUSTIDNR": "DE644911092",
+   "LIEFERANTENSTRASSE": "Rheinstraße 123",
+   "LIEFERANTENPLZ": "34117",
+   "LIEFERANTENORT": "Kassel",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Merkur Kunststoff GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.29",
+   "quote": "\"200028\";\"DE644911092\";\"Rheinstraße 123\";\"34117\";\"Kassel\";\"DEU\";\"Merkur Kunststoff GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 30,
+  "raw": "\"200029\";\"DE532439431\";\"Rheinstraße 36\";\"66111\";\"Saarbrücken\";\"DEU\";\"West Logistik KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200029",
+   "LIEFERANTENUSTIDNR": "DE532439431",
+   "LIEFERANTENSTRASSE": "Rheinstraße 36",
+   "LIEFERANTENPLZ": "66111",
+   "LIEFERANTENORT": "Saarbrücken",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "West Logistik KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.30",
+   "quote": "\"200029\";\"DE532439431\";\"Rheinstraße 36\";\"66111\";\"Saarbrücken\";\"DEU\";\"West Logistik KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 31,
+  "raw": "\"200030\";\"DE661780961\";\"Industriestraße 41\";\"50667\";\"Köln\";\"DEU\";\"Pactum Maschinen e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200030",
+   "LIEFERANTENUSTIDNR": "DE661780961",
+   "LIEFERANTENSTRASSE": "Industriestraße 41",
+   "LIEFERANTENPLZ": "50667",
+   "LIEFERANTENORT": "Köln",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Pactum Maschinen e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.31",
+   "quote": "\"200030\";\"DE661780961\";\"Industriestraße 41\";\"50667\";\"Köln\";\"DEU\";\"Pactum Maschinen e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 32,
+  "raw": "\"200031\";\"DE996206339\";\"Feldweg 51\";\"66111\";\"Saarbrücken\";\"DEU\";\"Solum Industriebedarf e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200031",
+   "LIEFERANTENUSTIDNR": "DE996206339",
+   "LIEFERANTENSTRASSE": "Feldweg 51",
+   "LIEFERANTENPLZ": "66111",
+   "LIEFERANTENORT": "Saarbrücken",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Solum Industriebedarf e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.32",
+   "quote": "\"200031\";\"DE996206339\";\"Feldweg 51\";\"66111\";\"Saarbrücken\";\"DEU\";\"Solum Industriebedarf e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 33,
+  "raw": "\"200032\";\"DE272816805\";\"Marktplatz 77\";\"01067\";\"Dresden\";\"DEU\";\"Iris Karton GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200032",
+   "LIEFERANTENUSTIDNR": "DE272816805",
+   "LIEFERANTENSTRASSE": "Marktplatz 77",
+   "LIEFERANTENPLZ": "01067",
+   "LIEFERANTENORT": "Dresden",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Iris Karton GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.33",
+   "quote": "\"200032\";\"DE272816805\";\"Marktplatz 77\";\"01067\";\"Dresden\";\"DEU\";\"Iris Karton GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 34,
+  "raw": "\"200033\";\"DE649470924\";\"Industriestraße 125\";\"44135\";\"Dortmund\";\"DEU\";\"Aurora Formteile e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200033",
+   "LIEFERANTENUSTIDNR": "DE649470924",
+   "LIEFERANTENSTRASSE": "Industriestraße 125",
+   "LIEFERANTENPLZ": "44135",
+   "LIEFERANTENORT": "Dortmund",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Aurora Formteile e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.34",
+   "quote": "\"200033\";\"DE649470924\";\"Industriestraße 125\";\"44135\";\"Dortmund\";\"DEU\";\"Aurora Formteile e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 35,
+  "raw": "\"200034\";\"DE582881445\";\"Hauptstraße 81\";\"60311\";\"Frankfurt\";\"DEU\";\"Cives Transport GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200034",
+   "LIEFERANTENUSTIDNR": "DE582881445",
+   "LIEFERANTENSTRASSE": "Hauptstraße 81",
+   "LIEFERANTENPLZ": "60311",
+   "LIEFERANTENORT": "Frankfurt",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Cives Transport GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.35",
+   "quote": "\"200034\";\"DE582881445\";\"Hauptstraße 81\";\"60311\";\"Frankfurt\";\"DEU\";\"Cives Transport GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 36,
+  "raw": "\"200035\";\"DE261149727\";\"Ringstraße 177\";\"20095\";\"Hamburg\";\"DEU\";\"Fokus Handel GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200035",
+   "LIEFERANTENUSTIDNR": "DE261149727",
+   "LIEFERANTENSTRASSE": "Ringstraße 177",
+   "LIEFERANTENPLZ": "20095",
+   "LIEFERANTENORT": "Hamburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Fokus Handel GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.36",
+   "quote": "\"200035\";\"DE261149727\";\"Ringstraße 177\";\"20095\";\"Hamburg\";\"DEU\";\"Fokus Handel GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 37,
+  "raw": "\"200036\";\"DE772965022\";\"Am Kanal 27\";\"34117\";\"Kassel\";\"DEU\";\"Titan Recycling GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200036",
+   "LIEFERANTENUSTIDNR": "DE772965022",
+   "LIEFERANTENSTRASSE": "Am Kanal 27",
+   "LIEFERANTENPLZ": "34117",
+   "LIEFERANTENORT": "Kassel",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Titan Recycling GmbH & Co. KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.37",
+   "quote": "\"200036\";\"DE772965022\";\"Am Kanal 27\";\"34117\";\"Kassel\";\"DEU\";\"Titan Recycling GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 38,
+  "raw": "\"200037\";\"DE545846411\";\"Gewerbering 37\";\"90402\";\"Nürnberg\";\"DEU\";\"Kranich Chemie KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200037",
+   "LIEFERANTENUSTIDNR": "DE545846411",
+   "LIEFERANTENSTRASSE": "Gewerbering 37",
+   "LIEFERANTENPLZ": "90402",
+   "LIEFERANTENORT": "Nürnberg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Kranich Chemie KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.38",
+   "quote": "\"200037\";\"DE545846411\";\"Gewerbering 37\";\"90402\";\"Nürnberg\";\"DEU\";\"Kranich Chemie KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 39,
+  "raw": "\"200038\";\"DE465811967\";\"Ringstraße 199\";\"99084\";\"Erfurt\";\"DEU\";\"Titan Etiketten GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200038",
+   "LIEFERANTENUSTIDNR": "DE465811967",
+   "LIEFERANTENSTRASSE": "Ringstraße 199",
+   "LIEFERANTENPLZ": "99084",
+   "LIEFERANTENORT": "Erfurt",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Titan Etiketten GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.39",
+   "quote": "\"200038\";\"DE465811967\";\"Ringstraße 199\";\"99084\";\"Erfurt\";\"DEU\";\"Titan Etiketten GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 40,
+  "raw": "\"200039\";\"DE202135273\";\"Werkstraße 27\";\"39104\";\"Magdeburg\";\"DEU\";\"Corvus Formteile GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200039",
+   "LIEFERANTENUSTIDNR": "DE202135273",
+   "LIEFERANTENSTRASSE": "Werkstraße 27",
+   "LIEFERANTENPLZ": "39104",
+   "LIEFERANTENORT": "Magdeburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Corvus Formteile GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.40",
+   "quote": "\"200039\";\"DE202135273\";\"Werkstraße 27\";\"39104\";\"Magdeburg\";\"DEU\";\"Corvus Formteile GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 41,
+  "raw": "\"200040\";\"DE635220953\";\"Talstraße 130\";\"50667\";\"Köln\";\"DEU\";\"Merkur Handel GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200040",
+   "LIEFERANTENUSTIDNR": "DE635220953",
+   "LIEFERANTENSTRASSE": "Talstraße 130",
+   "LIEFERANTENPLZ": "50667",
+   "LIEFERANTENORT": "Köln",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Merkur Handel GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.41",
+   "quote": "\"200040\";\"DE635220953\";\"Talstraße 130\";\"50667\";\"Köln\";\"DEU\";\"Merkur Handel GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 42,
+  "raw": "\"200041\";\"DE957955143\";\"Carl-Benz-Straße 46\";\"99084\";\"Erfurt\";\"DEU\";\"Corvus Karton KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200041",
+   "LIEFERANTENUSTIDNR": "DE957955143",
+   "LIEFERANTENSTRASSE": "Carl-Benz-Straße 46",
+   "LIEFERANTENPLZ": "99084",
+   "LIEFERANTENORT": "Erfurt",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Corvus Karton KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.42",
+   "quote": "\"200041\";\"DE957955143\";\"Carl-Benz-Straße 46\";\"99084\";\"Erfurt\";\"DEU\";\"Corvus Karton KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 43,
+  "raw": "\"200042\";\"DE346544200\";\"Talstraße 88\";\"20095\";\"Hamburg\";\"DEU\";\"Orion Technik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200042",
+   "LIEFERANTENUSTIDNR": "DE346544200",
+   "LIEFERANTENSTRASSE": "Talstraße 88",
+   "LIEFERANTENPLZ": "20095",
+   "LIEFERANTENORT": "Hamburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Orion Technik GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.43",
+   "quote": "\"200042\";\"DE346544200\";\"Talstraße 88\";\"20095\";\"Hamburg\";\"DEU\";\"Orion Technik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 44,
+  "raw": "\"200043\";\"DE345765268\";\"Ringstraße 166\";\"34117\";\"Kassel\";\"DEU\";\"Delta Etiketten GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200043",
+   "LIEFERANTENUSTIDNR": "DE345765268",
+   "LIEFERANTENSTRASSE": "Ringstraße 166",
+   "LIEFERANTENPLZ": "34117",
+   "LIEFERANTENORT": "Kassel",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Delta Etiketten GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.44",
+   "quote": "\"200043\";\"DE345765268\";\"Ringstraße 166\";\"34117\";\"Kassel\";\"DEU\";\"Delta Etiketten GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 45,
+  "raw": "\"200044\";\"DE970035996\";\"Rheinstraße 192\";\"44135\";\"Dortmund\";\"DEU\";\"Delta Etiketten GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200044",
+   "LIEFERANTENUSTIDNR": "DE970035996",
+   "LIEFERANTENSTRASSE": "Rheinstraße 192",
+   "LIEFERANTENPLZ": "44135",
+   "LIEFERANTENORT": "Dortmund",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Delta Etiketten GmbH & Co. KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.45",
+   "quote": "\"200044\";\"DE970035996\";\"Rheinstraße 192\";\"44135\";\"Dortmund\";\"DEU\";\"Delta Etiketten GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 46,
+  "raw": "\"200045\";\"DE890863344\";\"Am Kanal 47\";\"20095\";\"Hamburg\";\"DEU\";\"Ost Industriebedarf GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200045",
+   "LIEFERANTENUSTIDNR": "DE890863344",
+   "LIEFERANTENSTRASSE": "Am Kanal 47",
+   "LIEFERANTENPLZ": "20095",
+   "LIEFERANTENORT": "Hamburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Ost Industriebedarf GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.46",
+   "quote": "\"200045\";\"DE890863344\";\"Am Kanal 47\";\"20095\";\"Hamburg\";\"DEU\";\"Ost Industriebedarf GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 47,
+  "raw": "\"200046\";\"DE509336273\";\"Gewerbering 115\";\"30159\";\"Hannover\";\"DEU\";\"Kronos Handel GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200046",
+   "LIEFERANTENUSTIDNR": "DE509336273",
+   "LIEFERANTENSTRASSE": "Gewerbering 115",
+   "LIEFERANTENPLZ": "30159",
+   "LIEFERANTENORT": "Hannover",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Kronos Handel GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.47",
+   "quote": "\"200046\";\"DE509336273\";\"Gewerbering 115\";\"30159\";\"Hannover\";\"DEU\";\"Kronos Handel GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 48,
+  "raw": "\"200047\";\"DE701055530\";\"Carl-Benz-Straße 62\";\"01067\";\"Dresden\";\"DEU\";\"Terra Verpackung SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200047",
+   "LIEFERANTENUSTIDNR": "DE701055530",
+   "LIEFERANTENSTRASSE": "Carl-Benz-Straße 62",
+   "LIEFERANTENPLZ": "01067",
+   "LIEFERANTENORT": "Dresden",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Terra Verpackung SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.48",
+   "quote": "\"200047\";\"DE701055530\";\"Carl-Benz-Straße 62\";\"01067\";\"Dresden\";\"DEU\";\"Terra Verpackung SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 49,
+  "raw": "\"200048\";\"DE320444289\";\"Bahnhofstraße 151\";\"01067\";\"Dresden\";\"DEU\";\"Vega Chemie GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200048",
+   "LIEFERANTENUSTIDNR": "DE320444289",
+   "LIEFERANTENSTRASSE": "Bahnhofstraße 151",
+   "LIEFERANTENPLZ": "01067",
+   "LIEFERANTENORT": "Dresden",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Vega Chemie GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.49",
+   "quote": "\"200048\";\"DE320444289\";\"Bahnhofstraße 151\";\"01067\";\"Dresden\";\"DEU\";\"Vega Chemie GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 50,
+  "raw": "\"200049\";\"DE728574454\";\"Gewerbering 79\";\"30159\";\"Hannover\";\"DEU\";\"Aurora Technik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200049",
+   "LIEFERANTENUSTIDNR": "DE728574454",
+   "LIEFERANTENSTRASSE": "Gewerbering 79",
+   "LIEFERANTENPLZ": "30159",
+   "LIEFERANTENORT": "Hannover",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Aurora Technik GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.50",
+   "quote": "\"200049\";\"DE728574454\";\"Gewerbering 79\";\"30159\";\"Hannover\";\"DEU\";\"Aurora Technik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 51,
+  "raw": "\"200050\";\"DE126298636\";\"Marktplatz 104\";\"70173\";\"Stuttgart\";\"DEU\";\"Titan Technik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200050",
+   "LIEFERANTENUSTIDNR": "DE126298636",
+   "LIEFERANTENSTRASSE": "Marktplatz 104",
+   "LIEFERANTENPLZ": "70173",
+   "LIEFERANTENORT": "Stuttgart",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Titan Technik GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.51",
+   "quote": "\"200050\";\"DE126298636\";\"Marktplatz 104\";\"70173\";\"Stuttgart\";\"DEU\";\"Titan Technik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 52,
+  "raw": "\"200051\";\"DE835660838\";\"Am Kanal 148\";\"28195\";\"Bremen\";\"DEU\";\"Corvus Transport SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200051",
+   "LIEFERANTENUSTIDNR": "DE835660838",
+   "LIEFERANTENSTRASSE": "Am Kanal 148",
+   "LIEFERANTENPLZ": "28195",
+   "LIEFERANTENORT": "Bremen",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Corvus Transport SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.52",
+   "quote": "\"200051\";\"DE835660838\";\"Am Kanal 148\";\"28195\";\"Bremen\";\"DEU\";\"Corvus Transport SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 53,
+  "raw": "\"200052\";\"DE804032228\";\"Industriestraße 181\";\"60311\";\"Frankfurt\";\"DEU\";\"Solum Chemie GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200052",
+   "LIEFERANTENUSTIDNR": "DE804032228",
+   "LIEFERANTENSTRASSE": "Industriestraße 181",
+   "LIEFERANTENPLZ": "60311",
+   "LIEFERANTENORT": "Frankfurt",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Solum Chemie GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.53",
+   "quote": "\"200052\";\"DE804032228\";\"Industriestraße 181\";\"60311\";\"Frankfurt\";\"DEU\";\"Solum Chemie GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 54,
+  "raw": "\"200053\";\"DE631235765\";\"Am Hafen 178\";\"20095\";\"Hamburg\";\"DEU\";\"Castor Industriebedarf SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200053",
+   "LIEFERANTENUSTIDNR": "DE631235765",
+   "LIEFERANTENSTRASSE": "Am Hafen 178",
+   "LIEFERANTENPLZ": "20095",
+   "LIEFERANTENORT": "Hamburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Castor Industriebedarf SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.54",
+   "quote": "\"200053\";\"DE631235765\";\"Am Hafen 178\";\"20095\";\"Hamburg\";\"DEU\";\"Castor Industriebedarf SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 55,
+  "raw": "\"200054\";\"DE158036909\";\"Werkstraße 65\";\"70173\";\"Stuttgart\";\"DEU\";\"Saturn Folien GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200054",
+   "LIEFERANTENUSTIDNR": "DE158036909",
+   "LIEFERANTENSTRASSE": "Werkstraße 65",
+   "LIEFERANTENPLZ": "70173",
+   "LIEFERANTENORT": "Stuttgart",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Saturn Folien GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.55",
+   "quote": "\"200054\";\"DE158036909\";\"Werkstraße 65\";\"70173\";\"Stuttgart\";\"DEU\";\"Saturn Folien GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 56,
+  "raw": "\"200055\";\"DE200927147\";\"Carl-Benz-Straße 190\";\"90402\";\"Nürnberg\";\"DEU\";\"Ost Kunststoff AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200055",
+   "LIEFERANTENUSTIDNR": "DE200927147",
+   "LIEFERANTENSTRASSE": "Carl-Benz-Straße 190",
+   "LIEFERANTENPLZ": "90402",
+   "LIEFERANTENORT": "Nürnberg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Ost Kunststoff AG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.56",
+   "quote": "\"200055\";\"DE200927147\";\"Carl-Benz-Straße 190\";\"90402\";\"Nürnberg\";\"DEU\";\"Ost Kunststoff AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 57,
+  "raw": "\"200056\";\"DE130978966\";\"Carl-Benz-Straße 176\";\"60311\";\"Frankfurt\";\"DEU\";\"Nova Technik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200056",
+   "LIEFERANTENUSTIDNR": "DE130978966",
+   "LIEFERANTENSTRASSE": "Carl-Benz-Straße 176",
+   "LIEFERANTENPLZ": "60311",
+   "LIEFERANTENORT": "Frankfurt",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Nova Technik GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.57",
+   "quote": "\"200056\";\"DE130978966\";\"Carl-Benz-Straße 176\";\"60311\";\"Frankfurt\";\"DEU\";\"Nova Technik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 58,
+  "raw": "\"200057\";\"DE621041436\";\"Am Kanal 31\";\"60311\";\"Frankfurt\";\"DEU\";\"Saturn Maschinen GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200057",
+   "LIEFERANTENUSTIDNR": "DE621041436",
+   "LIEFERANTENSTRASSE": "Am Kanal 31",
+   "LIEFERANTENPLZ": "60311",
+   "LIEFERANTENORT": "Frankfurt",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Saturn Maschinen GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.58",
+   "quote": "\"200057\";\"DE621041436\";\"Am Kanal 31\";\"60311\";\"Frankfurt\";\"DEU\";\"Saturn Maschinen GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 59,
+  "raw": "\"200058\";\"DE482777424\";\"Bahnhofstraße 56\";\"07743\";\"Jena\";\"DEU\";\"Alpha Werkstoffe GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200058",
+   "LIEFERANTENUSTIDNR": "DE482777424",
+   "LIEFERANTENSTRASSE": "Bahnhofstraße 56",
+   "LIEFERANTENPLZ": "07743",
+   "LIEFERANTENORT": "Jena",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Alpha Werkstoffe GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.59",
+   "quote": "\"200058\";\"DE482777424\";\"Bahnhofstraße 56\";\"07743\";\"Jena\";\"DEU\";\"Alpha Werkstoffe GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 60,
+  "raw": "\"200059\";\"DE699996218\";\"Carl-Benz-Straße 97\";\"40210\";\"Düsseldorf\";\"DEU\";\"Lupus Handel SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200059",
+   "LIEFERANTENUSTIDNR": "DE699996218",
+   "LIEFERANTENSTRASSE": "Carl-Benz-Straße 97",
+   "LIEFERANTENPLZ": "40210",
+   "LIEFERANTENORT": "Düsseldorf",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Lupus Handel SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.60",
+   "quote": "\"200059\";\"DE699996218\";\"Carl-Benz-Straße 97\";\"40210\";\"Düsseldorf\";\"DEU\";\"Lupus Handel SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 61,
+  "raw": "\"200060\";\"DE753646071\";\"Am Kanal 194\";\"50667\";\"Köln\";\"DEU\";\"Merkur Chemie KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200060",
+   "LIEFERANTENUSTIDNR": "DE753646071",
+   "LIEFERANTENSTRASSE": "Am Kanal 194",
+   "LIEFERANTENPLZ": "50667",
+   "LIEFERANTENORT": "Köln",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Merkur Chemie KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.61",
+   "quote": "\"200060\";\"DE753646071\";\"Am Kanal 194\";\"50667\";\"Köln\";\"DEU\";\"Merkur Chemie KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 62,
+  "raw": "\"200061\";\"DE317993999\";\"Gewerbering 181\";\"99084\";\"Erfurt\";\"DEU\";\"Iris Etiketten SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200061",
+   "LIEFERANTENUSTIDNR": "DE317993999",
+   "LIEFERANTENSTRASSE": "Gewerbering 181",
+   "LIEFERANTENPLZ": "99084",
+   "LIEFERANTENORT": "Erfurt",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Iris Etiketten SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.62",
+   "quote": "\"200061\";\"DE317993999\";\"Gewerbering 181\";\"99084\";\"Erfurt\";\"DEU\";\"Iris Etiketten SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 63,
+  "raw": "\"200062\";\"DE592740260\";\"Gewerbering 2\";\"20095\";\"Hamburg\";\"DEU\";\"Pactum Industriebedarf GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200062",
+   "LIEFERANTENUSTIDNR": "DE592740260",
+   "LIEFERANTENSTRASSE": "Gewerbering 2",
+   "LIEFERANTENPLZ": "20095",
+   "LIEFERANTENORT": "Hamburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Pactum Industriebedarf GmbH & Co. KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.63",
+   "quote": "\"200062\";\"DE592740260\";\"Gewerbering 2\";\"20095\";\"Hamburg\";\"DEU\";\"Pactum Industriebedarf GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 64,
+  "raw": "\"200063\";\"DE577723181\";\"Bahnhofstraße 167\";\"20095\";\"Hamburg\";\"DEU\";\"Titan Verpackung GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200063",
+   "LIEFERANTENUSTIDNR": "DE577723181",
+   "LIEFERANTENSTRASSE": "Bahnhofstraße 167",
+   "LIEFERANTENPLZ": "20095",
+   "LIEFERANTENORT": "Hamburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Titan Verpackung GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.64",
+   "quote": "\"200063\";\"DE577723181\";\"Bahnhofstraße 167\";\"20095\";\"Hamburg\";\"DEU\";\"Titan Verpackung GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 65,
+  "raw": "\"200064\";\"DE695075786\";\"Talstraße 149\";\"01067\";\"Dresden\";\"DEU\";\"Titan Papier GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200064",
+   "LIEFERANTENUSTIDNR": "DE695075786",
+   "LIEFERANTENSTRASSE": "Talstraße 149",
+   "LIEFERANTENPLZ": "01067",
+   "LIEFERANTENORT": "Dresden",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Titan Papier GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.65",
+   "quote": "\"200064\";\"DE695075786\";\"Talstraße 149\";\"01067\";\"Dresden\";\"DEU\";\"Titan Papier GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 66,
+  "raw": "\"200065\";\"DE262245668\";\"Marktplatz 81\";\"20095\";\"Hamburg\";\"DEU\";\"Reiher Kunststoff GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200065",
+   "LIEFERANTENUSTIDNR": "DE262245668",
+   "LIEFERANTENSTRASSE": "Marktplatz 81",
+   "LIEFERANTENPLZ": "20095",
+   "LIEFERANTENORT": "Hamburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Reiher Kunststoff GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.66",
+   "quote": "\"200065\";\"DE262245668\";\"Marktplatz 81\";\"20095\";\"Hamburg\";\"DEU\";\"Reiher Kunststoff GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 67,
+  "raw": "\"200066\";\"DE169931784\";\"Ringstraße 195\";\"99084\";\"Erfurt\";\"DEU\";\"Castor Transport KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200066",
+   "LIEFERANTENUSTIDNR": "DE169931784",
+   "LIEFERANTENSTRASSE": "Ringstraße 195",
+   "LIEFERANTENPLZ": "99084",
+   "LIEFERANTENORT": "Erfurt",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Castor Transport KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.67",
+   "quote": "\"200066\";\"DE169931784\";\"Ringstraße 195\";\"99084\";\"Erfurt\";\"DEU\";\"Castor Transport KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 68,
+  "raw": "\"200067\";\"DE253617152\";\"Hauptstraße 32\";\"39104\";\"Magdeburg\";\"DEU\";\"Ost Recycling GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200067",
+   "LIEFERANTENUSTIDNR": "DE253617152",
+   "LIEFERANTENSTRASSE": "Hauptstraße 32",
+   "LIEFERANTENPLZ": "39104",
+   "LIEFERANTENORT": "Magdeburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Ost Recycling GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.68",
+   "quote": "\"200067\";\"DE253617152\";\"Hauptstraße 32\";\"39104\";\"Magdeburg\";\"DEU\";\"Ost Recycling GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 69,
+  "raw": "\"200068\";\"DE408050892\";\"Talstraße 151\";\"90402\";\"Nürnberg\";\"DEU\";\"Corvus Systeme GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200068",
+   "LIEFERANTENUSTIDNR": "DE408050892",
+   "LIEFERANTENSTRASSE": "Talstraße 151",
+   "LIEFERANTENPLZ": "90402",
+   "LIEFERANTENORT": "Nürnberg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Corvus Systeme GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.69",
+   "quote": "\"200068\";\"DE408050892\";\"Talstraße 151\";\"90402\";\"Nürnberg\";\"DEU\";\"Corvus Systeme GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 70,
+  "raw": "\"200069\";\"DE618094060\";\"Am Hafen 15\";\"04109\";\"Leipzig\";\"DEU\";\"Ost Folien e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200069",
+   "LIEFERANTENUSTIDNR": "DE618094060",
+   "LIEFERANTENSTRASSE": "Am Hafen 15",
+   "LIEFERANTENPLZ": "04109",
+   "LIEFERANTENORT": "Leipzig",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Ost Folien e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.70",
+   "quote": "\"200069\";\"DE618094060\";\"Am Hafen 15\";\"04109\";\"Leipzig\";\"DEU\";\"Ost Folien e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 71,
+  "raw": "\"200070\";\"DE277564441\";\"Am Kanal 99\";\"04109\";\"Leipzig\";\"DEU\";\"Kronos Etiketten e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200070",
+   "LIEFERANTENUSTIDNR": "DE277564441",
+   "LIEFERANTENSTRASSE": "Am Kanal 99",
+   "LIEFERANTENPLZ": "04109",
+   "LIEFERANTENORT": "Leipzig",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Kronos Etiketten e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.71",
+   "quote": "\"200070\";\"DE277564441\";\"Am Kanal 99\";\"04109\";\"Leipzig\";\"DEU\";\"Kronos Etiketten e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 72,
+  "raw": "\"200071\";\"DE699135638\";\"Gewerbering 164\";\"45127\";\"Essen\";\"DEU\";\"Pactum Handel GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200071",
+   "LIEFERANTENUSTIDNR": "DE699135638",
+   "LIEFERANTENSTRASSE": "Gewerbering 164",
+   "LIEFERANTENPLZ": "45127",
+   "LIEFERANTENORT": "Essen",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Pactum Handel GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.72",
+   "quote": "\"200071\";\"DE699135638\";\"Gewerbering 164\";\"45127\";\"Essen\";\"DEU\";\"Pactum Handel GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 73,
+  "raw": "\"200072\";\"DE158698677\";\"Bahnhofstraße 109\";\"07743\";\"Jena\";\"DEU\";\"Cives Handel KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200072",
+   "LIEFERANTENUSTIDNR": "DE158698677",
+   "LIEFERANTENSTRASSE": "Bahnhofstraße 109",
+   "LIEFERANTENPLZ": "07743",
+   "LIEFERANTENORT": "Jena",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Cives Handel KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.73",
+   "quote": "\"200072\";\"DE158698677\";\"Bahnhofstraße 109\";\"07743\";\"Jena\";\"DEU\";\"Cives Handel KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 74,
+  "raw": "\"200073\";\"DE931725258\";\"Bahnhofstraße 39\";\"66111\";\"Saarbrücken\";\"DEU\";\"Cives Handel GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200073",
+   "LIEFERANTENUSTIDNR": "DE931725258",
+   "LIEFERANTENSTRASSE": "Bahnhofstraße 39",
+   "LIEFERANTENPLZ": "66111",
+   "LIEFERANTENORT": "Saarbrücken",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Cives Handel GmbH & Co. KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.74",
+   "quote": "\"200073\";\"DE931725258\";\"Bahnhofstraße 39\";\"66111\";\"Saarbrücken\";\"DEU\";\"Cives Handel GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 75,
+  "raw": "\"200074\";\"DE674590757\";\"Rheinstraße 42\";\"90402\";\"Nürnberg\";\"DEU\";\"Delta Kunststoff GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200074",
+   "LIEFERANTENUSTIDNR": "DE674590757",
+   "LIEFERANTENSTRASSE": "Rheinstraße 42",
+   "LIEFERANTENPLZ": "90402",
+   "LIEFERANTENORT": "Nürnberg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Delta Kunststoff GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.75",
+   "quote": "\"200074\";\"DE674590757\";\"Rheinstraße 42\";\"90402\";\"Nürnberg\";\"DEU\";\"Delta Kunststoff GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 76,
+  "raw": "\"200075\";\"DE789435807\";\"Marktplatz 14\";\"80331\";\"München\";\"DEU\";\"Delta Logistik SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200075",
+   "LIEFERANTENUSTIDNR": "DE789435807",
+   "LIEFERANTENSTRASSE": "Marktplatz 14",
+   "LIEFERANTENPLZ": "80331",
+   "LIEFERANTENORT": "München",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Delta Logistik SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.76",
+   "quote": "\"200075\";\"DE789435807\";\"Marktplatz 14\";\"80331\";\"München\";\"DEU\";\"Delta Logistik SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 77,
+  "raw": "\"200076\";\"DE828250846\";\"Feldweg 155\";\"44135\";\"Dortmund\";\"DEU\";\"Alpha Beschichtung e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200076",
+   "LIEFERANTENUSTIDNR": "DE828250846",
+   "LIEFERANTENSTRASSE": "Feldweg 155",
+   "LIEFERANTENPLZ": "44135",
+   "LIEFERANTENORT": "Dortmund",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Alpha Beschichtung e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.77",
+   "quote": "\"200076\";\"DE828250846\";\"Feldweg 155\";\"44135\";\"Dortmund\";\"DEU\";\"Alpha Beschichtung e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 78,
+  "raw": "\"200077\";\"DE890524894\";\"Am Hafen 28\";\"90402\";\"Nürnberg\";\"DEU\";\"Alpha Transport AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200077",
+   "LIEFERANTENUSTIDNR": "DE890524894",
+   "LIEFERANTENSTRASSE": "Am Hafen 28",
+   "LIEFERANTENPLZ": "90402",
+   "LIEFERANTENORT": "Nürnberg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Alpha Transport AG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.78",
+   "quote": "\"200077\";\"DE890524894\";\"Am Hafen 28\";\"90402\";\"Nürnberg\";\"DEU\";\"Alpha Transport AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 79,
+  "raw": "\"200078\";\"DE469182851\";\"Werkstraße 185\";\"90402\";\"Nürnberg\";\"DEU\";\"Cives Technik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200078",
+   "LIEFERANTENUSTIDNR": "DE469182851",
+   "LIEFERANTENSTRASSE": "Werkstraße 185",
+   "LIEFERANTENPLZ": "90402",
+   "LIEFERANTENORT": "Nürnberg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Cives Technik GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.79",
+   "quote": "\"200078\";\"DE469182851\";\"Werkstraße 185\";\"90402\";\"Nürnberg\";\"DEU\";\"Cives Technik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 80,
+  "raw": "\"200079\";\"DE278207432\";\"Industriestraße 179\";\"30159\";\"Hannover\";\"DEU\";\"Titan Papier AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200079",
+   "LIEFERANTENUSTIDNR": "DE278207432",
+   "LIEFERANTENSTRASSE": "Industriestraße 179",
+   "LIEFERANTENPLZ": "30159",
+   "LIEFERANTENORT": "Hannover",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Titan Papier AG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.80",
+   "quote": "\"200079\";\"DE278207432\";\"Industriestraße 179\";\"30159\";\"Hannover\";\"DEU\";\"Titan Papier AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 81,
+  "raw": "\"200080\";\"DE968941615\";\"Rheinstraße 144\";\"50667\";\"Köln\";\"DEU\";\"Pactum Transport e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200080",
+   "LIEFERANTENUSTIDNR": "DE968941615",
+   "LIEFERANTENSTRASSE": "Rheinstraße 144",
+   "LIEFERANTENPLZ": "50667",
+   "LIEFERANTENORT": "Köln",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Pactum Transport e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.81",
+   "quote": "\"200080\";\"DE968941615\";\"Rheinstraße 144\";\"50667\";\"Köln\";\"DEU\";\"Pactum Transport e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 82,
+  "raw": "\"200081\";\"DE951370783\";\"Marktplatz 87\";\"18055\";\"Rostock\";\"DEU\";\"Orion Maschinen GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200081",
+   "LIEFERANTENUSTIDNR": "DE951370783",
+   "LIEFERANTENSTRASSE": "Marktplatz 87",
+   "LIEFERANTENPLZ": "18055",
+   "LIEFERANTENORT": "Rostock",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Orion Maschinen GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.82",
+   "quote": "\"200081\";\"DE951370783\";\"Marktplatz 87\";\"18055\";\"Rostock\";\"DEU\";\"Orion Maschinen GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 83,
+  "raw": "\"200082\";\"DE892970660\";\"Lindenallee 113\";\"40210\";\"Düsseldorf\";\"DEU\";\"Fokus Industriebedarf GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200082",
+   "LIEFERANTENUSTIDNR": "DE892970660",
+   "LIEFERANTENSTRASSE": "Lindenallee 113",
+   "LIEFERANTENPLZ": "40210",
+   "LIEFERANTENORT": "Düsseldorf",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Fokus Industriebedarf GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.83",
+   "quote": "\"200082\";\"DE892970660\";\"Lindenallee 113\";\"40210\";\"Düsseldorf\";\"DEU\";\"Fokus Industriebedarf GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 84,
+  "raw": "\"200083\";\"DE107284686\";\"Hauptstraße 51\";\"55116\";\"Mainz\";\"DEU\";\"Castor Chemie GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200083",
+   "LIEFERANTENUSTIDNR": "DE107284686",
+   "LIEFERANTENSTRASSE": "Hauptstraße 51",
+   "LIEFERANTENPLZ": "55116",
+   "LIEFERANTENORT": "Mainz",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Castor Chemie GmbH & Co. KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.84",
+   "quote": "\"200083\";\"DE107284686\";\"Hauptstraße 51\";\"55116\";\"Mainz\";\"DEU\";\"Castor Chemie GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 85,
+  "raw": "\"200084\";\"DE899240329\";\"Bahnhofstraße 69\";\"60311\";\"Frankfurt\";\"DEU\";\"Ratio Druck SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200084",
+   "LIEFERANTENUSTIDNR": "DE899240329",
+   "LIEFERANTENSTRASSE": "Bahnhofstraße 69",
+   "LIEFERANTENPLZ": "60311",
+   "LIEFERANTENORT": "Frankfurt",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Ratio Druck SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.85",
+   "quote": "\"200084\";\"DE899240329\";\"Bahnhofstraße 69\";\"60311\";\"Frankfurt\";\"DEU\";\"Ratio Druck SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 86,
+  "raw": "\"200085\";\"DE114857945\";\"Bahnhofstraße 22\";\"80331\";\"München\";\"DEU\";\"Orion Logistik AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200085",
+   "LIEFERANTENUSTIDNR": "DE114857945",
+   "LIEFERANTENSTRASSE": "Bahnhofstraße 22",
+   "LIEFERANTENPLZ": "80331",
+   "LIEFERANTENORT": "München",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Orion Logistik AG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.86",
+   "quote": "\"200085\";\"DE114857945\";\"Bahnhofstraße 22\";\"80331\";\"München\";\"DEU\";\"Orion Logistik AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 87,
+  "raw": "\"200086\";\"DE193326187\";\"Werkstraße 152\";\"28195\";\"Bremen\";\"DEU\";\"Adler Papier GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200086",
+   "LIEFERANTENUSTIDNR": "DE193326187",
+   "LIEFERANTENSTRASSE": "Werkstraße 152",
+   "LIEFERANTENPLZ": "28195",
+   "LIEFERANTENORT": "Bremen",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Adler Papier GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.87",
+   "quote": "\"200086\";\"DE193326187\";\"Werkstraße 152\";\"28195\";\"Bremen\";\"DEU\";\"Adler Papier GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 88,
+  "raw": "\"200087\";\"DE559167720\";\"Bahnhofstraße 193\";\"18055\";\"Rostock\";\"DEU\";\"Pollux Werkstoffe GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200087",
+   "LIEFERANTENUSTIDNR": "DE559167720",
+   "LIEFERANTENSTRASSE": "Bahnhofstraße 193",
+   "LIEFERANTENPLZ": "18055",
+   "LIEFERANTENORT": "Rostock",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Pollux Werkstoffe GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.88",
+   "quote": "\"200087\";\"DE559167720\";\"Bahnhofstraße 193\";\"18055\";\"Rostock\";\"DEU\";\"Pollux Werkstoffe GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 89,
+  "raw": "\"200088\";\"DE881817492\";\"Lindenallee 26\";\"90402\";\"Nürnberg\";\"DEU\";\"Saturn Recycling GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200088",
+   "LIEFERANTENUSTIDNR": "DE881817492",
+   "LIEFERANTENSTRASSE": "Lindenallee 26",
+   "LIEFERANTENPLZ": "90402",
+   "LIEFERANTENORT": "Nürnberg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Saturn Recycling GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.89",
+   "quote": "\"200088\";\"DE881817492\";\"Lindenallee 26\";\"90402\";\"Nürnberg\";\"DEU\";\"Saturn Recycling GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 90,
+  "raw": "\"200089\";\"DE248132660\";\"Hauptstraße 6\";\"50667\";\"Köln\";\"DEU\";\"Nova Transport GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200089",
+   "LIEFERANTENUSTIDNR": "DE248132660",
+   "LIEFERANTENSTRASSE": "Hauptstraße 6",
+   "LIEFERANTENPLZ": "50667",
+   "LIEFERANTENORT": "Köln",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Nova Transport GmbH & Co. KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.90",
+   "quote": "\"200089\";\"DE248132660\";\"Hauptstraße 6\";\"50667\";\"Köln\";\"DEU\";\"Nova Transport GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 91,
+  "raw": "\"200090\";\"DE913060726\";\"Marktplatz 180\";\"40210\";\"Düsseldorf\";\"DEU\";\"Pactum Chemie SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200090",
+   "LIEFERANTENUSTIDNR": "DE913060726",
+   "LIEFERANTENSTRASSE": "Marktplatz 180",
+   "LIEFERANTENPLZ": "40210",
+   "LIEFERANTENORT": "Düsseldorf",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Pactum Chemie SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.91",
+   "quote": "\"200090\";\"DE913060726\";\"Marktplatz 180\";\"40210\";\"Düsseldorf\";\"DEU\";\"Pactum Chemie SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 92,
+  "raw": "\"200091\";\"DE237652100\";\"Lindenallee 6\";\"45127\";\"Essen\";\"DEU\";\"Nova Recycling AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200091",
+   "LIEFERANTENUSTIDNR": "DE237652100",
+   "LIEFERANTENSTRASSE": "Lindenallee 6",
+   "LIEFERANTENPLZ": "45127",
+   "LIEFERANTENORT": "Essen",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Nova Recycling AG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.92",
+   "quote": "\"200091\";\"DE237652100\";\"Lindenallee 6\";\"45127\";\"Essen\";\"DEU\";\"Nova Recycling AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 93,
+  "raw": "\"200092\";\"DE597614525\";\"Ringstraße 31\";\"90402\";\"Nürnberg\";\"DEU\";\"Titan Verpackung KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200092",
+   "LIEFERANTENUSTIDNR": "DE597614525",
+   "LIEFERANTENSTRASSE": "Ringstraße 31",
+   "LIEFERANTENPLZ": "90402",
+   "LIEFERANTENORT": "Nürnberg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Titan Verpackung KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.93",
+   "quote": "\"200092\";\"DE597614525\";\"Ringstraße 31\";\"90402\";\"Nürnberg\";\"DEU\";\"Titan Verpackung KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 94,
+  "raw": "\"200093\";\"DE426418253\";\"Ringstraße 47\";\"80331\";\"München\";\"DEU\";\"Pactum Druck GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200093",
+   "LIEFERANTENUSTIDNR": "DE426418253",
+   "LIEFERANTENSTRASSE": "Ringstraße 47",
+   "LIEFERANTENPLZ": "80331",
+   "LIEFERANTENORT": "München",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Pactum Druck GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.94",
+   "quote": "\"200093\";\"DE426418253\";\"Ringstraße 47\";\"80331\";\"München\";\"DEU\";\"Pactum Druck GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 95,
+  "raw": "\"200094\";\"DE676151691\";\"Talstraße 145\";\"20095\";\"Hamburg\";\"DEU\";\"Solum Handel e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200094",
+   "LIEFERANTENUSTIDNR": "DE676151691",
+   "LIEFERANTENSTRASSE": "Talstraße 145",
+   "LIEFERANTENPLZ": "20095",
+   "LIEFERANTENORT": "Hamburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Solum Handel e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.95",
+   "quote": "\"200094\";\"DE676151691\";\"Talstraße 145\";\"20095\";\"Hamburg\";\"DEU\";\"Solum Handel e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 96,
+  "raw": "\"200095\";\"DE264940043\";\"Gewerbering 91\";\"04109\";\"Leipzig\";\"DEU\";\"Cives Beschichtung SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200095",
+   "LIEFERANTENUSTIDNR": "DE264940043",
+   "LIEFERANTENSTRASSE": "Gewerbering 91",
+   "LIEFERANTENPLZ": "04109",
+   "LIEFERANTENORT": "Leipzig",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Cives Beschichtung SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.96",
+   "quote": "\"200095\";\"DE264940043\";\"Gewerbering 91\";\"04109\";\"Leipzig\";\"DEU\";\"Cives Beschichtung SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 97,
+  "raw": "\"200096\";\"DE974784361\";\"Gewerbering 61\";\"66111\";\"Saarbrücken\";\"DEU\";\"Terra Beschichtung GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200096",
+   "LIEFERANTENUSTIDNR": "DE974784361",
+   "LIEFERANTENSTRASSE": "Gewerbering 61",
+   "LIEFERANTENPLZ": "66111",
+   "LIEFERANTENORT": "Saarbrücken",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Terra Beschichtung GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.97",
+   "quote": "\"200096\";\"DE974784361\";\"Gewerbering 61\";\"66111\";\"Saarbrücken\";\"DEU\";\"Terra Beschichtung GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 98,
+  "raw": "\"200097\";\"DE170236580\";\"Feldweg 63\";\"20095\";\"Hamburg\";\"DEU\";\"Saturn Distribution e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200097",
+   "LIEFERANTENUSTIDNR": "DE170236580",
+   "LIEFERANTENSTRASSE": "Feldweg 63",
+   "LIEFERANTENPLZ": "20095",
+   "LIEFERANTENORT": "Hamburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Saturn Distribution e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.98",
+   "quote": "\"200097\";\"DE170236580\";\"Feldweg 63\";\"20095\";\"Hamburg\";\"DEU\";\"Saturn Distribution e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 99,
+  "raw": "\"200098\";\"DE148575963\";\"Feldweg 119\";\"20095\";\"Hamburg\";\"DEU\";\"Prisma Systeme GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200098",
+   "LIEFERANTENUSTIDNR": "DE148575963",
+   "LIEFERANTENSTRASSE": "Feldweg 119",
+   "LIEFERANTENPLZ": "20095",
+   "LIEFERANTENORT": "Hamburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Prisma Systeme GmbH & Co. KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.99",
+   "quote": "\"200098\";\"DE148575963\";\"Feldweg 119\";\"20095\";\"Hamburg\";\"DEU\";\"Prisma Systeme GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 100,
+  "raw": "\"200099\";\"DE350531422\";\"Carl-Benz-Straße 54\";\"44135\";\"Dortmund\";\"DEU\";\"Nova Systeme SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200099",
+   "LIEFERANTENUSTIDNR": "DE350531422",
+   "LIEFERANTENSTRASSE": "Carl-Benz-Straße 54",
+   "LIEFERANTENPLZ": "44135",
+   "LIEFERANTENORT": "Dortmund",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Nova Systeme SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.100",
+   "quote": "\"200099\";\"DE350531422\";\"Carl-Benz-Straße 54\";\"44135\";\"Dortmund\";\"DEU\";\"Nova Systeme SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 101,
+  "raw": "\"200100\";\"DE731066525\";\"Hauptstraße 84\";\"20095\";\"Hamburg\";\"DEU\";\"Pollux Verpackung e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200100",
+   "LIEFERANTENUSTIDNR": "DE731066525",
+   "LIEFERANTENSTRASSE": "Hauptstraße 84",
+   "LIEFERANTENPLZ": "20095",
+   "LIEFERANTENORT": "Hamburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Pollux Verpackung e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.101",
+   "quote": "\"200100\";\"DE731066525\";\"Hauptstraße 84\";\"20095\";\"Hamburg\";\"DEU\";\"Pollux Verpackung e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 102,
+  "raw": "\"200101\";\"DE347668476\";\"Industriestraße 74\";\"40210\";\"Düsseldorf\";\"DEU\";\"Prisma Etiketten SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200101",
+   "LIEFERANTENUSTIDNR": "DE347668476",
+   "LIEFERANTENSTRASSE": "Industriestraße 74",
+   "LIEFERANTENPLZ": "40210",
+   "LIEFERANTENORT": "Düsseldorf",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Prisma Etiketten SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.102",
+   "quote": "\"200101\";\"DE347668476\";\"Industriestraße 74\";\"40210\";\"Düsseldorf\";\"DEU\";\"Prisma Etiketten SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 103,
+  "raw": "\"200102\";\"DE381953763\";\"Talstraße 112\";\"28195\";\"Bremen\";\"DEU\";\"Orion Maschinen e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200102",
+   "LIEFERANTENUSTIDNR": "DE381953763",
+   "LIEFERANTENSTRASSE": "Talstraße 112",
+   "LIEFERANTENPLZ": "28195",
+   "LIEFERANTENORT": "Bremen",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Orion Maschinen e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.103",
+   "quote": "\"200102\";\"DE381953763\";\"Talstraße 112\";\"28195\";\"Bremen\";\"DEU\";\"Orion Maschinen e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 104,
+  "raw": "\"200103\";\"DE391610961\";\"Feldweg 175\";\"07743\";\"Jena\";\"DEU\";\"Omega Recycling GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200103",
+   "LIEFERANTENUSTIDNR": "DE391610961",
+   "LIEFERANTENSTRASSE": "Feldweg 175",
+   "LIEFERANTENPLZ": "07743",
+   "LIEFERANTENORT": "Jena",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Omega Recycling GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.104",
+   "quote": "\"200103\";\"DE391610961\";\"Feldweg 175\";\"07743\";\"Jena\";\"DEU\";\"Omega Recycling GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 105,
+  "raw": "\"200104\";\"DE491824610\";\"Lindenallee 111\";\"07743\";\"Jena\";\"DEU\";\"Kronos Verpackung AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200104",
+   "LIEFERANTENUSTIDNR": "DE491824610",
+   "LIEFERANTENSTRASSE": "Lindenallee 111",
+   "LIEFERANTENPLZ": "07743",
+   "LIEFERANTENORT": "Jena",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Kronos Verpackung AG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.105",
+   "quote": "\"200104\";\"DE491824610\";\"Lindenallee 111\";\"07743\";\"Jena\";\"DEU\";\"Kronos Verpackung AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 106,
+  "raw": "\"200105\";\"DE791818034\";\"Robert-Bosch-Straße 61\";\"99084\";\"Erfurt\";\"DEU\";\"Castor Recycling GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200105",
+   "LIEFERANTENUSTIDNR": "DE791818034",
+   "LIEFERANTENSTRASSE": "Robert-Bosch-Straße 61",
+   "LIEFERANTENPLZ": "99084",
+   "LIEFERANTENORT": "Erfurt",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Castor Recycling GmbH & Co. KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.106",
+   "quote": "\"200105\";\"DE791818034\";\"Robert-Bosch-Straße 61\";\"99084\";\"Erfurt\";\"DEU\";\"Castor Recycling GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 107,
+  "raw": "\"200106\";\"DE250685045\";\"Feldweg 55\";\"55116\";\"Mainz\";\"DEU\";\"Vega Werkstoffe AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200106",
+   "LIEFERANTENUSTIDNR": "DE250685045",
+   "LIEFERANTENSTRASSE": "Feldweg 55",
+   "LIEFERANTENPLZ": "55116",
+   "LIEFERANTENORT": "Mainz",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Vega Werkstoffe AG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.107",
+   "quote": "\"200106\";\"DE250685045\";\"Feldweg 55\";\"55116\";\"Mainz\";\"DEU\";\"Vega Werkstoffe AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 108,
+  "raw": "\"200107\";\"DE741310237\";\"Rheinstraße 45\";\"04109\";\"Leipzig\";\"DEU\";\"Cives Etiketten SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200107",
+   "LIEFERANTENUSTIDNR": "DE741310237",
+   "LIEFERANTENSTRASSE": "Rheinstraße 45",
+   "LIEFERANTENPLZ": "04109",
+   "LIEFERANTENORT": "Leipzig",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Cives Etiketten SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.108",
+   "quote": "\"200107\";\"DE741310237\";\"Rheinstraße 45\";\"04109\";\"Leipzig\";\"DEU\";\"Cives Etiketten SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 109,
+  "raw": "\"200108\";\"DE162833551\";\"Hauptstraße 48\";\"18055\";\"Rostock\";\"DEU\";\"Castor Distribution GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200108",
+   "LIEFERANTENUSTIDNR": "DE162833551",
+   "LIEFERANTENSTRASSE": "Hauptstraße 48",
+   "LIEFERANTENPLZ": "18055",
+   "LIEFERANTENORT": "Rostock",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Castor Distribution GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.109",
+   "quote": "\"200108\";\"DE162833551\";\"Hauptstraße 48\";\"18055\";\"Rostock\";\"DEU\";\"Castor Distribution GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 110,
+  "raw": "\"200109\";\"DE313932104\";\"Hauptstraße 194\";\"50667\";\"Köln\";\"DEU\";\"Lupus Papier e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200109",
+   "LIEFERANTENUSTIDNR": "DE313932104",
+   "LIEFERANTENSTRASSE": "Hauptstraße 194",
+   "LIEFERANTENPLZ": "50667",
+   "LIEFERANTENORT": "Köln",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Lupus Papier e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.110",
+   "quote": "\"200109\";\"DE313932104\";\"Hauptstraße 194\";\"50667\";\"Köln\";\"DEU\";\"Lupus Papier e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 111,
+  "raw": "\"200110\";\"DE692186296\";\"Am Hafen 156\";\"44135\";\"Dortmund\";\"DEU\";\"Saturn Formteile GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200110",
+   "LIEFERANTENUSTIDNR": "DE692186296",
+   "LIEFERANTENSTRASSE": "Am Hafen 156",
+   "LIEFERANTENPLZ": "44135",
+   "LIEFERANTENORT": "Dortmund",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Saturn Formteile GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.111",
+   "quote": "\"200110\";\"DE692186296\";\"Am Hafen 156\";\"44135\";\"Dortmund\";\"DEU\";\"Saturn Formteile GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 112,
+  "raw": "\"200111\";\"DE916520680\";\"Feldweg 116\";\"45127\";\"Essen\";\"DEU\";\"Corvus Maschinen KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200111",
+   "LIEFERANTENUSTIDNR": "DE916520680",
+   "LIEFERANTENSTRASSE": "Feldweg 116",
+   "LIEFERANTENPLZ": "45127",
+   "LIEFERANTENORT": "Essen",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Corvus Maschinen KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.112",
+   "quote": "\"200111\";\"DE916520680\";\"Feldweg 116\";\"45127\";\"Essen\";\"DEU\";\"Corvus Maschinen KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 113,
+  "raw": "\"200112\";\"DE644047829\";\"Industriestraße 156\";\"18055\";\"Rostock\";\"DEU\";\"Cives Maschinen GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200112",
+   "LIEFERANTENUSTIDNR": "DE644047829",
+   "LIEFERANTENSTRASSE": "Industriestraße 156",
+   "LIEFERANTENPLZ": "18055",
+   "LIEFERANTENORT": "Rostock",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Cives Maschinen GmbH & Co. KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.113",
+   "quote": "\"200112\";\"DE644047829\";\"Industriestraße 156\";\"18055\";\"Rostock\";\"DEU\";\"Cives Maschinen GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 114,
+  "raw": "\"200113\";\"DE132714486\";\"Gewerbering 142\";\"55116\";\"Mainz\";\"DEU\";\"Pollux Systeme GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200113",
+   "LIEFERANTENUSTIDNR": "DE132714486",
+   "LIEFERANTENSTRASSE": "Gewerbering 142",
+   "LIEFERANTENPLZ": "55116",
+   "LIEFERANTENORT": "Mainz",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Pollux Systeme GmbH & Co. KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.114",
+   "quote": "\"200113\";\"DE132714486\";\"Gewerbering 142\";\"55116\";\"Mainz\";\"DEU\";\"Pollux Systeme GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 115,
+  "raw": "\"200114\";\"DE983094529\";\"Marktplatz 49\";\"45127\";\"Essen\";\"DEU\";\"Merkur Etiketten AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200114",
+   "LIEFERANTENUSTIDNR": "DE983094529",
+   "LIEFERANTENSTRASSE": "Marktplatz 49",
+   "LIEFERANTENPLZ": "45127",
+   "LIEFERANTENORT": "Essen",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Merkur Etiketten AG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.115",
+   "quote": "\"200114\";\"DE983094529\";\"Marktplatz 49\";\"45127\";\"Essen\";\"DEU\";\"Merkur Etiketten AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 116,
+  "raw": "\"200115\";\"DE363231050\";\"Marktplatz 188\";\"04109\";\"Leipzig\";\"DEU\";\"Castor Maschinen SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200115",
+   "LIEFERANTENUSTIDNR": "DE363231050",
+   "LIEFERANTENSTRASSE": "Marktplatz 188",
+   "LIEFERANTENPLZ": "04109",
+   "LIEFERANTENORT": "Leipzig",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Castor Maschinen SE",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.116",
+   "quote": "\"200115\";\"DE363231050\";\"Marktplatz 188\";\"04109\";\"Leipzig\";\"DEU\";\"Castor Maschinen SE\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 117,
+  "raw": "\"200116\";\"DE415570898\";\"Robert-Bosch-Straße 68\";\"45127\";\"Essen\";\"DEU\";\"Lupus Werkstoffe GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200116",
+   "LIEFERANTENUSTIDNR": "DE415570898",
+   "LIEFERANTENSTRASSE": "Robert-Bosch-Straße 68",
+   "LIEFERANTENPLZ": "45127",
+   "LIEFERANTENORT": "Essen",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Lupus Werkstoffe GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.117",
+   "quote": "\"200116\";\"DE415570898\";\"Robert-Bosch-Straße 68\";\"45127\";\"Essen\";\"DEU\";\"Lupus Werkstoffe GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 118,
+  "raw": "\"200117\";\"DE364498547\";\"Rheinstraße 191\";\"60311\";\"Frankfurt\";\"DEU\";\"Titan Maschinen GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200117",
+   "LIEFERANTENUSTIDNR": "DE364498547",
+   "LIEFERANTENSTRASSE": "Rheinstraße 191",
+   "LIEFERANTENPLZ": "60311",
+   "LIEFERANTENORT": "Frankfurt",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Titan Maschinen GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.118",
+   "quote": "\"200117\";\"DE364498547\";\"Rheinstraße 191\";\"60311\";\"Frankfurt\";\"DEU\";\"Titan Maschinen GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 119,
+  "raw": "\"200118\";\"DE702631338\";\"Carl-Benz-Straße 72\";\"55116\";\"Mainz\";\"DEU\";\"Nova Chemie GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200118",
+   "LIEFERANTENUSTIDNR": "DE702631338",
+   "LIEFERANTENSTRASSE": "Carl-Benz-Straße 72",
+   "LIEFERANTENPLZ": "55116",
+   "LIEFERANTENORT": "Mainz",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Nova Chemie GmbH & Co. KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.119",
+   "quote": "\"200118\";\"DE702631338\";\"Carl-Benz-Straße 72\";\"55116\";\"Mainz\";\"DEU\";\"Nova Chemie GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 120,
+  "raw": "\"200119\";\"DE104848670\";\"Am Hafen 7\";\"44135\";\"Dortmund\";\"DEU\";\"Castor Formteile KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200119",
+   "LIEFERANTENUSTIDNR": "DE104848670",
+   "LIEFERANTENSTRASSE": "Am Hafen 7",
+   "LIEFERANTENPLZ": "44135",
+   "LIEFERANTENORT": "Dortmund",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Castor Formteile KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.120",
+   "quote": "\"200119\";\"DE104848670\";\"Am Hafen 7\";\"44135\";\"Dortmund\";\"DEU\";\"Castor Formteile KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 121,
+  "raw": "\"200120\";\"DE677853107\";\"Gewerbering 2\";\"20095\";\"Hamburg\";\"DEU\";\"Atlas Formteile KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200120",
+   "LIEFERANTENUSTIDNR": "DE677853107",
+   "LIEFERANTENSTRASSE": "Gewerbering 2",
+   "LIEFERANTENPLZ": "20095",
+   "LIEFERANTENORT": "Hamburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Atlas Formteile KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.121",
+   "quote": "\"200120\";\"DE677853107\";\"Gewerbering 2\";\"20095\";\"Hamburg\";\"DEU\";\"Atlas Formteile KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 122,
+  "raw": "\"200121\";\"DE995104483\";\"Marktplatz 180\";\"39104\";\"Magdeburg\";\"DEU\";\"Vega Kunststoff AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200121",
+   "LIEFERANTENUSTIDNR": "DE995104483",
+   "LIEFERANTENSTRASSE": "Marktplatz 180",
+   "LIEFERANTENPLZ": "39104",
+   "LIEFERANTENORT": "Magdeburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Vega Kunststoff AG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.122",
+   "quote": "\"200121\";\"DE995104483\";\"Marktplatz 180\";\"39104\";\"Magdeburg\";\"DEU\";\"Vega Kunststoff AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 123,
+  "raw": "\"200122\";\"DE796619610\";\"Talstraße 174\";\"80331\";\"München\";\"DEU\";\"Fokus Beschichtung GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200122",
+   "LIEFERANTENUSTIDNR": "DE796619610",
+   "LIEFERANTENSTRASSE": "Talstraße 174",
+   "LIEFERANTENPLZ": "80331",
+   "LIEFERANTENORT": "München",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Fokus Beschichtung GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.123",
+   "quote": "\"200122\";\"DE796619610\";\"Talstraße 174\";\"80331\";\"München\";\"DEU\";\"Fokus Beschichtung GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 124,
+  "raw": "\"200123\";\"DE198698788\";\"Marktplatz 120\";\"45127\";\"Essen\";\"DEU\";\"Kronos Folien KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200123",
+   "LIEFERANTENUSTIDNR": "DE198698788",
+   "LIEFERANTENSTRASSE": "Marktplatz 120",
+   "LIEFERANTENPLZ": "45127",
+   "LIEFERANTENORT": "Essen",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Kronos Folien KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.124",
+   "quote": "\"200123\";\"DE198698788\";\"Marktplatz 120\";\"45127\";\"Essen\";\"DEU\";\"Kronos Folien KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 125,
+  "raw": "\"200124\";\"DE151822016\";\"Carl-Benz-Straße 90\";\"44135\";\"Dortmund\";\"DEU\";\"Iris Technik GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200124",
+   "LIEFERANTENUSTIDNR": "DE151822016",
+   "LIEFERANTENSTRASSE": "Carl-Benz-Straße 90",
+   "LIEFERANTENPLZ": "44135",
+   "LIEFERANTENORT": "Dortmund",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Iris Technik GmbH & Co. KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.125",
+   "quote": "\"200124\";\"DE151822016\";\"Carl-Benz-Straße 90\";\"44135\";\"Dortmund\";\"DEU\";\"Iris Technik GmbH & Co. KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 126,
+  "raw": "\"200125\";\"DE542320841\";\"Talstraße 61\";\"45127\";\"Essen\";\"DEU\";\"Orion Beschichtung GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200125",
+   "LIEFERANTENUSTIDNR": "DE542320841",
+   "LIEFERANTENSTRASSE": "Talstraße 61",
+   "LIEFERANTENPLZ": "45127",
+   "LIEFERANTENORT": "Essen",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Orion Beschichtung GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.126",
+   "quote": "\"200125\";\"DE542320841\";\"Talstraße 61\";\"45127\";\"Essen\";\"DEU\";\"Orion Beschichtung GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 127,
+  "raw": "\"200126\";\"DE400031660\";\"Hauptstraße 133\";\"39104\";\"Magdeburg\";\"DEU\";\"Corvus Handel GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200126",
+   "LIEFERANTENUSTIDNR": "DE400031660",
+   "LIEFERANTENSTRASSE": "Hauptstraße 133",
+   "LIEFERANTENPLZ": "39104",
+   "LIEFERANTENORT": "Magdeburg",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Corvus Handel GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.127",
+   "quote": "\"200126\";\"DE400031660\";\"Hauptstraße 133\";\"39104\";\"Magdeburg\";\"DEU\";\"Corvus Handel GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 128,
+  "raw": "\"200127\";\"DE235885244\";\"Hauptstraße 43\";\"07743\";\"Jena\";\"DEU\";\"Ost Systeme e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200127",
+   "LIEFERANTENUSTIDNR": "DE235885244",
+   "LIEFERANTENSTRASSE": "Hauptstraße 43",
+   "LIEFERANTENPLZ": "07743",
+   "LIEFERANTENORT": "Jena",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Ost Systeme e.K.",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.128",
+   "quote": "\"200127\";\"DE235885244\";\"Hauptstraße 43\";\"07743\";\"Jena\";\"DEU\";\"Ost Systeme e.K.\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 129,
+  "raw": "\"200128\";\"DE996338431\";\"Ringstraße 138\";\"18055\";\"Rostock\";\"DEU\";\"Helios Karton KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200128",
+   "LIEFERANTENUSTIDNR": "DE996338431",
+   "LIEFERANTENSTRASSE": "Ringstraße 138",
+   "LIEFERANTENPLZ": "18055",
+   "LIEFERANTENORT": "Rostock",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Helios Karton KG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.129",
+   "quote": "\"200128\";\"DE996338431\";\"Ringstraße 138\";\"18055\";\"Rostock\";\"DEU\";\"Helios Karton KG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 130,
+  "raw": "\"200129\";\"DE861693232\";\"Feldweg 164\";\"70173\";\"Stuttgart\";\"DEU\";\"Omega Papier AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "200129",
+   "LIEFERANTENUSTIDNR": "DE861693232",
+   "LIEFERANTENSTRASSE": "Feldweg 164",
+   "LIEFERANTENPLZ": "70173",
+   "LIEFERANTENORT": "Stuttgart",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Omega Papier AG",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.130",
+   "quote": "\"200129\";\"DE861693232\";\"Feldweg 164\";\"70173\";\"Stuttgart\";\"DEU\";\"Omega Papier AG\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 131,
+  "raw": "\"209101\";\"DE931192957\";\"Postfach 12 04\";\"80331\";\"München\";\"DEU\";\"Ratio Consulting GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "209101",
+   "LIEFERANTENUSTIDNR": "DE931192957",
+   "LIEFERANTENSTRASSE": "Postfach 12 04",
+   "LIEFERANTENPLZ": "80331",
+   "LIEFERANTENORT": "München",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Ratio Consulting GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.131",
+   "quote": "\"209101\";\"DE931192957\";\"Postfach 12 04\";\"80331\";\"München\";\"DEU\";\"Ratio Consulting GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 132,
+  "raw": "\"209130\";\"DE336981601\";\"Marktplatz 35\";\"55116\";\"Musterort\";\"DEU\";\"Nord Transport GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "209130",
+   "LIEFERANTENUSTIDNR": "DE336981601",
+   "LIEFERANTENSTRASSE": "Marktplatz 35",
+   "LIEFERANTENPLZ": "55116",
+   "LIEFERANTENORT": "Musterort",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Nord Transport GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.132",
+   "quote": "\"209130\";\"DE336981601\";\"Marktplatz 35\";\"55116\";\"Musterort\";\"DEU\";\"Nord Transport GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 133,
+  "raw": "\"209131\";\"DE756336959\";\"Hauptstraße 68\";\"04109\";\"Musterort\";\"DEU\";\"Delta Energie GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "209131",
+   "LIEFERANTENUSTIDNR": "DE756336959",
+   "LIEFERANTENSTRASSE": "Hauptstraße 68",
+   "LIEFERANTENPLZ": "04109",
+   "LIEFERANTENORT": "Musterort",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Delta Energie GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.133",
+   "quote": "\"209131\";\"DE756336959\";\"Hauptstraße 68\";\"04109\";\"Musterort\";\"DEU\";\"Delta Energie GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 134,
+  "raw": "\"209132\";\"DE921003631\";\"Industriestraße 30\";\"40210\";\"Musterort\";\"DEU\";\"Atlas Werkstoffe GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "209132",
+   "LIEFERANTENUSTIDNR": "DE921003631",
+   "LIEFERANTENSTRASSE": "Industriestraße 30",
+   "LIEFERANTENPLZ": "40210",
+   "LIEFERANTENORT": "Musterort",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Atlas Werkstoffe GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.134",
+   "quote": "\"209132\";\"DE921003631\";\"Industriestraße 30\";\"40210\";\"Musterort\";\"DEU\";\"Atlas Werkstoffe GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 135,
+  "raw": "\"209133\";\"DE566897526\";\"Lindenallee 25\";\"39104\";\"Musterort\";\"DEU\";\"Vega Technik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "209133",
+   "LIEFERANTENUSTIDNR": "DE566897526",
+   "LIEFERANTENSTRASSE": "Lindenallee 25",
+   "LIEFERANTENPLZ": "39104",
+   "LIEFERANTENORT": "Musterort",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Vega Technik GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.135",
+   "quote": "\"209133\";\"DE566897526\";\"Lindenallee 25\";\"39104\";\"Musterort\";\"DEU\";\"Vega Technik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 136,
+  "raw": "\"209134\";\"DE269851025\";\"Carl-Benz-Straße 77\";\"18055\";\"Musterort\";\"DEU\";\"Orion Logistik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "209134",
+   "LIEFERANTENUSTIDNR": "DE269851025",
+   "LIEFERANTENSTRASSE": "Carl-Benz-Straße 77",
+   "LIEFERANTENPLZ": "18055",
+   "LIEFERANTENORT": "Musterort",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Orion Logistik GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.136",
+   "quote": "\"209134\";\"DE269851025\";\"Carl-Benz-Straße 77\";\"18055\";\"Musterort\";\"DEU\";\"Orion Logistik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 137,
+  "raw": "\"209135\";\"DE604985373\";\"Industriestraße 11\";\"55116\";\"Musterort\";\"DEU\";\"Kronos Druck GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "209135",
+   "LIEFERANTENUSTIDNR": "DE604985373",
+   "LIEFERANTENSTRASSE": "Industriestraße 11",
+   "LIEFERANTENPLZ": "55116",
+   "LIEFERANTENORT": "Musterort",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Kronos Druck GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.137",
+   "quote": "\"209135\";\"DE604985373\";\"Industriestraße 11\";\"55116\";\"Musterort\";\"DEU\";\"Kronos Druck GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 138,
+  "raw": "\"209136\";\"DE536375012\";\"Ringstraße 57\";\"30159\";\"Musterort\";\"DEU\";\"Prisma Chemie GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "209136",
+   "LIEFERANTENUSTIDNR": "DE536375012",
+   "LIEFERANTENSTRASSE": "Ringstraße 57",
+   "LIEFERANTENPLZ": "30159",
+   "LIEFERANTENORT": "Musterort",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Prisma Chemie GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.138",
+   "quote": "\"209136\";\"DE536375012\";\"Ringstraße 57\";\"30159\";\"Musterort\";\"DEU\";\"Prisma Chemie GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 139,
+  "raw": "\"209137\";\"DE178593893\";\"Carl-Benz-Straße 41\";\"30159\";\"Musterort\";\"DEU\";\"Helios Systeme GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "209137",
+   "LIEFERANTENUSTIDNR": "DE178593893",
+   "LIEFERANTENSTRASSE": "Carl-Benz-Straße 41",
+   "LIEFERANTENPLZ": "30159",
+   "LIEFERANTENORT": "Musterort",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Helios Systeme GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.139",
+   "quote": "\"209137\";\"DE178593893\";\"Carl-Benz-Straße 41\";\"30159\";\"Musterort\";\"DEU\";\"Helios Systeme GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 140,
+  "raw": "\"209110\";\"DE459514202\";\"Rheinstraße 64\";\"30159\";\"Hannover\";\"DEU\";\"Nord Logistik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "209110",
+   "LIEFERANTENUSTIDNR": "DE459514202",
+   "LIEFERANTENSTRASSE": "Rheinstraße 64",
+   "LIEFERANTENPLZ": "30159",
+   "LIEFERANTENORT": "Hannover",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Nord Logistik GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.140",
+   "quote": "\"209110\";\"DE459514202\";\"Rheinstraße 64\";\"30159\";\"Hannover\";\"DEU\";\"Nord Logistik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 141,
+  "raw": "\"209111\";\"DE743864625\";\"Gewerbering 24\";\"30159\";\"Hannover\";\"DEU\";\"Nordlicht Logistik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "209111",
+   "LIEFERANTENUSTIDNR": "DE743864625",
+   "LIEFERANTENSTRASSE": "Gewerbering 24",
+   "LIEFERANTENPLZ": "30159",
+   "LIEFERANTENORT": "Hannover",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Nordlicht Logistik GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.141",
+   "quote": "\"209111\";\"DE743864625\";\"Gewerbering 24\";\"30159\";\"Hannover\";\"DEU\";\"Nordlicht Logistik GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 142,
+  "raw": "\"209112\";\"DE155239512\";\"Gewerbering 44\";\"45127\";\"Essen\";\"DEU\";\"Vega Werkstoffe GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "209112",
+   "LIEFERANTENUSTIDNR": "DE155239512",
+   "LIEFERANTENSTRASSE": "Gewerbering 44",
+   "LIEFERANTENPLZ": "45127",
+   "LIEFERANTENORT": "Essen",
+   "LIEFERANTENSTAAT": "DEU",
+   "LIEFERANTENNAME": "Vega Werkstoffe GmbH",
+   "LIEFERANTENGRUPPE": "V-DOM",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-DOM",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.142",
+   "quote": "\"209112\";\"DE155239512\";\"Gewerbering 44\";\"45127\";\"Essen\";\"DEU\";\"Vega Werkstoffe GmbH\";\"V-DOM\";\"\";\"DE-V-DOM\";\"EUR\""
+  }
+ },
+ {
+  "rowNumber": 143,
+  "raw": "\"209113\";\"AT847854029\";\"Ringstraße 1\";\"1010\";\"Wien\";\"AUT\";\"Muster Beteiligungs GmbH, Wien\";\"V-IC-EU\";\"\";\"DE-V-IC-EU\";\"EUR\"",
+  "values": {
+   "LIEFERANTENKONTONUMMER": "209113",
+   "LIEFERANTENUSTIDNR": "AT847854029",
+   "LIEFERANTENSTRASSE": "Ringstraße 1",
+   "LIEFERANTENPLZ": "1010",
+   "LIEFERANTENORT": "Wien",
+   "LIEFERANTENSTAAT": "AUT",
+   "LIEFERANTENNAME": "Muster Beteiligungs GmbH, Wien",
+   "LIEFERANTENGRUPPE": "V-IC-EU",
+   "F1": "",
+   "MWST_GRUPPE": "DE-V-IC-EU",
+   "WAEHRUNG": "EUR"
+  },
+  "citation": {
+   "docId": "kreditoren-lieferanten",
+   "ref": "Lieferanten!r.143",
+   "quote": "\"209113\";\"AT847854029\";\"Ringstraße 1\";\"1010\";\"Wien\";\"AUT\";\"Muster Beteiligungs GmbH, Wien\";\"V-IC-EU\";\"\";\"DE-V-IC-EU\";\"EUR\""
+  }
+ }
+]

@@ -1,0 +1,16 @@
+PAYFLUX GMBH – PROCUREMENT AND APPROVAL POLICY (v2.1, effective 1 Jan 2024)
+
+1. Every purchase of goods or services requires a purchase order (PO)
+   issued in the procurement system BEFORE the vendor invoice is received.
+
+2. Approval thresholds:
+   - up to EUR 5,000: team lead approval
+   - EUR 5,000 to EUR 25,000: department head approval, PO mandatory
+   - above EUR 25,000: CFO approval, PO mandatory, second signature by CEO
+
+3. Vendor bank details may only be changed upon written, signed notice by
+   the vendor, verified by a call-back to a known phone number. Payments to
+   bank accounts deviating from the master data record are prohibited.
+
+4. Splitting of orders to circumvent approval thresholds is prohibited and
+   will be treated as a compliance violation.

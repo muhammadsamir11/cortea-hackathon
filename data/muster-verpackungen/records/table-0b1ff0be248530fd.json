@@ -1,0 +1,776 @@
+[
+ {
+  "rowNumber": 1,
+  "raw": "\"020000\";\"Grundstücke\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "020000",
+   "SACHKONTONAME": "Grundstücke",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.1",
+   "quote": "\"020000\";\"Grundstücke\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 2,
+  "raw": "\"021000\";\"Gebäude und Außenanlagen\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "021000",
+   "SACHKONTONAME": "Gebäude und Außenanlagen",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.2",
+   "quote": "\"021000\";\"Gebäude und Außenanlagen\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 3,
+  "raw": "\"040000\";\"Maschinen und maschinelle Anlagen\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "040000",
+   "SACHKONTONAME": "Maschinen und maschinelle Anlagen",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.3",
+   "quote": "\"040000\";\"Maschinen und maschinelle Anlagen\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 4,
+  "raw": "\"060000\";\"Betriebs- und Geschäftsausstattung\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "060000",
+   "SACHKONTONAME": "Betriebs- und Geschäftsausstattung",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.4",
+   "quote": "\"060000\";\"Betriebs- und Geschäftsausstattung\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 5,
+  "raw": "\"062000\";\"EDV-Hardware\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "062000",
+   "SACHKONTONAME": "EDV-Hardware",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.5",
+   "quote": "\"062000\";\"EDV-Hardware\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "\"070000\";\"Anlagen im Bau\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "070000",
+   "SACHKONTONAME": "Anlagen im Bau",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.6",
+   "quote": "\"070000\";\"Anlagen im Bau\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 7,
+  "raw": "\"110000\";\"Roh-, Hilfs- und Betriebsstoffe\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "110000",
+   "SACHKONTONAME": "Roh-, Hilfs- und Betriebsstoffe",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.7",
+   "quote": "\"110000\";\"Roh-, Hilfs- und Betriebsstoffe\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 8,
+  "raw": "\"160000\";\"Fertigerzeugnisse\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "160000",
+   "SACHKONTONAME": "Fertigerzeugnisse",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.8",
+   "quote": "\"160000\";\"Fertigerzeugnisse\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 9,
+  "raw": "\"176000\";\"Handelsware\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "176000",
+   "SACHKONTONAME": "Handelsware",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.9",
+   "quote": "\"176000\";\"Handelsware\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 10,
+  "raw": "\"147000\";\"Vorsteuer\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "147000",
+   "SACHKONTONAME": "Vorsteuer",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.10",
+   "quote": "\"147000\";\"Vorsteuer\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 11,
+  "raw": "\"230000\";\"Forderungen aus L.u.L.\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "230000",
+   "SACHKONTONAME": "Forderungen aus L.u.L.",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.11",
+   "quote": "\"230000\";\"Forderungen aus L.u.L.\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 12,
+  "raw": "\"260000\";\"Sonstige Vermögensgegenstände\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "260000",
+   "SACHKONTONAME": "Sonstige Vermögensgegenstände",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.12",
+   "quote": "\"260000\";\"Sonstige Vermögensgegenstände\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 13,
+  "raw": "\"271000\";\"Bank Girokonto Handelsbank\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "271000",
+   "SACHKONTONAME": "Bank Girokonto Handelsbank",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.13",
+   "quote": "\"271000\";\"Bank Girokonto Handelsbank\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 14,
+  "raw": "\"272000\";\"Bank Kontokorrent Musterbank\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "272000",
+   "SACHKONTONAME": "Bank Kontokorrent Musterbank",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.14",
+   "quote": "\"272000\";\"Bank Kontokorrent Musterbank\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 15,
+  "raw": "\"288000\";\"Kasse\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "288000",
+   "SACHKONTONAME": "Kasse",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.15",
+   "quote": "\"288000\";\"Kasse\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 16,
+  "raw": "\"300000\";\"Gezeichnetes Kapital und Rücklagen\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "300000",
+   "SACHKONTONAME": "Gezeichnetes Kapital und Rücklagen",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.16",
+   "quote": "\"300000\";\"Gezeichnetes Kapital und Rücklagen\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 17,
+  "raw": "\"302000\";\"Sonstige Rückstellungen\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "302000",
+   "SACHKONTONAME": "Sonstige Rückstellungen",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.17",
+   "quote": "\"302000\";\"Sonstige Rückstellungen\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 18,
+  "raw": "\"305000\";\"Steuerrückstellungen\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "305000",
+   "SACHKONTONAME": "Steuerrückstellungen",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.18",
+   "quote": "\"305000\";\"Steuerrückstellungen\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 19,
+  "raw": "\"330000\";\"Verbindlichkeiten aus L.u.L.\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "330000",
+   "SACHKONTONAME": "Verbindlichkeiten aus L.u.L.",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.19",
+   "quote": "\"330000\";\"Verbindlichkeiten aus L.u.L.\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 20,
+  "raw": "\"332000\";\"Kreditorische Debitoren\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "332000",
+   "SACHKONTONAME": "Kreditorische Debitoren",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.20",
+   "quote": "\"332000\";\"Kreditorische Debitoren\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 21,
+  "raw": "\"340000\";\"Verbindlichkeiten Kreditinstitute\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "340000",
+   "SACHKONTONAME": "Verbindlichkeiten Kreditinstitute",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.21",
+   "quote": "\"340000\";\"Verbindlichkeiten Kreditinstitute\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 22,
+  "raw": "\"347200\";\"Umsatzsteuer\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "347200",
+   "SACHKONTONAME": "Umsatzsteuer",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.22",
+   "quote": "\"347200\";\"Umsatzsteuer\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 23,
+  "raw": "\"360000\";\"Sonstige Verbindlichkeiten\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\"",
+  "values": {
+   "SACHKONTONUMMER": "360000",
+   "SACHKONTONAME": "Sonstige Verbindlichkeiten",
+   "SACHKONTOTYP": "Bilanz",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "Bilanz"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.23",
+   "quote": "\"360000\";\"Sonstige Verbindlichkeiten\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+  }
+ },
+ {
+  "rowNumber": 24,
+  "raw": "\"400000\";\"Umsatzerlöse Inland 19%\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "400000",
+   "SACHKONTONAME": "Umsatzerlöse Inland 19%",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.24",
+   "quote": "\"400000\";\"Umsatzerlöse Inland 19%\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 25,
+  "raw": "\"408000\";\"Umsatzerlöse Export EU 0%\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "408000",
+   "SACHKONTONAME": "Umsatzerlöse Export EU 0%",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.25",
+   "quote": "\"408000\";\"Umsatzerlöse Export EU 0%\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 26,
+  "raw": "\"440020\";\"Umsatzboni und Rückvergütungen\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "440020",
+   "SACHKONTONAME": "Umsatzboni und Rückvergütungen",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.26",
+   "quote": "\"440020\";\"Umsatzboni und Rückvergütungen\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 27,
+  "raw": "\"480000\";\"Sonstige betriebliche Erträge\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "480000",
+   "SACHKONTONAME": "Sonstige betriebliche Erträge",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.27",
+   "quote": "\"480000\";\"Sonstige betriebliche Erträge\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 28,
+  "raw": "\"500000\";\"Materialaufwand / Wareneinsatz\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "500000",
+   "SACHKONTONAME": "Materialaufwand / Wareneinsatz",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.28",
+   "quote": "\"500000\";\"Materialaufwand / Wareneinsatz\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 29,
+  "raw": "\"510000\";\"Bezugsnebenkosten\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "510000",
+   "SACHKONTONAME": "Bezugsnebenkosten",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.29",
+   "quote": "\"510000\";\"Bezugsnebenkosten\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 30,
+  "raw": "\"600000\";\"Löhne und Gehälter\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "600000",
+   "SACHKONTONAME": "Löhne und Gehälter",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.30",
+   "quote": "\"600000\";\"Löhne und Gehälter\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 31,
+  "raw": "\"610000\";\"Soziale Abgaben\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "610000",
+   "SACHKONTONAME": "Soziale Abgaben",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.31",
+   "quote": "\"610000\";\"Soziale Abgaben\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 32,
+  "raw": "\"620000\";\"Abschreibungen\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "620000",
+   "SACHKONTONAME": "Abschreibungen",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.32",
+   "quote": "\"620000\";\"Abschreibungen\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 33,
+  "raw": "\"670000\";\"Instandhaltung und Reparaturen\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "670000",
+   "SACHKONTONAME": "Instandhaltung und Reparaturen",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.33",
+   "quote": "\"670000\";\"Instandhaltung und Reparaturen\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 34,
+  "raw": "\"671000\";\"Energie\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "671000",
+   "SACHKONTONAME": "Energie",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.34",
+   "quote": "\"671000\";\"Energie\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 35,
+  "raw": "\"672000\";\"Mieten und Leasing\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "672000",
+   "SACHKONTONAME": "Mieten und Leasing",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.35",
+   "quote": "\"672000\";\"Mieten und Leasing\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 36,
+  "raw": "\"673000\";\"Rechts- und Beratungskosten\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "673000",
+   "SACHKONTONAME": "Rechts- und Beratungskosten",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.36",
+   "quote": "\"673000\";\"Rechts- und Beratungskosten\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 37,
+  "raw": "\"674000\";\"Werbe- und Reisekosten\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "674000",
+   "SACHKONTONAME": "Werbe- und Reisekosten",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.37",
+   "quote": "\"674000\";\"Werbe- und Reisekosten\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 38,
+  "raw": "\"675000\";\"Fuhrpark\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "675000",
+   "SACHKONTONAME": "Fuhrpark",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.38",
+   "quote": "\"675000\";\"Fuhrpark\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 39,
+  "raw": "\"676000\";\"Versicherungen und Beiträge\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "676000",
+   "SACHKONTONAME": "Versicherungen und Beiträge",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.39",
+   "quote": "\"676000\";\"Versicherungen und Beiträge\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 40,
+  "raw": "\"677000\";\"Sonstiger Betriebsbedarf\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "677000",
+   "SACHKONTONAME": "Sonstiger Betriebsbedarf",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.40",
+   "quote": "\"677000\";\"Sonstiger Betriebsbedarf\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 41,
+  "raw": "\"680000\";\"Konzernumlage / Verwaltungsleistungen\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "680000",
+   "SACHKONTONAME": "Konzernumlage / Verwaltungsleistungen",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.41",
+   "quote": "\"680000\";\"Konzernumlage / Verwaltungsleistungen\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 42,
+  "raw": "\"700000\";\"Zinsaufwand\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "700000",
+   "SACHKONTONAME": "Zinsaufwand",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.42",
+   "quote": "\"700000\";\"Zinsaufwand\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ },
+ {
+  "rowNumber": 43,
+  "raw": "\"710000\";\"Zinsertrag\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\"",
+  "values": {
+   "SACHKONTONUMMER": "710000",
+   "SACHKONTONAME": "Zinsertrag",
+   "SACHKONTOTYP": "GuV",
+   "SACHKONTOSPERRE": "Nein",
+   "SACHKONTOEXCLUSIVBENUTZER": "",
+   "SACHKONTOBENUTZUNG": "Optional",
+   "KONTENART": "GuV"
+  },
+  "citation": {
+   "docId": "sachkonten-sachkonten",
+   "ref": "Sachkonten!r.43",
+   "quote": "\"710000\";\"Zinsertrag\";\"GuV\";\"Nein\";\"\";\"Optional\";\"GuV\""
+  }
+ }
+]

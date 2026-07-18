@@ -1,0 +1,25 @@
+/* App semantic tokens for Cortea audit status colors.
+ * Typography / base palette come from shadcn preset b27GcrRo (Inter + neutral).
+ */
+
+:root {
+  --color-accent: oklch(0.62 0.15 155);
+  --color-accent-ink: oklch(0.98 0.01 155);
+  --color-focus: oklch(0.55 0.14 155);
+  --color-danger: oklch(0.55 0.2 25);
+  --color-warn: oklch(0.72 0.14 75);
+  --color-clear: oklch(0.62 0.15 155);
+
+  --font-display: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-body: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
+.dark {
+  --color-accent: oklch(0.72 0.14 155);
+  --color-accent-ink: oklch(0.16 0.02 155);
+  --color-focus: oklch(0.72 0.14 155);
+  --color-danger: oklch(0.68 0.18 25);
+  --color-warn: oklch(0.78 0.12 75);
+  --color-clear: oklch(0.72 0.14 155);
+}

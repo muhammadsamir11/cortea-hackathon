@@ -1,0 +1,26 @@
+MAINTENANCE AND SUPPORT AGREEMENT
+
+between
+
+PayFlux GmbH, Torstraße 219, 10115 Berlin ("Customer")
+and
+TechServe Solutions GmbH, Innovationspark 7, 80939 München ("Contractor")
+
+dated 15 December 2023
+
+1. SCOPE. The Contractor shall provide maintenance and second-level support
+   for the Customer's payment processing platform.
+
+2. FEES. The maintenance fee amounts to EUR 51,000.00 per contract year,
+   payable in four equal quarterly installments of EUR 12,750.00 each.
+
+3. PAYMENT TERMS. All payments under this Agreement shall be made
+   exclusively to the Contractor's business account:
+   IBAN: DE02 1203 0000 0000 2020 51, BIC: BYLADEM1001.
+   Any change of bank details requires written notice signed by two
+   managing directors of the Contractor.
+
+4. TERM. This Agreement runs from 1 January 2024 to 31 December 2024.
+
+For the Customer: M. Lindqvist (CFO)
+For the Contractor: Dr. J. Steiner (Managing Director)

@@ -1,0 +1,616 @@
+{
+ "dossier": "muster-verpackungen",
+ "companyName": "Muster Verpackungen GmbH",
+ "fiscalPeriod": "2025",
+ "tables": [
+  {
+   "id": "Sachkonten",
+   "name": "Sachkonten",
+   "docId": "sachkonten-sachkonten",
+   "relativePath": "Sachkonten/Sachkonten.txt",
+   "columns": [
+    "SACHKONTONUMMER",
+    "SACHKONTONAME",
+    "SACHKONTOTYP",
+    "SACHKONTOSPERRE",
+    "SACHKONTOEXCLUSIVBENUTZER",
+    "SACHKONTOBENUTZUNG",
+    "KONTENART"
+   ],
+   "source": "gdpdu",
+   "rowCount": 43,
+   "file": "records/table-0b1ff0be248530fd.json"
+  },
+  {
+   "id": "Sachkontobuchungen",
+   "name": "Sachkontobuchungen",
+   "docId": "sachkonten-sachkontobuchungen",
+   "relativePath": "Sachkonten/Sachkontobuchungen.txt",
+   "columns": [
+    "SACHKONTONUMMER",
+    "PERIODENCODE",
+    "STEUERBUCHUNGSREFERENZ",
+    "PERIODENZUGEHÖRIGKEIT",
+    "BUCHUNGSTYP",
+    "KORREKTUR",
+    "HABENBUCHUNG",
+    "BUCHUNGSBETRAG",
+    "BUCHUNGSWÄHRUNG",
+    "BUCHUNGSWERT",
+    "BUCHUNGSTEXT",
+    "BUCHUNGSDATUM",
+    "BUCHUNGSNUMMER",
+    "BELEGDATUM",
+    "BELEGNUMMER",
+    "SPEZIALBUCHUNG",
+    "ERFASSUNGSNUMMER",
+    "JOURNALZEILE",
+    "GEGENKONTO",
+    "DOKUMENT",
+    "BENUTZERKENNUNG",
+    "ERFASSUNGSDATUM",
+    "ERFASSUNGSZEIT",
+    "FESTSCHREIBUNG"
+   ],
+   "source": "gdpdu",
+   "rowCount": 20258,
+   "file": "records/table-6aab34411e23226f.json"
+  },
+  {
+   "id": "Kunden",
+   "name": "Kunden",
+   "docId": "debitoren-kunden",
+   "relativePath": "Debitoren/Kunden.txt",
+   "columns": [
+    "KUNDENKONTONUMMER",
+    "KUNDENUSTIDNR",
+    "KUNDENSTRASSE",
+    "KUNDENPLZ",
+    "KUNDENORT",
+    "KUNDENSTAAT",
+    "KUNDENNAME",
+    "KUNDENGRUPPE",
+    "F1",
+    "F2",
+    "F3",
+    "MWST_GRUPPE",
+    "WAEHRUNG"
+   ],
+   "source": "gdpdu",
+   "rowCount": 160,
+   "file": "records/table-6586cb39230dafc0.json"
+  },
+  {
+   "id": "Kundenbuchungen",
+   "name": "Kundenbuchungen",
+   "docId": "debitoren-kundenbuchungen",
+   "relativePath": "Debitoren/Kundenbuchungen.txt",
+   "columns": [
+    "KUNDENKONTONUMMER",
+    "BUCHUNGSNUMMER",
+    "BELEGDATUM",
+    "BELEGNUMMER",
+    "BUCHUNGSDATUM",
+    "BUCHUNGSTEXT",
+    "BUCHUNGSBETRAG",
+    "BUCHUNGSWÄHRUNG",
+    "BUCHUNGSWERT",
+    "LETZTER_AUSGLEICHSBELEG",
+    "LETZTER_AUSGLEICH",
+    "BUCHUNGSART"
+   ],
+   "source": "gdpdu",
+   "rowCount": 3749,
+   "file": "records/table-e5ae6b337c73f8f0.json"
+  },
+  {
+   "id": "Lieferanten",
+   "name": "Lieferanten",
+   "docId": "kreditoren-lieferanten",
+   "relativePath": "Kreditoren/Lieferanten.txt",
+   "columns": [
+    "LIEFERANTENKONTONUMMER",
+    "LIEFERANTENUSTIDNR",
+    "LIEFERANTENSTRASSE",
+    "LIEFERANTENPLZ",
+    "LIEFERANTENORT",
+    "LIEFERANTENSTAAT",
+    "LIEFERANTENNAME",
+    "LIEFERANTENGRUPPE",
+    "F1",
+    "MWST_GRUPPE",
+    "WAEHRUNG"
+   ],
+   "source": "gdpdu",
+   "rowCount": 143,
+   "file": "records/table-6893d253b2680aeb.json"
+  },
+  {
+   "id": "Lieferantenbuchungen",
+   "name": "Lieferantenbuchungen",
+   "docId": "kreditoren-lieferantenbuchungen",
+   "relativePath": "Kreditoren/Lieferantenbuchungen.txt",
+   "columns": [
+    "LIEFERANTENKONTONUMMER",
+    "BUCHUNGSNUMMER",
+    "BUCHUNGSDATUM",
+    "BELEGNUMMER",
+    "BELEGDATUM",
+    "BUCHUNGSTEXT",
+    "BUCHUNGSBETRAG",
+    "BUCHUNGSWÄHRUNG",
+    "BUCHUNGSWERT",
+    "LETZTER_AUSGLEICHSBELEG",
+    "LETZTER_AUSGLEICH",
+    "BUCHUNGSART",
+    "STATUS"
+   ],
+   "source": "gdpdu",
+   "rowCount": 2584,
+   "file": "records/table-7488bbf10cdc39b7.json"
+  },
+  {
+   "id": "Anlagen",
+   "name": "Anlagen",
+   "docId": "av-anlagen",
+   "relativePath": "AV/Anlagen.txt",
+   "columns": [
+    "ANLAGENNUMMER",
+    "ANLAGENBEZEICHNUNG",
+    "ANLAGENGRUPPE",
+    "ANLAGENTYP",
+    "ANLAGENSTANDORT",
+    "HAUPTANLAGE",
+    "ANLAGENHERSTELLER",
+    "ANLAGENMODELL",
+    "STATUS"
+   ],
+   "source": "gdpdu",
+   "rowCount": 197,
+   "file": "records/table-79267732fd409a99.json"
+  },
+  {
+   "id": "Anlagenbuchungen",
+   "name": "Anlagenbuchungen",
+   "docId": "av-anlagenbuchungen",
+   "relativePath": "AV/Anlagenbuchungen.txt",
+   "columns": [
+    "ANLAGENNUMMER",
+    "WERTSTELLUNG",
+    "BELEGNUMMER",
+    "BUCHUNGSBETRAG",
+    "BUCHUNGSWÄHRUNG",
+    "BUCHUNGSWERT",
+    "BUCHUNGSART",
+    "BUCHUNGSTEXT",
+    "ANLAGENGRUPPE",
+    "BUCHUNGSEBENE"
+   ],
+   "source": "gdpdu",
+   "rowCount": 56,
+   "file": "records/table-9ec4611b60b6c27d.json"
+  },
+  {
+   "id": "Buchungen_Folgeperiode_2026",
+   "name": "Buchungen_Folgeperiode_2026",
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "relativePath": "Begleitdokumente/Buchungen_Folgeperiode_2026.csv",
+   "columns": [
+    "BUCHUNGSDATUM",
+    "BELEG",
+    "DEBITOR",
+    "DEBITORNAME",
+    "BETRAG_EUR",
+    "WAEHRUNG",
+    "GEGENKONTO_HB",
+    "BUCHUNGSTEXT"
+   ],
+   "source": "csv",
+   "rowCount": 60,
+   "file": "records/table-59c4052304ddc27b.json"
+  },
+  {
+   "id": "Fakturajournal_2025",
+   "name": "Fakturajournal_2025",
+   "docId": "begleitdokumente-fakturajournal-2025",
+   "relativePath": "Begleitdokumente/Fakturajournal_2025.csv",
+   "columns": [
+    "RECHNUNGSNUMMER",
+    "ART",
+    "DEBITOR",
+    "DEBITORNAME",
+    "FAKTURADATUM",
+    "LEISTUNGSDATUM",
+    "BETRAG_EUR",
+    "WAEHRUNG",
+    "BEMERKUNG"
+   ],
+   "source": "csv",
+   "rowCount": 2041,
+   "file": "records/table-0e2f4a44809e65be.json"
+  },
+  {
+   "id": "Fakturajournal_Januar_2026_Kreditoren",
+   "name": "Fakturajournal_Januar_2026_Kreditoren",
+   "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+   "relativePath": "Begleitdokumente/Fakturajournal_Januar_2026_Kreditoren.csv",
+   "columns": [
+    "RECHNUNGSNUMMER",
+    "ART",
+    "KREDITOR",
+    "KREDITORNAME",
+    "FAKTURADATUM",
+    "LEISTUNGSDATUM",
+    "BETRAG_EUR",
+    "WAEHRUNG",
+    "BEMERKUNG"
+   ],
+   "source": "csv",
+   "rowCount": 8,
+   "file": "records/table-0ed6b67a956d1f3a.json"
+  },
+  {
+   "id": "Freigabe-Log_Journale_2025",
+   "name": "Freigabe-Log_Journale_2025",
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "relativePath": "Begleitdokumente/Freigabe-Log_Journale_2025.csv",
+   "columns": [
+    "ERFASSUNGSNUMMER",
+    "JOURNALNAME",
+    "ANZAHL_ZEILEN",
+    "SUMME_ABS_EUR",
+    "ERSTELLER",
+    "ERFASST_AM",
+    "ERFASST_UM",
+    "FREIGEBER",
+    "FREIGABEDATUM",
+    "FREIGABESTATUS"
+   ],
+   "source": "csv",
+   "rowCount": 91,
+   "file": "records/table-55a635615e6ca18f.json"
+  },
+  {
+   "id": "Gesellschafterliste_Beteiligungen",
+   "name": "Gesellschafterliste_Beteiligungen",
+   "docId": "begleitdokumente-gesellschafterliste-beteiligungen",
+   "relativePath": "Begleitdokumente/Gesellschafterliste_Beteiligungen.csv",
+   "columns": [
+    "NAME",
+    "ANTEIL_PROZENT",
+    "IC_KENNZEICHEN",
+    "VERHAELTNIS",
+    "BEMERKUNG"
+   ],
+   "source": "csv",
+   "rowCount": 5,
+   "file": "records/table-161b57a1a54aa3a7.json"
+  },
+  {
+   "id": "Kreditlimitliste_Debitoren_2025",
+   "name": "Kreditlimitliste_Debitoren_2025",
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "relativePath": "Begleitdokumente/Kreditlimitliste_Debitoren_2025.csv",
+   "columns": [
+    "DEBITOR",
+    "DEBITORNAME",
+    "KREDITLIMIT_EUR",
+    "AUSNUTZUNG_31_12_2025_EUR",
+    "STATUS",
+    "BESICHERUNG"
+   ],
+   "source": "csv",
+   "rowCount": 160,
+   "file": "records/table-876312e6e365a807.json"
+  },
+  {
+   "id": "Stammdatenaenderungen_2025",
+   "name": "Stammdatenaenderungen_2025",
+   "docId": "begleitdokumente-stammdatenaenderungen-2025",
+   "relativePath": "Begleitdokumente/Stammdatenaenderungen_2025.csv",
+   "columns": [
+    "DATUM",
+    "ART",
+    "KONTO",
+    "NAME",
+    "FELD",
+    "WERT_ALT",
+    "WERT_NEU",
+    "GEAENDERT_VON",
+    "GENEHMIGT_VON",
+    "GENEHMIGT"
+   ],
+   "source": "csv",
+   "rowCount": 19,
+   "file": "records/table-aed796a7c7b3f0a0.json"
+  },
+  {
+   "id": "Warenausgangsliste_2025",
+   "name": "Warenausgangsliste_2025",
+   "docId": "begleitdokumente-warenausgangsliste-2025",
+   "relativePath": "Begleitdokumente/Warenausgangsliste_2025.csv",
+   "columns": [
+    "WARENAUSGANG_NR",
+    "WARENAUSGANG_DATUM",
+    "RECHNUNGSNUMMER",
+    "DEBITOR",
+    "DEBITORNAME",
+    "BETRAG_EUR",
+    "LAGERORT"
+   ],
+   "source": "csv",
+   "rowCount": 2040,
+   "file": "records/table-6e89c2bd6c54eba5.json"
+  },
+  {
+   "id": "Wareneingangsliste_2025",
+   "name": "Wareneingangsliste_2025",
+   "docId": "begleitdokumente-wareneingangsliste-2025",
+   "relativePath": "Begleitdokumente/Wareneingangsliste_2025.csv",
+   "columns": [
+    "WARENEINGANG_NR",
+    "WARENEINGANG_DATUM",
+    "RECHNUNGSNUMMER",
+    "KREDITOR",
+    "KREDITORNAME",
+    "BETRAG_EUR",
+    "BEMERKUNG"
+   ],
+   "source": "csv",
+   "rowCount": 858,
+   "file": "records/table-a160263e403e582f.json"
+  },
+  {
+   "id": "Abstimmung_Nebenbuecher_HB_2025:Abstimmung",
+   "name": "Abstimmung_Nebenbuecher_HB_2025:Abstimmung",
+   "docId": "begleitdokumente-abstimmung-nebenbuecher-hb-2025",
+   "relativePath": "Begleitdokumente/Abstimmung_Nebenbuecher_HB_2025.xlsx",
+   "columns": [
+    "Summe Personenkonten laut OP-Liste Debitoren",
+    "13412543.05"
+   ],
+   "source": "xlsx",
+   "sheet": "Abstimmung",
+   "rowCount": 6,
+   "file": "records/table-2c8f1419d9ebbf71.json"
+  },
+  {
+   "id": "Berechtigungsauswertung_2025:Berechtigungen",
+   "name": "Berechtigungsauswertung_2025:Berechtigungen",
+   "docId": "begleitdokumente-berechtigungsauswertung-2025",
+   "relativePath": "Begleitdokumente/Berechtigungsauswertung_2025.xlsx",
+   "columns": [
+    "Benutzer",
+    "Abteilung",
+    "Buchen",
+    "Journal freigeben",
+    "Zahlungslauf",
+    "Stammdaten/Kreditor anlegen",
+    "Perioden",
+    "Systemadmin",
+    "Management",
+    "Bemerkung"
+   ],
+   "source": "xlsx",
+   "sheet": "Berechtigungen",
+   "rowCount": 9,
+   "file": "records/table-3d9affeb9c96f44d.json"
+  },
+  {
+   "id": "OP-Liste_Debitoren_2025:Saldenliste Personenkonten",
+   "name": "OP-Liste_Debitoren_2025:Saldenliste Personenkonten",
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "relativePath": "Begleitdokumente/OP-Liste_Debitoren_2025.xlsx",
+   "columns": [
+    "Konto",
+    "Name",
+    "Gruppe",
+    "Saldo 31.12.2025"
+   ],
+   "source": "xlsx",
+   "sheet": "Saldenliste Personenkonten",
+   "rowCount": 153,
+   "file": "records/table-9b568c82b0e57df3.json"
+  },
+  {
+   "id": "OP-Liste_Debitoren_2025:Offene Posten (Auszug)",
+   "name": "OP-Liste_Debitoren_2025:Offene Posten (Auszug)",
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "relativePath": "Begleitdokumente/OP-Liste_Debitoren_2025.xlsx",
+   "columns": [
+    "Konto",
+    "Name",
+    "Belegnummer",
+    "Belegdatum",
+    "Betrag EUR"
+   ],
+   "source": "xlsx",
+   "sheet": "Offene Posten (Auszug)",
+   "rowCount": 120,
+   "file": "records/table-79e7757173ad5c8c.json"
+  },
+  {
+   "id": "OP-Liste_Kreditoren_2025:Saldenliste Personenkonten",
+   "name": "OP-Liste_Kreditoren_2025:Saldenliste Personenkonten",
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "relativePath": "Begleitdokumente/OP-Liste_Kreditoren_2025.xlsx",
+   "columns": [
+    "Konto",
+    "Name",
+    "Gruppe",
+    "Saldo 31.12.2025"
+   ],
+   "source": "xlsx",
+   "sheet": "Saldenliste Personenkonten",
+   "rowCount": 122,
+   "file": "records/table-da61e2558758a6ac.json"
+  },
+  {
+   "id": "Saldenliste_2024_Vorjahr:Saldenliste 31.12.2024",
+   "name": "Saldenliste_2024_Vorjahr:Saldenliste 31.12.2024",
+   "docId": "begleitdokumente-saldenliste-2024-vorjahr",
+   "relativePath": "Begleitdokumente/Saldenliste_2024_Vorjahr.xlsx",
+   "columns": [
+    "Konto",
+    "Bezeichnung",
+    "Kontenart",
+    "Saldo 31.12.2024"
+   ],
+   "source": "xlsx",
+   "sheet": "Saldenliste 31.12.2024",
+   "rowCount": 0,
+   "file": "records/table-4e9bca3fcf551520.json"
+  },
+  {
+   "id": "Saldenliste_2025:Saldenliste 2025",
+   "name": "Saldenliste_2025:Saldenliste 2025",
+   "docId": "begleitdokumente-saldenliste-2025",
+   "relativePath": "Begleitdokumente/Saldenliste_2025.xlsx",
+   "columns": [
+    "Konto",
+    "Bezeichnung",
+    "Kontenart",
+    "EB 01.01.2025",
+    "Soll 2025",
+    "Haben 2025",
+    "Saldo 31.12.2025"
+   ],
+   "source": "xlsx",
+   "sheet": "Saldenliste 2025",
+   "rowCount": 44,
+   "file": "records/table-9b2973440b07706a.json"
+  },
+  {
+   "id": "Saldenliste_2025:Überleitung JA 2025",
+   "name": "Saldenliste_2025:Überleitung JA 2025",
+   "docId": "begleitdokumente-saldenliste-2025",
+   "relativePath": "Begleitdokumente/Saldenliste_2025.xlsx",
+   "columns": [
+    "COL_1",
+    "Jahresüberschuss laut Entwurf",
+    "2599841.8"
+   ],
+   "source": "xlsx",
+   "sheet": "Überleitung JA 2025",
+   "rowCount": 0,
+   "file": "records/table-65dd038e7fc3f5dc.json"
+  }
+ ],
+ "integrity": {
+  "ok": true,
+  "checks": [
+   {
+    "id": "rows:Sachkonten",
+    "label": "Sachkonten record count",
+    "ok": true,
+    "detail": "43 parsed / 43 expected"
+   },
+   {
+    "id": "hash:Sachkonten",
+    "label": "Sachkonten SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Sachkontobuchungen",
+    "label": "Sachkontobuchungen record count",
+    "ok": true,
+    "detail": "20258 parsed / 20258 expected"
+   },
+   {
+    "id": "hash:Sachkontobuchungen",
+    "label": "Sachkontobuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Kunden",
+    "label": "Kunden record count",
+    "ok": true,
+    "detail": "160 parsed / 160 expected"
+   },
+   {
+    "id": "hash:Kunden",
+    "label": "Kunden SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Kundenbuchungen",
+    "label": "Kundenbuchungen record count",
+    "ok": true,
+    "detail": "3749 parsed / 3749 expected"
+   },
+   {
+    "id": "hash:Kundenbuchungen",
+    "label": "Kundenbuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Lieferanten",
+    "label": "Lieferanten record count",
+    "ok": true,
+    "detail": "143 parsed / 143 expected"
+   },
+   {
+    "id": "hash:Lieferanten",
+    "label": "Lieferanten SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Lieferantenbuchungen",
+    "label": "Lieferantenbuchungen record count",
+    "ok": true,
+    "detail": "2584 parsed / 2584 expected"
+   },
+   {
+    "id": "hash:Lieferantenbuchungen",
+    "label": "Lieferantenbuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Anlagen",
+    "label": "Anlagen record count",
+    "ok": true,
+    "detail": "197 parsed / 197 expected"
+   },
+   {
+    "id": "hash:Anlagen",
+    "label": "Anlagen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Anlagenbuchungen",
+    "label": "Anlagenbuchungen record count",
+    "ok": true,
+    "detail": "56 parsed / 56 expected"
+   },
+   {
+    "id": "hash:Anlagenbuchungen",
+    "label": "Anlagenbuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "ledger:balanced",
+    "label": "General ledger balances",
+    "ok": true,
+    "detail": "signed row sum EUR 0.00"
+   },
+   {
+    "id": "subledgers:reconciled",
+    "label": "Subledgers reconcile to the general ledger",
+    "ok": true,
+    "detail": "debtor and creditor differences are zero"
+   }
+  ],
+  "warnings": [
+   "The 2024 prior-year balance workbook contains headings but no data rows.",
+   "The Steuercodes directory is empty."
+  ]
+ }
+}

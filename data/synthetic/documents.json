@@ -1,0 +1,163 @@
+[
+ {
+  "id": "annual-report-extract",
+  "filename": "annual-report-extract.txt",
+  "kind": "text",
+  "units": [
+   {
+    "ref": "l.1-22",
+    "text": "PAYFLUX GMBH, BERLIN\nAuszug aus dem Jahresabschluss zum 31. Dezember 2024\n\nBILANZ (Auszug) – AKTIVA\n\nB. Umlaufvermögen\n  II. Forderungen und sonstige Vermögensgegenstände\n      1. Forderungen aus Lieferungen und Leistungen: EUR 187.440,10\n  IV. Kassenbestand, Guthaben bei Kreditinstituten: EUR 512.350,22\n\nGEWINN- UND VERLUSTRECHNUNG (Auszug)\nfür die Zeit vom 1. Januar bis 31. Dezember 2024\n\n  1. Umsatzerlöse: EUR 2.845.910,00\n  5. Sonstige betriebliche Erträge: EUR 47.500,00\n     (darin enthalten: Lizenzgebühr Meridian Holding AG)\n  8. Sonstige betriebliche Aufwendungen: EUR 391.220,00\n\nAnhang (Auszug):\nDie Guthaben bei Kreditinstituten betreffen ausschließlich das\nKontokorrentkonto bei der Commerzbank AG (IBAN DE55 1004 0000 1234 5678 00).\n",
+    "startLine": 1
+   }
+  ],
+  "needsOcr": false
+ },
+ {
+  "id": "approval-policy",
+  "filename": "approval-policy.txt",
+  "kind": "text",
+  "units": [
+   {
+    "ref": "l.1-17",
+    "text": "PAYFLUX GMBH – PROCUREMENT AND APPROVAL POLICY (v2.1, effective 1 Jan 2024)\n\n1. Every purchase of goods or services requires a purchase order (PO)\n   issued in the procurement system BEFORE the vendor invoice is received.\n\n2. Approval thresholds:\n   - up to EUR 5,000: team lead approval\n   - EUR 5,000 to EUR 25,000: department head approval, PO mandatory\n   - above EUR 25,000: CFO approval, PO mandatory, second signature by CEO\n\n3. Vendor bank details may only be changed upon written, signed notice by\n   the vendor, verified by a call-back to a known phone number. Payments to\n   bank accounts deviating from the master data record are prohibited.\n\n4. Splitting of orders to circumvent approval thresholds is prohibited and\n   will be treated as a compliance violation.\n",
+    "startLine": 1
+   }
+  ],
+  "needsOcr": false
+ },
+ {
+  "id": "bank-confirmation-2024",
+  "filename": "bank-confirmation-2024.pdf",
+  "kind": "pdf",
+  "units": [
+   {
+    "ref": "p.1",
+    "text": "COMMERZBANK AG\nFiliale Berlin, Potsdamer Straße 125, 10783 Berlin\nSALDENBESTÄTIGUNG ZUM JAHRESABSCHLUSS\nAn die Geschäftsleitung der\nPayFlux GmbH\nTorstraße 219\n10115 Berlin\nBerlin, den 09.01.2025\nSehr geehrte Damen und Herren,\nhiermit bestätigen wir Ihnen auftragsgemäß die folgenden Salden per Stichtag\n31.12.2024 für die von Ihnen bei uns unterhaltenen Konten:\nKontokorrentkonto\nIBAN: DE55 1004 0000 1234 5678 00\nSaldo per 31.12.2024: EUR 412.350,22 (Haben)\nWeitere Konten, Depots, Bürgschaften oder Kreditlinien bestehen für die\nPayFlux GmbH bei unserem Hause nicht.\nDiese Bestätigung wurde maschinell erstellt und ist ohne Unterschrift gültig.\nMit freundlichen Grüßen\nCommerzbank AG",
+    "page": 1
+   }
+  ],
+  "needsOcr": false
+ },
+ {
+  "id": "contract-techserve",
+  "filename": "contract-techserve.txt",
+  "kind": "text",
+  "units": [
+   {
+    "ref": "l.1-27",
+    "text": "MAINTENANCE AND SUPPORT AGREEMENT\n\nbetween\n\nPayFlux GmbH, Torstraße 219, 10115 Berlin (\"Customer\")\nand\nTechServe Solutions GmbH, Innovationspark 7, 80939 München (\"Contractor\")\n\ndated 15 December 2023\n\n1. SCOPE. The Contractor shall provide maintenance and second-level support\n   for the Customer's payment processing platform.\n\n2. FEES. The maintenance fee amounts to EUR 51,000.00 per contract year,\n   payable in four equal quarterly installments of EUR 12,750.00 each.\n\n3. PAYMENT TERMS. All payments under this Agreement shall be made\n   exclusively to the Contractor's business account:\n   IBAN: DE02 1203 0000 0000 2020 51, BIC: BYLADEM1001.\n   Any change of bank details requires written notice signed by two\n   managing directors of the Contractor.\n\n4. TERM. This Agreement runs from 1 January 2024 to 31 December 2024.\n\nFor the Customer: M. Lindqvist (CFO)\nFor the Contractor: Dr. J. Steiner (Managing Director)\n",
+    "startLine": 1
+   }
+  ],
+  "needsOcr": false
+ },
+ {
+  "id": "credit-note-gs-2024-008",
+  "filename": "credit-note-gs-2024-008.txt",
+  "kind": "text",
+  "units": [
+   {
+    "ref": "l.1-25",
+    "text": "DRUCKEREI HELD GMBH\nGutenbergring 33, 22848 Norderstedt\n\nGUTSCHRIFT\n\nGutschriftsnummer: GS-2024-008\nDatum: 19.02.2024\n\nAn: PayFlux GmbH, Torstraße 219, 10115 Berlin\n\nBetreff: Stornierung der doppelt erfassten Rechnung RE-2024-033\n\nSehr geehrte Damen und Herren,\n\ndie Rechnung RE-2024-033 vom 05.02.2024 über EUR 6.200,00 wurde\nversehentlich doppelt in Ihrem System erfasst. Hiermit erteilen wir eine\nGutschrift über den doppelt gebuchten Betrag:\n\nGutschriftsbetrag: EUR 6.200,00\n\nDer Betrag wird mit der nächsten Rechnung verrechnet bzw. wurde bereits\nzurücküberwiesen. Wir bitten, das Versehen zu entschuldigen.\n\nDruckerei Held GmbH\n",
+    "startLine": 1
+   }
+  ],
+  "needsOcr": false
+ },
+ {
+  "id": "email-cfo-aurora",
+  "filename": "email-cfo-aurora.eml",
+  "kind": "email",
+  "units": [
+   {
+    "ref": "header",
+    "text": "From: Magnus Lindqvist <m.lindqvist@payflux.example>\nTo: Clara Voss <c.voss@payflux.example>\nDate: 2024-06-05T15:42:11.000Z\nSubject: Vertraulich: Aurora / Meridian Struktur"
+   },
+   {
+    "ref": "body.l.1-15",
+    "text": "Hallo Clara,\n\nwie besprochen setzen wir die Struktur naechste Woche um: Wir ueberweisen\n50.000 EUR an Aurora Ventures als \"strategische Beratung\" (PO liegt vor,\nsieht sauber aus). Aurora leitet davon 48.000 EUR an die Meridian Holding\nweiter, und Meridian bucht die Rueckzahlung an uns als \"Lizenzgebuehr\nSoftwareplattform\" ueber 47.500 EUR. Damit erscheint der Betrag bei uns\nals sonstiger betrieblicher Ertrag und die Umsatzseite sieht deutlich\nbesser aus. Bitte keine Details in Jira oder Confluence.\n\nNebenbei: Die Doppelbuchung bei Druckerei Held (RE-2024-033) wurde mit\nGutschrift GS-2024-008 vollstaendig korrigiert, das Thema ist erledigt.\n\nViele Gruesse\nMagnus",
+    "startLine": 1
+   }
+  ],
+  "needsOcr": false
+ },
+ {
+  "id": "invoice-re-2024-041",
+  "filename": "invoice-re-2024-041.txt",
+  "kind": "text",
+  "units": [
+   {
+    "ref": "l.1-20",
+    "text": "NORDWIND CONSULTING GMBH\nAlsterufer 12, 20354 Hamburg\nUSt-IdNr.: DE 314 725 981\n\nRECHNUNG\n\nRechnungsnummer: RE-2024-041\nRechnungsdatum: 10.03.2024\nIhre Bestellung: PO-2024-11 vom 01.03.2024\n\nAn: PayFlux GmbH, Torstraße 219, 10115 Berlin\n\nBeratungsleistungen März 2024 (Prozessoptimierung Zahlungsabwicklung)\nPauschalhonorar gemäß Angebot: EUR 18.400,00 (umsatzsteuerbefreit gem. § 4 UStG)\n\nZahlbar innerhalb von 14 Tagen auf folgendes Konto:\nKontoinhaber: Nordwind Consulting GmbH\nIBAN: DE89 3704 0044 0532 0130 00\nBIC: COBADEFFXXX\n",
+    "startLine": 1
+   }
+  ],
+  "needsOcr": false
+ },
+ {
+  "id": "invoice-re-2024-055",
+  "filename": "invoice-re-2024-055.txt",
+  "kind": "text",
+  "units": [
+   {
+    "ref": "l.1-19",
+    "text": "TECHSERVE SOLUTIONS GMBH\nInnovationspark 7, 80939 München\nUSt-IdNr.: DE 291 448 302\n\nRECHNUNG / INVOICE\n\nRechnungsnummer: RE-2024-055\nRechnungsdatum: 10.03.2024\nReferenz / Bestellung: PO-2024-19\n\nAn: PayFlux GmbH, Torstraße 219, 10115 Berlin\n\nWartungsvertrag Zahlungsplattform – Quartal 1/2024\nBetrag gemäß Wartungsvertrag vom 15.12.2023: EUR 12.750,00 zzgl. USt. befreit\n\nBankverbindung gemäß Vertrag:\nIBAN: DE02 1203 0000 0000 2020 51\nBIC: BYLADEM1001\n",
+    "startLine": 1
+   }
+  ],
+  "needsOcr": false
+ },
+ {
+  "id": "invoice-re-2024-077",
+  "filename": "invoice-re-2024-077.txt",
+  "kind": "text",
+  "units": [
+   {
+    "ref": "l.1-20",
+    "text": "BALTIC MEDIA UG (haftungsbeschränkt)\nSpeicherstadt 4, 23552 Lübeck\nVAT ID: DE 355 902 114\n\nINVOICE\n\nInvoice number: RE-2024-077\nInvoice date: 1 November 2024\n\nTo: PayFlux GmbH, Torstraße 219, 10115 Berlin\n\nCampaign management Q4/2024 – performance marketing retainer\nTotal amount due: EUR 24,900.00 (VAT exempt, reverse charge does not apply)\n\nNo purchase order reference provided.\n\nPlease remit payment within 7 days to:\nIBAN: DE21 3012 0400 0000 0152 28\nBIC: DLGHDE31XXX\n",
+    "startLine": 1
+   }
+  ],
+  "needsOcr": false
+ },
+ {
+  "id": "ledger-2024",
+  "filename": "ledger-2024.csv",
+  "kind": "csv",
+  "units": [
+   {
+    "ref": "l.1-16",
+    "text": "Hauptbuch PayFlux GmbH – Auszug Geschäftsjahr 2024;;;;;;\nDatum;Beleg;Gegenpartei;Beschreibung;Betrag;Waehrung;IBAN\n15.01.2024;MIETE-01;Immobilien Weber KG;Büromiete Januar;-8.500,00;EUR;DE49500105175923716378\n08.02.2024;RE-2024-033;Druckerei Held GmbH;Druckkosten Broschüren;-6.200,00;EUR;DE12500105170648489890\n15.02.2024;RE-2024-033;Druckerei Held GmbH;Druckkosten Broschüren;-6.200,00;EUR;DE12500105170648489890\n20.02.2024;GS-2024-008;Druckerei Held GmbH;Gutschrift – Stornierung Doppelbuchung RE-2024-033;6.200,00;EUR;DE12500105170648489890\n12.03.2024;RE-2024-055;TechServe Solutions GmbH;Wartungsvertrag Q1;-12.750,00;EUR;DE75512108001245126199\n15.03.2024;RE-2024-041;Nordwind Consulting GmbH;Beratungsleistungen März;-18.400,00;EUR;DE89370400440532013000\n28.03.2024;RE-2024-041;Nordwind Consulting Ltd.;Beratungsleistungen März;-18.400,00;EUR;DE44500105175407324931\n30.04.2024;RE-USD-2024-012;Global Data Inc.;Datenlizenzen (USD 10.000,00, Kurs 1,0811);-9.250,00;EUR;DE33100205000001194700\n10.06.2024;AV-2024-003;Aurora Ventures GmbH;Strategische Beratung lt. Vertrag;-50.000,00;EUR;DE68210501700012345678\n22.06.2024;LZ-2024-011;Meridian Holding AG;Lizenzgebühr Softwareplattform;47.500,00;EUR;DE55100400001234567800\n15.07.2024;MIETE-07;Immobilien Weber KG;Büromiete Juli;-8.500,00;EUR;DE49500105175923716378\n05.11.2024;RE-2024-077;Baltic Media UG;Kampagnenmanagement Q4;-24.900,00;EUR;DE21301204000000015228\n20.12.2024;GEHALT-12;Lohnlauf Dezember;Gehälter und Sozialabgaben;-96.410,55;EUR;DE55100400001234567800\n",
+    "startLine": 1
+   }
+  ],
+  "needsOcr": false
+ },
+ {
+  "id": "purchase-orders",
+  "filename": "purchase-orders.csv",
+  "kind": "csv",
+  "units": [
+   {
+    "ref": "l.1-7",
+    "text": "Purchase Orders PayFlux GmbH 2024;;;;\nPO Number;Order Date;Vendor;Amount EUR;Approved By\nPO-2024-11;01.03.2024;Nordwind Consulting GmbH;18.400,00;M. Lindqvist (CFO)\nPO-2024-19;22.03.2024;TechServe Solutions GmbH;12.750,00;M. Lindqvist (CFO)\nPO-2024-30;05.06.2024;Aurora Ventures GmbH;50.000,00;M. Lindqvist (CFO)\nPO-2024-34;12.07.2024;Immobilien Weber KG;8.500,00;S. Okafor (COO)\n",
+    "startLine": 1
+   }
+  ],
+  "needsOcr": false
+ },
+ {
+  "id": "trial-balance-2024",
+  "filename": "trial-balance-2024.xlsx",
+  "kind": "xlsx",
+  "units": [
+   {
+    "ref": "SuSa 2024!r.1-10",
+    "text": "r.1: Summen- und Saldenliste PayFlux GmbH\nr.2: Stichtag: 31.12.2024\nr.3: Konto | Bezeichnung | Soll EUR | Haben EUR\nr.4: 1200 | Bank (Commerzbank Kontokorrent DE55 1004 0000 1234 5678 00) | 512.350,22\nr.5: 1400 | Forderungen aus Lieferungen und Leistungen | 187.440,10\nr.6: 1600 | Verbindlichkeiten aus Lieferungen und Leistungen |  | 94.310,45\nr.7: 4400 | Umsatzerlöse |  | 2.845.910,00\nr.8: 4830 | Sonstige betriebliche Erträge (Lizenzgebühr Meridian) |  | 47.500,00\nr.9: 6300 | Sonstige betriebliche Aufwendungen | 391.220,00\nr.10: 6820 | Miete | 102.000,00",
+    "sheet": "SuSa 2024",
+    "startLine": 1
+   }
+  ],
+  "needsOcr": false
+ }
+]

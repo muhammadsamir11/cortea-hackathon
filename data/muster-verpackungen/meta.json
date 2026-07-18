@@ -1,0 +1,137 @@
+{
+ "dossier": "muster-verpackungen",
+ "generatedAt": "2026-02-04T00:00:00.000Z",
+ "model": "offline-deterministic",
+ "companyName": "Muster Verpackungen GmbH",
+ "fiscalPeriod": "2025",
+ "public": true,
+ "integrity": {
+  "ok": true,
+  "checks": [
+   {
+    "id": "rows:Sachkonten",
+    "label": "Sachkonten record count",
+    "ok": true,
+    "detail": "43 parsed / 43 expected"
+   },
+   {
+    "id": "hash:Sachkonten",
+    "label": "Sachkonten SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Sachkontobuchungen",
+    "label": "Sachkontobuchungen record count",
+    "ok": true,
+    "detail": "20258 parsed / 20258 expected"
+   },
+   {
+    "id": "hash:Sachkontobuchungen",
+    "label": "Sachkontobuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Kunden",
+    "label": "Kunden record count",
+    "ok": true,
+    "detail": "160 parsed / 160 expected"
+   },
+   {
+    "id": "hash:Kunden",
+    "label": "Kunden SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Kundenbuchungen",
+    "label": "Kundenbuchungen record count",
+    "ok": true,
+    "detail": "3749 parsed / 3749 expected"
+   },
+   {
+    "id": "hash:Kundenbuchungen",
+    "label": "Kundenbuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Lieferanten",
+    "label": "Lieferanten record count",
+    "ok": true,
+    "detail": "143 parsed / 143 expected"
+   },
+   {
+    "id": "hash:Lieferanten",
+    "label": "Lieferanten SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Lieferantenbuchungen",
+    "label": "Lieferantenbuchungen record count",
+    "ok": true,
+    "detail": "2584 parsed / 2584 expected"
+   },
+   {
+    "id": "hash:Lieferantenbuchungen",
+    "label": "Lieferantenbuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Anlagen",
+    "label": "Anlagen record count",
+    "ok": true,
+    "detail": "197 parsed / 197 expected"
+   },
+   {
+    "id": "hash:Anlagen",
+    "label": "Anlagen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Anlagenbuchungen",
+    "label": "Anlagenbuchungen record count",
+    "ok": true,
+    "detail": "56 parsed / 56 expected"
+   },
+   {
+    "id": "hash:Anlagenbuchungen",
+    "label": "Anlagenbuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "ledger:balanced",
+    "label": "General ledger balances",
+    "ok": true,
+    "detail": "signed row sum EUR 0.00"
+   },
+   {
+    "id": "subledgers:reconciled",
+    "label": "Subledgers reconcile to the general ledger",
+    "ok": true,
+    "detail": "debtor and creditor differences are zero"
+   }
+  ],
+  "warnings": [
+   "The 2024 prior-year balance workbook contains headings but no data rows.",
+   "The Steuercodes directory is empty."
+  ]
+ },
+ "stats": {
+  "docs": 35,
+  "units": 32958,
+  "facts": 32926,
+  "verifiedFacts": 32926,
+  "findings": 4,
+  "acquitted": 0
+ },
+ "financial": {
+  "reportedProfit": 2599841.8,
+  "adjustedProfit": 2257041.8
+ }
+}

@@ -1,0 +1,480 @@
+[
+ {
+  "id": "fx-1",
+  "docId": "ledger-2024",
+  "kind": "transaction",
+  "date": "2024-03-15",
+  "amount": 18400,
+  "currency": "EUR",
+  "payerName": "PayFlux GmbH",
+  "payeeName": "Nordwind Consulting GmbH",
+  "payeeIban": "DE89370400440532013000",
+  "docNumber": "RE-2024-041",
+  "description": "Beratungsleistungen März",
+  "citations": [
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "15.03.2024;RE-2024-041;Nordwind Consulting GmbH;Beratungsleistungen März;-18.400,00"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-2",
+  "docId": "ledger-2024",
+  "kind": "transaction",
+  "date": "2024-03-28",
+  "amount": 18400,
+  "currency": "EUR",
+  "payerName": "PayFlux GmbH",
+  "payeeName": "Nordwind Consulting Ltd.",
+  "payeeIban": "DE44500105175407324931",
+  "docNumber": "RE-2024-041",
+  "description": "Beratungsleistungen März",
+  "citations": [
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "28.03.2024;RE-2024-041;Nordwind Consulting Ltd.;Beratungsleistungen März;-18.400,00"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-3",
+  "docId": "ledger-2024",
+  "kind": "transaction",
+  "date": "2024-03-12",
+  "amount": 12750,
+  "currency": "EUR",
+  "payerName": "PayFlux GmbH",
+  "payeeName": "TechServe Solutions GmbH",
+  "payeeIban": "DE75512108001245126199",
+  "docNumber": "RE-2024-055",
+  "description": "Wartungsvertrag Q1",
+  "citations": [
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "12.03.2024;RE-2024-055;TechServe Solutions GmbH;Wartungsvertrag Q1;-12.750,00;EUR;DE75512108001245126199"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-4",
+  "docId": "ledger-2024",
+  "kind": "transaction",
+  "date": "2024-11-05",
+  "amount": 24900,
+  "currency": "EUR",
+  "payerName": "PayFlux GmbH",
+  "payeeName": "Baltic Media UG",
+  "payeeIban": "DE21301204000000015228",
+  "docNumber": "RE-2024-077",
+  "description": "Kampagnenmanagement Q4",
+  "citations": [
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "05.11.2024;RE-2024-077;Baltic Media UG;Kampagnenmanagement Q4;-24.900,00"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-5",
+  "docId": "ledger-2024",
+  "kind": "transaction",
+  "date": "2024-06-10",
+  "amount": 50000,
+  "currency": "EUR",
+  "payerName": "PayFlux GmbH",
+  "payeeName": "Aurora Ventures GmbH",
+  "payeeIban": "DE68210501700012345678",
+  "docNumber": "AV-2024-003",
+  "description": "Strategische Beratung lt. Vertrag",
+  "citations": [
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "10.06.2024;AV-2024-003;Aurora Ventures GmbH;Strategische Beratung lt. Vertrag;-50.000,00"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-6",
+  "docId": "ledger-2024",
+  "kind": "transaction",
+  "date": "2024-06-22",
+  "amount": 47500,
+  "currency": "EUR",
+  "payerName": "Meridian Holding AG",
+  "payeeName": "PayFlux GmbH",
+  "docNumber": "LZ-2024-011",
+  "description": "Lizenzgebühr Softwareplattform",
+  "citations": [
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "22.06.2024;LZ-2024-011;Meridian Holding AG;Lizenzgebühr Softwareplattform;47.500,00"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-7",
+  "docId": "ledger-2024",
+  "kind": "transaction",
+  "date": "2024-02-08",
+  "amount": 6200,
+  "currency": "EUR",
+  "payerName": "PayFlux GmbH",
+  "payeeName": "Druckerei Held GmbH",
+  "payeeIban": "DE12500105170648489890",
+  "docNumber": "RE-2024-033",
+  "description": "Druckkosten Broschüren",
+  "citations": [
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "08.02.2024;RE-2024-033;Druckerei Held GmbH;Druckkosten Broschüren;-6.200,00"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-8",
+  "docId": "ledger-2024",
+  "kind": "transaction",
+  "date": "2024-02-15",
+  "amount": 6200,
+  "currency": "EUR",
+  "payerName": "PayFlux GmbH",
+  "payeeName": "Druckerei Held GmbH",
+  "payeeIban": "DE12500105170648489890",
+  "docNumber": "RE-2024-033",
+  "description": "Druckkosten Broschüren",
+  "citations": [
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "15.02.2024;RE-2024-033;Druckerei Held GmbH;Druckkosten Broschüren;-6.200,00"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-9",
+  "docId": "ledger-2024",
+  "kind": "transaction",
+  "date": "2024-02-20",
+  "amount": 6200,
+  "currency": "EUR",
+  "payerName": "Druckerei Held GmbH",
+  "payeeName": "PayFlux GmbH",
+  "docNumber": "GS-2024-008",
+  "relatedDocNumbers": [
+   "RE-2024-033"
+  ],
+  "description": "Gutschrift – Stornierung Doppelbuchung RE-2024-033",
+  "citations": [
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "20.02.2024;GS-2024-008;Druckerei Held GmbH;Gutschrift – Stornierung Doppelbuchung RE-2024-033;6.200,00"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-10",
+  "docId": "email-cfo-aurora",
+  "kind": "transaction",
+  "date": "2024-06-05",
+  "amount": 48000,
+  "currency": "EUR",
+  "payerName": "Aurora Ventures GmbH",
+  "payeeName": "Meridian Holding AG",
+  "description": "as described in correspondence: Aurora forwards 48,000 EUR to Meridian Holding",
+  "citations": [
+   {
+    "docId": "email-cfo-aurora",
+    "ref": "body.l.1-15",
+    "quote": "Aurora leitet davon 48.000 EUR an die Meridian Holding"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-11",
+  "docId": "email-cfo-aurora",
+  "kind": "event",
+  "date": "2024-06-05",
+  "label": "Round-trip scheme instruction",
+  "description": "CFO describes routing 50k via Aurora to Meridian and booking the return as license fee income",
+  "citations": [
+   {
+    "docId": "email-cfo-aurora",
+    "ref": "body.l.1-15",
+    "quote": "Meridian bucht die Rueckzahlung an uns als \"Lizenzgebuehr"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-12",
+  "docId": "bank-confirmation-2024",
+  "kind": "balance",
+  "date": "2024-12-31",
+  "amount": 412350.22,
+  "currency": "EUR",
+  "accountRef": "DE55100400001234567800",
+  "balanceSource": "bank_confirmation",
+  "citations": [
+   {
+    "docId": "bank-confirmation-2024",
+    "ref": "p.1",
+    "quote": "Saldo per 31.12.2024: EUR 412.350,22"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-13",
+  "docId": "trial-balance-2024",
+  "kind": "balance",
+  "date": "2024-12-31",
+  "amount": 512350.22,
+  "currency": "EUR",
+  "accountRef": "DE55100400001234567800",
+  "balanceSource": "trial_balance",
+  "label": "Konto 1200 Bank",
+  "citations": [
+   {
+    "docId": "trial-balance-2024",
+    "ref": "SuSa 2024!r.1-10",
+    "quote": "Bank (Commerzbank Kontokorrent DE55 1004 0000 1234 5678 00) | 512.350,22"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-14",
+  "docId": "annual-report-extract",
+  "kind": "balance",
+  "date": "2024-12-31",
+  "amount": 512350.22,
+  "currency": "EUR",
+  "accountRef": "DE55100400001234567800",
+  "balanceSource": "financial_statement",
+  "label": "Kassenbestand, Guthaben bei Kreditinstituten",
+  "citations": [
+   {
+    "docId": "annual-report-extract",
+    "ref": "l.1-22",
+    "quote": "Kassenbestand, Guthaben bei Kreditinstituten: EUR 512.350,22"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-15",
+  "docId": "invoice-re-2024-041",
+  "kind": "invoice",
+  "date": "2024-03-10",
+  "amount": 18400,
+  "currency": "EUR",
+  "payerName": "PayFlux GmbH",
+  "payeeName": "Nordwind Consulting GmbH",
+  "payeeIban": "DE89370400440532013000",
+  "docNumber": "RE-2024-041",
+  "relatedDocNumbers": [
+   "PO-2024-11"
+  ],
+  "citations": [
+   {
+    "docId": "invoice-re-2024-041",
+    "ref": "l.1-20",
+    "quote": "IBAN: DE89 3704 0044 0532 0130 00"
+   },
+   {
+    "docId": "invoice-re-2024-041",
+    "ref": "l.1-20",
+    "quote": "Pauschalhonorar gemäß Angebot: EUR 18.400,00"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-16",
+  "docId": "invoice-re-2024-055",
+  "kind": "invoice",
+  "date": "2024-03-10",
+  "amount": 12750,
+  "currency": "EUR",
+  "payerName": "PayFlux GmbH",
+  "payeeName": "TechServe Solutions GmbH",
+  "payeeIban": "DE02120300000000202051",
+  "docNumber": "RE-2024-055",
+  "relatedDocNumbers": [
+   "PO-2024-19"
+  ],
+  "citations": [
+   {
+    "docId": "invoice-re-2024-055",
+    "ref": "l.1-19",
+    "quote": "IBAN: DE02 1203 0000 0000 2020 51"
+   },
+   {
+    "docId": "invoice-re-2024-055",
+    "ref": "l.1-19",
+    "quote": "Rechnungsdatum: 10.03.2024"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-17",
+  "docId": "invoice-re-2024-077",
+  "kind": "invoice",
+  "date": "2024-11-01",
+  "amount": 24900,
+  "currency": "EUR",
+  "payerName": "PayFlux GmbH",
+  "payeeName": "Baltic Media UG",
+  "payeeIban": "DE21301204000000015228",
+  "docNumber": "RE-2024-077",
+  "citations": [
+   {
+    "docId": "invoice-re-2024-077",
+    "ref": "l.1-20",
+    "quote": "Total amount due: EUR 24,900.00"
+   },
+   {
+    "docId": "invoice-re-2024-077",
+    "ref": "l.1-20",
+    "quote": "No purchase order reference provided."
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-18",
+  "docId": "purchase-orders",
+  "kind": "purchase_order",
+  "date": "2024-03-01",
+  "amount": 18400,
+  "currency": "EUR",
+  "payeeName": "Nordwind Consulting GmbH",
+  "docNumber": "PO-2024-11",
+  "citations": [
+   {
+    "docId": "purchase-orders",
+    "ref": "l.1-7",
+    "quote": "PO-2024-11;01.03.2024;Nordwind Consulting GmbH;18.400,00"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-19",
+  "docId": "purchase-orders",
+  "kind": "purchase_order",
+  "date": "2024-03-22",
+  "amount": 12750,
+  "currency": "EUR",
+  "payeeName": "TechServe Solutions GmbH",
+  "docNumber": "PO-2024-19",
+  "citations": [
+   {
+    "docId": "purchase-orders",
+    "ref": "l.1-7",
+    "quote": "PO-2024-19;22.03.2024;TechServe Solutions GmbH;12.750,00"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-20",
+  "docId": "purchase-orders",
+  "kind": "purchase_order",
+  "date": "2024-06-05",
+  "amount": 50000,
+  "currency": "EUR",
+  "payeeName": "Aurora Ventures GmbH",
+  "docNumber": "PO-2024-30",
+  "citations": [
+   {
+    "docId": "purchase-orders",
+    "ref": "l.1-7",
+    "quote": "PO-2024-30;05.06.2024;Aurora Ventures GmbH;50.000,00"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-21",
+  "docId": "contract-techserve",
+  "kind": "contract_term",
+  "entityName": "TechServe Solutions GmbH",
+  "entityIban": "DE02120300000000202051",
+  "label": "exclusive payment account",
+  "description": "All payments shall be made exclusively to the contractor's business account",
+  "citations": [
+   {
+    "docId": "contract-techserve",
+    "ref": "l.1-27",
+    "quote": "IBAN: DE02 1203 0000 0000 2020 51, BIC: BYLADEM1001"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-22",
+  "docId": "approval-policy",
+  "kind": "contract_term",
+  "amount": 25000,
+  "currency": "EUR",
+  "label": "approval threshold",
+  "description": "above EUR 25,000: CFO approval, PO mandatory, second signature by CEO",
+  "citations": [
+   {
+    "docId": "approval-policy",
+    "ref": "l.1-17",
+    "quote": "above EUR 25,000: CFO approval, PO mandatory"
+   }
+  ],
+  "verified": true
+ },
+ {
+  "id": "fx-23",
+  "docId": "credit-note-gs-2024-008",
+  "kind": "invoice",
+  "date": "2024-02-19",
+  "amount": 6200,
+  "currency": "EUR",
+  "payeeName": "Druckerei Held GmbH",
+  "docNumber": "GS-2024-008",
+  "relatedDocNumbers": [
+   "RE-2024-033"
+  ],
+  "label": "Gutschrift",
+  "description": "Stornierung der doppelt erfassten Rechnung RE-2024-033",
+  "citations": [
+   {
+    "docId": "credit-note-gs-2024-008",
+    "ref": "l.1-25",
+    "quote": "Gutschriftsbetrag: EUR 6.200,00"
+   },
+   {
+    "docId": "credit-note-gs-2024-008",
+    "ref": "l.1-25",
+    "quote": "versehentlich doppelt in Ihrem System erfasst"
+   }
+  ],
+  "verified": true
+ }
+]

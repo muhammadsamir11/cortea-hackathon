@@ -1,0 +1,31 @@
+{
+  "name": "@almedia/forensic",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./engine/*": "./src/engine/*.ts",
+    "./pipeline/*": "./src/pipeline/*.ts",
+    "./*": "./src/*.ts"
+  },
+  "scripts": {
+    "check-types": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@ai-sdk/google": "^4.0.7",
+    "@ai-sdk/openai": "^4.0.16",
+    "@almedia/env": "workspace:*",
+    "ai": "^7.0.13",
+    "mammoth": "^1.12.0",
+    "postal-mime": "^2.7.5",
+    "unpdf": "^1.6.2",
+    "xlsx": "^0.18.5",
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@almedia/config": "workspace:*",
+    "@types/node": "^20",
+    "typescript": "catalog:"
+  }
+}

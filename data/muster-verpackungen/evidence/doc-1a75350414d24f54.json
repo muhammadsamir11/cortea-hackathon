@@ -1,0 +1,38 @@
+[
+ {
+  "ref": "Abstimmung!r.5",
+  "text": "HB-Konto 230000 Forderungen aus L.u.L. | 13412543.05",
+  "sheet": "Abstimmung",
+  "startLine": 5
+ },
+ {
+  "ref": "Abstimmung!r.6",
+  "text": "Differenz Debitoren | 0",
+  "sheet": "Abstimmung",
+  "startLine": 6
+ },
+ {
+  "ref": "Abstimmung!r.8",
+  "text": "KREDITOREN | ",
+  "sheet": "Abstimmung",
+  "startLine": 8
+ },
+ {
+  "ref": "Abstimmung!r.9",
+  "text": "Summe Personenkonten laut OP-Liste Kreditoren | -13208855",
+  "sheet": "Abstimmung",
+  "startLine": 9
+ },
+ {
+  "ref": "Abstimmung!r.10",
+  "text": "HB-Konto 330000 Verbindlichkeiten aus L.u.L. | -13208855",
+  "sheet": "Abstimmung",
+  "startLine": 10
+ },
+ {
+  "ref": "Abstimmung!r.11",
+  "text": "Differenz Kreditoren | 0",
+  "sheet": "Abstimmung",
+  "startLine": 11
+ }
+]

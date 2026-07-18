@@ -1,0 +1,33 @@
+{
+  "name": "almedia",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "type": "module",
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "check-types": "turbo run check-types",
+    "test": "turbo run test",
+    "ingest": "pnpm --filter web ingest",
+    "analyze": "pnpm --filter web analyze",
+    "benchmark:muster": "pnpm --filter web benchmark:muster",
+    "dev:web": "turbo run dev -F web",
+    "prepare": "lefthook install"
+  },
+  "dependencies": {
+    "@almedia/env": "workspace:*",
+    "dotenv": "catalog:",
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@almedia/config": "workspace:*",
+    "@types/node": "^22.13.14",
+    "lefthook": "^2.1.10",
+    "turbo": "^2.10.2",
+    "typescript": "catalog:"
+  },
+  "packageManager": "pnpm@10.33.3"
+}

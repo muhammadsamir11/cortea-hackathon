@@ -1,0 +1,12 @@
+{
+  "name": "@almedia/config",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "check-types": "tsc --ignoreConfig --noEmit --strict --module preserve --moduleResolution bundler typecheck.ts",
+    "test": "tsc --ignoreConfig --noEmit --strict --module preserve --moduleResolution bundler typecheck.ts"
+  },
+  "devDependencies": {
+    "typescript": "catalog:"
+  }
+}

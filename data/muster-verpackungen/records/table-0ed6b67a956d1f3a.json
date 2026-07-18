@@ -1,0 +1,162 @@
+[
+ {
+  "rowNumber": 2,
+  "raw": "ER901427;Rechnung;209130;Nord Transport GmbH;15.01.2026;21.12.2025;22000,00;EUR;Frachten Dez 2025",
+  "values": {
+   "RECHNUNGSNUMMER": "ER901427",
+   "ART": "Rechnung",
+   "KREDITOR": "209130",
+   "KREDITORNAME": "Nord Transport GmbH",
+   "FAKTURADATUM": "15.01.2026",
+   "LEISTUNGSDATUM": "21.12.2025",
+   "BETRAG_EUR": "22000,00",
+   "WAEHRUNG": "EUR",
+   "BEMERKUNG": "Frachten Dez 2025"
+  },
+  "citation": {
+   "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+   "ref": "Fakturajournal_Januar_2026_Kreditoren!r.2",
+   "quote": "ER901427;Rechnung;209130;Nord Transport GmbH;15.01.2026;21.12.2025;22000,00;EUR;Frachten Dez 2025"
+  }
+ },
+ {
+  "rowNumber": 3,
+  "raw": "ER901428;Rechnung;209131;Delta Energie GmbH;03.01.2026;26.12.2025;38000,00;EUR;Energie Dez 2025",
+  "values": {
+   "RECHNUNGSNUMMER": "ER901428",
+   "ART": "Rechnung",
+   "KREDITOR": "209131",
+   "KREDITORNAME": "Delta Energie GmbH",
+   "FAKTURADATUM": "03.01.2026",
+   "LEISTUNGSDATUM": "26.12.2025",
+   "BETRAG_EUR": "38000,00",
+   "WAEHRUNG": "EUR",
+   "BEMERKUNG": "Energie Dez 2025"
+  },
+  "citation": {
+   "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+   "ref": "Fakturajournal_Januar_2026_Kreditoren!r.3",
+   "quote": "ER901428;Rechnung;209131;Delta Energie GmbH;03.01.2026;26.12.2025;38000,00;EUR;Energie Dez 2025"
+  }
+ },
+ {
+  "rowNumber": 4,
+  "raw": "ER901429;Rechnung;209132;Atlas Werkstoffe GmbH;15.01.2026;22.12.2025;41000,00;EUR;Materiallieferung 22.12.2025",
+  "values": {
+   "RECHNUNGSNUMMER": "ER901429",
+   "ART": "Rechnung",
+   "KREDITOR": "209132",
+   "KREDITORNAME": "Atlas Werkstoffe GmbH",
+   "FAKTURADATUM": "15.01.2026",
+   "LEISTUNGSDATUM": "22.12.2025",
+   "BETRAG_EUR": "41000,00",
+   "WAEHRUNG": "EUR",
+   "BEMERKUNG": "Materiallieferung 22.12.2025"
+  },
+  "citation": {
+   "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+   "ref": "Fakturajournal_Januar_2026_Kreditoren!r.4",
+   "quote": "ER901429;Rechnung;209132;Atlas Werkstoffe GmbH;15.01.2026;22.12.2025;41000,00;EUR;Materiallieferung 22.12.2025"
+  }
+ },
+ {
+  "rowNumber": 5,
+  "raw": "ER901430;Rechnung;209133;Vega Technik GmbH;11.01.2026;22.12.2025;17000,00;EUR;Wartung Dez 2025",
+  "values": {
+   "RECHNUNGSNUMMER": "ER901430",
+   "ART": "Rechnung",
+   "KREDITOR": "209133",
+   "KREDITORNAME": "Vega Technik GmbH",
+   "FAKTURADATUM": "11.01.2026",
+   "LEISTUNGSDATUM": "22.12.2025",
+   "BETRAG_EUR": "17000,00",
+   "WAEHRUNG": "EUR",
+   "BEMERKUNG": "Wartung Dez 2025"
+  },
+  "citation": {
+   "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+   "ref": "Fakturajournal_Januar_2026_Kreditoren!r.5",
+   "quote": "ER901430;Rechnung;209133;Vega Technik GmbH;11.01.2026;22.12.2025;17000,00;EUR;Wartung Dez 2025"
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "ER901431;Rechnung;209134;Orion Logistik GmbH;13.01.2026;25.12.2025;26000,00;EUR;Logistik Dez 2025",
+  "values": {
+   "RECHNUNGSNUMMER": "ER901431",
+   "ART": "Rechnung",
+   "KREDITOR": "209134",
+   "KREDITORNAME": "Orion Logistik GmbH",
+   "FAKTURADATUM": "13.01.2026",
+   "LEISTUNGSDATUM": "25.12.2025",
+   "BETRAG_EUR": "26000,00",
+   "WAEHRUNG": "EUR",
+   "BEMERKUNG": "Logistik Dez 2025"
+  },
+  "citation": {
+   "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+   "ref": "Fakturajournal_Januar_2026_Kreditoren!r.6",
+   "quote": "ER901431;Rechnung;209134;Orion Logistik GmbH;13.01.2026;25.12.2025;26000,00;EUR;Logistik Dez 2025"
+  }
+ },
+ {
+  "rowNumber": 7,
+  "raw": "ER901432;Rechnung;209135;Kronos Druck GmbH;13.01.2026;19.12.2025;14500,00;EUR;Druckleistung Dez 2025",
+  "values": {
+   "RECHNUNGSNUMMER": "ER901432",
+   "ART": "Rechnung",
+   "KREDITOR": "209135",
+   "KREDITORNAME": "Kronos Druck GmbH",
+   "FAKTURADATUM": "13.01.2026",
+   "LEISTUNGSDATUM": "19.12.2025",
+   "BETRAG_EUR": "14500,00",
+   "WAEHRUNG": "EUR",
+   "BEMERKUNG": "Druckleistung Dez 2025"
+  },
+  "citation": {
+   "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+   "ref": "Fakturajournal_Januar_2026_Kreditoren!r.7",
+   "quote": "ER901432;Rechnung;209135;Kronos Druck GmbH;13.01.2026;19.12.2025;14500,00;EUR;Druckleistung Dez 2025"
+  }
+ },
+ {
+  "rowNumber": 8,
+  "raw": "ER901433;Rechnung;209136;Prisma Chemie GmbH;14.01.2026;20.12.2025;20500,00;EUR;Rohstoffe 27.12.2025",
+  "values": {
+   "RECHNUNGSNUMMER": "ER901433",
+   "ART": "Rechnung",
+   "KREDITOR": "209136",
+   "KREDITORNAME": "Prisma Chemie GmbH",
+   "FAKTURADATUM": "14.01.2026",
+   "LEISTUNGSDATUM": "20.12.2025",
+   "BETRAG_EUR": "20500,00",
+   "WAEHRUNG": "EUR",
+   "BEMERKUNG": "Rohstoffe 27.12.2025"
+  },
+  "citation": {
+   "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+   "ref": "Fakturajournal_Januar_2026_Kreditoren!r.8",
+   "quote": "ER901433;Rechnung;209136;Prisma Chemie GmbH;14.01.2026;20.12.2025;20500,00;EUR;Rohstoffe 27.12.2025"
+  }
+ },
+ {
+  "rowNumber": 9,
+  "raw": "ER901434;Rechnung;209137;Helios Systeme GmbH;06.01.2026;20.12.2025;13000,00;EUR;IT-Leistung Dez 2025",
+  "values": {
+   "RECHNUNGSNUMMER": "ER901434",
+   "ART": "Rechnung",
+   "KREDITOR": "209137",
+   "KREDITORNAME": "Helios Systeme GmbH",
+   "FAKTURADATUM": "06.01.2026",
+   "LEISTUNGSDATUM": "20.12.2025",
+   "BETRAG_EUR": "13000,00",
+   "WAEHRUNG": "EUR",
+   "BEMERKUNG": "IT-Leistung Dez 2025"
+  },
+  "citation": {
+   "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+   "ref": "Fakturajournal_Januar_2026_Kreditoren!r.9",
+   "quote": "ER901434;Rechnung;209137;Helios Systeme GmbH;06.01.2026;20.12.2025;13000,00;EUR;IT-Leistung Dez 2025"
+  }
+ }
+]

@@ -1,0 +1,9 @@
+{
+  "scannedAt": "2026-07-18",
+  "fonts": ["Inter"],
+  "palette": "shadcn preset b27GcrRo neutral + Cortea semantic tokens",
+  "motion": "none",
+  "framework": "Next.js App Router",
+  "brand": "Cortea",
+  "style": "radix-rhea"
+}

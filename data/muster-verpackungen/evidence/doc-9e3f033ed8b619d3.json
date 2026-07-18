@@ -1,0 +1,97 @@
+[
+ {
+  "ref": "Stammdatenaenderungen_2025!r.2",
+  "text": "08.01.2025;Debitor;100129;ALPHA PAPIER E.K.;Name/Firmierung;alt;neu;MV-U08;MV-U02;Ja",
+  "startLine": 2
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.3",
+  "text": "11.01.2025;Kreditor;200065;Reiher Kunststoff GmbH;Mahnsperre;alt;neu;MV-U03;MV-U02;Ja",
+  "startLine": 3
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.4",
+  "text": "17.01.2025;Kreditor;200012;Orion Distribution SE;Adresse;alt;neu;MV-U08;MV-U02;Ja",
+  "startLine": 4
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.5",
+  "text": "18.03.2025;Kreditor;200022;Solum Kunststoff GmbH;Zahlungsziel;alt;neu;MV-U03;MV-U02;Ja",
+  "startLine": 5
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.6",
+  "text": "20.03.2025;Kreditor;200086;Adler Papier GmbH;USt-IdNr.;alt;neu;MV-U11;MV-U02;Ja",
+  "startLine": 6
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.7",
+  "text": "10.04.2025;Kreditor;200061;Iris Etiketten SE;Zahlungsziel;alt;neu;MV-U03;MV-U02;Ja",
+  "startLine": 7
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.8",
+  "text": "12.05.2025;Kreditor;209101;Ratio Consulting GmbH;Neuanlage Kreditor;;angelegt inkl. Bankverbindung;MV-U05;MV-U05;Ja",
+  "startLine": 8
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.9",
+  "text": "19.05.2025;Kreditor;200045;Ost Industriebedarf GmbH;Mahnsperre;alt;neu;MV-U08;MV-U02;Ja",
+  "startLine": 9
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.10",
+  "text": "20.05.2025;Kreditor;200076;Alpha Beschichtung e.K.;Adresse;alt;neu;MV-U03;MV-U02;Ja",
+  "startLine": 10
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.11",
+  "text": "03.06.2025;Kreditor;209112;Vega Werkstoffe GmbH;Neuanlage Kreditor;;angelegt inkl. Bankverbindung;MV-U03;MV-U02;Ja",
+  "startLine": 11
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.12",
+  "text": "18.06.2025;Debitor;100083;MERKUR MASCHINEN GMBH;Zahlungsziel;alt;neu;MV-U11;MV-U02;Ja",
+  "startLine": 12
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.13",
+  "text": "21.06.2025;Kreditor;200121;Vega Kunststoff AG;Zahlungsziel;alt;neu;MV-U08;MV-U02;Ja",
+  "startLine": 13
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.14",
+  "text": "14.09.2025;Kreditor;200075;Delta Logistik SE;Bankverbindung;DE..alt;DE..neu;MV-U03;MV-U02;Ja",
+  "startLine": 14
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.15",
+  "text": "22.10.2025;Debitor;100015;OST WERKSTOFFE AG;Adresse;alt;neu;MV-U08;MV-U02;Ja",
+  "startLine": 15
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.16",
+  "text": "23.10.2025;Kreditor;200086;Adler Papier GmbH;Adresse;alt;neu;MV-U11;MV-U02;Ja",
+  "startLine": 16
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.17",
+  "text": "23.10.2025;Debitor;100132;CORVUS CHEMIE KG;USt-IdNr.;alt;neu;MV-U08;MV-U02;Ja",
+  "startLine": 17
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.18",
+  "text": "03.11.2025;Debitor;100134;SOLUM TRANSPORT E.K.;Mahnsperre;alt;neu;MV-U11;MV-U02;Ja",
+  "startLine": 18
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.19",
+  "text": "13.11.2025;Debitor;100006;SÜD DRUCK GMBH;USt-IdNr.;alt;neu;MV-U11;MV-U02;Ja",
+  "startLine": 19
+ },
+ {
+  "ref": "Stammdatenaenderungen_2025!r.20",
+  "text": "24.12.2025;Kreditor;200093;Pactum Druck GmbH;Zahlungsziel;alt;neu;MV-U11;MV-U02;Ja",
+  "startLine": 20
+ }
+]

@@ -1,0 +1,320 @@
+[
+ {
+  "id": "c-reconciliation-1",
+  "checkId": "reconciliation",
+  "tier": "proven",
+  "fraudType": "balance_manipulation",
+  "title": "Account DE55100400001234567800: books differ from bank confirmation by EUR 100,000.00",
+  "narrative": "For account DE55100400001234567800 as of 2024-12-31, the dossier asserts irreconcilable balances: EUR 412,350.22 per bank_confirmation vs EUR 512,350.22 per trial_balance/financial_statement. The bank's own confirmation is the authoritative external evidence — the difference of EUR 100,000.00 in the books has no support from the bank.",
+  "amountInvolved": 100000,
+  "severity": "high",
+  "factIds": [
+   "fx-12",
+   "fx-13",
+   "fx-14"
+  ],
+  "citations": [
+   {
+    "docId": "bank-confirmation-2024",
+    "ref": "p.1",
+    "quote": "Saldo per 31.12.2024: EUR 412.350,22"
+   },
+   {
+    "docId": "trial-balance-2024",
+    "ref": "SuSa 2024!r.1-10",
+    "quote": "Bank (Commerzbank Kontokorrent DE55 1004 0000 1234 5678 00) | 512.350,22"
+   },
+   {
+    "docId": "annual-report-extract",
+    "ref": "l.1-22",
+    "quote": "Kassenbestand, Guthaben bei Kreditinstituten: EUR 512.350,22"
+   }
+  ]
+ },
+ {
+  "id": "c-duplicates-2",
+  "checkId": "duplicates",
+  "tier": "proven",
+  "fraudType": "duplicate_payment",
+  "title": "Document RE-2024-041 paid 2× (Nordwind Consulting GmbH)",
+  "narrative": "The ledger shows 2 outgoing payments referencing the same document number RE-2024-041 to Nordwind Consulting GmbH, each over EUR 18,400.00. Payment dates: 2024-03-15, 2024-03-28. No correcting entry or credit note referencing this number was found in the dossier.",
+  "amountInvolved": 18400,
+  "severity": "medium",
+  "factIds": [
+   "fx-1",
+   "fx-2"
+  ],
+  "citations": [
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "15.03.2024;RE-2024-041;Nordwind Consulting GmbH;Beratungsleistungen März;-18.400,00"
+   },
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "28.03.2024;RE-2024-041;Nordwind Consulting Ltd.;Beratungsleistungen März;-18.400,00"
+   }
+  ]
+ },
+ {
+  "id": "c-duplicates-3",
+  "checkId": "duplicates",
+  "tier": "proven",
+  "fraudType": "duplicate_payment",
+  "title": "Document RE-2024-033 paid 2× (Druckerei Held GmbH)",
+  "narrative": "The ledger shows 2 outgoing payments referencing the same document number RE-2024-033 to Druckerei Held GmbH, each over EUR 6,200.00. Payment dates: 2024-02-08, 2024-02-15. A correcting entry or credit note referencing this number exists in the dossier — the tribunal must weigh whether it fully neutralizes the duplicate.",
+  "amountInvolved": 6200,
+  "severity": "medium",
+  "factIds": [
+   "fx-7",
+   "fx-8",
+   "fx-9",
+   "fx-23"
+  ],
+  "citations": [
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "08.02.2024;RE-2024-033;Druckerei Held GmbH;Druckkosten Broschüren;-6.200,00"
+   },
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "15.02.2024;RE-2024-033;Druckerei Held GmbH;Druckkosten Broschüren;-6.200,00"
+   },
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "20.02.2024;GS-2024-008;Druckerei Held GmbH;Gutschrift – Stornierung Doppelbuchung RE-2024-033;6.200,00"
+   },
+   {
+    "docId": "credit-note-gs-2024-008",
+    "ref": "l.1-25",
+    "quote": "Gutschriftsbetrag: EUR 6.200,00"
+   },
+   {
+    "docId": "credit-note-gs-2024-008",
+    "ref": "l.1-25",
+    "quote": "versehentlich doppelt in Ihrem System erfasst"
+   }
+  ]
+ },
+ {
+  "id": "c-ibanIntegrity-4",
+  "checkId": "ibanIntegrity",
+  "tier": "corroborated",
+  "fraudType": "payment_redirect",
+  "title": "Payment to Nordwind Consulting GmbH sent to undeclared account",
+  "narrative": "A payment of EUR 18,400.00 on 2024-03-28 to Nordwind Consulting GmbH went to IBAN DE44500105175407324931, which does not match any bank account this vendor declared in the dossier (declared: DE89370400440532013000). Redirecting vendor payments to a different account is a classic payment-diversion pattern.",
+  "amountInvolved": 18400,
+  "severity": "high",
+  "factIds": [
+   "fx-2",
+   "fx-1",
+   "fx-15"
+  ],
+  "citations": [
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "28.03.2024;RE-2024-041;Nordwind Consulting Ltd.;Beratungsleistungen März;-18.400,00"
+   },
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "15.03.2024;RE-2024-041;Nordwind Consulting GmbH;Beratungsleistungen März;-18.400,00"
+   },
+   {
+    "docId": "invoice-re-2024-041",
+    "ref": "l.1-20",
+    "quote": "IBAN: DE89 3704 0044 0532 0130 00"
+   },
+   {
+    "docId": "invoice-re-2024-041",
+    "ref": "l.1-20",
+    "quote": "Pauschalhonorar gemäß Angebot: EUR 18.400,00"
+   }
+  ]
+ },
+ {
+  "id": "c-ibanIntegrity-5",
+  "checkId": "ibanIntegrity",
+  "tier": "corroborated",
+  "fraudType": "payment_redirect",
+  "title": "Payment to TechServe Solutions GmbH sent to undeclared account",
+  "narrative": "A payment of EUR 12,750.00 on 2024-03-12 to TechServe Solutions GmbH went to IBAN DE75512108001245126199, which does not match any bank account this vendor declared in the dossier (declared: DE02120300000000202051). Redirecting vendor payments to a different account is a classic payment-diversion pattern.",
+  "amountInvolved": 12750,
+  "severity": "high",
+  "factIds": [
+   "fx-3",
+   "fx-16",
+   "fx-21"
+  ],
+  "citations": [
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "12.03.2024;RE-2024-055;TechServe Solutions GmbH;Wartungsvertrag Q1;-12.750,00;EUR;DE75512108001245126199"
+   },
+   {
+    "docId": "invoice-re-2024-055",
+    "ref": "l.1-19",
+    "quote": "IBAN: DE02 1203 0000 0000 2020 51"
+   },
+   {
+    "docId": "invoice-re-2024-055",
+    "ref": "l.1-19",
+    "quote": "Rechnungsdatum: 10.03.2024"
+   },
+   {
+    "docId": "contract-techserve",
+    "ref": "l.1-27",
+    "quote": "IBAN: DE02 1203 0000 0000 2020 51, BIC: BYLADEM1001"
+   }
+  ]
+ },
+ {
+  "id": "c-ibanIntegrity-6",
+  "checkId": "ibanIntegrity",
+  "tier": "corroborated",
+  "fraudType": "entity_identity_game",
+  "title": "\"Nordwind Consulting GmbH\" / \"Nordwind Consulting Ltd.\" — one vendor, 2 bank accounts",
+  "narrative": "Name variants (Nordwind Consulting GmbH, Nordwind Consulting Ltd.) that resolve to the same vendor appear with 2 different IBANs (DE89370400440532013000, DE44500105175407324931). Splitting one vendor identity across name variants and accounts is used to slip duplicate or diverted payments past controls.",
+  "amountInvolved": null,
+  "severity": "medium",
+  "factIds": [
+   "fx-1",
+   "fx-2",
+   "fx-15",
+   "fx-18"
+  ],
+  "citations": [
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "15.03.2024;RE-2024-041;Nordwind Consulting GmbH;Beratungsleistungen März;-18.400,00"
+   },
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "28.03.2024;RE-2024-041;Nordwind Consulting Ltd.;Beratungsleistungen März;-18.400,00"
+   },
+   {
+    "docId": "invoice-re-2024-041",
+    "ref": "l.1-20",
+    "quote": "IBAN: DE89 3704 0044 0532 0130 00"
+   },
+   {
+    "docId": "invoice-re-2024-041",
+    "ref": "l.1-20",
+    "quote": "Pauschalhonorar gemäß Angebot: EUR 18.400,00"
+   },
+   {
+    "docId": "purchase-orders",
+    "ref": "l.1-7",
+    "quote": "PO-2024-11;01.03.2024;Nordwind Consulting GmbH;18.400,00"
+   }
+  ]
+ },
+ {
+  "id": "c-threeWayMatch-7",
+  "checkId": "threeWayMatch",
+  "tier": "corroborated",
+  "fraudType": "threshold_avoidance",
+  "title": "Baltic Media UG: EUR 24,900.00 paid without purchase order — just below approval threshold",
+  "narrative": "Invoice RE-2024-077 from Baltic Media UG over EUR 24,900.00 was paid (2024-11-05) but no matching purchase order exists in the dossier. The amount sits 100.00 below the EUR 25,000.00 approval threshold documented in the dossier — a pattern consistent with deliberate threshold avoidance.",
+  "amountInvolved": 24900,
+  "severity": "high",
+  "factIds": [
+   "fx-17",
+   "fx-4",
+   "fx-22"
+  ],
+  "citations": [
+   {
+    "docId": "invoice-re-2024-077",
+    "ref": "l.1-20",
+    "quote": "Total amount due: EUR 24,900.00"
+   },
+   {
+    "docId": "invoice-re-2024-077",
+    "ref": "l.1-20",
+    "quote": "No purchase order reference provided."
+   },
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "05.11.2024;RE-2024-077;Baltic Media UG;Kampagnenmanagement Q4;-24.900,00"
+   },
+   {
+    "docId": "approval-policy",
+    "ref": "l.1-17",
+    "quote": "above EUR 25,000: CFO approval, PO mandatory"
+   }
+  ]
+ },
+ {
+  "id": "c-temporal-8",
+  "checkId": "temporal",
+  "tier": "proven",
+  "fraudType": "backdating",
+  "title": "Invoice RE-2024-055 predates its own purchase order PO-2024-19",
+  "narrative": "Invoice RE-2024-055 is dated 2024-03-10 and references purchase order PO-2024-19, which was only issued on 2024-03-22. An invoice cannot legitimately reference a purchase order that did not exist yet — this indicates the PO was created after the fact.",
+  "amountInvolved": 12750,
+  "severity": "medium",
+  "factIds": [
+   "fx-16",
+   "fx-19"
+  ],
+  "citations": [
+   {
+    "docId": "invoice-re-2024-055",
+    "ref": "l.1-19",
+    "quote": "IBAN: DE02 1203 0000 0000 2020 51"
+   },
+   {
+    "docId": "invoice-re-2024-055",
+    "ref": "l.1-19",
+    "quote": "Rechnungsdatum: 10.03.2024"
+   },
+   {
+    "docId": "purchase-orders",
+    "ref": "l.1-7",
+    "quote": "PO-2024-19;22.03.2024;TechServe Solutions GmbH;12.750,00"
+   }
+  ]
+ },
+ {
+  "id": "c-cycles-9",
+  "checkId": "cycles",
+  "tier": "corroborated",
+  "fraudType": "round_tripping",
+  "title": "Money round-trip: PayFlux GmbH → Aurora Ventures GmbH → Meridian Holding AG → PayFlux GmbH",
+  "narrative": "Funds leave PayFlux GmbH and return via Aurora Ventures GmbH and Meridian Holding AG: PayFlux GmbH paid Aurora Ventures GmbH EUR 50,000.00 on 2024-06-10; Aurora Ventures GmbH paid Meridian Holding AG EUR 48,000.00 on 2024-06-05; Meridian Holding AG paid PayFlux GmbH EUR 47,500.00 on 2024-06-22. Amounts shrink only marginally along the loop — the signature of round-tripping used to fabricate revenue or other income.",
+  "amountInvolved": 50000,
+  "severity": "high",
+  "factIds": [
+   "fx-5",
+   "fx-10",
+   "fx-6"
+  ],
+  "citations": [
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "10.06.2024;AV-2024-003;Aurora Ventures GmbH;Strategische Beratung lt. Vertrag;-50.000,00"
+   },
+   {
+    "docId": "email-cfo-aurora",
+    "ref": "body.l.1-15",
+    "quote": "Aurora leitet davon 48.000 EUR an die Meridian Holding"
+   },
+   {
+    "docId": "ledger-2024",
+    "ref": "l.1-16",
+    "quote": "22.06.2024;LZ-2024-011;Meridian Holding AG;Lizenzgebühr Softwareplattform;47.500,00"
+   }
+  ]
+ }
+]

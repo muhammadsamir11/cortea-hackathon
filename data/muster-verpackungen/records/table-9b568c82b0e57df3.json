@@ -1,0 +1,2297 @@
+[
+ {
+  "rowNumber": 4,
+  "raw": "100000 | FALKE FOLIEN E.K. | C-DOM | 28490.98",
+  "values": {
+   "Konto": "100000",
+   "Name": "FALKE FOLIEN E.K.",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "28490.98"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.4",
+   "quote": "100000 | FALKE FOLIEN E.K. | C-DOM | 28490.98"
+  }
+ },
+ {
+  "rowNumber": 5,
+  "raw": "100001 | FOKUS KUNSTSTOFF GMBH | C-DOM | 70675.29",
+  "values": {
+   "Konto": "100001",
+   "Name": "FOKUS KUNSTSTOFF GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "70675.29"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.5",
+   "quote": "100001 | FOKUS KUNSTSTOFF GMBH | C-DOM | 70675.29"
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "100002 | FOKUS DRUCK SE | C-DOM | 177043.44",
+  "values": {
+   "Konto": "100002",
+   "Name": "FOKUS DRUCK SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "177043.44"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.6",
+   "quote": "100002 | FOKUS DRUCK SE | C-DOM | 177043.44"
+  }
+ },
+ {
+  "rowNumber": 7,
+  "raw": "100004 | PRISMA SYSTEME AG | C-DOM | 66330.26",
+  "values": {
+   "Konto": "100004",
+   "Name": "PRISMA SYSTEME AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "66330.26"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.7",
+   "quote": "100004 | PRISMA SYSTEME AG | C-DOM | 66330.26"
+  }
+ },
+ {
+  "rowNumber": 8,
+  "raw": "100005 | CORVUS HANDEL KG | C-DOM | 117217.38",
+  "values": {
+   "Konto": "100005",
+   "Name": "CORVUS HANDEL KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "117217.38"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.8",
+   "quote": "100005 | CORVUS HANDEL KG | C-DOM | 117217.38"
+  }
+ },
+ {
+  "rowNumber": 9,
+  "raw": "100006 | SÜD DRUCK GMBH | C-DOM | 55233.22",
+  "values": {
+   "Konto": "100006",
+   "Name": "SÜD DRUCK GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "55233.22"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.9",
+   "quote": "100006 | SÜD DRUCK GMBH | C-DOM | 55233.22"
+  }
+ },
+ {
+  "rowNumber": 10,
+  "raw": "100007 | RATIO LOGISTIK GMBH | C-DOM | 78426.95",
+  "values": {
+   "Konto": "100007",
+   "Name": "RATIO LOGISTIK GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "78426.95"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.10",
+   "quote": "100007 | RATIO LOGISTIK GMBH | C-DOM | 78426.95"
+  }
+ },
+ {
+  "rowNumber": 11,
+  "raw": "100008 | FALKE CHEMIE KG | C-DOM | 95439.19",
+  "values": {
+   "Konto": "100008",
+   "Name": "FALKE CHEMIE KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "95439.19"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.11",
+   "quote": "100008 | FALKE CHEMIE KG | C-DOM | 95439.19"
+  }
+ },
+ {
+  "rowNumber": 12,
+  "raw": "100009 | TITAN TECHNIK GMBH | C-DOM | 130153.87",
+  "values": {
+   "Konto": "100009",
+   "Name": "TITAN TECHNIK GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "130153.87"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.12",
+   "quote": "100009 | TITAN TECHNIK GMBH | C-DOM | 130153.87"
+  }
+ },
+ {
+  "rowNumber": 13,
+  "raw": "100010 | FOKUS TECHNIK GMBH | C-DOM | 60269.99",
+  "values": {
+   "Konto": "100010",
+   "Name": "FOKUS TECHNIK GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "60269.99"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.13",
+   "quote": "100010 | FOKUS TECHNIK GMBH | C-DOM | 60269.99"
+  }
+ },
+ {
+  "rowNumber": 14,
+  "raw": "100011 | BOREAS BESCHICHTUNG E.K. | C-DOM | 46821.74",
+  "values": {
+   "Konto": "100011",
+   "Name": "BOREAS BESCHICHTUNG E.K.",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "46821.74"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.14",
+   "quote": "100011 | BOREAS BESCHICHTUNG E.K. | C-DOM | 46821.74"
+  }
+ },
+ {
+  "rowNumber": 15,
+  "raw": "100012 | ATLAS FORMTEILE SE | C-DOM | 59660.65",
+  "values": {
+   "Konto": "100012",
+   "Name": "ATLAS FORMTEILE SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "59660.65"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.15",
+   "quote": "100012 | ATLAS FORMTEILE SE | C-DOM | 59660.65"
+  }
+ },
+ {
+  "rowNumber": 16,
+  "raw": "100013 | NOVA FORMTEILE GMBH | C-DOM | 116377.24",
+  "values": {
+   "Konto": "100013",
+   "Name": "NOVA FORMTEILE GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "116377.24"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.16",
+   "quote": "100013 | NOVA FORMTEILE GMBH | C-DOM | 116377.24"
+  }
+ },
+ {
+  "rowNumber": 17,
+  "raw": "100014 | ALPHA HANDEL GMBH | C-DOM | 119536.69",
+  "values": {
+   "Konto": "100014",
+   "Name": "ALPHA HANDEL GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "119536.69"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.17",
+   "quote": "100014 | ALPHA HANDEL GMBH | C-DOM | 119536.69"
+  }
+ },
+ {
+  "rowNumber": 18,
+  "raw": "100015 | OST WERKSTOFFE AG | C-DOM | 17679.83",
+  "values": {
+   "Konto": "100015",
+   "Name": "OST WERKSTOFFE AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "17679.83"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.18",
+   "quote": "100015 | OST WERKSTOFFE AG | C-DOM | 17679.83"
+  }
+ },
+ {
+  "rowNumber": 19,
+  "raw": "100016 | MERKUR WERKSTOFFE SE | C-DOM | 119044.03",
+  "values": {
+   "Konto": "100016",
+   "Name": "MERKUR WERKSTOFFE SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "119044.03"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.19",
+   "quote": "100016 | MERKUR WERKSTOFFE SE | C-DOM | 119044.03"
+  }
+ },
+ {
+  "rowNumber": 20,
+  "raw": "100017 | HELIOS ETIKETTEN KG | C-DOM | 71505.91",
+  "values": {
+   "Konto": "100017",
+   "Name": "HELIOS ETIKETTEN KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "71505.91"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.20",
+   "quote": "100017 | HELIOS ETIKETTEN KG | C-DOM | 71505.91"
+  }
+ },
+ {
+  "rowNumber": 21,
+  "raw": "100018 | SOLUM RECYCLING AG | C-DOM | 73165.96",
+  "values": {
+   "Konto": "100018",
+   "Name": "SOLUM RECYCLING AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "73165.96"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.21",
+   "quote": "100018 | SOLUM RECYCLING AG | C-DOM | 73165.96"
+  }
+ },
+ {
+  "rowNumber": 22,
+  "raw": "100019 | POLLUX SYSTEME GMBH | C-DOM | 17374",
+  "values": {
+   "Konto": "100019",
+   "Name": "POLLUX SYSTEME GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "17374"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.22",
+   "quote": "100019 | POLLUX SYSTEME GMBH | C-DOM | 17374"
+  }
+ },
+ {
+  "rowNumber": 23,
+  "raw": "100020 | ADLER TRANSPORT GMBH | C-EU | 47244",
+  "values": {
+   "Konto": "100020",
+   "Name": "ADLER TRANSPORT GMBH",
+   "Gruppe": "C-EU",
+   "Saldo 31.12.2025": "47244"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.23",
+   "quote": "100020 | ADLER TRANSPORT GMBH | C-EU | 47244"
+  }
+ },
+ {
+  "rowNumber": 24,
+  "raw": "100021 | HELIOS RECYCLING GMBH | C-DOM | 162461.18",
+  "values": {
+   "Konto": "100021",
+   "Name": "HELIOS RECYCLING GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "162461.18"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.24",
+   "quote": "100021 | HELIOS RECYCLING GMBH | C-DOM | 162461.18"
+  }
+ },
+ {
+  "rowNumber": 25,
+  "raw": "100022 | WEST INDUSTRIEBEDARF GMBH | C-DOM | 75618.55",
+  "values": {
+   "Konto": "100022",
+   "Name": "WEST INDUSTRIEBEDARF GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "75618.55"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.25",
+   "quote": "100022 | WEST INDUSTRIEBEDARF GMBH | C-DOM | 75618.55"
+  }
+ },
+ {
+  "rowNumber": 26,
+  "raw": "100023 | OST PAPIER SE | C-DOM | 199107.23",
+  "values": {
+   "Konto": "100023",
+   "Name": "OST PAPIER SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "199107.23"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.26",
+   "quote": "100023 | OST PAPIER SE | C-DOM | 199107.23"
+  }
+ },
+ {
+  "rowNumber": 27,
+  "raw": "100024 | KRANICH HANDEL GMBH | C-DOM | 192707.41",
+  "values": {
+   "Konto": "100024",
+   "Name": "KRANICH HANDEL GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "192707.41"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.27",
+   "quote": "100024 | KRANICH HANDEL GMBH | C-DOM | 192707.41"
+  }
+ },
+ {
+  "rowNumber": 28,
+  "raw": "100025 | LUPUS CHEMIE AG | C-DOM | 155033.32",
+  "values": {
+   "Konto": "100025",
+   "Name": "LUPUS CHEMIE AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "155033.32"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.28",
+   "quote": "100025 | LUPUS CHEMIE AG | C-DOM | 155033.32"
+  }
+ },
+ {
+  "rowNumber": 29,
+  "raw": "100026 | IRIS KUNSTSTOFF E.K. | C-DOM | 97988.17",
+  "values": {
+   "Konto": "100026",
+   "Name": "IRIS KUNSTSTOFF E.K.",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "97988.17"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.29",
+   "quote": "100026 | IRIS KUNSTSTOFF E.K. | C-DOM | 97988.17"
+  }
+ },
+ {
+  "rowNumber": 30,
+  "raw": "100027 | BOREAS TRANSPORT AG | C-DOM | 131878.79",
+  "values": {
+   "Konto": "100027",
+   "Name": "BOREAS TRANSPORT AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "131878.79"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.30",
+   "quote": "100027 | BOREAS TRANSPORT AG | C-DOM | 131878.79"
+  }
+ },
+ {
+  "rowNumber": 31,
+  "raw": "100028 | VEGA FOLIEN GMBH | C-DOM | 106966.72",
+  "values": {
+   "Konto": "100028",
+   "Name": "VEGA FOLIEN GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "106966.72"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.31",
+   "quote": "100028 | VEGA FOLIEN GMBH | C-DOM | 106966.72"
+  }
+ },
+ {
+  "rowNumber": 32,
+  "raw": "100029 | PRISMA WERKSTOFFE SE | C-DOM | 57511.51",
+  "values": {
+   "Konto": "100029",
+   "Name": "PRISMA WERKSTOFFE SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "57511.51"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.32",
+   "quote": "100029 | PRISMA WERKSTOFFE SE | C-DOM | 57511.51"
+  }
+ },
+ {
+  "rowNumber": 33,
+  "raw": "100030 | PRISMA ETIKETTEN AG | C-EU | 84504",
+  "values": {
+   "Konto": "100030",
+   "Name": "PRISMA ETIKETTEN AG",
+   "Gruppe": "C-EU",
+   "Saldo 31.12.2025": "84504"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.33",
+   "quote": "100030 | PRISMA ETIKETTEN AG | C-EU | 84504"
+  }
+ },
+ {
+  "rowNumber": 34,
+  "raw": "100031 | RATIO PAPIER KG | C-DOM | 164592.47",
+  "values": {
+   "Konto": "100031",
+   "Name": "RATIO PAPIER KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "164592.47"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.34",
+   "quote": "100031 | RATIO PAPIER KG | C-DOM | 164592.47"
+  }
+ },
+ {
+  "rowNumber": 35,
+  "raw": "100032 | OMEGA VERPACKUNG KG | C-DOM | 69487.07",
+  "values": {
+   "Konto": "100032",
+   "Name": "OMEGA VERPACKUNG KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "69487.07"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.35",
+   "quote": "100032 | OMEGA VERPACKUNG KG | C-DOM | 69487.07"
+  }
+ },
+ {
+  "rowNumber": 36,
+  "raw": "100033 | WEST TECHNIK GMBH | C-EU | 103921",
+  "values": {
+   "Konto": "100033",
+   "Name": "WEST TECHNIK GMBH",
+   "Gruppe": "C-EU",
+   "Saldo 31.12.2025": "103921"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.36",
+   "quote": "100033 | WEST TECHNIK GMBH | C-EU | 103921"
+  }
+ },
+ {
+  "rowNumber": 37,
+  "raw": "100034 | BOREAS PAPIER GMBH | C-DOM | 62257.86",
+  "values": {
+   "Konto": "100034",
+   "Name": "BOREAS PAPIER GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "62257.86"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.37",
+   "quote": "100034 | BOREAS PAPIER GMBH | C-DOM | 62257.86"
+  }
+ },
+ {
+  "rowNumber": 38,
+  "raw": "100035 | CIVES TECHNIK GMBH | C-DOM | 5635.84",
+  "values": {
+   "Konto": "100035",
+   "Name": "CIVES TECHNIK GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "5635.84"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.38",
+   "quote": "100035 | CIVES TECHNIK GMBH | C-DOM | 5635.84"
+  }
+ },
+ {
+  "rowNumber": 39,
+  "raw": "100036 | KRONOS PAPIER GMBH | C-DOM | 123650.52",
+  "values": {
+   "Konto": "100036",
+   "Name": "KRONOS PAPIER GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "123650.52"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.39",
+   "quote": "100036 | KRONOS PAPIER GMBH | C-DOM | 123650.52"
+  }
+ },
+ {
+  "rowNumber": 40,
+  "raw": "100037 | PACTUM TECHNIK GMBH | C-DOM | 171491.57",
+  "values": {
+   "Konto": "100037",
+   "Name": "PACTUM TECHNIK GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "171491.57"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.40",
+   "quote": "100037 | PACTUM TECHNIK GMBH | C-DOM | 171491.57"
+  }
+ },
+ {
+  "rowNumber": 41,
+  "raw": "100038 | SATURN MASCHINEN GMBH | C-DOM | 116080.63",
+  "values": {
+   "Konto": "100038",
+   "Name": "SATURN MASCHINEN GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "116080.63"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.41",
+   "quote": "100038 | SATURN MASCHINEN GMBH | C-DOM | 116080.63"
+  }
+ },
+ {
+  "rowNumber": 42,
+  "raw": "100039 | IRIS TECHNIK GMBH | C-DOM | 71347.64",
+  "values": {
+   "Konto": "100039",
+   "Name": "IRIS TECHNIK GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "71347.64"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.42",
+   "quote": "100039 | IRIS TECHNIK GMBH | C-DOM | 71347.64"
+  }
+ },
+ {
+  "rowNumber": 43,
+  "raw": "100041 | PRISMA HANDEL E.K. | C-DOM | 27750.8",
+  "values": {
+   "Konto": "100041",
+   "Name": "PRISMA HANDEL E.K.",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "27750.8"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.43",
+   "quote": "100041 | PRISMA HANDEL E.K. | C-DOM | 27750.8"
+  }
+ },
+ {
+  "rowNumber": 44,
+  "raw": "100042 | ADLER HANDEL GMBH | C-DOM | 74978.33",
+  "values": {
+   "Konto": "100042",
+   "Name": "ADLER HANDEL GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "74978.33"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.44",
+   "quote": "100042 | ADLER HANDEL GMBH | C-DOM | 74978.33"
+  }
+ },
+ {
+  "rowNumber": 45,
+  "raw": "100043 | DELTA BESCHICHTUNG GMBH & CO. KG | C-DOM | 34581.4",
+  "values": {
+   "Konto": "100043",
+   "Name": "DELTA BESCHICHTUNG GMBH & CO. KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "34581.4"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.45",
+   "quote": "100043 | DELTA BESCHICHTUNG GMBH & CO. KG | C-DOM | 34581.4"
+  }
+ },
+ {
+  "rowNumber": 46,
+  "raw": "100044 | VEGA FORMTEILE GMBH | C-EU | 64529",
+  "values": {
+   "Konto": "100044",
+   "Name": "VEGA FORMTEILE GMBH",
+   "Gruppe": "C-EU",
+   "Saldo 31.12.2025": "64529"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.46",
+   "quote": "100044 | VEGA FORMTEILE GMBH | C-EU | 64529"
+  }
+ },
+ {
+  "rowNumber": 47,
+  "raw": "100045 | HELIOS DRUCK GMBH | C-DOM | 52997.84",
+  "values": {
+   "Konto": "100045",
+   "Name": "HELIOS DRUCK GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "52997.84"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.47",
+   "quote": "100045 | HELIOS DRUCK GMBH | C-DOM | 52997.84"
+  }
+ },
+ {
+  "rowNumber": 48,
+  "raw": "100046 | SÜD KUNSTSTOFF KG | C-DOM | 175773.71",
+  "values": {
+   "Konto": "100046",
+   "Name": "SÜD KUNSTSTOFF KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "175773.71"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.48",
+   "quote": "100046 | SÜD KUNSTSTOFF KG | C-DOM | 175773.71"
+  }
+ },
+ {
+  "rowNumber": 49,
+  "raw": "100047 | ADLER KARTON KG | C-DOM | 165906.23",
+  "values": {
+   "Konto": "100047",
+   "Name": "ADLER KARTON KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "165906.23"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.49",
+   "quote": "100047 | ADLER KARTON KG | C-DOM | 165906.23"
+  }
+ },
+ {
+  "rowNumber": 50,
+  "raw": "100048 | ATLAS ETIKETTEN GMBH & CO. KG | C-DOM | 16781.38",
+  "values": {
+   "Konto": "100048",
+   "Name": "ATLAS ETIKETTEN GMBH & CO. KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "16781.38"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.50",
+   "quote": "100048 | ATLAS ETIKETTEN GMBH & CO. KG | C-DOM | 16781.38"
+  }
+ },
+ {
+  "rowNumber": 51,
+  "raw": "100049 | OST KARTON AG | C-DOM | 31955.07",
+  "values": {
+   "Konto": "100049",
+   "Name": "OST KARTON AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "31955.07"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.51",
+   "quote": "100049 | OST KARTON AG | C-DOM | 31955.07"
+  }
+ },
+ {
+  "rowNumber": 52,
+  "raw": "100050 | OST CHEMIE GMBH | C-DOM | 162485.11",
+  "values": {
+   "Konto": "100050",
+   "Name": "OST CHEMIE GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "162485.11"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.52",
+   "quote": "100050 | OST CHEMIE GMBH | C-DOM | 162485.11"
+  }
+ },
+ {
+  "rowNumber": 53,
+  "raw": "100051 | PACTUM DISTRIBUTION KG | C-DOM | 43610",
+  "values": {
+   "Konto": "100051",
+   "Name": "PACTUM DISTRIBUTION KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "43610"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.53",
+   "quote": "100051 | PACTUM DISTRIBUTION KG | C-DOM | 43610"
+  }
+ },
+ {
+  "rowNumber": 54,
+  "raw": "100052 | ORION TRANSPORT GMBH | C-DOM | 83449.49",
+  "values": {
+   "Konto": "100052",
+   "Name": "ORION TRANSPORT GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "83449.49"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.54",
+   "quote": "100052 | ORION TRANSPORT GMBH | C-DOM | 83449.49"
+  }
+ },
+ {
+  "rowNumber": 55,
+  "raw": "100053 | REIHER LOGISTIK GMBH | C-DOM | 82931.86",
+  "values": {
+   "Konto": "100053",
+   "Name": "REIHER LOGISTIK GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "82931.86"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.55",
+   "quote": "100053 | REIHER LOGISTIK GMBH | C-DOM | 82931.86"
+  }
+ },
+ {
+  "rowNumber": 56,
+  "raw": "100054 | CIVES ETIKETTEN SE | C-DOM | 77553.49",
+  "values": {
+   "Konto": "100054",
+   "Name": "CIVES ETIKETTEN SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "77553.49"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.56",
+   "quote": "100054 | CIVES ETIKETTEN SE | C-DOM | 77553.49"
+  }
+ },
+ {
+  "rowNumber": 57,
+  "raw": "100055 | ADLER DRUCK KG | C-DOM | 31029",
+  "values": {
+   "Konto": "100055",
+   "Name": "ADLER DRUCK KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "31029"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.57",
+   "quote": "100055 | ADLER DRUCK KG | C-DOM | 31029"
+  }
+ },
+ {
+  "rowNumber": 58,
+  "raw": "100056 | NORD WERKSTOFFE SE | C-DOM | 103069.47",
+  "values": {
+   "Konto": "100056",
+   "Name": "NORD WERKSTOFFE SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "103069.47"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.58",
+   "quote": "100056 | NORD WERKSTOFFE SE | C-DOM | 103069.47"
+  }
+ },
+ {
+  "rowNumber": 59,
+  "raw": "100057 | CORVUS FORMTEILE GMBH | C-DOM | 62884.36",
+  "values": {
+   "Konto": "100057",
+   "Name": "CORVUS FORMTEILE GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "62884.36"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.59",
+   "quote": "100057 | CORVUS FORMTEILE GMBH | C-DOM | 62884.36"
+  }
+ },
+ {
+  "rowNumber": 60,
+  "raw": "100058 | VEGA ETIKETTEN GMBH & CO. KG | C-DOM | 135191.14",
+  "values": {
+   "Konto": "100058",
+   "Name": "VEGA ETIKETTEN GMBH & CO. KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "135191.14"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.60",
+   "quote": "100058 | VEGA ETIKETTEN GMBH & CO. KG | C-DOM | 135191.14"
+  }
+ },
+ {
+  "rowNumber": 61,
+  "raw": "100059 | FOKUS RECYCLING GMBH & CO. KG | C-DOM | 90093.71",
+  "values": {
+   "Konto": "100059",
+   "Name": "FOKUS RECYCLING GMBH & CO. KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "90093.71"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.61",
+   "quote": "100059 | FOKUS RECYCLING GMBH & CO. KG | C-DOM | 90093.71"
+  }
+ },
+ {
+  "rowNumber": 62,
+  "raw": "100061 | TERRA KARTON E.K. | C-DOM | 140917.3",
+  "values": {
+   "Konto": "100061",
+   "Name": "TERRA KARTON E.K.",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "140917.3"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.62",
+   "quote": "100061 | TERRA KARTON E.K. | C-DOM | 140917.3"
+  }
+ },
+ {
+  "rowNumber": 63,
+  "raw": "100062 | POLLUX BESCHICHTUNG GMBH | C-DOM | 78231.79",
+  "values": {
+   "Konto": "100062",
+   "Name": "POLLUX BESCHICHTUNG GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "78231.79"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.63",
+   "quote": "100062 | POLLUX BESCHICHTUNG GMBH | C-DOM | 78231.79"
+  }
+ },
+ {
+  "rowNumber": 64,
+  "raw": "100063 | MERKUR DRUCK SE | C-DOM | 45186.68",
+  "values": {
+   "Konto": "100063",
+   "Name": "MERKUR DRUCK SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "45186.68"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.64",
+   "quote": "100063 | MERKUR DRUCK SE | C-DOM | 45186.68"
+  }
+ },
+ {
+  "rowNumber": 65,
+  "raw": "100064 | FALKE MASCHINEN GMBH | C-DOM | 60368.7",
+  "values": {
+   "Konto": "100064",
+   "Name": "FALKE MASCHINEN GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "60368.7"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.65",
+   "quote": "100064 | FALKE MASCHINEN GMBH | C-DOM | 60368.7"
+  }
+ },
+ {
+  "rowNumber": 66,
+  "raw": "100066 | SOLUM PAPIER GMBH | C-DOM | 14111.02",
+  "values": {
+   "Konto": "100066",
+   "Name": "SOLUM PAPIER GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "14111.02"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.66",
+   "quote": "100066 | SOLUM PAPIER GMBH | C-DOM | 14111.02"
+  }
+ },
+ {
+  "rowNumber": 67,
+  "raw": "100067 | NOVA DRUCK GMBH | C-DOM | 70557.48",
+  "values": {
+   "Konto": "100067",
+   "Name": "NOVA DRUCK GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "70557.48"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.67",
+   "quote": "100067 | NOVA DRUCK GMBH | C-DOM | 70557.48"
+  }
+ },
+ {
+  "rowNumber": 68,
+  "raw": "100068 | VEGA ETIKETTEN KG | C-DOM | 112084.91",
+  "values": {
+   "Konto": "100068",
+   "Name": "VEGA ETIKETTEN KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "112084.91"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.68",
+   "quote": "100068 | VEGA ETIKETTEN KG | C-DOM | 112084.91"
+  }
+ },
+ {
+  "rowNumber": 69,
+  "raw": "100069 | HELIOS WERKSTOFFE GMBH | C-EU | 123689",
+  "values": {
+   "Konto": "100069",
+   "Name": "HELIOS WERKSTOFFE GMBH",
+   "Gruppe": "C-EU",
+   "Saldo 31.12.2025": "123689"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.69",
+   "quote": "100069 | HELIOS WERKSTOFFE GMBH | C-EU | 123689"
+  }
+ },
+ {
+  "rowNumber": 70,
+  "raw": "100070 | ADLER DRUCK GMBH | C-DOM | 53327.47",
+  "values": {
+   "Konto": "100070",
+   "Name": "ADLER DRUCK GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "53327.47"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.70",
+   "quote": "100070 | ADLER DRUCK GMBH | C-DOM | 53327.47"
+  }
+ },
+ {
+  "rowNumber": 71,
+  "raw": "100071 | VEGA PAPIER GMBH | C-EU | 130466",
+  "values": {
+   "Konto": "100071",
+   "Name": "VEGA PAPIER GMBH",
+   "Gruppe": "C-EU",
+   "Saldo 31.12.2025": "130466"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.71",
+   "quote": "100071 | VEGA PAPIER GMBH | C-EU | 130466"
+  }
+ },
+ {
+  "rowNumber": 72,
+  "raw": "100072 | IRIS LOGISTIK E.K. | C-DOM | 212762.21",
+  "values": {
+   "Konto": "100072",
+   "Name": "IRIS LOGISTIK E.K.",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "212762.21"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.72",
+   "quote": "100072 | IRIS LOGISTIK E.K. | C-DOM | 212762.21"
+  }
+ },
+ {
+  "rowNumber": 73,
+  "raw": "100073 | KRANICH MASCHINEN AG | C-DOM | 88690.7",
+  "values": {
+   "Konto": "100073",
+   "Name": "KRANICH MASCHINEN AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "88690.7"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.73",
+   "quote": "100073 | KRANICH MASCHINEN AG | C-DOM | 88690.7"
+  }
+ },
+ {
+  "rowNumber": 74,
+  "raw": "100074 | WEST LOGISTIK KG | C-DOM | 26313.28",
+  "values": {
+   "Konto": "100074",
+   "Name": "WEST LOGISTIK KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "26313.28"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.74",
+   "quote": "100074 | WEST LOGISTIK KG | C-DOM | 26313.28"
+  }
+ },
+ {
+  "rowNumber": 75,
+  "raw": "100075 | FALKE ETIKETTEN E.K. | C-EU | 75158",
+  "values": {
+   "Konto": "100075",
+   "Name": "FALKE ETIKETTEN E.K.",
+   "Gruppe": "C-EU",
+   "Saldo 31.12.2025": "75158"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.75",
+   "quote": "100075 | FALKE ETIKETTEN E.K. | C-EU | 75158"
+  }
+ },
+ {
+  "rowNumber": 76,
+  "raw": "100076 | PACTUM LOGISTIK SE | C-DOM | 3802.05",
+  "values": {
+   "Konto": "100076",
+   "Name": "PACTUM LOGISTIK SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "3802.05"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.76",
+   "quote": "100076 | PACTUM LOGISTIK SE | C-DOM | 3802.05"
+  }
+ },
+ {
+  "rowNumber": 77,
+  "raw": "100077 | KRANICH FORMTEILE E.K. | C-DOM | 116617.62",
+  "values": {
+   "Konto": "100077",
+   "Name": "KRANICH FORMTEILE E.K.",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "116617.62"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.77",
+   "quote": "100077 | KRANICH FORMTEILE E.K. | C-DOM | 116617.62"
+  }
+ },
+ {
+  "rowNumber": 78,
+  "raw": "100078 | FALKE SYSTEME GMBH | C-DOM | 71598.73",
+  "values": {
+   "Konto": "100078",
+   "Name": "FALKE SYSTEME GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "71598.73"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.78",
+   "quote": "100078 | FALKE SYSTEME GMBH | C-DOM | 71598.73"
+  }
+ },
+ {
+  "rowNumber": 79,
+  "raw": "100079 | CORVUS KARTON GMBH | C-DOM | 74897.22",
+  "values": {
+   "Konto": "100079",
+   "Name": "CORVUS KARTON GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "74897.22"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.79",
+   "quote": "100079 | CORVUS KARTON GMBH | C-DOM | 74897.22"
+  }
+ },
+ {
+  "rowNumber": 80,
+  "raw": "100080 | RATIO SYSTEME GMBH | C-DOM | 11443.04",
+  "values": {
+   "Konto": "100080",
+   "Name": "RATIO SYSTEME GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "11443.04"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.80",
+   "quote": "100080 | RATIO SYSTEME GMBH | C-DOM | 11443.04"
+  }
+ },
+ {
+  "rowNumber": 81,
+  "raw": "100081 | ADLER RECYCLING GMBH | C-DOM | 98652.19",
+  "values": {
+   "Konto": "100081",
+   "Name": "ADLER RECYCLING GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "98652.19"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.81",
+   "quote": "100081 | ADLER RECYCLING GMBH | C-DOM | 98652.19"
+  }
+ },
+ {
+  "rowNumber": 82,
+  "raw": "100082 | NORD PAPIER KG | C-DOM | 107485.56",
+  "values": {
+   "Konto": "100082",
+   "Name": "NORD PAPIER KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "107485.56"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.82",
+   "quote": "100082 | NORD PAPIER KG | C-DOM | 107485.56"
+  }
+ },
+ {
+  "rowNumber": 83,
+  "raw": "100083 | MERKUR MASCHINEN GMBH | C-DOM | 82627.61",
+  "values": {
+   "Konto": "100083",
+   "Name": "MERKUR MASCHINEN GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "82627.61"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.83",
+   "quote": "100083 | MERKUR MASCHINEN GMBH | C-DOM | 82627.61"
+  }
+ },
+ {
+  "rowNumber": 84,
+  "raw": "100084 | FOKUS LOGISTIK AG | C-DOM | 88893",
+  "values": {
+   "Konto": "100084",
+   "Name": "FOKUS LOGISTIK AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "88893"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.84",
+   "quote": "100084 | FOKUS LOGISTIK AG | C-DOM | 88893"
+  }
+ },
+ {
+  "rowNumber": 85,
+  "raw": "100085 | WEST LOGISTIK GMBH | C-DOM | 12650.89",
+  "values": {
+   "Konto": "100085",
+   "Name": "WEST LOGISTIK GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "12650.89"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.85",
+   "quote": "100085 | WEST LOGISTIK GMBH | C-DOM | 12650.89"
+  }
+ },
+ {
+  "rowNumber": 86,
+  "raw": "100086 | HELIOS FOLIEN GMBH & CO. KG | C-DOM | 191894.64",
+  "values": {
+   "Konto": "100086",
+   "Name": "HELIOS FOLIEN GMBH & CO. KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "191894.64"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.86",
+   "quote": "100086 | HELIOS FOLIEN GMBH & CO. KG | C-DOM | 191894.64"
+  }
+ },
+ {
+  "rowNumber": 87,
+  "raw": "100087 | SOLUM VERPACKUNG GMBH | C-DOM | 175120.4",
+  "values": {
+   "Konto": "100087",
+   "Name": "SOLUM VERPACKUNG GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "175120.4"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.87",
+   "quote": "100087 | SOLUM VERPACKUNG GMBH | C-DOM | 175120.4"
+  }
+ },
+ {
+  "rowNumber": 88,
+  "raw": "100088 | NOVA BESCHICHTUNG GMBH | C-DOM | 191459.1",
+  "values": {
+   "Konto": "100088",
+   "Name": "NOVA BESCHICHTUNG GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "191459.1"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.88",
+   "quote": "100088 | NOVA BESCHICHTUNG GMBH | C-DOM | 191459.1"
+  }
+ },
+ {
+  "rowNumber": 89,
+  "raw": "100089 | LUPUS RECYCLING GMBH | C-DOM | 51334.22",
+  "values": {
+   "Konto": "100089",
+   "Name": "LUPUS RECYCLING GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "51334.22"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.89",
+   "quote": "100089 | LUPUS RECYCLING GMBH | C-DOM | 51334.22"
+  }
+ },
+ {
+  "rowNumber": 90,
+  "raw": "100090 | WEST WERKSTOFFE GMBH | C-DOM | 45049.83",
+  "values": {
+   "Konto": "100090",
+   "Name": "WEST WERKSTOFFE GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "45049.83"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.90",
+   "quote": "100090 | WEST WERKSTOFFE GMBH | C-DOM | 45049.83"
+  }
+ },
+ {
+  "rowNumber": 91,
+  "raw": "100091 | RATIO RECYCLING AG | C-DOM | 121751.28",
+  "values": {
+   "Konto": "100091",
+   "Name": "RATIO RECYCLING AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "121751.28"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.91",
+   "quote": "100091 | RATIO RECYCLING AG | C-DOM | 121751.28"
+  }
+ },
+ {
+  "rowNumber": 92,
+  "raw": "100092 | SATURN ETIKETTEN GMBH | C-DOM | 80523.74",
+  "values": {
+   "Konto": "100092",
+   "Name": "SATURN ETIKETTEN GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "80523.74"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.92",
+   "quote": "100092 | SATURN ETIKETTEN GMBH | C-DOM | 80523.74"
+  }
+ },
+ {
+  "rowNumber": 93,
+  "raw": "100093 | TERRA RECYCLING GMBH | C-DOM | 97500.27",
+  "values": {
+   "Konto": "100093",
+   "Name": "TERRA RECYCLING GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "97500.27"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.93",
+   "quote": "100093 | TERRA RECYCLING GMBH | C-DOM | 97500.27"
+  }
+ },
+ {
+  "rowNumber": 94,
+  "raw": "100094 | SATURN FORMTEILE SE | C-DOM | 56340.43",
+  "values": {
+   "Konto": "100094",
+   "Name": "SATURN FORMTEILE SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "56340.43"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.94",
+   "quote": "100094 | SATURN FORMTEILE SE | C-DOM | 56340.43"
+  }
+ },
+ {
+  "rowNumber": 95,
+  "raw": "100095 | KRONOS MASCHINEN SE | C-DOM | 132759.97",
+  "values": {
+   "Konto": "100095",
+   "Name": "KRONOS MASCHINEN SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "132759.97"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.95",
+   "quote": "100095 | KRONOS MASCHINEN SE | C-DOM | 132759.97"
+  }
+ },
+ {
+  "rowNumber": 96,
+  "raw": "100096 | ALPHA SYSTEME E.K. | C-EU | 65111",
+  "values": {
+   "Konto": "100096",
+   "Name": "ALPHA SYSTEME E.K.",
+   "Gruppe": "C-EU",
+   "Saldo 31.12.2025": "65111"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.96",
+   "quote": "100096 | ALPHA SYSTEME E.K. | C-EU | 65111"
+  }
+ },
+ {
+  "rowNumber": 97,
+  "raw": "100097 | VEGA WERKSTOFFE KG | C-DOM | 71636.81",
+  "values": {
+   "Konto": "100097",
+   "Name": "VEGA WERKSTOFFE KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "71636.81"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.97",
+   "quote": "100097 | VEGA WERKSTOFFE KG | C-DOM | 71636.81"
+  }
+ },
+ {
+  "rowNumber": 98,
+  "raw": "100098 | PACTUM FOLIEN AG | C-DOM | 107266.6",
+  "values": {
+   "Konto": "100098",
+   "Name": "PACTUM FOLIEN AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "107266.6"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.98",
+   "quote": "100098 | PACTUM FOLIEN AG | C-DOM | 107266.6"
+  }
+ },
+ {
+  "rowNumber": 99,
+  "raw": "100099 | VEGA CHEMIE KG | C-EU | 181542",
+  "values": {
+   "Konto": "100099",
+   "Name": "VEGA CHEMIE KG",
+   "Gruppe": "C-EU",
+   "Saldo 31.12.2025": "181542"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.99",
+   "quote": "100099 | VEGA CHEMIE KG | C-EU | 181542"
+  }
+ },
+ {
+  "rowNumber": 100,
+  "raw": "100100 | KRONOS TRANSPORT SE | C-DOM | 159464.76",
+  "values": {
+   "Konto": "100100",
+   "Name": "KRONOS TRANSPORT SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "159464.76"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.100",
+   "quote": "100100 | KRONOS TRANSPORT SE | C-DOM | 159464.76"
+  }
+ },
+ {
+  "rowNumber": 101,
+  "raw": "100101 | WEST KARTON GMBH | C-DOM | 150646.85",
+  "values": {
+   "Konto": "100101",
+   "Name": "WEST KARTON GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "150646.85"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.101",
+   "quote": "100101 | WEST KARTON GMBH | C-DOM | 150646.85"
+  }
+ },
+ {
+  "rowNumber": 102,
+  "raw": "100102 | CASTOR FORMTEILE GMBH | C-DOM | 40915.77",
+  "values": {
+   "Konto": "100102",
+   "Name": "CASTOR FORMTEILE GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "40915.77"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.102",
+   "quote": "100102 | CASTOR FORMTEILE GMBH | C-DOM | 40915.77"
+  }
+ },
+ {
+  "rowNumber": 103,
+  "raw": "100103 | IRIS MASCHINEN AG | C-DOM | 71678.96",
+  "values": {
+   "Konto": "100103",
+   "Name": "IRIS MASCHINEN AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "71678.96"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.103",
+   "quote": "100103 | IRIS MASCHINEN AG | C-DOM | 71678.96"
+  }
+ },
+ {
+  "rowNumber": 104,
+  "raw": "100104 | NORD INDUSTRIEBEDARF GMBH | C-DOM | 27913.83",
+  "values": {
+   "Konto": "100104",
+   "Name": "NORD INDUSTRIEBEDARF GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "27913.83"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.104",
+   "quote": "100104 | NORD INDUSTRIEBEDARF GMBH | C-DOM | 27913.83"
+  }
+ },
+ {
+  "rowNumber": 105,
+  "raw": "100105 | WEST SYSTEME GMBH & CO. KG | C-DOM | 49893.13",
+  "values": {
+   "Konto": "100105",
+   "Name": "WEST SYSTEME GMBH & CO. KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "49893.13"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.105",
+   "quote": "100105 | WEST SYSTEME GMBH & CO. KG | C-DOM | 49893.13"
+  }
+ },
+ {
+  "rowNumber": 106,
+  "raw": "100106 | ALPHA RECYCLING AG | C-DOM | 73039.02",
+  "values": {
+   "Konto": "100106",
+   "Name": "ALPHA RECYCLING AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "73039.02"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.106",
+   "quote": "100106 | ALPHA RECYCLING AG | C-DOM | 73039.02"
+  }
+ },
+ {
+  "rowNumber": 107,
+  "raw": "100107 | CASTOR VERPACKUNG AG | C-DOM | 16847",
+  "values": {
+   "Konto": "100107",
+   "Name": "CASTOR VERPACKUNG AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "16847"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.107",
+   "quote": "100107 | CASTOR VERPACKUNG AG | C-DOM | 16847"
+  }
+ },
+ {
+  "rowNumber": 108,
+  "raw": "100108 | ATLAS MASCHINEN AG | C-DOM | 147420.77",
+  "values": {
+   "Konto": "100108",
+   "Name": "ATLAS MASCHINEN AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "147420.77"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.108",
+   "quote": "100108 | ATLAS MASCHINEN AG | C-DOM | 147420.77"
+  }
+ },
+ {
+  "rowNumber": 109,
+  "raw": "100109 | SOLUM KARTON GMBH & CO. KG | C-DOM | 98844.97",
+  "values": {
+   "Konto": "100109",
+   "Name": "SOLUM KARTON GMBH & CO. KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "98844.97"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.109",
+   "quote": "100109 | SOLUM KARTON GMBH & CO. KG | C-DOM | 98844.97"
+  }
+ },
+ {
+  "rowNumber": 110,
+  "raw": "100111 | PACTUM RECYCLING E.K. | C-DOM | 73406.34",
+  "values": {
+   "Konto": "100111",
+   "Name": "PACTUM RECYCLING E.K.",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "73406.34"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.110",
+   "quote": "100111 | PACTUM RECYCLING E.K. | C-DOM | 73406.34"
+  }
+ },
+ {
+  "rowNumber": 111,
+  "raw": "100112 | WEST CHEMIE GMBH & CO. KG | C-EU | 45240",
+  "values": {
+   "Konto": "100112",
+   "Name": "WEST CHEMIE GMBH & CO. KG",
+   "Gruppe": "C-EU",
+   "Saldo 31.12.2025": "45240"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.111",
+   "quote": "100112 | WEST CHEMIE GMBH & CO. KG | C-EU | 45240"
+  }
+ },
+ {
+  "rowNumber": 112,
+  "raw": "100113 | MERKUR RECYCLING E.K. | C-DOM | 92235.71",
+  "values": {
+   "Konto": "100113",
+   "Name": "MERKUR RECYCLING E.K.",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "92235.71"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.112",
+   "quote": "100113 | MERKUR RECYCLING E.K. | C-DOM | 92235.71"
+  }
+ },
+ {
+  "rowNumber": 113,
+  "raw": "100114 | ATLAS CHEMIE GMBH | C-DOM | 202956.88",
+  "values": {
+   "Konto": "100114",
+   "Name": "ATLAS CHEMIE GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "202956.88"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.113",
+   "quote": "100114 | ATLAS CHEMIE GMBH | C-DOM | 202956.88"
+  }
+ },
+ {
+  "rowNumber": 114,
+  "raw": "100115 | BOREAS KUNSTSTOFF KG | C-DOM | 59573.78",
+  "values": {
+   "Konto": "100115",
+   "Name": "BOREAS KUNSTSTOFF KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "59573.78"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.114",
+   "quote": "100115 | BOREAS KUNSTSTOFF KG | C-DOM | 59573.78"
+  }
+ },
+ {
+  "rowNumber": 115,
+  "raw": "100116 | KRANICH MASCHINEN KG | C-DOM | 18216.52",
+  "values": {
+   "Konto": "100116",
+   "Name": "KRANICH MASCHINEN KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "18216.52"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.115",
+   "quote": "100116 | KRANICH MASCHINEN KG | C-DOM | 18216.52"
+  }
+ },
+ {
+  "rowNumber": 116,
+  "raw": "100117 | ATLAS HANDEL E.K. | C-DOM | 116999.08",
+  "values": {
+   "Konto": "100117",
+   "Name": "ATLAS HANDEL E.K.",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "116999.08"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.116",
+   "quote": "100117 | ATLAS HANDEL E.K. | C-DOM | 116999.08"
+  }
+ },
+ {
+  "rowNumber": 117,
+  "raw": "100118 | LUPUS PAPIER GMBH | C-DOM | 61323.08",
+  "values": {
+   "Konto": "100118",
+   "Name": "LUPUS PAPIER GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "61323.08"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.117",
+   "quote": "100118 | LUPUS PAPIER GMBH | C-DOM | 61323.08"
+  }
+ },
+ {
+  "rowNumber": 118,
+  "raw": "100119 | TITAN WERKSTOFFE GMBH & CO. KG | C-DOM | 28003.62",
+  "values": {
+   "Konto": "100119",
+   "Name": "TITAN WERKSTOFFE GMBH & CO. KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "28003.62"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.118",
+   "quote": "100119 | TITAN WERKSTOFFE GMBH & CO. KG | C-DOM | 28003.62"
+  }
+ },
+ {
+  "rowNumber": 119,
+  "raw": "100120 | WEST TECHNIK SE | C-DOM | 104780.69",
+  "values": {
+   "Konto": "100120",
+   "Name": "WEST TECHNIK SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "104780.69"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.119",
+   "quote": "100120 | WEST TECHNIK SE | C-DOM | 104780.69"
+  }
+ },
+ {
+  "rowNumber": 120,
+  "raw": "100122 | FOKUS SYSTEME GMBH | C-DOM | 125896.8",
+  "values": {
+   "Konto": "100122",
+   "Name": "FOKUS SYSTEME GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "125896.8"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.120",
+   "quote": "100122 | FOKUS SYSTEME GMBH | C-DOM | 125896.8"
+  }
+ },
+ {
+  "rowNumber": 121,
+  "raw": "100123 | SÜD CHEMIE GMBH & CO. KG | C-DOM | 20704.81",
+  "values": {
+   "Konto": "100123",
+   "Name": "SÜD CHEMIE GMBH & CO. KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "20704.81"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.121",
+   "quote": "100123 | SÜD CHEMIE GMBH & CO. KG | C-DOM | 20704.81"
+  }
+ },
+ {
+  "rowNumber": 122,
+  "raw": "100124 | MERKUR MASCHINEN KG | C-DOM | 114284.07",
+  "values": {
+   "Konto": "100124",
+   "Name": "MERKUR MASCHINEN KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "114284.07"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.122",
+   "quote": "100124 | MERKUR MASCHINEN KG | C-DOM | 114284.07"
+  }
+ },
+ {
+  "rowNumber": 123,
+  "raw": "100125 | AURORA HANDEL GMBH | C-DOM | 80414.25",
+  "values": {
+   "Konto": "100125",
+   "Name": "AURORA HANDEL GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "80414.25"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.123",
+   "quote": "100125 | AURORA HANDEL GMBH | C-DOM | 80414.25"
+  }
+ },
+ {
+  "rowNumber": 124,
+  "raw": "100126 | DELTA TECHNIK SE | C-DOM | 47528.6",
+  "values": {
+   "Konto": "100126",
+   "Name": "DELTA TECHNIK SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "47528.6"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.124",
+   "quote": "100126 | DELTA TECHNIK SE | C-DOM | 47528.6"
+  }
+ },
+ {
+  "rowNumber": 125,
+  "raw": "100127 | TERRA TECHNIK KG | C-DOM | 86595.11",
+  "values": {
+   "Konto": "100127",
+   "Name": "TERRA TECHNIK KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "86595.11"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.125",
+   "quote": "100127 | TERRA TECHNIK KG | C-DOM | 86595.11"
+  }
+ },
+ {
+  "rowNumber": 126,
+  "raw": "100128 | RATIO INDUSTRIEBEDARF AG | C-DOM | 80528.49",
+  "values": {
+   "Konto": "100128",
+   "Name": "RATIO INDUSTRIEBEDARF AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "80528.49"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.126",
+   "quote": "100128 | RATIO INDUSTRIEBEDARF AG | C-DOM | 80528.49"
+  }
+ },
+ {
+  "rowNumber": 127,
+  "raw": "100129 | ALPHA PAPIER E.K. | C-DOM | 235462.66",
+  "values": {
+   "Konto": "100129",
+   "Name": "ALPHA PAPIER E.K.",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "235462.66"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.127",
+   "quote": "100129 | ALPHA PAPIER E.K. | C-DOM | 235462.66"
+  }
+ },
+ {
+  "rowNumber": 128,
+  "raw": "100130 | TITAN DISTRIBUTION GMBH | C-DOM | 117746.93",
+  "values": {
+   "Konto": "100130",
+   "Name": "TITAN DISTRIBUTION GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "117746.93"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.128",
+   "quote": "100130 | TITAN DISTRIBUTION GMBH | C-DOM | 117746.93"
+  }
+ },
+ {
+  "rowNumber": 129,
+  "raw": "100131 | WEST FORMTEILE GMBH | C-DOM | 154521.09",
+  "values": {
+   "Konto": "100131",
+   "Name": "WEST FORMTEILE GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "154521.09"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.129",
+   "quote": "100131 | WEST FORMTEILE GMBH | C-DOM | 154521.09"
+  }
+ },
+ {
+  "rowNumber": 130,
+  "raw": "100132 | CORVUS CHEMIE KG | C-DOM | 65197.72",
+  "values": {
+   "Konto": "100132",
+   "Name": "CORVUS CHEMIE KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "65197.72"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.130",
+   "quote": "100132 | CORVUS CHEMIE KG | C-DOM | 65197.72"
+  }
+ },
+ {
+  "rowNumber": 131,
+  "raw": "100133 | ADLER FORMTEILE GMBH & CO. KG | C-DOM | 79349.2",
+  "values": {
+   "Konto": "100133",
+   "Name": "ADLER FORMTEILE GMBH & CO. KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "79349.2"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.131",
+   "quote": "100133 | ADLER FORMTEILE GMBH & CO. KG | C-DOM | 79349.2"
+  }
+ },
+ {
+  "rowNumber": 132,
+  "raw": "100134 | SOLUM TRANSPORT E.K. | C-DOM | 67768.12",
+  "values": {
+   "Konto": "100134",
+   "Name": "SOLUM TRANSPORT E.K.",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "67768.12"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.132",
+   "quote": "100134 | SOLUM TRANSPORT E.K. | C-DOM | 67768.12"
+  }
+ },
+ {
+  "rowNumber": 133,
+  "raw": "100135 | PACTUM KARTON E.K. | C-DOM | 145202.36",
+  "values": {
+   "Konto": "100135",
+   "Name": "PACTUM KARTON E.K.",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "145202.36"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.133",
+   "quote": "100135 | PACTUM KARTON E.K. | C-DOM | 145202.36"
+  }
+ },
+ {
+  "rowNumber": 134,
+  "raw": "100136 | KRANICH LOGISTIK GMBH | C-DOM | 65955.75",
+  "values": {
+   "Konto": "100136",
+   "Name": "KRANICH LOGISTIK GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "65955.75"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.134",
+   "quote": "100136 | KRANICH LOGISTIK GMBH | C-DOM | 65955.75"
+  }
+ },
+ {
+  "rowNumber": 135,
+  "raw": "100137 | PRISMA DISTRIBUTION GMBH | C-DOM | 45503.22",
+  "values": {
+   "Konto": "100137",
+   "Name": "PRISMA DISTRIBUTION GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "45503.22"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.135",
+   "quote": "100137 | PRISMA DISTRIBUTION GMBH | C-DOM | 45503.22"
+  }
+ },
+ {
+  "rowNumber": 136,
+  "raw": "100138 | ALPHA FOLIEN GMBH | C-EU | 95284",
+  "values": {
+   "Konto": "100138",
+   "Name": "ALPHA FOLIEN GMBH",
+   "Gruppe": "C-EU",
+   "Saldo 31.12.2025": "95284"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.136",
+   "quote": "100138 | ALPHA FOLIEN GMBH | C-EU | 95284"
+  }
+ },
+ {
+  "rowNumber": 137,
+  "raw": "100139 | RATIO BESCHICHTUNG KG | C-DOM | 79246.32",
+  "values": {
+   "Konto": "100139",
+   "Name": "RATIO BESCHICHTUNG KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "79246.32"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.137",
+   "quote": "100139 | RATIO BESCHICHTUNG KG | C-DOM | 79246.32"
+  }
+ },
+ {
+  "rowNumber": 138,
+  "raw": "100140 | MERKUR HANDEL E.K. | C-EU | 4230",
+  "values": {
+   "Konto": "100140",
+   "Name": "MERKUR HANDEL E.K.",
+   "Gruppe": "C-EU",
+   "Saldo 31.12.2025": "4230"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.138",
+   "quote": "100140 | MERKUR HANDEL E.K. | C-EU | 4230"
+  }
+ },
+ {
+  "rowNumber": 139,
+  "raw": "100141 | SOLUM TRANSPORT KG | C-DOM | 45699.57",
+  "values": {
+   "Konto": "100141",
+   "Name": "SOLUM TRANSPORT KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "45699.57"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.139",
+   "quote": "100141 | SOLUM TRANSPORT KG | C-DOM | 45699.57"
+  }
+ },
+ {
+  "rowNumber": 140,
+  "raw": "100142 | NOVA RECYCLING SE | C-DOM | 14043.19",
+  "values": {
+   "Konto": "100142",
+   "Name": "NOVA RECYCLING SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "14043.19"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.140",
+   "quote": "100142 | NOVA RECYCLING SE | C-DOM | 14043.19"
+  }
+ },
+ {
+  "rowNumber": 141,
+  "raw": "100143 | NOVA WERKSTOFFE KG | C-DOM | 10654.07",
+  "values": {
+   "Konto": "100143",
+   "Name": "NOVA WERKSTOFFE KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "10654.07"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.141",
+   "quote": "100143 | NOVA WERKSTOFFE KG | C-DOM | 10654.07"
+  }
+ },
+ {
+  "rowNumber": 142,
+  "raw": "100144 | WEST CHEMIE SE | C-DOM | 66365.11",
+  "values": {
+   "Konto": "100144",
+   "Name": "WEST CHEMIE SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "66365.11"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.142",
+   "quote": "100144 | WEST CHEMIE SE | C-DOM | 66365.11"
+  }
+ },
+ {
+  "rowNumber": 143,
+  "raw": "100145 | ATLAS RECYCLING SE | C-DOM | 138279.19",
+  "values": {
+   "Konto": "100145",
+   "Name": "ATLAS RECYCLING SE",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "138279.19"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.143",
+   "quote": "100145 | ATLAS RECYCLING SE | C-DOM | 138279.19"
+  }
+ },
+ {
+  "rowNumber": 144,
+  "raw": "100146 | ORION KARTON GMBH | C-DOM | 90211.31",
+  "values": {
+   "Konto": "100146",
+   "Name": "ORION KARTON GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "90211.31"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.144",
+   "quote": "100146 | ORION KARTON GMBH | C-DOM | 90211.31"
+  }
+ },
+ {
+  "rowNumber": 145,
+  "raw": "100147 | NOVA BESCHICHTUNG KG | C-DOM | 50764.21",
+  "values": {
+   "Konto": "100147",
+   "Name": "NOVA BESCHICHTUNG KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "50764.21"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.145",
+   "quote": "100147 | NOVA BESCHICHTUNG KG | C-DOM | 50764.21"
+  }
+ },
+ {
+  "rowNumber": 146,
+  "raw": "100148 | AURORA INDUSTRIEBEDARF GMBH & CO. KG | C-DOM | 66131.87",
+  "values": {
+   "Konto": "100148",
+   "Name": "AURORA INDUSTRIEBEDARF GMBH & CO. KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "66131.87"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.146",
+   "quote": "100148 | AURORA INDUSTRIEBEDARF GMBH & CO. KG | C-DOM | 66131.87"
+  }
+ },
+ {
+  "rowNumber": 147,
+  "raw": "100149 | RATIO DISTRIBUTION GMBH | C-DOM | 120253.07",
+  "values": {
+   "Konto": "100149",
+   "Name": "RATIO DISTRIBUTION GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "120253.07"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.147",
+   "quote": "100149 | RATIO DISTRIBUTION GMBH | C-DOM | 120253.07"
+  }
+ },
+ {
+  "rowNumber": 148,
+  "raw": "100150 | SÜD RECYCLING GMBH | C-DOM | 27260.52",
+  "values": {
+   "Konto": "100150",
+   "Name": "SÜD RECYCLING GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "27260.52"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.148",
+   "quote": "100150 | SÜD RECYCLING GMBH | C-DOM | 27260.52"
+  }
+ },
+ {
+  "rowNumber": 149,
+  "raw": "100151 | KRONOS KUNSTSTOFF KG | C-DOM | 51739",
+  "values": {
+   "Konto": "100151",
+   "Name": "KRONOS KUNSTSTOFF KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "51739"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.149",
+   "quote": "100151 | KRONOS KUNSTSTOFF KG | C-DOM | 51739"
+  }
+ },
+ {
+  "rowNumber": 150,
+  "raw": "100152 | NORD WERKSTOFFE GMBH | C-DOM | 64308.79",
+  "values": {
+   "Konto": "100152",
+   "Name": "NORD WERKSTOFFE GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "64308.79"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.150",
+   "quote": "100152 | NORD WERKSTOFFE GMBH | C-DOM | 64308.79"
+  }
+ },
+ {
+  "rowNumber": 151,
+  "raw": "100153 | KRONOS INDUSTRIEBEDARF E.K. | C-DOM | 237977.75",
+  "values": {
+   "Konto": "100153",
+   "Name": "KRONOS INDUSTRIEBEDARF E.K.",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "237977.75"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.151",
+   "quote": "100153 | KRONOS INDUSTRIEBEDARF E.K. | C-DOM | 237977.75"
+  }
+ },
+ {
+  "rowNumber": 152,
+  "raw": "100154 | CIVES WERKSTOFFE E.K. | C-DOM | 139128.85",
+  "values": {
+   "Konto": "100154",
+   "Name": "CIVES WERKSTOFFE E.K.",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "139128.85"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.152",
+   "quote": "100154 | CIVES WERKSTOFFE E.K. | C-DOM | 139128.85"
+  }
+ },
+ {
+  "rowNumber": 153,
+  "raw": "100155 | RATIO TRANSPORT GMBH | C-DOM | 28581",
+  "values": {
+   "Konto": "100155",
+   "Name": "RATIO TRANSPORT GMBH",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "28581"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.153",
+   "quote": "100155 | RATIO TRANSPORT GMBH | C-DOM | 28581"
+  }
+ },
+ {
+  "rowNumber": 154,
+  "raw": "100156 | KRANICH PAPIER GMBH & CO. KG | C-DOM | 46490.92",
+  "values": {
+   "Konto": "100156",
+   "Name": "KRANICH PAPIER GMBH & CO. KG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "46490.92"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.154",
+   "quote": "100156 | KRANICH PAPIER GMBH & CO. KG | C-DOM | 46490.92"
+  }
+ },
+ {
+  "rowNumber": 155,
+  "raw": "100158 | WEST SYSTEME AG | C-DOM | 114591.05",
+  "values": {
+   "Konto": "100158",
+   "Name": "WEST SYSTEME AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "114591.05"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.155",
+   "quote": "100158 | WEST SYSTEME AG | C-DOM | 114591.05"
+  }
+ },
+ {
+  "rowNumber": 156,
+  "raw": "100159 | MERKUR DRUCK AG | C-DOM | 41937.09",
+  "values": {
+   "Konto": "100159",
+   "Name": "MERKUR DRUCK AG",
+   "Gruppe": "C-DOM",
+   "Saldo 31.12.2025": "41937.09"
+  },
+  "citation": {
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "ref": "Saldenliste Personenkonten!r.156",
+   "quote": "100159 | MERKUR DRUCK AG | C-DOM | 41937.09"
+  }
+ }
+]

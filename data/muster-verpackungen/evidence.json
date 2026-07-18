@@ -1,0 +1,142 @@
+{
+ "av-anlagen": {
+  "file": "evidence/doc-d1881d8a79643b44.json",
+  "count": 197
+ },
+ "av-anlagenbuchungen": {
+  "file": "evidence/doc-e047b8126b459e8c.json",
+  "count": 56
+ },
+ "av-gdpdu-01-08-2002": {
+  "file": "evidence/doc-aee0a7f027aa5e4e.json",
+  "count": 4
+ },
+ "av-index": {
+  "file": "evidence/doc-7f2186556538bca7.json",
+  "count": 2
+ },
+ "begleitdokumente-abstimmung-nebenbuecher-hb-2025": {
+  "file": "evidence/doc-1a75350414d24f54.json",
+  "count": 6
+ },
+ "begleitdokumente-berechtigungsauswertung-2025": {
+  "file": "evidence/doc-a62c7da4eddcc6fe.json",
+  "count": 9
+ },
+ "begleitdokumente-buchungen-folgeperiode-2026": {
+  "file": "evidence/doc-c613a6b511c53d01.json",
+  "count": 60
+ },
+ "begleitdokumente-exportprotokoll-gdpdu-2025": {
+  "file": "evidence/doc-a9462289d4b0246c.json",
+  "count": 1
+ },
+ "begleitdokumente-fakturajournal-2025": {
+  "file": "evidence/doc-8e53335c4035d43c.json",
+  "count": 2041
+ },
+ "begleitdokumente-fakturajournal-januar-2026-kreditoren": {
+  "file": "evidence/doc-bee274c91bddf54d.json",
+  "count": 8
+ },
+ "begleitdokumente-freigabe-log-journale-2025": {
+  "file": "evidence/doc-6e6c0d8192c6f8ad.json",
+  "count": 91
+ },
+ "begleitdokumente-gesellschafterliste-beteiligungen": {
+  "file": "evidence/doc-95433f764d94ee4c.json",
+  "count": 5
+ },
+ "begleitdokumente-it-bestaetigung-vollstaendigkeit-2025": {
+  "file": "evidence/doc-dcca92d59d0cdfc6.json",
+  "count": 1
+ },
+ "begleitdokumente-ja-entwurf-2025-auszug-bilanz-guv": {
+  "file": "evidence/doc-b24f07779f591fd8.json",
+  "count": 1
+ },
+ "begleitdokumente-kreditlimitliste-debitoren-2025": {
+  "file": "evidence/doc-71377ff481cf5410.json",
+  "count": 160
+ },
+ "begleitdokumente-op-liste-debitoren-2025": {
+  "file": "evidence/doc-d5030376b2d0b80f.json",
+  "count": 273
+ },
+ "begleitdokumente-op-liste-kreditoren-2025": {
+  "file": "evidence/doc-1587eacb5972052d.json",
+  "count": 122
+ },
+ "begleitdokumente-pruefungsplanung-jet-2025": {
+  "file": "evidence/doc-e5ab6cdb3739f155.json",
+  "count": 1
+ },
+ "begleitdokumente-saldenliste-2024-vorjahr": {
+  "file": "evidence/doc-b6307089f016a18a.json",
+  "count": 1
+ },
+ "begleitdokumente-saldenliste-2025": {
+  "file": "evidence/doc-7759f1f4d3300cf4.json",
+  "count": 44
+ },
+ "begleitdokumente-stammdatenaenderungen-2025": {
+  "file": "evidence/doc-9e3f033ed8b619d3.json",
+  "count": 19
+ },
+ "begleitdokumente-warenausgangsliste-2025": {
+  "file": "evidence/doc-4d7326fdf6304f26.json",
+  "count": 2040
+ },
+ "begleitdokumente-wareneingangsliste-2025": {
+  "file": "evidence/doc-b42e653f8f9d0235.json",
+  "count": 858
+ },
+ "debitoren-gdpdu-01-08-2002": {
+  "file": "evidence/doc-417b2fa16c691193.json",
+  "count": 4
+ },
+ "debitoren-index": {
+  "file": "evidence/doc-7ed7da07e6bc1476.json",
+  "count": 3
+ },
+ "debitoren-kunden": {
+  "file": "evidence/doc-7d2fbbda2a439e3c.json",
+  "count": 160
+ },
+ "debitoren-kundenbuchungen": {
+  "file": "evidence/doc-f01a7985736178d2.json",
+  "count": 3749
+ },
+ "kreditoren-gdpdu-01-08-2002": {
+  "file": "evidence/doc-9c291e93449c1f7d.json",
+  "count": 4
+ },
+ "kreditoren-index": {
+  "file": "evidence/doc-8934c929b7e365e0.json",
+  "count": 3
+ },
+ "kreditoren-lieferanten": {
+  "file": "evidence/doc-2643af5bf074bad1.json",
+  "count": 143
+ },
+ "kreditoren-lieferantenbuchungen": {
+  "file": "evidence/doc-10d92e005bc5ffbc.json",
+  "count": 2584
+ },
+ "sachkonten-gdpdu-01-08-2002": {
+  "file": "evidence/doc-ddf8f21289d4fc9d.json",
+  "count": 4
+ },
+ "sachkonten-index": {
+  "file": "evidence/doc-555f76f55e066726.json",
+  "count": 3
+ },
+ "sachkonten-sachkonten": {
+  "file": "evidence/doc-d71cb9dc479b555f.json",
+  "count": 43
+ },
+ "sachkonten-sachkontobuchungen": {
+  "file": "evidence/doc-e8aff676d5cfba71.json",
+  "count": 20258
+ }
+}

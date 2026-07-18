@@ -1,0 +1,794 @@
+[
+ {
+  "rowNumber": 5,
+  "raw": "020000 | Grundstücke | Bilanz | 0 | 2339597 | 0 | ",
+  "values": {
+   "Konto": "020000",
+   "Bezeichnung": "Grundstücke",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "2339597",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.5",
+   "quote": "020000 | Grundstücke | Bilanz | 0 | 2339597 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 6,
+  "raw": "021000 | Gebäude und Außenanlagen | Bilanz | 0 | 2043939 | 417604.56 | ",
+  "values": {
+   "Konto": "021000",
+   "Bezeichnung": "Gebäude und Außenanlagen",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "2043939",
+   "Haben 2025": "417604.56",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.6",
+   "quote": "021000 | Gebäude und Außenanlagen | Bilanz | 0 | 2043939 | 417604.56 | "
+  }
+ },
+ {
+  "rowNumber": 7,
+  "raw": "040000 | Maschinen und maschinelle Anlagen | Bilanz | 0 | 8623198 | 529199.56 | ",
+  "values": {
+   "Konto": "040000",
+   "Bezeichnung": "Maschinen und maschinelle Anlagen",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "8623198",
+   "Haben 2025": "529199.56",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.7",
+   "quote": "040000 | Maschinen und maschinelle Anlagen | Bilanz | 0 | 8623198 | 529199.56 | "
+  }
+ },
+ {
+  "rowNumber": 8,
+  "raw": "060000 | Betriebs- und Geschäftsausstattung | Bilanz | 0 | 4325050 | 417604.56 | ",
+  "values": {
+   "Konto": "060000",
+   "Bezeichnung": "Betriebs- und Geschäftsausstattung",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "4325050",
+   "Haben 2025": "417604.56",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.8",
+   "quote": "060000 | Betriebs- und Geschäftsausstattung | Bilanz | 0 | 4325050 | 417604.56 | "
+  }
+ },
+ {
+  "rowNumber": 9,
+  "raw": "062000 | EDV-Hardware | Bilanz | 0 | 3652903 | 417604.56 | ",
+  "values": {
+   "Konto": "062000",
+   "Bezeichnung": "EDV-Hardware",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "3652903",
+   "Haben 2025": "417604.56",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.9",
+   "quote": "062000 | EDV-Hardware | Bilanz | 0 | 3652903 | 417604.56 | "
+  }
+ },
+ {
+  "rowNumber": 10,
+  "raw": "070000 | Anlagen im Bau | Bilanz | 0 | 526341 | 0 | ",
+  "values": {
+   "Konto": "070000",
+   "Bezeichnung": "Anlagen im Bau",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "526341",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.10",
+   "quote": "070000 | Anlagen im Bau | Bilanz | 0 | 526341 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 11,
+  "raw": "110000 | Roh-, Hilfs- und Betriebsstoffe | Bilanz | 0 | 44698861 | 37700166.96 | ",
+  "values": {
+   "Konto": "110000",
+   "Bezeichnung": "Roh-, Hilfs- und Betriebsstoffe",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "44698861",
+   "Haben 2025": "37700166.96",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.11",
+   "quote": "110000 | Roh-, Hilfs- und Betriebsstoffe | Bilanz | 0 | 44698861 | 37700166.96 | "
+  }
+ },
+ {
+  "rowNumber": 12,
+  "raw": "160000 | Fertigerzeugnisse | Bilanz | 0 | 44100166.96 | 37700166.96 | ",
+  "values": {
+   "Konto": "160000",
+   "Bezeichnung": "Fertigerzeugnisse",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "44100166.96",
+   "Haben 2025": "37700166.96",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.12",
+   "quote": "160000 | Fertigerzeugnisse | Bilanz | 0 | 44100166.96 | 37700166.96 | "
+  }
+ },
+ {
+  "rowNumber": 13,
+  "raw": "176000 | Handelsware | Bilanz | 0 | 1580000 | 0 | ",
+  "values": {
+   "Konto": "176000",
+   "Bezeichnung": "Handelsware",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "1580000",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.13",
+   "quote": "176000 | Handelsware | Bilanz | 0 | 1580000 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 14,
+  "raw": "147000 | Vorsteuer | Bilanz | 0 | 8380414.36 | 7505950.38 | ",
+  "values": {
+   "Konto": "147000",
+   "Bezeichnung": "Vorsteuer",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "8380414.36",
+   "Haben 2025": "7505950.38",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.14",
+   "quote": "147000 | Vorsteuer | Bilanz | 0 | 8380414.36 | 7505950.38 | "
+  }
+ },
+ {
+  "rowNumber": 15,
+  "raw": "230000 | Forderungen aus L.u.L. | Bilanz | 0 | 66567814.8 | 53155271.75 | ",
+  "values": {
+   "Konto": "230000",
+   "Bezeichnung": "Forderungen aus L.u.L.",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "66567814.8",
+   "Haben 2025": "53155271.75",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.15",
+   "quote": "230000 | Forderungen aus L.u.L. | Bilanz | 0 | 66567814.8 | 53155271.75 | "
+  }
+ },
+ {
+  "rowNumber": 16,
+  "raw": "260000 | Sonstige Vermögensgegenstände | Bilanz | 0 | 0 | 0 | ",
+  "values": {
+   "Konto": "260000",
+   "Bezeichnung": "Sonstige Vermögensgegenstände",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "0",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.16",
+   "quote": "260000 | Sonstige Vermögensgegenstände | Bilanz | 0 | 0 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 17,
+  "raw": "271000 | Bank Girokonto Handelsbank | Bilanz | 0 | 54120956.75 | 46702795.21 | ",
+  "values": {
+   "Konto": "271000",
+   "Bezeichnung": "Bank Girokonto Handelsbank",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "54120956.75",
+   "Haben 2025": "46702795.21",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.17",
+   "quote": "271000 | Bank Girokonto Handelsbank | Bilanz | 0 | 54120956.75 | 46702795.21 | "
+  }
+ },
+ {
+  "rowNumber": 18,
+  "raw": "272000 | Bank Kontokorrent Musterbank | Bilanz | 0 | 0 | 0 | ",
+  "values": {
+   "Konto": "272000",
+   "Bezeichnung": "Bank Kontokorrent Musterbank",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "0",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.18",
+   "quote": "272000 | Bank Kontokorrent Musterbank | Bilanz | 0 | 0 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 19,
+  "raw": "288000 | Kasse | Bilanz | 0 | 0 | 0 | ",
+  "values": {
+   "Konto": "288000",
+   "Bezeichnung": "Kasse",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "0",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.19",
+   "quote": "288000 | Kasse | Bilanz | 0 | 0 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 20,
+  "raw": "300000 | Gezeichnetes Kapital und Rücklagen | Bilanz | 0 | 0 | 36841565 | ",
+  "values": {
+   "Konto": "300000",
+   "Bezeichnung": "Gezeichnetes Kapital und Rücklagen",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "0",
+   "Haben 2025": "36841565",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.20",
+   "quote": "300000 | Gezeichnetes Kapital und Rücklagen | Bilanz | 0 | 0 | 36841565 | "
+  }
+ },
+ {
+  "rowNumber": 21,
+  "raw": "302000 | Sonstige Rückstellungen | Bilanz | 0 | 0 | 891500 | ",
+  "values": {
+   "Konto": "302000",
+   "Bezeichnung": "Sonstige Rückstellungen",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "0",
+   "Haben 2025": "891500",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.21",
+   "quote": "302000 | Sonstige Rückstellungen | Bilanz | 0 | 0 | 891500 | "
+  }
+ },
+ {
+  "rowNumber": 22,
+  "raw": "305000 | Steuerrückstellungen | Bilanz | 0 | 0 | 0 | ",
+  "values": {
+   "Konto": "305000",
+   "Bezeichnung": "Steuerrückstellungen",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "0",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.22",
+   "quote": "305000 | Steuerrückstellungen | Bilanz | 0 | 0 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 23,
+  "raw": "330000 | Verbindlichkeiten aus L.u.L. | Bilanz | 0 | 40233008.36 | 53441863.36 | ",
+  "values": {
+   "Konto": "330000",
+   "Bezeichnung": "Verbindlichkeiten aus L.u.L.",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "40233008.36",
+   "Haben 2025": "53441863.36",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.23",
+   "quote": "330000 | Verbindlichkeiten aus L.u.L. | Bilanz | 0 | 40233008.36 | 53441863.36 | "
+  }
+ },
+ {
+  "rowNumber": 24,
+  "raw": "332000 | Kreditorische Debitoren | Bilanz | 0 | 0 | 691260 | ",
+  "values": {
+   "Konto": "332000",
+   "Bezeichnung": "Kreditorische Debitoren",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "0",
+   "Haben 2025": "691260",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.24",
+   "quote": "332000 | Kreditorische Debitoren | Bilanz | 0 | 0 | 691260 | "
+  }
+ },
+ {
+  "rowNumber": 25,
+  "raw": "340000 | Verbindlichkeiten Kreditinstitute | Bilanz | 0 | 0 | 1400000 | ",
+  "values": {
+   "Konto": "340000",
+   "Bezeichnung": "Verbindlichkeiten Kreditinstitute",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "0",
+   "Haben 2025": "1400000",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.25",
+   "quote": "340000 | Verbindlichkeiten Kreditinstitute | Bilanz | 0 | 0 | 1400000 | "
+  }
+ },
+ {
+  "rowNumber": 26,
+  "raw": "347200 | Umsatzsteuer | Bilanz | 0 | 8914195.23 | 9694050.8 | ",
+  "values": {
+   "Konto": "347200",
+   "Bezeichnung": "Umsatzsteuer",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "8914195.23",
+   "Haben 2025": "9694050.8",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.26",
+   "quote": "347200 | Umsatzsteuer | Bilanz | 0 | 8914195.23 | 9694050.8 | "
+  }
+ },
+ {
+  "rowNumber": 27,
+  "raw": "360000 | Sonstige Verbindlichkeiten | Bilanz | 0 | 2384252.4 | 2384252.4 | ",
+  "values": {
+   "Konto": "360000",
+   "Bezeichnung": "Sonstige Verbindlichkeiten",
+   "Kontenart": "Bilanz",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "2384252.4",
+   "Haben 2025": "2384252.4",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.27",
+   "quote": "360000 | Sonstige Verbindlichkeiten | Bilanz | 0 | 2384252.4 | 2384252.4 | "
+  }
+ },
+ {
+  "rowNumber": 28,
+  "raw": "400000 | Umsatzerlöse Inland 19% | GuV | 0 | 18500 | 51021320 | ",
+  "values": {
+   "Konto": "400000",
+   "Bezeichnung": "Umsatzerlöse Inland 19%",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "18500",
+   "Haben 2025": "51021320",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.28",
+   "quote": "400000 | Umsatzerlöse Inland 19% | GuV | 0 | 18500 | 51021320 | "
+  }
+ },
+ {
+  "rowNumber": 29,
+  "raw": "408000 | Umsatzerlöse Export EU 0% | GuV | 0 | 0 | 4438602 | ",
+  "values": {
+   "Konto": "408000",
+   "Bezeichnung": "Umsatzerlöse Export EU 0%",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "0",
+   "Haben 2025": "4438602",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.29",
+   "quote": "408000 | Umsatzerlöse Export EU 0% | GuV | 0 | 0 | 4438602 | "
+  }
+ },
+ {
+  "rowNumber": 30,
+  "raw": "440020 | Umsatzboni und Rückvergütungen | GuV | 0 | 691260 | 0 | ",
+  "values": {
+   "Konto": "440020",
+   "Bezeichnung": "Umsatzboni und Rückvergütungen",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "691260",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.30",
+   "quote": "440020 | Umsatzboni und Rückvergütungen | GuV | 0 | 691260 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 31,
+  "raw": "480000 | Sonstige betriebliche Erträge | GuV | 0 | 0 | 0 | ",
+  "values": {
+   "Konto": "480000",
+   "Bezeichnung": "Sonstige betriebliche Erträge",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "0",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.31",
+   "quote": "480000 | Sonstige betriebliche Erträge | GuV | 0 | 0 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 32,
+  "raw": "500000 | Materialaufwand / Wareneinsatz | GuV | 0 | 37700166.96 | 0 | ",
+  "values": {
+   "Konto": "500000",
+   "Bezeichnung": "Materialaufwand / Wareneinsatz",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "37700166.96",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.32",
+   "quote": "500000 | Materialaufwand / Wareneinsatz | GuV | 0 | 37700166.96 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 33,
+  "raw": "510000 | Bezugsnebenkosten | GuV | 0 | 698229 | 0 | ",
+  "values": {
+   "Konto": "510000",
+   "Bezeichnung": "Bezugsnebenkosten",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "698229",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.33",
+   "quote": "510000 | Bezugsnebenkosten | GuV | 0 | 698229 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 34,
+  "raw": "600000 | Löhne und Gehälter | GuV | 0 | 4110780 | 0 | ",
+  "values": {
+   "Konto": "600000",
+   "Bezeichnung": "Löhne und Gehälter",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "4110780",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.34",
+   "quote": "600000 | Löhne und Gehälter | GuV | 0 | 4110780 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 35,
+  "raw": "610000 | Soziale Abgaben | GuV | 0 | 822156 | 0 | ",
+  "values": {
+   "Konto": "610000",
+   "Bezeichnung": "Soziale Abgaben",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "822156",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.35",
+   "quote": "610000 | Soziale Abgaben | GuV | 0 | 822156 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 36,
+  "raw": "620000 | Abschreibungen | GuV | 0 | 1670418.24 | 0 | ",
+  "values": {
+   "Konto": "620000",
+   "Bezeichnung": "Abschreibungen",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "1670418.24",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.36",
+   "quote": "620000 | Abschreibungen | GuV | 0 | 1670418.24 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 37,
+  "raw": "670000 | Instandhaltung und Reparaturen | GuV | 0 | 754560 | 0 | ",
+  "values": {
+   "Konto": "670000",
+   "Bezeichnung": "Instandhaltung und Reparaturen",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "754560",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.37",
+   "quote": "670000 | Instandhaltung und Reparaturen | GuV | 0 | 754560 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 38,
+  "raw": "671000 | Energie | GuV | 0 | 610691 | 0 | ",
+  "values": {
+   "Konto": "671000",
+   "Bezeichnung": "Energie",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "610691",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.38",
+   "quote": "671000 | Energie | GuV | 0 | 610691 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 39,
+  "raw": "672000 | Mieten und Leasing | GuV | 0 | 624475 | 0 | ",
+  "values": {
+   "Konto": "672000",
+   "Bezeichnung": "Mieten und Leasing",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "624475",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.39",
+   "quote": "672000 | Mieten und Leasing | GuV | 0 | 624475 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 40,
+  "raw": "673000 | Rechts- und Beratungskosten | GuV | 0 | 948809 | 0 | ",
+  "values": {
+   "Konto": "673000",
+   "Bezeichnung": "Rechts- und Beratungskosten",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "948809",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.40",
+   "quote": "673000 | Rechts- und Beratungskosten | GuV | 0 | 948809 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 41,
+  "raw": "674000 | Werbe- und Reisekosten | GuV | 0 | 716885 | 0 | ",
+  "values": {
+   "Konto": "674000",
+   "Bezeichnung": "Werbe- und Reisekosten",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "716885",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.41",
+   "quote": "674000 | Werbe- und Reisekosten | GuV | 0 | 716885 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 42,
+  "raw": "675000 | Fuhrpark | GuV | 0 | 739215 | 0 | ",
+  "values": {
+   "Konto": "675000",
+   "Bezeichnung": "Fuhrpark",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "739215",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.42",
+   "quote": "675000 | Fuhrpark | GuV | 0 | 739215 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 43,
+  "raw": "676000 | Versicherungen und Beiträge | GuV | 0 | 601029 | 0 | ",
+  "values": {
+   "Konto": "676000",
+   "Bezeichnung": "Versicherungen und Beiträge",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "601029",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.43",
+   "quote": "676000 | Versicherungen und Beiträge | GuV | 0 | 601029 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 44,
+  "raw": "677000 | Sonstiger Betriebsbedarf | GuV | 0 | 1137417 | 0 | ",
+  "values": {
+   "Konto": "677000",
+   "Bezeichnung": "Sonstiger Betriebsbedarf",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "1137417",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.44",
+   "quote": "677000 | Sonstiger Betriebsbedarf | GuV | 0 | 1137417 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 45,
+  "raw": "680000 | Konzernumlage / Verwaltungsleistungen | GuV | 0 | 889445 | 0 | ",
+  "values": {
+   "Konto": "680000",
+   "Bezeichnung": "Konzernumlage / Verwaltungsleistungen",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "889445",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.45",
+   "quote": "680000 | Konzernumlage / Verwaltungsleistungen | GuV | 0 | 889445 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 46,
+  "raw": "700000 | Zinsaufwand | GuV | 0 | 126044 | 0 | ",
+  "values": {
+   "Konto": "700000",
+   "Bezeichnung": "Zinsaufwand",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "126044",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.46",
+   "quote": "700000 | Zinsaufwand | GuV | 0 | 126044 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 47,
+  "raw": "710000 | Zinsertrag | GuV | 0 | 0 | 0 | ",
+  "values": {
+   "Konto": "710000",
+   "Bezeichnung": "Zinsertrag",
+   "Kontenart": "GuV",
+   "EB 01.01.2025": "0",
+   "Soll 2025": "0",
+   "Haben 2025": "0",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.47",
+   "quote": "710000 | Zinsertrag | GuV | 0 | 0 | 0 | "
+  }
+ },
+ {
+  "rowNumber": 48,
+  "raw": " | Summe |  |  |  |  | ",
+  "values": {
+   "Konto": "",
+   "Bezeichnung": "Summe",
+   "Kontenart": "",
+   "EB 01.01.2025": "",
+   "Soll 2025": "",
+   "Haben 2025": "",
+   "Saldo 31.12.2025": ""
+  },
+  "citation": {
+   "docId": "begleitdokumente-saldenliste-2025",
+   "ref": "Saldenliste 2025!r.48",
+   "quote": " | Summe |  |  |  |  | "
+  }
+ }
+]

@@ -1,0 +1,802 @@
+[
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.2",
+  "text": "100000;FALKE FOLIEN E.K.;200000,00;28490,98;ok;internes Limit",
+  "startLine": 2
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.3",
+  "text": "100001;FOKUS KUNSTSTOFF GMBH;200000,00;70675,29;ok;internes Limit",
+  "startLine": 3
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.4",
+  "text": "100002;FOKUS DRUCK SE;300000,00;177043,44;ok;internes Limit",
+  "startLine": 4
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.5",
+  "text": "100003;IRIS MASCHINEN KG;200000,00;0,00;ok;internes Limit",
+  "startLine": 5
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.6",
+  "text": "100004;PRISMA SYSTEME AG;200000,00;66330,26;ok;internes Limit",
+  "startLine": 6
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.7",
+  "text": "100005;CORVUS HANDEL KG;300000,00;117217,38;ok;internes Limit",
+  "startLine": 7
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.8",
+  "text": "100006;SÜD DRUCK GMBH;200000,00;55233,22;ok;internes Limit",
+  "startLine": 8
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.9",
+  "text": "100007;RATIO LOGISTIK GMBH;200000,00;78426,95;ok;internes Limit",
+  "startLine": 9
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.10",
+  "text": "100008;FALKE CHEMIE KG;200000,00;95439,19;ok;internes Limit",
+  "startLine": 10
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.11",
+  "text": "100009;TITAN TECHNIK GMBH;300000,00;130153,87;ok;internes Limit",
+  "startLine": 11
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.12",
+  "text": "100010;FOKUS TECHNIK GMBH;200000,00;60269,99;ok;internes Limit",
+  "startLine": 12
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.13",
+  "text": "100011;BOREAS BESCHICHTUNG E.K.;200000,00;46821,74;ok;internes Limit",
+  "startLine": 13
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.14",
+  "text": "100012;ATLAS FORMTEILE SE;200000,00;59660,65;ok;internes Limit",
+  "startLine": 14
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.15",
+  "text": "100013;NOVA FORMTEILE GMBH;300000,00;116377,24;ok;internes Limit",
+  "startLine": 15
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.16",
+  "text": "100014;ALPHA HANDEL GMBH;300000,00;119536,69;ok;internes Limit",
+  "startLine": 16
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.17",
+  "text": "100015;OST WERKSTOFFE AG;200000,00;17679,83;ok;internes Limit",
+  "startLine": 17
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.18",
+  "text": "100016;MERKUR WERKSTOFFE SE;300000,00;119044,03;ok;internes Limit",
+  "startLine": 18
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.19",
+  "text": "100017;HELIOS ETIKETTEN KG;200000,00;71505,91;ok;internes Limit",
+  "startLine": 19
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.20",
+  "text": "100018;SOLUM RECYCLING AG;200000,00;73165,96;ok;internes Limit",
+  "startLine": 20
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.21",
+  "text": "100019;POLLUX SYSTEME GMBH;200000,00;17374,00;ok;internes Limit",
+  "startLine": 21
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.22",
+  "text": "100020;ADLER TRANSPORT GMBH;200000,00;47244,00;ok;internes Limit",
+  "startLine": 22
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.23",
+  "text": "100021;HELIOS RECYCLING GMBH;300000,00;162461,18;ok;internes Limit",
+  "startLine": 23
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.24",
+  "text": "100022;WEST INDUSTRIEBEDARF GMBH;200000,00;75618,55;ok;internes Limit",
+  "startLine": 24
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.25",
+  "text": "100023;OST PAPIER SE;300000,00;199107,23;ok;internes Limit",
+  "startLine": 25
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.26",
+  "text": "100024;KRANICH HANDEL GMBH;300000,00;192707,41;ok;internes Limit",
+  "startLine": 26
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.27",
+  "text": "100025;LUPUS CHEMIE AG;300000,00;155033,32;ok;internes Limit",
+  "startLine": 27
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.28",
+  "text": "100026;IRIS KUNSTSTOFF E.K.;200000,00;97988,17;ok;internes Limit",
+  "startLine": 28
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.29",
+  "text": "100027;BOREAS TRANSPORT AG;300000,00;131878,79;ok;internes Limit",
+  "startLine": 29
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.30",
+  "text": "100028;VEGA FOLIEN GMBH;300000,00;106966,72;ok;internes Limit",
+  "startLine": 30
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.31",
+  "text": "100029;PRISMA WERKSTOFFE SE;200000,00;57511,51;ok;internes Limit",
+  "startLine": 31
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.32",
+  "text": "100030;PRISMA ETIKETTEN AG;200000,00;84504,00;ok;internes Limit",
+  "startLine": 32
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.33",
+  "text": "100031;RATIO PAPIER KG;300000,00;164592,47;ok;internes Limit",
+  "startLine": 33
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.34",
+  "text": "100032;OMEGA VERPACKUNG KG;200000,00;69487,07;ok;internes Limit",
+  "startLine": 34
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.35",
+  "text": "100033;WEST TECHNIK GMBH;300000,00;103921,00;ok;internes Limit",
+  "startLine": 35
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.36",
+  "text": "100034;BOREAS PAPIER GMBH;200000,00;62257,86;ok;internes Limit",
+  "startLine": 36
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.37",
+  "text": "100035;CIVES TECHNIK GMBH;200000,00;5635,84;ok;internes Limit",
+  "startLine": 37
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.38",
+  "text": "100036;KRONOS PAPIER GMBH;300000,00;123650,52;ok;internes Limit",
+  "startLine": 38
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.39",
+  "text": "100037;PACTUM TECHNIK GMBH;300000,00;171491,57;ok;internes Limit",
+  "startLine": 39
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.40",
+  "text": "100038;SATURN MASCHINEN GMBH;300000,00;116080,63;ok;internes Limit",
+  "startLine": 40
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.41",
+  "text": "100039;IRIS TECHNIK GMBH;200000,00;71347,64;ok;internes Limit",
+  "startLine": 41
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.42",
+  "text": "100040;SOLUM WERKSTOFFE GMBH;200000,00;0,00;ok;internes Limit",
+  "startLine": 42
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.43",
+  "text": "100041;PRISMA HANDEL E.K.;200000,00;27750,80;ok;internes Limit",
+  "startLine": 43
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.44",
+  "text": "100042;ADLER HANDEL GMBH;200000,00;74978,33;ok;internes Limit",
+  "startLine": 44
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.45",
+  "text": "100043;DELTA BESCHICHTUNG GMBH & CO. KG;200000,00;34581,40;ok;internes Limit",
+  "startLine": 45
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.46",
+  "text": "100044;VEGA FORMTEILE GMBH;200000,00;64529,00;ok;internes Limit",
+  "startLine": 46
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.47",
+  "text": "100045;HELIOS DRUCK GMBH;200000,00;52997,84;ok;internes Limit",
+  "startLine": 47
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.48",
+  "text": "100046;SÜD KUNSTSTOFF KG;300000,00;175773,71;ok;internes Limit",
+  "startLine": 48
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.49",
+  "text": "100047;ADLER KARTON KG;300000,00;165906,23;ok;internes Limit",
+  "startLine": 49
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.50",
+  "text": "100048;ATLAS ETIKETTEN GMBH & CO. KG;200000,00;16781,38;ok;internes Limit",
+  "startLine": 50
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.51",
+  "text": "100049;OST KARTON AG;200000,00;31955,07;ok;internes Limit",
+  "startLine": 51
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.52",
+  "text": "100050;OST CHEMIE GMBH;300000,00;162485,11;ok;internes Limit",
+  "startLine": 52
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.53",
+  "text": "100051;PACTUM DISTRIBUTION KG;200000,00;43610,00;ok;internes Limit",
+  "startLine": 53
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.54",
+  "text": "100052;ORION TRANSPORT GMBH;200000,00;83449,49;ok;internes Limit",
+  "startLine": 54
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.55",
+  "text": "100053;REIHER LOGISTIK GMBH;200000,00;82931,86;ok;internes Limit",
+  "startLine": 55
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.56",
+  "text": "100054;CIVES ETIKETTEN SE;200000,00;77553,49;ok;internes Limit",
+  "startLine": 56
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.57",
+  "text": "100055;ADLER DRUCK KG;200000,00;31029,00;ok;internes Limit",
+  "startLine": 57
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.58",
+  "text": "100056;NORD WERKSTOFFE SE;300000,00;103069,47;ok;internes Limit",
+  "startLine": 58
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.59",
+  "text": "100057;CORVUS FORMTEILE GMBH;200000,00;62884,36;ok;internes Limit",
+  "startLine": 59
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.60",
+  "text": "100058;VEGA ETIKETTEN GMBH & CO. KG;300000,00;135191,14;ok;internes Limit",
+  "startLine": 60
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.61",
+  "text": "100059;FOKUS RECYCLING GMBH & CO. KG;200000,00;90093,71;ok;internes Limit",
+  "startLine": 61
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.62",
+  "text": "100060;ATLAS FOLIEN GMBH & CO. KG;200000,00;0,00;ok;internes Limit",
+  "startLine": 62
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.63",
+  "text": "100061;TERRA KARTON E.K.;300000,00;140917,30;ok;internes Limit",
+  "startLine": 63
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.64",
+  "text": "100062;POLLUX BESCHICHTUNG GMBH;200000,00;78231,79;ok;internes Limit",
+  "startLine": 64
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.65",
+  "text": "100063;MERKUR DRUCK SE;200000,00;45186,68;ok;internes Limit",
+  "startLine": 65
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.66",
+  "text": "100064;FALKE MASCHINEN GMBH;200000,00;60368,70;ok;internes Limit",
+  "startLine": 66
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.67",
+  "text": "100065;ATLAS ETIKETTEN E.K.;200000,00;0,00;ok;internes Limit",
+  "startLine": 67
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.68",
+  "text": "100066;SOLUM PAPIER GMBH;200000,00;14111,02;ok;internes Limit",
+  "startLine": 68
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.69",
+  "text": "100067;NOVA DRUCK GMBH;200000,00;70557,48;ok;internes Limit",
+  "startLine": 69
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.70",
+  "text": "100068;VEGA ETIKETTEN KG;300000,00;112084,91;ok;internes Limit",
+  "startLine": 70
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.71",
+  "text": "100069;HELIOS WERKSTOFFE GMBH;300000,00;123689,00;ok;internes Limit",
+  "startLine": 71
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.72",
+  "text": "100070;ADLER DRUCK GMBH;200000,00;53327,47;ok;internes Limit",
+  "startLine": 72
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.73",
+  "text": "100071;VEGA PAPIER GMBH;300000,00;130466,00;ok;internes Limit",
+  "startLine": 73
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.74",
+  "text": "100072;IRIS LOGISTIK E.K.;400000,00;212762,21;ok;internes Limit",
+  "startLine": 74
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.75",
+  "text": "100073;KRANICH MASCHINEN AG;200000,00;88690,70;ok;internes Limit",
+  "startLine": 75
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.76",
+  "text": "100074;WEST LOGISTIK KG;200000,00;26313,28;ok;internes Limit",
+  "startLine": 76
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.77",
+  "text": "100075;FALKE ETIKETTEN E.K.;200000,00;75158,00;ok;internes Limit",
+  "startLine": 77
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.78",
+  "text": "100076;PACTUM LOGISTIK SE;200000,00;3802,05;ok;internes Limit",
+  "startLine": 78
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.79",
+  "text": "100077;KRANICH FORMTEILE E.K.;300000,00;116617,62;ok;internes Limit",
+  "startLine": 79
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.80",
+  "text": "100078;FALKE SYSTEME GMBH;200000,00;71598,73;ok;internes Limit",
+  "startLine": 80
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.81",
+  "text": "100079;CORVUS KARTON GMBH;200000,00;74897,22;ok;internes Limit",
+  "startLine": 81
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.82",
+  "text": "100080;RATIO SYSTEME GMBH;200000,00;11443,04;ok;internes Limit",
+  "startLine": 82
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.83",
+  "text": "100081;ADLER RECYCLING GMBH;200000,00;98652,19;ok;internes Limit",
+  "startLine": 83
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.84",
+  "text": "100082;NORD PAPIER KG;300000,00;107485,56;ok;internes Limit",
+  "startLine": 84
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.85",
+  "text": "100083;MERKUR MASCHINEN GMBH;200000,00;82627,61;ok;internes Limit",
+  "startLine": 85
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.86",
+  "text": "100084;FOKUS LOGISTIK AG;200000,00;88893,00;ok;internes Limit",
+  "startLine": 86
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.87",
+  "text": "100085;WEST LOGISTIK GMBH;200000,00;12650,89;ok;internes Limit",
+  "startLine": 87
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.88",
+  "text": "100086;HELIOS FOLIEN GMBH & CO. KG;300000,00;191894,64;ok;internes Limit",
+  "startLine": 88
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.89",
+  "text": "100087;SOLUM VERPACKUNG GMBH;300000,00;175120,40;ok;internes Limit",
+  "startLine": 89
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.90",
+  "text": "100088;NOVA BESCHICHTUNG GMBH;300000,00;191459,10;ok;internes Limit",
+  "startLine": 90
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.91",
+  "text": "100089;LUPUS RECYCLING GMBH;200000,00;51334,22;ok;internes Limit",
+  "startLine": 91
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.92",
+  "text": "100090;WEST WERKSTOFFE GMBH;200000,00;45049,83;ok;internes Limit",
+  "startLine": 92
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.93",
+  "text": "100091;RATIO RECYCLING AG;300000,00;121751,28;ok;internes Limit",
+  "startLine": 93
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.94",
+  "text": "100092;SATURN ETIKETTEN GMBH;200000,00;80523,74;ok;internes Limit",
+  "startLine": 94
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.95",
+  "text": "100093;TERRA RECYCLING GMBH;200000,00;97500,27;ok;internes Limit",
+  "startLine": 95
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.96",
+  "text": "100094;SATURN FORMTEILE SE;200000,00;56340,43;ok;internes Limit",
+  "startLine": 96
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.97",
+  "text": "100095;KRONOS MASCHINEN SE;300000,00;132759,97;ok;internes Limit",
+  "startLine": 97
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.98",
+  "text": "100096;ALPHA SYSTEME E.K.;200000,00;65111,00;ok;internes Limit",
+  "startLine": 98
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.99",
+  "text": "100097;VEGA WERKSTOFFE KG;200000,00;71636,81;ok;internes Limit",
+  "startLine": 99
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.100",
+  "text": "100098;PACTUM FOLIEN AG;300000,00;107266,60;ok;internes Limit",
+  "startLine": 100
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.101",
+  "text": "100099;VEGA CHEMIE KG;300000,00;181542,00;ok;internes Limit",
+  "startLine": 101
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.102",
+  "text": "100100;KRONOS TRANSPORT SE;300000,00;159464,76;ok;internes Limit",
+  "startLine": 102
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.103",
+  "text": "100101;WEST KARTON GMBH;300000,00;150646,85;ok;internes Limit",
+  "startLine": 103
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.104",
+  "text": "100102;CASTOR FORMTEILE GMBH;200000,00;40915,77;ok;internes Limit",
+  "startLine": 104
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.105",
+  "text": "100103;IRIS MASCHINEN AG;200000,00;71678,96;ok;internes Limit",
+  "startLine": 105
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.106",
+  "text": "100104;NORD INDUSTRIEBEDARF GMBH;200000,00;27913,83;ok;internes Limit",
+  "startLine": 106
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.107",
+  "text": "100105;WEST SYSTEME GMBH & CO. KG;200000,00;49893,13;ok;internes Limit",
+  "startLine": 107
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.108",
+  "text": "100106;ALPHA RECYCLING AG;200000,00;73039,02;ok;internes Limit",
+  "startLine": 108
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.109",
+  "text": "100107;CASTOR VERPACKUNG AG;200000,00;16847,00;ok;internes Limit",
+  "startLine": 109
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.110",
+  "text": "100108;ATLAS MASCHINEN AG;300000,00;147420,77;ok;internes Limit",
+  "startLine": 110
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.111",
+  "text": "100109;SOLUM KARTON GMBH & CO. KG;200000,00;98844,97;ok;internes Limit",
+  "startLine": 111
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.112",
+  "text": "100110;RATIO RECYCLING E.K.;200000,00;0,00;ok;internes Limit",
+  "startLine": 112
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.113",
+  "text": "100111;PACTUM RECYCLING E.K.;200000,00;73406,34;ok;internes Limit",
+  "startLine": 113
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.114",
+  "text": "100112;WEST CHEMIE GMBH & CO. KG;200000,00;45240,00;ok;internes Limit",
+  "startLine": 114
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.115",
+  "text": "100113;MERKUR RECYCLING E.K.;200000,00;92235,71;ok;internes Limit",
+  "startLine": 115
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.116",
+  "text": "100114;ATLAS CHEMIE GMBH;400000,00;202956,88;ok;internes Limit",
+  "startLine": 116
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.117",
+  "text": "100115;BOREAS KUNSTSTOFF KG;200000,00;59573,78;ok;internes Limit",
+  "startLine": 117
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.118",
+  "text": "100116;KRANICH MASCHINEN KG;200000,00;18216,52;ok;internes Limit",
+  "startLine": 118
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.119",
+  "text": "100117;ATLAS HANDEL E.K.;300000,00;116999,08;ok;internes Limit",
+  "startLine": 119
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.120",
+  "text": "100118;LUPUS PAPIER GMBH;200000,00;61323,08;ok;internes Limit",
+  "startLine": 120
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.121",
+  "text": "100119;TITAN WERKSTOFFE GMBH & CO. KG;200000,00;28003,62;ok;internes Limit",
+  "startLine": 121
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.122",
+  "text": "100120;WEST TECHNIK SE;300000,00;104780,69;ok;internes Limit",
+  "startLine": 122
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.123",
+  "text": "100121;FALKE WERKSTOFFE GMBH;200000,00;0,00;ok;internes Limit",
+  "startLine": 123
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.124",
+  "text": "100122;FOKUS SYSTEME GMBH;300000,00;125896,80;ok;internes Limit",
+  "startLine": 124
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.125",
+  "text": "100123;SÜD CHEMIE GMBH & CO. KG;200000,00;20704,81;ok;internes Limit",
+  "startLine": 125
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.126",
+  "text": "100124;MERKUR MASCHINEN KG;300000,00;114284,07;ok;internes Limit",
+  "startLine": 126
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.127",
+  "text": "100125;AURORA HANDEL GMBH;200000,00;80414,25;ok;internes Limit",
+  "startLine": 127
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.128",
+  "text": "100126;DELTA TECHNIK SE;200000,00;47528,60;ok;internes Limit",
+  "startLine": 128
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.129",
+  "text": "100127;TERRA TECHNIK KG;200000,00;86595,11;ok;internes Limit",
+  "startLine": 129
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.130",
+  "text": "100128;RATIO INDUSTRIEBEDARF AG;200000,00;80528,49;ok;internes Limit",
+  "startLine": 130
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.131",
+  "text": "100129;ALPHA PAPIER E.K.;400000,00;235462,66;ok;internes Limit",
+  "startLine": 131
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.132",
+  "text": "100130;TITAN DISTRIBUTION GMBH;300000,00;117746,93;ok;internes Limit",
+  "startLine": 132
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.133",
+  "text": "100131;WEST FORMTEILE GMBH;300000,00;154521,09;ok;internes Limit",
+  "startLine": 133
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.134",
+  "text": "100132;CORVUS CHEMIE KG;200000,00;65197,72;ok;internes Limit",
+  "startLine": 134
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.135",
+  "text": "100133;ADLER FORMTEILE GMBH & CO. KG;200000,00;79349,20;ok;internes Limit",
+  "startLine": 135
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.136",
+  "text": "100134;SOLUM TRANSPORT E.K.;200000,00;67768,12;ok;internes Limit",
+  "startLine": 136
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.137",
+  "text": "100135;PACTUM KARTON E.K.;300000,00;145202,36;ok;internes Limit",
+  "startLine": 137
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.138",
+  "text": "100136;KRANICH LOGISTIK GMBH;200000,00;65955,75;ok;internes Limit",
+  "startLine": 138
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.139",
+  "text": "100137;PRISMA DISTRIBUTION GMBH;200000,00;45503,22;ok;internes Limit",
+  "startLine": 139
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.140",
+  "text": "100138;ALPHA FOLIEN GMBH;200000,00;95284,00;ok;internes Limit",
+  "startLine": 140
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.141",
+  "text": "100139;RATIO BESCHICHTUNG KG;200000,00;79246,32;ok;internes Limit",
+  "startLine": 141
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.142",
+  "text": "100140;MERKUR HANDEL E.K.;200000,00;4230,00;ok;internes Limit",
+  "startLine": 142
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.143",
+  "text": "100141;SOLUM TRANSPORT KG;200000,00;45699,57;ok;internes Limit",
+  "startLine": 143
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.144",
+  "text": "100142;NOVA RECYCLING SE;200000,00;14043,19;ok;internes Limit",
+  "startLine": 144
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.145",
+  "text": "100143;NOVA WERKSTOFFE KG;200000,00;10654,07;ok;internes Limit",
+  "startLine": 145
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.146",
+  "text": "100144;WEST CHEMIE SE;200000,00;66365,11;ok;internes Limit",
+  "startLine": 146
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.147",
+  "text": "100145;ATLAS RECYCLING SE;300000,00;138279,19;ok;internes Limit",
+  "startLine": 147
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.148",
+  "text": "100146;ORION KARTON GMBH;200000,00;90211,31;ok;internes Limit",
+  "startLine": 148
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.149",
+  "text": "100147;NOVA BESCHICHTUNG KG;200000,00;50764,21;ok;internes Limit",
+  "startLine": 149
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.150",
+  "text": "100148;AURORA INDUSTRIEBEDARF GMBH & CO. KG;200000,00;66131,87;ok;internes Limit",
+  "startLine": 150
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.151",
+  "text": "100149;RATIO DISTRIBUTION GMBH;300000,00;120253,07;ok;internes Limit",
+  "startLine": 151
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.152",
+  "text": "100150;SÜD RECYCLING GMBH;200000,00;27260,52;ok;internes Limit",
+  "startLine": 152
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.153",
+  "text": "100151;KRONOS KUNSTSTOFF KG;200000,00;51739,00;ok;internes Limit",
+  "startLine": 153
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.154",
+  "text": "100152;NORD WERKSTOFFE GMBH;200000,00;64308,79;ok;internes Limit",
+  "startLine": 154
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.155",
+  "text": "100153;KRONOS INDUSTRIEBEDARF E.K.;400000,00;237977,75;ok;internes Limit",
+  "startLine": 155
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.156",
+  "text": "100154;CIVES WERKSTOFFE E.K.;300000,00;139128,85;ok;internes Limit",
+  "startLine": 156
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.157",
+  "text": "100155;RATIO TRANSPORT GMBH;200000,00;28581,00;ok;internes Limit",
+  "startLine": 157
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.158",
+  "text": "100156;KRANICH PAPIER GMBH & CO. KG;200000,00;46490,92;ok;internes Limit",
+  "startLine": 158
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.159",
+  "text": "100157;IRIS DISTRIBUTION GMBH;200000,00;0,00;ok;internes Limit",
+  "startLine": 159
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.160",
+  "text": "100158;WEST SYSTEME AG;300000,00;114591,05;ok;internes Limit",
+  "startLine": 160
+ },
+ {
+  "ref": "Kreditlimitliste_Debitoren_2025!r.161",
+  "text": "100159;MERKUR DRUCK AG;200000,00;41937,09;ok;internes Limit",
+  "startLine": 161
+ }
+]
