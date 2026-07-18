@@ -30,23 +30,31 @@ export function CitationChip({
   citation,
   docs,
   onView,
+  muted = false,
 }: {
   citation: Citation;
   docs: DossierDoc[];
   onView: (c: Citation) => void;
+  muted?: boolean;
 }) {
   const file = docs.find((d) => d.id === citation.docId)?.filename ?? citation.docId;
   return (
     <Button
       onClick={() => onView(citation)}
-      title={`“${citation.quote}”`}
-      variant="outline"
+      title={`“${citation.quote}” · ${file} · ${citation.ref}`}
+      variant={muted ? "secondary" : "outline"}
       size="xs"
-      className="max-w-full border-primary/25 bg-primary/10 font-mono text-primary hover:bg-primary/20"
+      className={
+        muted
+          ? "h-7 max-w-56 justify-start gap-x-1 text-muted-foreground"
+          : "h-auto max-w-full flex-wrap justify-start gap-x-1 border-primary/25 bg-primary/10 py-1 text-left text-primary hover:bg-primary/20"
+      }
     >
-      <FileSearch />
-      <span className="truncate">{file}</span>
-      <span className="text-emerald-500/70">· {citation.ref}</span>
+      <FileSearch className="shrink-0" />
+      <span className={muted ? "min-w-0 truncate" : "min-w-0 break-all"}>{file}</span>
+      <span className={muted ? "shrink-0 text-muted-foreground/70" : "shrink-0 text-emerald-500/70"}>
+        · {citation.ref}
+      </span>
     </Button>
   );
 }

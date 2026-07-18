@@ -1,7 +1,6 @@
 import type { Citation, Finding } from "@almedia/forensic/types";
 import type { DossierData } from "@/lib/audit-data";
-import { verdictOf } from "./components";
-import type { Decision, ReviewEntry } from "./use-review";
+import { type ReviewVerdict, verdictOf } from "./components";
 import type { ExecSummary, Scheme } from "./schemes";
 
 const eur = (n: number) => `EUR ${n.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`;
@@ -11,7 +10,7 @@ function fmtCitation(c: Citation, data: DossierData): string {
   return `> **${file} · ${c.ref}** — “${c.quote}”`;
 }
 
-function renderFinding(f: Finding, data: DossierData, entry: ReviewEntry): string {
+function renderFinding(f: Finding, data: DossierData): string {
   const facts = new Map(data.facts.map((x) => [x.id, x]));
   const cites =
     f.factIds.length > 0
@@ -29,7 +28,7 @@ function renderFinding(f: Finding, data: DossierData, entry: ReviewEntry): strin
     ``,
     `*${f.fraudType} · tier: ${f.tier} · severity: ${f.severity}` +
       (f.amountInvolved != null ? ` · amount: ${eur(f.amountInvolved)}` : "") +
-      ` · engine: ${f.engineStatus ?? "detected"} · AI: ${f.aiStatus ?? "not-run"} · human: ${verdictOf(f)}*`,
+      ` · engine: ${f.engineStatus ?? "detected"} · AI: ${f.aiStatus ?? "not-run"} · tribunal: ${verdictOf(f)}*`,
     ``,
     f.narrative,
     ``,
@@ -51,15 +50,14 @@ function renderFinding(f: Finding, data: DossierData, entry: ReviewEntry): strin
       lines.push(`**Counter-evidence considered:**`, ...f.tribunal.defenseCitations.map((c) => fmtCitation(c, data)));
     }
   }
-  if (entry.note) lines.push(``, `**Auditor note:** ${entry.note}`);
   return lines.join("\n");
 }
 
-const DECISION_ORDER: { key: Decision | "pending"; label: string }[] = [
-  { key: "confirmed", label: "✔ Confirmed by auditor" },
-  { key: "info", label: "? Needs more information" },
-  { key: "pending", label: "○ Pending review" },
-  { key: "dismissed", label: "✕ Dismissed by auditor" },
+const VERDICT_ORDER: { key: ReviewVerdict; label: string }[] = [
+  { key: "confirmed", label: "✔ Confirmed" },
+  { key: "needs-judgment", label: "? Needs judgment" },
+  { key: "unreviewed", label: "○ Unreviewed" },
+  { key: "acquitted", label: "✕ Examined and acquitted" },
 ];
 
 export function buildReport(
@@ -67,22 +65,24 @@ export function buildReport(
   schemes: Scheme[],
   schemeOf: Map<string, string>,
   summary: ExecSummary,
-  reviewMap: Record<string, ReviewEntry>,
 ): string {
   const now = new Date().toISOString().replace("T", " ").slice(0, 16);
   const schemeTitle = new Map(schemes.map((s) => [s.id, s.title]));
 
-  const groups: Record<string, Finding[]> = { confirmed: [], info: [], pending: [], dismissed: [] };
+  const groups: Record<ReviewVerdict, Finding[]> = {
+    confirmed: [],
+    "needs-judgment": [],
+    unreviewed: [],
+    acquitted: [],
+  };
   for (const f of data.findings) {
-    if (verdictOf(f) === "acquitted") continue; // acquitted handled separately
-    const decision = reviewMap[f.id]?.decision ?? "pending";
-    groups[decision]!.push(f);
+    groups[verdictOf(f)].push(f);
   }
 
   const out: string[] = [
     `# Forensic Audit Report — “${data.name}”`,
     ``,
-    `Reviewed ${now} · Cortea Forensic Engine`,
+    `Generated ${now} · Cortea Forensic Engine`,
     ``,
     `## Executive summary`,
     ``,
@@ -93,16 +93,17 @@ export function buildReport(
     `- Evidence integrity: **${summary.citationsVerified}/${summary.citationsTotal} citations machine-verified** against source text`,
     `- ${summary.headline}`,
     ``,
-    `Review status: ${summary.acquitted} auto-acquitted by tribunal · ` +
-      `${groups.confirmed.length} confirmed · ${groups.info.length} need info · ${groups.pending.length} pending · ${groups.dismissed.length} dismissed by auditor.`,
+    `Tribunal status: ${groups.confirmed.length} confirmed · ${groups["needs-judgment"].length} need judgment · ${groups.unreviewed.length} unreviewed · ${groups.acquitted.length} acquitted.`,
     ``,
   ];
 
-  for (const { key, label } of DECISION_ORDER) {
-    const list = groups[key]!;
+  for (const { key, label } of VERDICT_ORDER) {
+    const list = groups[key];
     if (!list.length) continue;
     out.push(`## ${label} (${list.length})`, ``);
-    // organize by scheme
+    if (key === "acquitted") {
+      out.push(`Items that looked suspicious but have a documented innocent explanation.`, ``);
+    }
     const bySch = new Map<string, Finding[]>();
     for (const f of list) {
       const s = schemeOf.get(f.id) ?? "none";
@@ -112,15 +113,10 @@ export function buildReport(
     for (const [sid, fs] of bySch) {
       const st = schemeTitle.get(sid);
       if (st && fs.length > 1) out.push(`#### Scheme: ${st}`, ``);
-      for (const f of fs) out.push(renderFinding(f, data, reviewMap[f.id] ?? {}), ``, `---`, ``);
+      for (const f of fs) out.push(renderFinding(f, data), ``, `---`, ``);
     }
   }
 
-  const acquitted = data.findings.filter((f) => verdictOf(f) === "acquitted");
-  if (acquitted.length) {
-    out.push(`## Examined and acquitted (${acquitted.length})`, ``, `Items that looked suspicious but have a documented innocent explanation.`, ``);
-    for (const f of acquitted) out.push(renderFinding(f, data, reviewMap[f.id] ?? {}), ``, `---`, ``);
-  }
   return out.join("\n");
 }
 

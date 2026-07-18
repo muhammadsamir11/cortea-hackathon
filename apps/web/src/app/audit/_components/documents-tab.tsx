@@ -50,14 +50,14 @@ export function DocumentsTab({ data, onView }: { data: DossierData; onView: (cit
             value={query}
             onChange={(event) => setQuery(event.target.value)}
             placeholder={`Search ${data.docs.length} source artifacts…`}
-            className="font-mono text-xs"
+            className="text-xs"
           />
         </InputGroup>
         <Select value={kind} onValueChange={(value) => setKind(value as DocKind | "all")}>
-          <SelectTrigger size="sm" className="w-full font-mono sm:w-44" aria-label="Filter by format">
+          <SelectTrigger size="sm" className="w-full sm:w-44" aria-label="Filter by format">
             <SelectValue placeholder="All formats" />
           </SelectTrigger>
-          <SelectContent className="font-mono">
+          <SelectContent className="">
             <SelectItem value="all">All formats</SelectItem>
             {kinds.map((value) => (
               <SelectItem key={value} value={value}>
@@ -66,7 +66,7 @@ export function DocumentsTab({ data, onView }: { data: DossierData; onView: (cit
             ))}
           </SelectContent>
         </Select>
-        <Badge variant="secondary" className="self-start font-mono sm:self-center">
+        <Badge variant="secondary" className="self-start sm:self-center">
           {docs.length}/{data.docs.length}
         </Badge>
       </div>
@@ -83,7 +83,7 @@ export function DocumentsTab({ data, onView }: { data: DossierData; onView: (cit
           <div className="hidden md:block">
             <Table>
               <TableHeader>
-                <TableRow className="font-mono text-[11px] uppercase tracking-widest text-muted-foreground">
+                <TableRow className="text-[11px] uppercase tracking-widest text-muted-foreground">
                   <TableHead>File</TableHead>
                   <TableHead>Type</TableHead>
                   <TableHead>Encoding</TableHead>
@@ -97,7 +97,7 @@ export function DocumentsTab({ data, onView }: { data: DossierData; onView: (cit
                     <TableCell>
                       <Button
                         variant="link"
-                        className="h-auto max-w-80 justify-start px-0 font-mono text-xs text-clear"
+                        className="h-auto max-w-80 justify-start px-0 text-xs text-clear"
                         onClick={() => openDocument(doc.id, doc.firstRef ?? "")}
                       >
                         <FileText />
@@ -107,11 +107,11 @@ export function DocumentsTab({ data, onView }: { data: DossierData; onView: (cit
                     <TableCell>
                       <Badge variant="secondary">{doc.docType ?? doc.kind}</Badge>
                     </TableCell>
-                    <TableCell className="font-mono text-xs text-muted-foreground">{doc.encoding ?? "—"}</TableCell>
+                    <TableCell className="text-xs text-muted-foreground">{doc.encoding ?? "—"}</TableCell>
                     <TableCell className="max-w-md whitespace-normal text-xs text-muted-foreground">
                       {doc.summary ?? "No deterministic summary available."}
                     </TableCell>
-                    <TableCell className="text-right font-mono text-xs text-muted-foreground">
+                    <TableCell className="text-right text-xs text-muted-foreground">
                       {(doc.unitCount ?? 0).toLocaleString("en-US")}
                     </TableCell>
                   </TableRow>
@@ -122,11 +122,11 @@ export function DocumentsTab({ data, onView }: { data: DossierData; onView: (cit
 
           <div className="grid gap-2 md:hidden">
             {docs.map((doc) => (
-              <Card key={doc.id}>
+              <Card key={doc.id} size="sm">
                 <CardContent>
                   <Button
                     variant="ghost"
-                    className="h-auto w-full justify-start whitespace-normal px-0 text-left font-mono"
+                    className="h-auto w-full justify-start whitespace-normal px-0 text-left"
                     onClick={() => openDocument(doc.id, doc.firstRef ?? "")}
                   >
                     <FileText className="mt-0.5 shrink-0 self-start text-clear" />

@@ -47,7 +47,7 @@ const FRAUD_LABEL: Record<string, string> = {
   payment_without_invoice: "missing invoice",
   round_tripping: "round-tripping",
 };
-const fraudLabel = (t: string) => FRAUD_LABEL[t] ?? t.replace(/_/g, " ");
+export const fraudLabel = (t: string) => FRAUD_LABEL[t] ?? t.replace(/_/g, " ");
 
 /** Entity clusters a finding touches (via its facts), excluding the audited company. */
 function findingEntities(

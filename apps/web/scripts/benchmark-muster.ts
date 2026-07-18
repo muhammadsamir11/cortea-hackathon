@@ -46,6 +46,14 @@ assert.equal(byCheck.get("cutoff")?.amountInvolved, 192_000);
 assert.equal(byCheck.get("cutoff")?.lineItems?.length, 8);
 assert.equal(byCheck.get("splitPayments")?.amountInvolved, 39_040);
 assert.equal(byCheck.get("splitPayments")?.lineItems?.length, 4);
+const split = byCheck.get("splitPayments");
+assert.ok(split, "splitPayments finding required");
+const splitText = JSON.stringify(split);
+assert.ok(
+  split.citations.some((citation) => citation.docId === "sachkonten-sachkontobuchungen"),
+  "F4 must cite Sachkontobuchungen",
+);
+assert.ok(splitText.includes("SAMMEL-200007"), "F4 must reference beleg SAMMEL-200007");
 assert.equal(first.reportedProfit, 2_599_841.8);
 assert.equal(first.adjustedProfit, 2_257_041.8);
 const report = fs.readFileSync(path.join(dir, "report.md"), "utf8");

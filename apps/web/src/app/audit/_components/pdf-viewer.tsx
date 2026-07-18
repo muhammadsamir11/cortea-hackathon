@@ -61,7 +61,7 @@ export default function PdfViewer({
 
   return (
     <div ref={containerRef} className="flex w-full flex-col items-center gap-2 overflow-auto p-3">
-      <div className="flex items-center gap-2 font-mono text-xs text-muted-foreground">
+      <div className="flex items-center gap-2 text-xs text-muted-foreground">
         <Button
           disabled={page <= 1}
           onClick={() => setPage((p) => p - 1)}
@@ -87,8 +87,8 @@ export default function PdfViewer({
       <Document
         file={url}
         onLoadSuccess={({ numPages }) => setNumPages(numPages)}
-        loading={<p className="font-mono text-xs text-muted-foreground">rendering…</p>}
-        error={<p className="font-mono text-xs text-red-400">failed to load PDF</p>}
+        loading={<p className="text-xs text-muted-foreground">rendering…</p>}
+        error={<p className="text-xs text-red-400">failed to load PDF</p>}
       >
         <Page
           pageNumber={Math.min(Math.max(page, 1), Math.max(numPages, 1))}

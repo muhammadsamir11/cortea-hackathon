@@ -100,10 +100,14 @@ Optional AI review is kept separate from engine detection. **No number without a
 
 *threshold_avoidance · tier: corroborated · severity: high · amount: EUR 39,040.00*
 
-4 payments on 2025-10-14 were each placed just below the second-approval threshold but total EUR 39040.00.
+4 general-ledger payments (BUCHUNGSTYP Zahlung) on 2025-10-14 to Castor Papier GmbH (200007) were each placed just below the second-approval threshold but total EUR 39040.00 under beleg SAMMEL-200007.
 
 **Evidence:**
 > **Pruefungsplanung_JET_2025.docx · l.1-15** — “Zahlungsfreigaben ab 10.000 EUR erfordern eine zweite Freigabe (Vier-Augen-Prinzip).”
+> **Sachkontobuchungen.txt · Sachkontobuchungen!r.20207** — “"330000-200007";"Periode 10";"";"Vortrag";"Zahlung";"Nein";"Nein";9780,00;"EUR";9780,00;"Teilzahlung Lieferantenrechnung";14.10.2025;"AZ6602865";14.10.2025;"SAMMEL-200007";"Aktuell";"";"";7708373;"SAMMEL-200007";"MV-U11";14.10.2025;"08:59:37";"Ja"”
+> **Sachkontobuchungen.txt · Sachkontobuchungen!r.20209** — “"330000-200007";"Periode 10";"";"Vortrag";"Zahlung";"Nein";"Nein";9820,00;"EUR";9820,00;"Teilzahlung Lieferantenrechnung";14.10.2025;"AZ6602866";14.10.2025;"SAMMEL-200007";"Aktuell";"";"";7708374;"SAMMEL-200007";"MV-U11";14.10.2025;"07:28:30";"Ja"”
+> **Sachkontobuchungen.txt · Sachkontobuchungen!r.20211** — “"330000-200007";"Periode 10";"";"Vortrag";"Zahlung";"Nein";"Nein";9750,00;"EUR";9750,00;"Teilzahlung Lieferantenrechnung";14.10.2025;"AZ6602867";14.10.2025;"SAMMEL-200007";"Aktuell";"";"";7708375;"SAMMEL-200007";"MV-U11";14.10.2025;"09:57:16";"Ja"”
+> **Sachkontobuchungen.txt · Sachkontobuchungen!r.20213** — “"330000-200007";"Periode 10";"";"Vortrag";"Zahlung";"Nein";"Nein";9690,00;"EUR";9690,00;"Teilzahlung Lieferantenrechnung";14.10.2025;"AZ6602868";14.10.2025;"SAMMEL-200007";"Aktuell";"";"";7708376;"SAMMEL-200007";"MV-U11";14.10.2025;"18:55:07";"Ja"”
 > **Lieferantenbuchungen.txt · Lieferantenbuchungen!r.2569** — “"200007";"SAMMEL-200007";14.10.2025;"";14.10.2025;"Teilzahlung Lieferantenrechnung";9780,00;"EUR";9780,00;"";"";"Purch";"Yes"”
 > **Lieferantenbuchungen.txt · Lieferantenbuchungen!r.2570** — “"200007";"SAMMEL-200007";14.10.2025;"";14.10.2025;"Teilzahlung Lieferantenrechnung";9820,00;"EUR";9820,00;"";"";"Purch";"Yes"”
 > **Lieferantenbuchungen.txt · Lieferantenbuchungen!r.2571** — “"200007";"SAMMEL-200007";14.10.2025;"";14.10.2025;"Teilzahlung Lieferantenrechnung";9750,00;"EUR";9750,00;"";"";"Purch";"Yes"”

@@ -97,8 +97,8 @@ export function ChatTab({
             </EmptyDescription>
           </EmptyHeader>
           <Alert className="mt-4 text-left">
-            <AlertTitle className="font-mono text-[11px] uppercase tracking-[0.14em]">Configuration</AlertTitle>
-            <AlertDescription className="font-mono text-[11px]">
+            <AlertTitle className="text-[11px] uppercase tracking-[0.14em]">Configuration</AlertTitle>
+            <AlertDescription className="text-[11px]">
               Configure OPENAI_API_KEY or GOOGLE_GENERATIVE_AI_API_KEY to enable retrieved-evidence chat.
             </AlertDescription>
           </Alert>
@@ -113,7 +113,7 @@ export function ChatTab({
         {messages.length === 0 && (
           <Empty className="border-0 py-10">
             <EmptyHeader>
-              <EmptyTitle className="font-mono text-[10px] uppercase tracking-[0.16em] text-muted-foreground">
+              <EmptyTitle className="text-[10px] uppercase tracking-[0.16em] text-muted-foreground">
                 Ask
               </EmptyTitle>
               <EmptyDescription>Every claim comes with a clickable citation into the source.</EmptyDescription>
@@ -125,7 +125,7 @@ export function ChatTab({
                   onClick={() => void submit(s)}
                   variant="outline"
                   size="sm"
-                  className="h-auto max-w-xs whitespace-normal text-left font-mono text-xs"
+                  className="h-auto max-w-xs whitespace-normal text-left text-xs"
                 >
                   {s}
                 </Button>
@@ -148,7 +148,7 @@ export function ChatTab({
           </Bubble>
         ))}
         {busy && (
-          <p className="flex items-center gap-2 font-mono text-xs text-muted-foreground">
+          <p className="flex items-center gap-2 text-xs text-muted-foreground">
             <Spinner className="size-3" /> investigating…
           </p>
         )}
@@ -165,7 +165,7 @@ export function ChatTab({
             value={input}
             onChange={(e) => setInput(e.target.value)}
             placeholder="e.g. show every payment to an account not named in any contract…"
-            className="font-mono text-sm"
+            className="text-sm"
             disabled={busy}
           />
           <InputGroupAddon align="inline-end">

@@ -29,6 +29,7 @@
     "react": "catalog:",
     "react-dom": "catalog:",
     "react-pdf": "^10.4.1",
+    "recharts": "3.8.0",
     "sonner": "^2.0.7",
     "streamdown": "^2.5.0",
     "zod": "catalog:"

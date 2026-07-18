@@ -281,16 +281,24 @@ function checkCutoff(dataset: StructuredDataset): Finding[] {
   }];
 }
 
+function vendorIdFromApSubaccount(sachkonto: string | undefined): string | null {
+  const match = /^330000-(.+)$/.exec(sachkonto?.trim() ?? "");
+  return match?.[1] ?? null;
+}
+
 function checkSplitPayments(dataset: StructuredDataset, docs: DossierDoc[]): Finding[] {
   const policy = policyThreshold(docs);
   if (!policy) return [];
+  const ledger = tableByName(dataset, "Sachkontobuchungen");
   const ap = tableByName(dataset, "Lieferantenbuchungen");
   const names = vendorNames(dataset);
   const groups = new Map<string, StructuredRow[]>();
-  for (const row of ap.rows) {
+  for (const row of ledger.rows) {
+    if (row.values.BUCHUNGSTYP !== "Zahlung") continue;
+    const vendorId = vendorIdFromApSubaccount(row.values.SACHKONTONUMMER);
     const amount = rowAmount(row, "BUCHUNGSBETRAG");
-    if (amount <= 0 || !/Zahlung|Teilzahlung/i.test(row.values.BUCHUNGSTEXT)) continue;
-    const key = [row.values.LIEFERANTENKONTONUMMER, row.values.BUCHUNGSDATUM, row.values.BUCHUNGSNUMMER].join("|");
+    if (!vendorId || amount <= 0) continue;
+    const key = [vendorId, row.values.BUCHUNGSDATUM].join("|");
     const bucket = groups.get(key) ?? [];
     bucket.push(row);
     groups.set(key, bucket);
@@ -300,13 +308,22 @@ function checkSplitPayments(dataset: StructuredDataset, docs: DossierDoc[]): Fin
     const amounts = rows.map((row) => rowAmount(row, "BUCHUNGSBETRAG"));
     const total = amounts.reduce((sum, amount) => sum + amount, 0);
     if (rows.length < 2 || total < policy.amount || !amounts.every((amount) => amount < policy.amount && amount >= policy.amount * 0.94)) continue;
-    const [vendorId, rawDate, documentNumber] = key.split("|");
+    const [vendorId, rawDate] = key.split("|");
     const vendorName = names.get(vendorId!) ?? vendorId!;
+    const documentNumbers = [...new Set(rows.map((row) => row.values.BELEGNUMMER).filter(Boolean))];
+    const documentNumber = documentNumbers[0];
+    const apCorroboration = ap.rows.filter(
+      (row) =>
+        row.values.LIEFERANTENKONTONUMMER === vendorId &&
+        row.values.BUCHUNGSDATUM === rawDate &&
+        documentNumbers.includes(row.values.BUCHUNGSNUMMER) &&
+        rowAmount(row, "BUCHUNGSBETRAG") > 0,
+    );
     const findingKey = `split-payments|${key}`;
     const items = rows.map((row, index) =>
       lineItem(findingKey, row, {
         label: `Payment ${index + 1}`,
-        documentNumber,
+        documentNumber: row.values.BELEGNUMMER || documentNumber,
         date: isoDate(rawDate),
         counterparty: vendorName,
         description: row.values.BUCHUNGSTEXT,
@@ -315,17 +332,26 @@ function checkSplitPayments(dataset: StructuredDataset, docs: DossierDoc[]): Fin
         citations: [policy.citation],
       }),
     );
+    const belegLabel = documentNumbers.length === 1 ? documentNumbers[0] : documentNumbers.join(", ");
     findings.push({
       id: stableId("finding", findingKey),
       checkId: "splitPayments",
       title: `${vendorName}: ${rows.length} same-day payments split below the EUR ${policy.amount.toFixed(0)} approval threshold`,
       tier: "corroborated",
       fraudType: "threshold_avoidance",
-      narrative: `${rows.length} payments on ${isoDate(rawDate)} were each placed just below the second-approval threshold but total EUR ${total.toFixed(2)}.`,
+      narrative:
+        `${rows.length} general-ledger payments (BUCHUNGSTYP Zahlung) on ${isoDate(rawDate)} to ${vendorName} (${vendorId}) ` +
+        `were each placed just below the second-approval threshold but total EUR ${total.toFixed(2)}` +
+        (belegLabel ? ` under beleg ${belegLabel}` : "") +
+        `.`,
       amountInvolved: total,
       severity: "high",
       factIds: [],
-      citations: uniqueCitations([policy.citation, ...rows.map((row) => row.citation)]),
+      citations: uniqueCitations([
+        policy.citation,
+        ...rows.map((row) => row.citation),
+        ...apCorroboration.map((row) => row.citation),
+      ]),
       lineItems: items,
       impactCategories: ["control_breach"],
       calculations: [{ label: "Same-day aggregate", expression: amounts.map((amount) => amount.toFixed(2)).join(" + "), value: total, currency: "EUR" }],

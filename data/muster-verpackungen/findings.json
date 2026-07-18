@@ -555,12 +555,12 @@
   "aiStatus": "not-run"
  },
  {
-  "id": "finding-087a294ab3b3",
+  "id": "finding-2a3defca4d4e",
   "checkId": "splitPayments",
   "title": "Castor Papier GmbH: 4 same-day payments split below the EUR 10000 approval threshold",
   "tier": "corroborated",
   "fraudType": "threshold_avoidance",
-  "narrative": "4 payments on 2025-10-14 were each placed just below the second-approval threshold but total EUR 39040.00.",
+  "narrative": "4 general-ledger payments (BUCHUNGSTYP Zahlung) on 2025-10-14 to Castor Papier GmbH (200007) were each placed just below the second-approval threshold but total EUR 39040.00 under beleg SAMMEL-200007.",
   "amountInvolved": 39040,
   "severity": "high",
   "factIds": [],
@@ -569,6 +569,26 @@
     "docId": "begleitdokumente-pruefungsplanung-jet-2025",
     "ref": "l.1-15",
     "quote": "Zahlungsfreigaben ab 10.000 EUR erfordern eine zweite Freigabe (Vier-Augen-Prinzip)."
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.20207",
+    "quote": "\"330000-200007\";\"Periode 10\";\"\";\"Vortrag\";\"Zahlung\";\"Nein\";\"Nein\";9780,00;\"EUR\";9780,00;\"Teilzahlung Lieferantenrechnung\";14.10.2025;\"AZ6602865\";14.10.2025;\"SAMMEL-200007\";\"Aktuell\";\"\";\"\";7708373;\"SAMMEL-200007\";\"MV-U11\";14.10.2025;\"08:59:37\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.20209",
+    "quote": "\"330000-200007\";\"Periode 10\";\"\";\"Vortrag\";\"Zahlung\";\"Nein\";\"Nein\";9820,00;\"EUR\";9820,00;\"Teilzahlung Lieferantenrechnung\";14.10.2025;\"AZ6602866\";14.10.2025;\"SAMMEL-200007\";\"Aktuell\";\"\";\"\";7708374;\"SAMMEL-200007\";\"MV-U11\";14.10.2025;\"07:28:30\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.20211",
+    "quote": "\"330000-200007\";\"Periode 10\";\"\";\"Vortrag\";\"Zahlung\";\"Nein\";\"Nein\";9750,00;\"EUR\";9750,00;\"Teilzahlung Lieferantenrechnung\";14.10.2025;\"AZ6602867\";14.10.2025;\"SAMMEL-200007\";\"Aktuell\";\"\";\"\";7708375;\"SAMMEL-200007\";\"MV-U11\";14.10.2025;\"09:57:16\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.20213",
+    "quote": "\"330000-200007\";\"Periode 10\";\"\";\"Vortrag\";\"Zahlung\";\"Nein\";\"Nein\";9690,00;\"EUR\";9690,00;\"Teilzahlung Lieferantenrechnung\";14.10.2025;\"AZ6602868\";14.10.2025;\"SAMMEL-200007\";\"Aktuell\";\"\";\"\";7708376;\"SAMMEL-200007\";\"MV-U11\";14.10.2025;\"18:55:07\";\"Ja\""
    },
    {
     "docId": "kreditoren-lieferantenbuchungen",
@@ -602,9 +622,9 @@
     "amountType": "control",
     "citations": [
      {
-      "docId": "kreditoren-lieferantenbuchungen",
-      "ref": "Lieferantenbuchungen!r.2569",
-      "quote": "\"200007\";\"SAMMEL-200007\";14.10.2025;\"\";14.10.2025;\"Teilzahlung Lieferantenrechnung\";9780,00;\"EUR\";9780,00;\"\";\"\";\"Purch\";\"Yes\""
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.20207",
+      "quote": "\"330000-200007\";\"Periode 10\";\"\";\"Vortrag\";\"Zahlung\";\"Nein\";\"Nein\";9780,00;\"EUR\";9780,00;\"Teilzahlung Lieferantenrechnung\";14.10.2025;\"AZ6602865\";14.10.2025;\"SAMMEL-200007\";\"Aktuell\";\"\";\"\";7708373;\"SAMMEL-200007\";\"MV-U11\";14.10.2025;\"08:59:37\";\"Ja\""
      },
      {
       "docId": "begleitdokumente-pruefungsplanung-jet-2025",
@@ -612,7 +632,7 @@
       "quote": "Zahlungsfreigaben ab 10.000 EUR erfordern eine zweite Freigabe (Vier-Augen-Prinzip)."
      }
     ],
-    "id": "li-fe1f5eace10d"
+    "id": "li-a96f7f0aaf06"
    },
    {
     "label": "Payment 2",
@@ -624,9 +644,9 @@
     "amountType": "control",
     "citations": [
      {
-      "docId": "kreditoren-lieferantenbuchungen",
-      "ref": "Lieferantenbuchungen!r.2570",
-      "quote": "\"200007\";\"SAMMEL-200007\";14.10.2025;\"\";14.10.2025;\"Teilzahlung Lieferantenrechnung\";9820,00;\"EUR\";9820,00;\"\";\"\";\"Purch\";\"Yes\""
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.20209",
+      "quote": "\"330000-200007\";\"Periode 10\";\"\";\"Vortrag\";\"Zahlung\";\"Nein\";\"Nein\";9820,00;\"EUR\";9820,00;\"Teilzahlung Lieferantenrechnung\";14.10.2025;\"AZ6602866\";14.10.2025;\"SAMMEL-200007\";\"Aktuell\";\"\";\"\";7708374;\"SAMMEL-200007\";\"MV-U11\";14.10.2025;\"07:28:30\";\"Ja\""
      },
      {
       "docId": "begleitdokumente-pruefungsplanung-jet-2025",
@@ -634,7 +654,7 @@
       "quote": "Zahlungsfreigaben ab 10.000 EUR erfordern eine zweite Freigabe (Vier-Augen-Prinzip)."
      }
     ],
-    "id": "li-37294f5de708"
+    "id": "li-cd54fb97a470"
    },
    {
     "label": "Payment 3",
@@ -646,9 +666,9 @@
     "amountType": "control",
     "citations": [
      {
-      "docId": "kreditoren-lieferantenbuchungen",
-      "ref": "Lieferantenbuchungen!r.2571",
-      "quote": "\"200007\";\"SAMMEL-200007\";14.10.2025;\"\";14.10.2025;\"Teilzahlung Lieferantenrechnung\";9750,00;\"EUR\";9750,00;\"\";\"\";\"Purch\";\"Yes\""
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.20211",
+      "quote": "\"330000-200007\";\"Periode 10\";\"\";\"Vortrag\";\"Zahlung\";\"Nein\";\"Nein\";9750,00;\"EUR\";9750,00;\"Teilzahlung Lieferantenrechnung\";14.10.2025;\"AZ6602867\";14.10.2025;\"SAMMEL-200007\";\"Aktuell\";\"\";\"\";7708375;\"SAMMEL-200007\";\"MV-U11\";14.10.2025;\"09:57:16\";\"Ja\""
      },
      {
       "docId": "begleitdokumente-pruefungsplanung-jet-2025",
@@ -656,7 +676,7 @@
       "quote": "Zahlungsfreigaben ab 10.000 EUR erfordern eine zweite Freigabe (Vier-Augen-Prinzip)."
      }
     ],
-    "id": "li-53b82f4f8314"
+    "id": "li-eb19e2013593"
    },
    {
     "label": "Payment 4",
@@ -668,9 +688,9 @@
     "amountType": "control",
     "citations": [
      {
-      "docId": "kreditoren-lieferantenbuchungen",
-      "ref": "Lieferantenbuchungen!r.2572",
-      "quote": "\"200007\";\"SAMMEL-200007\";14.10.2025;\"\";14.10.2025;\"Teilzahlung Lieferantenrechnung\";9690,00;\"EUR\";9690,00;\"\";\"\";\"Purch\";\"Yes\""
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.20213",
+      "quote": "\"330000-200007\";\"Periode 10\";\"\";\"Vortrag\";\"Zahlung\";\"Nein\";\"Nein\";9690,00;\"EUR\";9690,00;\"Teilzahlung Lieferantenrechnung\";14.10.2025;\"AZ6602868\";14.10.2025;\"SAMMEL-200007\";\"Aktuell\";\"\";\"\";7708376;\"SAMMEL-200007\";\"MV-U11\";14.10.2025;\"18:55:07\";\"Ja\""
      },
      {
       "docId": "begleitdokumente-pruefungsplanung-jet-2025",
@@ -678,7 +698,7 @@
       "quote": "Zahlungsfreigaben ab 10.000 EUR erfordern eine zweite Freigabe (Vier-Augen-Prinzip)."
      }
     ],
-    "id": "li-60547c5fa01e"
+    "id": "li-3f1511611011"
    }
   ],
   "impactCategories": [
