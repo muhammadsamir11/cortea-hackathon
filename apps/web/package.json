@@ -13,6 +13,7 @@
     "benchmark:muster": "tsx scripts/benchmark-muster.ts"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^4.0.16",
     "@ai-sdk/react": "^4.0.14",
     "@almedia/env": "workspace:*",
     "@almedia/forensic": "workspace:*",
@@ -22,6 +23,7 @@
     "@xyflow/react": "^12.11.2",
     "ai": "^7.0.13",
     "babel-plugin-react-compiler": "^1.0.0",
+    "eve": "^0.25.1",
     "lucide-react": "catalog:",
     "next": "catalog:",
     "next-themes": "catalog:",

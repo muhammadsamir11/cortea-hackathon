@@ -3,7 +3,7 @@
   "id": "finding-2296e8526ef8",
   "checkId": "capitalizedRepairs",
   "title": "6 repair and maintenance costs capitalized as fixed assets",
-  "tier": "corroborated",
+  "tier": "judgment",
   "fraudType": "capitalized_repairs",
   "narrative": "6 asset additions carry repair-type descriptions and were posted as acquisitions to fixed-asset classes. Their EUR 150800.00 net cost overstates both assets and profit.",
   "amountInvolved": 150800,
@@ -268,13 +268,35 @@
    }
   ],
   "engineStatus": "detected",
-  "aiStatus": "not-run"
+  "aiStatus": "needs-judgment",
+  "tribunal": {
+   "defense": "There is a credible potential innocent explanation based on legitimate business judgment and interpretation: several of the entries, while bearing repair-type descriptions, also refer explicitly to major overhauls or replacements of significant components (e.g., 'Austausch Hydraulikaggregat Presse 3', 'Austausch Antriebssteuerung Palettierer', 'Generalüberholung Stanzautomat'). Under German GAAP (HGB) and standard accounting rules, such expenditures can be capitalized if they substantially extend the useful life or significantly enhance the value/capacity of the asset. Descriptions such as 'Generalüberholung' (general overhaul) and complete component replacements usually do not constitute mere repairs but asset improvements by regulatory definition. Thus, management could reasonably interpret these costs as capitalizable improvements rather than pure repairs. However, 'Reparatur' entries would still require substantiation that the works performed truly improved condition or lifespan. This explanation aligns with the available data, although the document evidence available here does not include supporting technical reports or invoices to make the defense unequivocal.",
+   "defenseCitations": [
+    {
+     "docId": "av-anlagen",
+     "ref": "Anlagen!r.192",
+     "quote": "Austausch Hydraulikaggregat Presse 3"
+    },
+    {
+     "docId": "av-anlagen",
+     "ref": "Anlagen!r.194",
+     "quote": "Generalüberholung Stanzautomat"
+    },
+    {
+     "docId": "av-anlagen",
+     "ref": "Anlagen!r.196",
+     "quote": "Austausch Antriebssteuerung Palettierer"
+    }
+   ],
+   "verdict": "needs-judgment",
+   "reasoning": "The evidence from the fixed-asset register (Anlagen!r.192, r.194, r.196) supports that at least some of the capitalized items are major overhauls or replacements ('Austausch Hydraulikaggregat Presse 3', 'Austausch Antriebssteuerung Palettierer', 'Generalüberholung Stanzautomat'), which under German GAAP can indeed be capitalized if they extend useful life or enhance capacity. However, the categorization as repair versus capitalizable improvement cannot be definitively settled without technical documentation or invoices showing the scope and nature of the work performed. The remaining entries (including those labeled 'Reparatur') may not meet capitalization criteria unless similar substantiation is available. Thus, the defense provides plausible business rationale but does not fully neutralize the allegation, nor is the capitalization confirmed indisputably inappropriate based on present evidence. Judgment requires further review of transaction-level support."
+  }
  },
  {
   "id": "finding-d99c288eba93",
   "checkId": "cutoff",
   "title": "8 December costs omitted from the 2025 close",
-  "tier": "corroborated",
+  "tier": "proven",
   "fraudType": "cutoff_failure",
   "narrative": "8 invoices booked in 2026 have 2025 service dates and matching December receipts marked as still open. No matching 2025 posting exists, leaving EUR 192000.00 unaccrued and overstating profit.",
   "amountInvolved": 192000,
@@ -552,13 +574,30 @@
    }
   ],
   "engineStatus": "detected",
-  "aiStatus": "not-run"
+  "aiStatus": "confirmed",
+  "tribunal": {
+   "defense": "Based on the supplied evidence, there is no convincing innocent explanation for the omission of the December 2025 costs in the 2025 closing. The invoices for services and deliveries in December 2025 were all booked in January 2026, and matching goods receipts from December 2025 are present and still open. There is no evidence of these costs being accrued in 2025, nor are there correcting entries, credit notes, or indications of timing or FX differences that could justify the omission. Internal documentation (export protocols, IT completeness confirmations, and the draft financial statements) confirm completeness and that corrections require explicit reversal/bookings, with no discretion for silent omissions. This matches the classic cutoff failure scenario explicitly referenced in journal entry testing planning.",
+   "defenseCitations": [
+    {
+     "docId": "begleitdokumente-fakturajournal-januar-2026-kreditoren",
+     "ref": "Fakturajournal_Januar_2026_Kreditoren!r.2",
+     "quote": "ER901427;Rechnung;209130;Nord Transport GmbH;15.01.2026;21.12.2025;22000,00;EUR;Frachten Dez 2025"
+    },
+    {
+     "docId": "begleitdokumente-wareneingangsliste-2025",
+     "ref": "Wareneingangsliste_2025!r.842",
+     "quote": "WE400840;21.12.2025;;209130;Nord Transport GmbH;22000,00;Dez-Lieferung, Rechnung offen"
+    }
+   ],
+   "verdict": "confirmed",
+   "reasoning": "The evidence strongly supports the allegation: 8 invoices relating to December 2025 services were all booked in January 2026, with December 2025 goods receipts showing the costs appropriately relate to 2025 but remained open (unmatched). No 2025 entries or accruals exist for these expenses, and there is no indication of offsetting credit notes, timing, or FX differences. Supporting documentation confirms that such omissions require explicit correction, which has not occurred. Thus, EUR 192,000 of 2025 expense was omitted, resulting in profit overstatement. The defense provides no substantive refutation and the evidence for omission is clear and internally consistent."
+  }
  },
  {
   "id": "finding-2a3defca4d4e",
   "checkId": "splitPayments",
   "title": "Castor Papier GmbH: 4 same-day payments split below the EUR 10000 approval threshold",
-  "tier": "corroborated",
+  "tier": "proven",
   "fraudType": "threshold_avoidance",
   "narrative": "4 general-ledger payments (BUCHUNGSTYP Zahlung) on 2025-10-14 to Castor Papier GmbH (200007) were each placed just below the second-approval threshold but total EUR 39040.00 under beleg SAMMEL-200007.",
   "amountInvolved": 39040,
@@ -713,7 +752,19 @@
    }
   ],
   "engineStatus": "detected",
-  "aiStatus": "not-run"
+  "aiStatus": "confirmed",
+  "tribunal": {
+   "defense": "The available documentation does not provide an innocent business explanation (such as credit notes, correcting entries, FX/timing differences, or other mitigating business reasons) for the four same-day payments to Castor Papier GmbH, each just below the EUR 10,000 approval threshold. The payments are all labeled as 'Teilzahlung Lieferantenrechnung' (partial payment of supplier invoice) and share the same collective transaction reference (SAMMEL-200007), strongly suggesting they pertain to one liability. The payments are split over one day (with different times) and sum to EUR 39,040. No evidence of a prior correcting entry, credit note, foreign exchange impact, invoice dispute, or operational requirement for splitting the payments is cited in the provided records. The documented internal controls (see JET workpaper) explicitly flag this splitting pattern (K5) as indicative of possible threshold avoidance risk.",
+   "defenseCitations": [
+    {
+     "docId": "begleitdokumente-pruefungsplanung-jet-2025",
+     "ref": "l.1-15",
+     "quote": "(K5) mehrere Teilzahlungen an einen Kreditor knapp unter der Freigabegrenze"
+    }
+   ],
+   "verdict": "confirmed",
+   "reasoning": "The defense concedes there is no documented innocent business explanation for the four payments, each just below the EUR 10,000 approval threshold and occurring on the same day to the same creditor, under a single reference. The cited internal control (K5) in the JET workpaper specifically flags such splitting as a risk for threshold avoidance. No evidence is provided of operational necessity, credit notes, foreign currency effects, or related mitigating factors. As all submitted evidence is consistent with the allegation and the defense is not supported by documentation, the allegation is confirmed."
+  }
  },
  {
   "id": "finding-1c19f1d4abb7",
@@ -937,6 +988,28 @@
    }
   ],
   "engineStatus": "detected",
-  "aiStatus": "not-run"
+  "aiStatus": "confirmed",
+  "tribunal": {
+   "defense": "The documents confirm that MV-U05 both created the Ratio Consulting GmbH vendor and posted all related invoices and payments. There is no evidence of a credit note, correcting entries, or fulfillment of segregation of duties for this vendor. The payments and bookings all cite 'Beratungsleistungen lt. Rahmenvertrag,' suggesting legitimate business under a framework contract. However, the clear breach of the intended segregation of duties (as outlined in Berechtigungsauswertung_2025.xlsx and Pruefungsplanung_JET_2025.docx) is present, and no documentary evidence offers an innocent explanation for this (such as emergency override, explicit secondary approval, or different, missed logs). Therefore, based on the evidence, no strong innocent explanation exists.",
+   "defenseCitations": [
+    {
+     "docId": "begleitdokumente-stammdatenaenderungen-2025",
+     "ref": "Stammdatenaenderungen_2025!r.8",
+     "quote": "12.05.2025;Kreditor;209101;Ratio Consulting GmbH;Neuanlage Kreditor;;angelegt inkl. Bankverbindung;MV-U05;MV-U05;Ja"
+    },
+    {
+     "docId": "begleitdokumente-berechtigungsauswertung-2025",
+     "ref": "Berechtigungen!r.7",
+     "quote": "MV-U05 | Einkauf | X |  | X | X |  |  |  | "
+    },
+    {
+     "docId": "begleitdokumente-pruefungsplanung-jet-2025",
+     "ref": "l.1-15",
+     "quote": "Funktionstrennung zwischen Kreditoren-Stammdaten, Buchung und Zahlungslauf ist vorgesehen (Berechtigungsauswertung_2025.xlsx)."
+    }
+   ],
+   "verdict": "confirmed",
+   "reasoning": "The allegation is that segregation of duties was bypassed in the creation of and payments to Ratio Consulting GmbH, as the same user (MV-U05) created the vendor, posted all invoices and payments, with no evidence of goods receipt or fulfillment to justify the payments. The defense acknowledges the same facts, provides no documentary evidence of controls, overrides, or mitigating circumstances, and all cited documents confirm both the risk and that relevant duties should have been segregated. There is no evidence of credit notes, secondary review, or other compensating controls. Therefore, the breach of segregation of duties is confirmed per the available evidence."
+  }
  }
 ]

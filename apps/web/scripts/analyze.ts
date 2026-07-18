@@ -37,11 +37,37 @@ async function main() {
     const dataset = loadStructuredDataset(name);
     console.log(`Analyzing '${name}' deterministically (${dataset.tables.length} structured tables)`);
     const result = runStructuredEngine(dataset, docs);
+    console.log(`  ${result.findings.length} deterministic findings`);
+
+    let findings: Finding[] = result.findings;
+    if (!skipTribunal && findings.length > 0) {
+      console.log(`\n[tribunal] ${findings.length} structured finding(s) stand trial`);
+      findings = await tribunal(findings, docs, dataset.companyName);
+      findings = findings.map((f) => ({
+        ...f,
+        engineStatus: f.engineStatus ?? "detected",
+        aiStatus: f.tribunal?.verdict ?? "not-run",
+      }));
+      const verdictCounts = findings.reduce<Record<string, number>>((acc, f) => {
+        const v = f.tribunal?.verdict ?? "untried";
+        acc[v] = (acc[v] ?? 0) + 1;
+        return acc;
+      }, {});
+      console.log(`  verdicts: ${JSON.stringify(verdictCounts)}`);
+    } else if (skipTribunal) {
+      findings = findings.map((f) => ({
+        ...f,
+        engineStatus: f.engineStatus ?? "detected",
+        aiStatus: "not-run" as const,
+      }));
+      console.log("  tribunal skipped (--no-ai / --no-tribunal)");
+    }
+
     const manifest = readDossierManifest(name);
     const meta: AnalysisMeta & { financial: { reportedProfit: number | null; adjustedProfit: number | null } } = {
       dossier: name,
       generatedAt: manifest?.analysisAsOf ?? new Date().toISOString(),
-      model: "offline-deterministic",
+      model: skipTribunal ? "offline-deterministic" : getModel().name,
       companyName: dataset.companyName,
       fiscalPeriod: dataset.fiscalPeriod,
       public: true,
@@ -51,18 +77,17 @@ async function main() {
         units: docs.reduce((sum, doc) => sum + doc.units.length, 0),
         facts: dataset.tables.reduce((sum, table) => sum + table.rows.length, 0),
         verifiedFacts: dataset.tables.reduce((sum, table) => sum + table.rows.length, 0),
-        findings: result.findings.length,
-        acquitted: 0,
+        findings: findings.filter((f) => f.tribunal?.verdict !== "acquitted").length,
+        acquitted: findings.filter((f) => f.tribunal?.verdict === "acquitted").length,
       },
       financial: { reportedProfit: result.reportedProfit, adjustedProfit: result.adjustedProfit },
     };
     writeJson(path.join(dir, "facts.json"), []);
     writeJson(path.join(dir, "entities.json"), result.entities);
-    writeJson(path.join(dir, "findings.json"), result.findings);
+    writeJson(path.join(dir, "findings.json"), findings);
     writeJson(path.join(dir, "graph.json"), result.graph);
     writeJson(path.join(dir, "meta.json"), meta);
-    fs.writeFileSync(path.join(dir, "report.md"), renderReport(result.findings, docs, meta));
-    console.log(`  ${result.findings.length} deterministic findings`);
+    fs.writeFileSync(path.join(dir, "report.md"), renderReport(findings, docs, meta));
     console.log(`  adjusted profit: ${result.adjustedProfit == null ? "unavailable" : `EUR ${result.adjustedProfit.toFixed(2)}`}`);
     console.log(`\n→ ${dir}/{findings,graph,meta}.json + report.md`);
     return;

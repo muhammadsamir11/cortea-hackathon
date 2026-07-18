@@ -21,9 +21,9 @@ export const SEV: Record<string, StatusVariant> = {
 };
 
 export const TIER: Record<string, { label: string; variant: StatusVariant; text: string }> = {
-  proven: { label: "PROVEN (arithmetic)", variant: "destructive", text: "text-destructive" },
-  corroborated: { label: "CORROBORATED (multi-doc)", variant: "warning", text: "text-warn" },
-  judgment: { label: "JUDGMENT REQUIRED", variant: "info", text: "text-sky-600 dark:text-sky-300" },
+  proven: { label: "Proven (by math)", variant: "destructive", text: "text-destructive" },
+  corroborated: { label: "Backed by several documents", variant: "warning", text: "text-warn" },
+  judgment: { label: "Needs your judgment", variant: "info", text: "text-sky-600 dark:text-sky-300" },
 };
 
 export function CitationChip({
@@ -38,23 +38,21 @@ export function CitationChip({
   muted?: boolean;
 }) {
   const file = docs.find((d) => d.id === citation.docId)?.filename ?? citation.docId;
+  const label = `${file} · ${citation.ref}`;
   return (
     <Button
       onClick={() => onView(citation)}
-      title={`“${citation.quote}” · ${file} · ${citation.ref}`}
+      title={`“${citation.quote}” · ${label}`}
       variant={muted ? "secondary" : "outline"}
       size="xs"
       className={
         muted
-          ? "h-7 max-w-56 justify-start gap-x-1 text-muted-foreground"
-          : "h-auto max-w-full flex-wrap justify-start gap-x-1 border-primary/25 bg-primary/10 py-1 text-left text-primary hover:bg-primary/20"
+          ? "h-7 max-w-full min-w-0 justify-start gap-x-1 overflow-hidden text-muted-foreground"
+          : "h-auto max-w-full min-w-0 justify-start gap-x-1 overflow-hidden border-primary/25 bg-primary/10 py-1 text-left text-primary hover:bg-primary/20"
       }
     >
-      <FileSearch className="shrink-0" />
-      <span className={muted ? "min-w-0 truncate" : "min-w-0 break-all"}>{file}</span>
-      <span className={muted ? "shrink-0 text-muted-foreground/70" : "shrink-0 text-emerald-500/70"}>
-        · {citation.ref}
-      </span>
+      <FileSearch className="size-3.5 shrink-0" />
+      <span className="min-w-0 truncate">{label}</span>
     </Button>
   );
 }

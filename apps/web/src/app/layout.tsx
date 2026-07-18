@@ -11,7 +11,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Cortea — Forensic Audit Workspace",
-  description: "Offline-first, evidence-backed forensic accounting analysis",
+  description: "Review findings against source documents and export a report",
   applicationName: "Cortea",
 };
 

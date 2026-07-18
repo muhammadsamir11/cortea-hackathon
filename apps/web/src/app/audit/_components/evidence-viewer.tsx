@@ -46,7 +46,7 @@ function EvidenceTable({ packet, citation }: { packet: EvidencePacket; citation:
   return (
     <div className="overflow-auto p-3">
       <p className="mb-2 text-[10px] uppercase tracking-widest text-muted-foreground">
-        {table.name} · cited row with four neighboring rows
+        {table.name} · cited row plus nearby rows
       </p>
       <table className="min-w-max border-collapse text-[11px]">
         <thead className="sticky top-0 z-10 bg-card">
@@ -89,7 +89,7 @@ export function EvidenceViewer({ citation, data }: { citation: Citation; data: D
       signal: controller.signal,
     })
       .then(async (response) => {
-        if (!response.ok) throw new Error(`Evidence service returned ${response.status}`);
+        if (!response.ok) throw new Error(`Could not load evidence (${response.status})`);
         return response.json() as Promise<EvidencePacket>;
       })
       .then(setPacket)
@@ -115,7 +115,7 @@ export function EvidenceViewer({ citation, data }: { citation: Citation; data: D
         ) : error ? (
           <Alert variant="destructive" className="m-3"><AlertDescription>{error}</AlertDescription></Alert>
         ) : !packet ? (
-          <p className="p-4 text-xs text-muted-foreground">loading cited rows…</p>
+          <p className="p-4 text-xs text-muted-foreground">Loading source rows…</p>
         ) : packet.table ? (
           <EvidenceTable packet={packet} citation={citation} />
         ) : packet.units.length ? (
@@ -123,7 +123,7 @@ export function EvidenceViewer({ citation, data }: { citation: Citation; data: D
             {packet.units.map((unit) => <UnitBlock key={unit.ref} unit={unit} citation={citation} active={unit.ref === activeRef} />)}
           </div>
         ) : (
-          <Alert className="m-3"><AlertDescription>This artifact was registered, but no readable evidence units were extracted.</AlertDescription></Alert>
+          <Alert className="m-3"><AlertDescription>This file is registered, but no readable source text was extracted.</AlertDescription></Alert>
         )}
       </div>
     </div>

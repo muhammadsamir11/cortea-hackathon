@@ -4,7 +4,6 @@ import { useState } from "react";
 import { useChat } from "@ai-sdk/react";
 import { Alert, AlertDescription, AlertTitle } from "@almedia/ui/components/alert";
 import { Bubble, BubbleContent } from "@almedia/ui/components/bubble";
-import { Button } from "@almedia/ui/components/button";
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@almedia/ui/components/empty";
 import {
   InputGroup,
@@ -13,7 +12,8 @@ import {
   InputGroupInput,
 } from "@almedia/ui/components/input-group";
 import { Spinner } from "@almedia/ui/components/spinner";
-import { BotOff, Send } from "lucide-react";
+import { cn } from "@almedia/ui/lib/utils";
+import { ArrowRight, BotOff, Send } from "lucide-react";
 import { DefaultChatTransport } from "ai";
 import { toast } from "sonner";
 import type { Citation } from "@almedia/forensic/types";
@@ -69,9 +69,11 @@ export function ChatTab({
 
   const aiAvailable = (data.meta as { aiAvailable?: boolean } | null)?.aiAvailable === true;
 
-  const suggestions = data.findings
-    .slice(0, 3)
-    .map((finding) => `Explain the evidence and possible defense for: ${finding.title}`);
+  const suggestions = data.findings.slice(0, 3).map((finding) => ({
+    id: finding.id,
+    title: finding.title,
+    prompt: `Explain the evidence and a possible defense for: ${finding.title}`,
+  }));
 
   const submit = async (text: string) => {
     const trimmed = text.trim();
@@ -90,16 +92,15 @@ export function ChatTab({
         <Empty className="max-w-lg border border-dashed">
           <EmptyHeader>
             <BotOff className="size-6 text-muted-foreground" />
-            <EmptyTitle>Optional AI review is unavailable</EmptyTitle>
+            <EmptyTitle>Ask is unavailable</EmptyTitle>
             <EmptyDescription>
-              The deterministic findings, calculations, evidence navigation, and report remain fully available without a
-              provider key.
+              Findings, calculations, evidence, and the report still work without an AI key.
             </EmptyDescription>
           </EmptyHeader>
           <Alert className="mt-4 text-left">
-            <AlertTitle className="text-[11px] uppercase tracking-[0.14em]">Configuration</AlertTitle>
+            <AlertTitle className="text-[11px] uppercase tracking-[0.14em]">Setup</AlertTitle>
             <AlertDescription className="text-[11px]">
-              Configure OPENAI_API_KEY or GOOGLE_GENERATIVE_AI_API_KEY to enable retrieved-evidence chat.
+              Add an OPENAI_API_KEY or GOOGLE_GENERATIVE_AI_API_KEY to turn on chat with source links.
             </AlertDescription>
           </Alert>
         </Empty>
@@ -109,48 +110,81 @@ export function ChatTab({
 
   return (
     <div className="flex h-full flex-col">
-      <div className="flex-1 space-y-4 overflow-y-auto p-4">
-        {messages.length === 0 && (
-          <Empty className="border-0 py-10">
-            <EmptyHeader>
-              <EmptyTitle className="text-[10px] uppercase tracking-[0.16em] text-muted-foreground">
-                Ask
-              </EmptyTitle>
-              <EmptyDescription>Every claim comes with a clickable citation into the source.</EmptyDescription>
+      <div className="flex flex-1 flex-col space-y-4 overflow-y-auto p-4">
+        {messages.length === 0 ? (
+          <div className="mx-auto mt-auto w-full max-w-xl space-y-4">
+            <EmptyHeader className="max-w-none items-start gap-1 text-left">
+              <EmptyTitle>Ask</EmptyTitle>
+              <EmptyDescription className="text-pretty">
+                Answers include links to the source documents.
+              </EmptyDescription>
             </EmptyHeader>
-            <div className="flex flex-wrap justify-center gap-2 pt-2">
-              {suggestions.map((s) => (
-                <Button
-                  key={s}
-                  onClick={() => void submit(s)}
-                  variant="outline"
-                  size="sm"
-                  className="h-auto max-w-xs whitespace-normal text-left text-xs"
-                >
-                  {s}
-                </Button>
-              ))}
-            </div>
-          </Empty>
-        )}
-        {messages.map((m) => (
-          <Bubble
-            key={m.id}
-            align={m.role === "user" ? "end" : "start"}
-            variant={m.role === "user" ? "default" : "secondary"}
-            className="max-w-[85%]"
-          >
-            <BubbleContent>
-              {m.parts.map((p, i) =>
-                p.type === "text" ? <RichText key={i} text={p.text} data={data} onView={onView} /> : null,
-              )}
-            </BubbleContent>
-          </Bubble>
-        ))}
-        {busy && (
-          <p className="flex items-center gap-2 text-xs text-muted-foreground">
-            <Spinner className="size-3" /> investigating…
-          </p>
+
+            {suggestions.length > 0 && (
+              <div className="space-y-2.5">
+                <p className="font-mono text-[11px] uppercase tracking-[0.14em] text-muted-foreground">
+                  From open findings
+                </p>
+                <ul className="overflow-hidden rounded-md border border-border">
+                  {suggestions.map((suggestion, index) => (
+                    <li
+                      key={suggestion.id}
+                      className={cn(index > 0 && "border-t border-border")}
+                    >
+                      <button
+                        type="button"
+                        onClick={() => void submit(suggestion.prompt)}
+                        disabled={busy}
+                        className={cn(
+                          "group flex w-full cursor-pointer items-start gap-3 border-l-2 border-transparent px-3 py-3 text-left",
+                          "transition-colors duration-150 ease-out",
+                          "hover:border-l-primary hover:bg-muted/50",
+                          "focus-visible:border-l-primary focus-visible:bg-muted/50",
+                          "focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-inset",
+                          "active:bg-muted/70 disabled:pointer-events-none disabled:opacity-50",
+                        )}
+                      >
+                        <span className="mt-0.5 shrink-0 font-mono text-[10px] uppercase tracking-[0.12em] text-foreground/55">
+                          Explain
+                        </span>
+                        <span className="min-w-0 flex-1 text-sm leading-snug text-foreground/90 group-hover:text-foreground">
+                          {suggestion.title}
+                        </span>
+                        <ArrowRight
+                          aria-hidden
+                          className="mt-0.5 size-3.5 shrink-0 text-muted-foreground opacity-0 transition-opacity duration-150 group-hover:opacity-100 group-focus-visible:opacity-100"
+                        />
+                      </button>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+          </div>
+        ) : (
+          <>
+            {messages.map((m) => (
+              <Bubble
+                key={m.id}
+                align={m.role === "user" ? "end" : "start"}
+                variant={m.role === "user" ? "default" : "secondary"}
+                className="max-w-[85%]"
+              >
+                <BubbleContent>
+                  {m.parts.map((p, i) =>
+                    p.type === "text" ? (
+                      <RichText key={i} text={p.text} data={data} onView={onView} />
+                    ) : null,
+                  )}
+                </BubbleContent>
+              </Bubble>
+            ))}
+            {busy && (
+              <p className="flex items-center gap-2 text-xs text-muted-foreground">
+                <Spinner className="size-3" /> Looking up…
+              </p>
+            )}
+          </>
         )}
       </div>
       <form
@@ -164,7 +198,7 @@ export function ChatTab({
           <InputGroupInput
             value={input}
             onChange={(e) => setInput(e.target.value)}
-            placeholder="e.g. show every payment to an account not named in any contract…"
+            placeholder="e.g. show payments to accounts not named in any contract…"
             className="text-sm"
             disabled={busy}
           />
@@ -179,3 +213,4 @@ export function ChatTab({
     </div>
   );
 }
+

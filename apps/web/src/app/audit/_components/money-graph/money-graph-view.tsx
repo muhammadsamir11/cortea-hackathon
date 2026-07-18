@@ -199,15 +199,15 @@ function GraphCanvas({
             <Card size="sm" className="max-w-sm backdrop-blur-md">
               <CardHeader>
                 <CardTitle>
-                  {mini ? "No money-flow edges for this finding" : "No flows match these filters"}
+                  {mini ? "No money flows for this finding" : "No flows match these filters"}
                 </CardTitle>
                 {!mini ? (
                   <CardDescription>
-                    Broaden scope, lower the minimum amount, or turn off Risk only.
+                    Widen the finding filter, lower the minimum amount, or turn off Risk only.
                   </CardDescription>
                 ) : (
                   <CardDescription>
-                    This finding is not linked to any money-flow clusters yet.
+                    This finding is not linked to any money flows yet.
                   </CardDescription>
                 )}
               </CardHeader>
@@ -273,7 +273,7 @@ export function MoneyGraphView({
         <EmptyHeader>
           <EmptyTitle>No graph for this dossier</EmptyTitle>
           <EmptyDescription>
-            Run analysis to build money-flow clusters and edges from verified facts.
+            Run analysis to build money flows from the verified facts.
           </EmptyDescription>
         </EmptyHeader>
       </Empty>

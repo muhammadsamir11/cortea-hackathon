@@ -20,7 +20,7 @@ export function WorkspacePageHeader({
     <header className="flex shrink-0 flex-col gap-3 border-b px-4 py-3 sm:flex-row sm:items-center sm:justify-between lg:px-6">
       <div className="flex min-w-0 flex-1 items-start gap-2 sm:items-center">
         <SidebarTrigger className="mt-0.5 shrink-0 sm:mt-0" />
-        <div className="min-w-0 flex-1 max-w-sm overflow-hidden">
+        <div className="min-w-0 flex-1 max-w-md overflow-hidden">
           <h1 className="min-w-0 truncate  font-semibold text-xl tracking-tight">
             {title}
           </h1>

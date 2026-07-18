@@ -70,3 +70,6 @@ Thumbs.db
 *.local
 *.tgz
 .pnpm-store
+
+# Eve agent runtime state (sessions, dev-server bookkeeping)
+.eve/

@@ -9,7 +9,7 @@ import { isAiConfigured } from "@almedia/forensic/llm";
 
 export const dynamic = "force-dynamic";
 
-const TABS: WorkspaceTab[] = ["findings", "graph", "documents", "ask"];
+const TABS: WorkspaceTab[] = ["findings", "graph", "documents", "ask", "tribunal"];
 
 function tabFromParam(value: string | undefined): WorkspaceTab {
   return value && TABS.includes(value as WorkspaceTab) ? (value as WorkspaceTab) : "findings";
@@ -31,15 +31,15 @@ export default async function AuditPage({
       <WorkbenchShell sidebar={<AppSidebarBrand />}>
         <WorkspacePageHeader
           title="Setup"
-          description="Add and analyze a dossier before opening the Cortea workbench."
+          description="Add and analyze a dossier to open Cortea."
         />
         <div className="min-h-0 flex-1 overflow-auto p-4 lg:p-6">
           <main className="flex justify-center">
             <Card className="w-full max-w-md">
               <CardHeader className="border-b">
-                <CardTitle>No dossier data yet</CardTitle>
+                <CardTitle>No dossier yet</CardTitle>
                 <CardDescription>
-                  Run ingest and analyze against a local dossier folder.
+                  Put files in a local folder, then run ingest and analyze.
                 </CardDescription>
               </CardHeader>
               <CardContent className="space-y-3 text-muted-foreground text-sm">

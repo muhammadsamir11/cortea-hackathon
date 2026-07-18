@@ -36,6 +36,7 @@ import { MoneyGraphView } from "./money-graph";
 import { EvidenceViewer } from "./evidence-viewer";
 import { DocumentsTab } from "./documents-tab";
 import { ChatTab } from "./chat-tab";
+import { TribunalTab } from "./tribunal-tab";
 import { FindingDetail } from "./finding-detail";
 import { clusterSchemes } from "./schemes";
 
@@ -127,7 +128,7 @@ export function Workspace({
                 variant="ghost"
                 size="icon-sm"
                 className="shrink-0"
-                aria-label="Open dossier command palette"
+                aria-label="Switch dossier"
                 onClick={() => setCommandOpen(true)}
               >
                 <FolderOpen />
@@ -160,11 +161,11 @@ export function Workspace({
                   >
                     {integrity.ok ? <ShieldCheck /> : <AlertTriangle />}{" "}
                     {integrity.checks.filter((check) => check.ok).length}/{integrity.checks.length} checks ·{" "}
-                    {integrity.warnings.length} warnings
+                    {integrity.warnings.length} warning{integrity.warnings.length === 1 ? "" : "s"}
                   </Badge>
                 </TooltipTrigger>
                 <TooltipContent className="max-w-sm text-xs">
-                  {integrity.warnings.join(" ") || "All required integrity checks passed"}
+                  {integrity.warnings.join(" ") || "All required checks passed"}
                 </TooltipContent>
               </Tooltip>
             ) : null}
@@ -209,6 +210,7 @@ export function Workspace({
           </div>
         )}
         {activeNav === "ask" && <ChatTab data={data} onView={setViewer} />}
+        {activeNav === "tribunal" && <TribunalTab data={data} />}
       </div>
 
       <AppDrawer
@@ -221,7 +223,7 @@ export function Workspace({
             Evidence
           </span>
         }
-        description="Machine-verifiable source for the selected claim"
+        description="Source for the selected claim"
         bodyClassName="overflow-hidden"
       >
         {viewer ? (
@@ -237,7 +239,7 @@ export function Workspace({
         open={commandOpen}
         onOpenChange={setCommandOpen}
         title="Switch dossier"
-        description="Jump to another analyzed dossier"
+        description="Open another dossier"
       >
         <Command>
           <CommandInput placeholder="Search dossiers…" />

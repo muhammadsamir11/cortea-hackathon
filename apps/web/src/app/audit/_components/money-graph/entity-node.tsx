@@ -50,7 +50,7 @@ function EntityNodeComponent({ data }: NodeProps) {
             <p className="mt-0.5 flex items-center gap-1 truncate text-[10px] text-warn">
               <TriangleAlert className="size-2.5 shrink-0" aria-hidden />
               <span className="truncate">
-                {aliasCount} alias{aliasCount > 1 ? "es" : ""}: {cluster.names.slice(1).join(", ")}
+                {aliasCount} other name{aliasCount > 1 ? "s" : ""}: {cluster.names.slice(1).join(", ")}
               </span>
             </p>
           ) : null}

@@ -28,7 +28,7 @@ function renderFinding(f: Finding, data: DossierData): string {
     ``,
     `*${f.fraudType} · tier: ${f.tier} · severity: ${f.severity}` +
       (f.amountInvolved != null ? ` · amount: ${eur(f.amountInvolved)}` : "") +
-      ` · engine: ${f.engineStatus ?? "detected"} · AI: ${f.aiStatus ?? "not-run"} · tribunal: ${verdictOf(f)}*`,
+      ` · engine: ${f.engineStatus ?? "detected"} · AI: ${f.aiStatus ?? "not-run"} · review: ${verdictOf(f)}*`,
     ``,
     f.narrative,
     ``,
@@ -45,9 +45,9 @@ function renderFinding(f: Finding, data: DossierData): string {
     }
   }
   if (f.tribunal) {
-    lines.push(``, `**Tribunal:** ${f.tribunal.verdict} — ${f.tribunal.reasoning}`);
+    lines.push(``, `**Review:** ${f.tribunal.verdict} — ${f.tribunal.reasoning}`);
     if (f.tribunal.defenseCitations.length) {
-      lines.push(`**Counter-evidence considered:**`, ...f.tribunal.defenseCitations.map((c) => fmtCitation(c, data)));
+      lines.push(`**Other evidence considered:**`, ...f.tribunal.defenseCitations.map((c) => fmtCitation(c, data)));
     }
   }
   return lines.join("\n");
@@ -55,9 +55,9 @@ function renderFinding(f: Finding, data: DossierData): string {
 
 const VERDICT_ORDER: { key: ReviewVerdict; label: string }[] = [
   { key: "confirmed", label: "✔ Confirmed" },
-  { key: "needs-judgment", label: "? Needs judgment" },
-  { key: "unreviewed", label: "○ Unreviewed" },
-  { key: "acquitted", label: "✕ Examined and acquitted" },
+  { key: "needs-judgment", label: "? Needs a decision" },
+  { key: "unreviewed", label: "○ Not reviewed" },
+  { key: "acquitted", label: "✕ Cleared" },
 ];
 
 export function buildReport(
@@ -82,18 +82,18 @@ export function buildReport(
   const out: string[] = [
     `# Forensic Audit Report — “${data.name}”`,
     ``,
-    `Generated ${now} · Cortea Forensic Engine`,
+    `Generated ${now} · Cortea`,
     ``,
-    `## Executive summary`,
+    `## Summary`,
     ``,
-    `- **${summary.openCount} open findings** across **${summary.schemeCount} schemes**, involving **${summary.entitiesInvolved} counterparties**`,
-    `- Tiers: ${summary.byTier.proven} proven (arithmetic) · ${summary.byTier.corroborated} corroborated (multi-document) · ${summary.byTier.judgment} judgment-required`,
-    `- Non-overlapping financial exposure: **${eur(summary.netExposure)}** (control-only amounts excluded)`,
-    `- Gross cash paid in the vendor-control scheme: **${eur(summary.grossExposure)}**`,
-    `- Evidence integrity: **${summary.citationsVerified}/${summary.citationsTotal} citations machine-verified** against source text`,
+    `- **${summary.openCount} open findings** in **${summary.schemeCount} patterns**, involving **${summary.entitiesInvolved} counterparties**`,
+    `- Evidence: ${summary.byTier.proven} proven by math · ${summary.byTier.corroborated} backed by several documents · ${summary.byTier.judgment} need a decision`,
+    `- Amount at risk: **${eur(summary.netExposure)}** (control-only amounts not included)`,
+    `- Gross cash paid in the vendor-control pattern: **${eur(summary.grossExposure)}**`,
+    `- Source checks: **${summary.citationsVerified}/${summary.citationsTotal} citations verified** against the source text`,
     `- ${summary.headline}`,
     ``,
-    `Tribunal status: ${groups.confirmed.length} confirmed · ${groups["needs-judgment"].length} need judgment · ${groups.unreviewed.length} unreviewed · ${groups.acquitted.length} acquitted.`,
+    `Review status: ${groups.confirmed.length} confirmed · ${groups["needs-judgment"].length} need a decision · ${groups.unreviewed.length} not reviewed · ${groups.acquitted.length} cleared.`,
     ``,
   ];
 
@@ -102,7 +102,7 @@ export function buildReport(
     if (!list.length) continue;
     out.push(`## ${label} (${list.length})`, ``);
     if (key === "acquitted") {
-      out.push(`Items that looked suspicious but have a documented innocent explanation.`, ``);
+      out.push(`Items that looked suspicious but have a clear innocent explanation.`, ``);
     }
     const bySch = new Map<string, Finding[]>();
     for (const f of list) {
@@ -112,7 +112,7 @@ export function buildReport(
     }
     for (const [sid, fs] of bySch) {
       const st = schemeTitle.get(sid);
-      if (st && fs.length > 1) out.push(`#### Scheme: ${st}`, ``);
+      if (st && fs.length > 1) out.push(`#### Pattern: ${st}`, ``);
       for (const f of fs) out.push(renderFinding(f, data), ``, `---`, ``);
     }
   }

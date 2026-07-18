@@ -151,7 +151,7 @@ export function FindingsHeatmap({
               gridTemplateColumns: `4.25rem repeat(${columns.length}, minmax(4.75rem, 1fr))`,
             }}
             role="grid"
-            aria-label="Findings heatmap by fraud type and severity"
+            aria-label="Findings by type and severity"
           >
             <div role="columnheader" className="px-1" aria-hidden />
             {columns.map((col) => (

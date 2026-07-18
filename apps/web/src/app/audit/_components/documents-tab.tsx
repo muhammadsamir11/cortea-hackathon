@@ -21,6 +21,7 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@
 import { FileText, Search } from "lucide-react";
 import type { Citation, DocKind } from "@almedia/forensic/types";
 import type { DossierData } from "@/lib/audit-data";
+import { DocumentUploadDemo } from "./document-upload-demo";
 
 export function DocumentsTab({ data, onView }: { data: DossierData; onView: (citation: Citation) => void }) {
   const [query, setQuery] = useState("");
@@ -40,7 +41,8 @@ export function DocumentsTab({ data, onView }: { data: DossierData; onView: (cit
   const openDocument = (docId: string, ref: string) => onView({ docId, ref, quote: "" });
 
   return (
-    <div className="p-3 sm:p-4">
+    <div className="space-y-3 p-3 sm:space-y-4 sm:p-4">
+      <DocumentUploadDemo />
       <Card>
         <CardHeader className="border-b">
           <div className="flex flex-col gap-2 sm:flex-row sm:items-center">
@@ -51,7 +53,7 @@ export function DocumentsTab({ data, onView }: { data: DossierData; onView: (cit
               <InputGroupInput
                 value={query}
                 onChange={(event) => setQuery(event.target.value)}
-                placeholder={`Search ${data.docs.length} source artifacts…`}
+                placeholder={`Search ${data.docs.length} files…`}
                 className="text-xs"
               />
             </InputGroup>
@@ -79,7 +81,7 @@ export function DocumentsTab({ data, onView }: { data: DossierData; onView: (cit
             <Empty className="min-h-48">
               <EmptyHeader>
                 <EmptyTitle>No documents match</EmptyTitle>
-                <EmptyDescription>Clear the search or choose another format filter.</EmptyDescription>
+                <EmptyDescription>Clear the search or pick another file type.</EmptyDescription>
               </EmptyHeader>
             </Empty>
           ) : (
@@ -91,8 +93,8 @@ export function DocumentsTab({ data, onView }: { data: DossierData; onView: (cit
                       <TableHead className="pl-4">File</TableHead>
                       <TableHead>Type</TableHead>
                       <TableHead>Encoding</TableHead>
-                      <TableHead>Deterministic summary</TableHead>
-                      <TableHead className="pr-4 text-right">Units</TableHead>
+                      <TableHead>Summary</TableHead>
+                      <TableHead className="pr-4 text-right">Parts</TableHead>
                     </TableRow>
                   </TableHeader>
                   <TableBody>
@@ -113,7 +115,7 @@ export function DocumentsTab({ data, onView }: { data: DossierData; onView: (cit
                         </TableCell>
                         <TableCell className="text-muted-foreground">{doc.encoding ?? "—"}</TableCell>
                         <TableCell className="max-w-md whitespace-normal text-muted-foreground">
-                          {doc.summary ?? "No deterministic summary available."}
+                          {doc.summary ?? "No summary available."}
                         </TableCell>
                         <TableCell className="pr-4 text-right tabular-nums text-muted-foreground">
                           {(doc.unitCount ?? 0).toLocaleString("en-US")}
@@ -137,10 +139,10 @@ export function DocumentsTab({ data, onView }: { data: DossierData; onView: (cit
                       <span className="block break-all text-sm font-medium">{doc.relativePath ?? doc.filename}</span>
                       <span className="mt-1 flex flex-wrap items-center gap-2 text-xs text-muted-foreground">
                         <Badge variant="secondary">{doc.docType ?? doc.kind}</Badge>
-                        {doc.encoding ?? "—"} · {(doc.unitCount ?? 0).toLocaleString("en-US")} units
+                        {doc.encoding ?? "—"} · {(doc.unitCount ?? 0).toLocaleString("en-US")} parts
                       </span>
                       <span className="mt-2 block text-xs text-muted-foreground">
-                        {doc.summary ?? "No deterministic summary available."}
+                        {doc.summary ?? "No summary available."}
                       </span>
                     </span>
                   </Button>

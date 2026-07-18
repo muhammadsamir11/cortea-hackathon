@@ -1,5 +1,6 @@
 import "@almedia/env/web";
 import type { NextConfig } from "next";
+import { withEve } from "eve/next";
 
 const nextConfig: NextConfig = {
   typedRoutes: true,
@@ -7,4 +8,4 @@ const nextConfig: NextConfig = {
   transpilePackages: ["shiki", "@almedia/forensic", "@almedia/ui", "@almedia/env"],
 };
 
-export default nextConfig;
+export default withEve(nextConfig);

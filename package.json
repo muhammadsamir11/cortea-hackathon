@@ -8,6 +8,7 @@
   "type": "module",
   "scripts": {
     "dev": "turbo run dev",
+    "tribunal:reset": "git checkout -- data/muster-verpackungen/findings.json",
     "build": "turbo run build",
     "check-types": "turbo run check-types",
     "test": "turbo run test",

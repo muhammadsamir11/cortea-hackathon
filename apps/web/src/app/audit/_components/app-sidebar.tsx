@@ -14,12 +14,12 @@ import {
   SidebarMenuItem,
   useSidebar,
 } from "@almedia/ui/components/sidebar";
-import { FileSearch, Files, MessageSquareText, Network } from "lucide-react";
+import { FileSearch, Files, Gavel, MessageSquareText, Network } from "lucide-react";
 
 import { CorteaLogo, CorteaMark } from "@/components/cortea-logo";
 import { GridShimmeringDots } from "@/components/visuals/grid-shimmering-dots";
 
-export type WorkspaceTab = "findings" | "graph" | "documents" | "ask";
+export type WorkspaceTab = "findings" | "graph" | "documents" | "ask" | "tribunal";
 
 type NavItem = {
   id: WorkspaceTab;
@@ -34,6 +34,7 @@ const NAV_GROUPS: { label: string; items: NavItem[] }[] = [
     items: [
       { id: "findings", label: "Report", icon: FileSearch, countKey: "report" },
       { id: "graph", label: "Graph", icon: Network },
+      { id: "tribunal", label: "Review", icon: Gavel },
     ],
   },
   {
@@ -120,7 +121,7 @@ export function AppSidebar({
         <SidebarBrandHeader dossier={dossier} />
 
         <SidebarContent className="relative z-10">
-          <nav aria-label="Workbench tools">
+          <nav aria-label="Workspace tools">
             {NAV_GROUPS.map((group) => (
               <SidebarGroup key={group.label}>
                 <SidebarGroupLabel>{group.label}</SidebarGroupLabel>

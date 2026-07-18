@@ -24,17 +24,15 @@ import {
   ToggleGroup,
   ToggleGroupItem,
 } from "@almedia/ui/components/toggle-group";
-import { cn } from "@almedia/ui/lib/utils";
 import { X } from "lucide-react";
 import type { Finding } from "@almedia/forensic/types";
 import {
   Badge,
   eur,
   SEV,
-  TIER,
-  type ReviewVerdict,
   verdictOf,
 } from "./components";
+import { fraudLabel } from "./schemes";
 
 function compactEur(n: number) {
   if (n >= 1_000_000)
@@ -45,28 +43,21 @@ function compactEur(n: number) {
 
 const SEV_RANK = { high: 3, medium: 2, low: 1 } as const;
 
-const VERDICT_LABEL: Record<ReviewVerdict, string> = {
-  confirmed: "Confirmed",
-  "needs-judgment": "Needs judgment",
-  unreviewed: "Unreviewed",
-  acquitted: "Acquitted",
-};
-
 type TierFilter = "all" | "proven" | "corroborated" | "judgment";
 type StateFilter = "open" | "confirmed" | "judgment" | "acquitted";
 
 const STATE_FILTERS: { id: StateFilter; label: string; short: string }[] = [
   { id: "open", label: "Open", short: "Open" },
   { id: "confirmed", label: "Confirmed", short: "Confirmed" },
-  { id: "judgment", label: "Needs judgment", short: "Judgment" },
-  { id: "acquitted", label: "Acquitted", short: "Acquitted" },
+  { id: "judgment", label: "Needs review", short: "Review" },
+  { id: "acquitted", label: "Cleared", short: "Cleared" },
 ];
 
 const TIER_FILTERS: { id: TierFilter; label: string; short: string }[] = [
-  { id: "all", label: "All tiers", short: "All" },
+  { id: "all", label: "All", short: "All" },
   { id: "proven", label: "Proven", short: "Proven" },
-  { id: "corroborated", label: "Corroborated", short: "Multi-doc" },
-  { id: "judgment", label: "Needs judgment", short: "Judgment" },
+  { id: "corroborated", label: "Several documents", short: "Multi-doc" },
+  { id: "judgment", label: "Needs review", short: "Review" },
 ];
 
 function matchesState(finding: Finding, stateF: StateFilter) {
@@ -164,7 +155,7 @@ export function FindingsTable({
           <div className="flex min-w-0 flex-1 flex-col gap-2.5 sm:flex-row sm:flex-wrap sm:items-end sm:gap-x-3 sm:gap-y-2">
             <div className="flex min-w-0 flex-col gap-1">
               <span className="text-[10px] font-medium uppercase tracking-[0.12em] text-muted-foreground">
-                State
+                Status
               </span>
               <ToggleGroup
                 type="single"
@@ -176,7 +167,7 @@ export function FindingsTable({
                 size="sm"
                 spacing={0}
                 className="max-w-full overflow-x-auto"
-                aria-label="Filter by state"
+                aria-label="Filter by status"
               >
                 {STATE_FILTERS.map((s) => (
                   <ToggleGroupItem
@@ -209,7 +200,7 @@ export function FindingsTable({
                 size="sm"
                 spacing={0}
                 className="max-w-full overflow-x-auto"
-                aria-label="Filter by evidence tier"
+                aria-label="Filter by evidence strength"
               >
                 {TIER_FILTERS.map((t) => (
                   <ToggleGroupItem
@@ -246,7 +237,7 @@ export function FindingsTable({
                   htmlFor="materiality-threshold"
                   className="text-[10px] font-medium uppercase tracking-[0.12em] text-muted-foreground"
                 >
-                  Materiality
+                  Min. amount
                 </label>
                 <span
                   id="materiality-value"
@@ -257,7 +248,7 @@ export function FindingsTable({
               </div>
               <Slider
                 id="materiality-threshold"
-                aria-label="Materiality threshold"
+                aria-label="Minimum amount"
                 aria-describedby="materiality-value"
                 min={0}
                 max={maxAmount}
@@ -280,8 +271,7 @@ export function FindingsTable({
             <EmptyHeader>
               <EmptyTitle>No matching findings</EmptyTitle>
               <EmptyDescription>
-                Adjust the verdict state, evidence tier, or materiality
-                threshold.
+                Try a different status, evidence level, or minimum amount.
               </EmptyDescription>
             </EmptyHeader>
           </Empty>
@@ -291,16 +281,12 @@ export function FindingsTable({
               <TableRow>
                 <TableHead className="min-w-sm pl-2 sm:pl-4">Title</TableHead>
                 <TableHead>Severity</TableHead>
-                <TableHead>Tier</TableHead>
-                <TableHead className="text-right">Amount</TableHead>
-                <TableHead>Verdict</TableHead>
-                <TableHead className="pr-2 sm:pr-4">Type</TableHead>
+                <TableHead>Type</TableHead>
+                <TableHead className="pr-2 text-right sm:pr-4">Amount</TableHead>
               </TableRow>
             </TableHeader>
             <TableBody>
               {rows.map((finding) => {
-                const verdict = verdictOf(finding);
-                const tier = TIER[finding.tier];
                 const href = hrefFor(finding.id);
                 return (
                   <TableRow
@@ -330,21 +316,13 @@ export function FindingsTable({
                         {finding.severity}
                       </Badge>
                     </TableCell>
-                    <TableCell>
-                      <span className={cn("text-xs capitalize", tier?.text)}>
-                        {finding.tier}
-                      </span>
+                    <TableCell className="max-w-40 truncate text-xs capitalize text-muted-foreground">
+                      {fraudLabel(finding.fraudType || "other")}
                     </TableCell>
-                    <TableCell className="text-right tabular-nums">
+                    <TableCell className="pr-2 text-right tabular-nums sm:pr-4">
                       {finding.amountInvolved != null
                         ? eur(finding.amountInvolved)
                         : "—"}
-                    </TableCell>
-                    <TableCell className="text-xs text-muted-foreground">
-                      {VERDICT_LABEL[verdict]}
-                    </TableCell>
-                    <TableCell className="max-w-40 truncate pr-3 text-xs text-muted-foreground sm:pr-4">
-                      {finding.fraudType}
                     </TableCell>
                   </TableRow>
                 );

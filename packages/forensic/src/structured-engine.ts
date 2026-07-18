@@ -206,7 +206,7 @@ function checkCapitalizedRepairs(dataset: StructuredDataset): Finding[] {
     id: stableId("finding", findingKey),
     checkId: "capitalizedRepairs",
     title: `${items.length} repair and maintenance costs capitalized as fixed assets`,
-    tier: "corroborated",
+    tier: "judgment",
     fraudType: "capitalized_repairs",
     narrative: `${items.length} asset additions carry repair-type descriptions and were posted as acquisitions to fixed-asset classes. Their EUR ${total.toFixed(2)} net cost overstates both assets and profit.`,
     amountInvolved: total,
@@ -266,7 +266,7 @@ function checkCutoff(dataset: StructuredDataset): Finding[] {
     id: stableId("finding", findingKey),
     checkId: "cutoff",
     title: `${items.length} December costs omitted from the 2025 close`,
-    tier: "corroborated",
+    tier: "proven",
     fraudType: "cutoff_failure",
     narrative: `${items.length} invoices booked in ${fiscalYear + 1} have ${fiscalYear} service dates and matching December receipts marked as still open. No matching ${fiscalYear} posting exists, leaving EUR ${total.toFixed(2)} unaccrued and overstating profit.`,
     amountInvolved: total,
@@ -337,7 +337,7 @@ function checkSplitPayments(dataset: StructuredDataset, docs: DossierDoc[]): Fin
       id: stableId("finding", findingKey),
       checkId: "splitPayments",
       title: `${vendorName}: ${rows.length} same-day payments split below the EUR ${policy.amount.toFixed(0)} approval threshold`,
-      tier: "corroborated",
+      tier: "proven",
       fraudType: "threshold_avoidance",
       narrative:
         `${rows.length} general-ledger payments (BUCHUNGSTYP Zahlung) on ${isoDate(rawDate)} to ${vendorName} (${vendorId}) ` +

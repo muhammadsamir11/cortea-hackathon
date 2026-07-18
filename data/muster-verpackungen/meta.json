@@ -1,7 +1,7 @@
 {
  "dossier": "muster-verpackungen",
  "generatedAt": "2026-02-04T00:00:00.000Z",
- "model": "offline-deterministic",
+ "model": "gpt-4.1",
  "companyName": "Muster Verpackungen GmbH",
  "fiscalPeriod": "2025",
  "public": true,

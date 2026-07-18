@@ -36,18 +36,22 @@ class UF {
 }
 
 const FRAUD_LABEL: Record<string, string> = {
-  balance_manipulation: "balance manipulation",
-  duplicate_payment: "duplicate payment",
-  payment_redirect: "payment redirect",
-  entity_identity_game: "identity aliasing",
-  threshold_avoidance: "threshold avoidance",
-  missing_purchase_order: "missing purchase order",
-  amount_mismatch: "PO/invoice mismatch",
-  backdating: "backdating",
-  payment_without_invoice: "missing invoice",
-  round_tripping: "round-tripping",
+  balance_manipulation: "Books don’t match the bank",
+  duplicate_payment: "Paid more than once",
+  payment_redirect: "Paid to the wrong account",
+  entity_identity_game: "Same person, different names",
+  threshold_avoidance: "Split to stay under the approval limit",
+  missing_purchase_order: "No purchase order",
+  amount_mismatch: "PO and invoice amounts differ",
+  backdating: "Invoice dated before its PO",
+  payment_without_invoice: "Payment with no invoice",
+  round_tripping: "Money sent out and returned",
+  capitalized_repairs: "Repairs booked as assets",
+  cutoff_failure: "Costs left out of year-end",
+  vendor_control_breach: "Same person created and paid the vendor",
 };
-export const fraudLabel = (t: string) => FRAUD_LABEL[t] ?? t.replace(/_/g, " ");
+export const fraudLabel = (t: string) =>
+  FRAUD_LABEL[t] ?? t.replace(/_/g, " ").replace(/^\w/, (c) => c.toUpperCase());
 
 /** Entity clusters a finding touches (via its facts), excluding the audited company. */
 function findingEntities(
@@ -162,6 +166,7 @@ export function clusterSchemes(
 export interface ExecSummary {
   openCount: number;
   byTier: { proven: number; corroborated: number; judgment: number };
+  queue: { unreviewed: number; needsJudgment: number; confirmed: number };
   schemeCount: number;
   grossExposure: number;
   netExposure: number;
@@ -182,7 +187,14 @@ export function summarize(
     s.findingIds.some((id) => open.some((f) => f.id === id)),
   );
   const byTier = { proven: 0, corroborated: 0, judgment: 0 };
-  for (const f of open) byTier[f.tier]++;
+  const queue = { unreviewed: 0, needsJudgment: 0, confirmed: 0 };
+  for (const f of open) {
+    byTier[f.tier]++;
+    const verdict = verdictOf(f);
+    if (verdict === "confirmed") queue.confirmed++;
+    else if (verdict === "needs-judgment") queue.needsJudgment++;
+    else if (verdict === "unreviewed") queue.unreviewed++;
+  }
   const financial = open.filter((finding) => !finding.impactCategories?.every((category) => category === "control_breach"));
   const netExposure = financial.reduce((sum, finding) => sum + (finding.amountInvolved ?? 0), 0);
   const grossExposure = open.reduce(
@@ -192,11 +204,12 @@ export function summarize(
   const entities = new Set(openSchemes.flatMap((s) => s.entityNames));
   const top = openSchemes[0];
   const headline = top
-    ? `Primary scheme: ${top.title}${top.netAmount ? ` (~€${top.netAmount.toLocaleString("en-US")} at risk)` : ""}`
-    : "No open findings — dossier appears clean.";
+    ? `Main pattern: ${top.title}${top.netAmount ? ` (~€${top.netAmount.toLocaleString("en-US")} at risk)` : ""}`
+    : "No open findings — this dossier looks clean.";
   return {
     openCount: open.length,
     byTier,
+    queue,
     schemeCount: openSchemes.length,
     grossExposure,
     netExposure,

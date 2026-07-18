@@ -49,7 +49,7 @@ export function GraphToolbar({
             onValueChange={(value) => onChange({ findingId: value })}
           >
             <SelectTrigger size="sm" className="h-8 w-[min(16rem,52vw)] text-[11px]">
-              <SelectValue placeholder="Finding scope" />
+              <SelectValue placeholder="Which finding" />
             </SelectTrigger>
             <SelectContent className="text-xs">
               <SelectItem value="all">All risk flows</SelectItem>
@@ -69,7 +69,7 @@ export function GraphToolbar({
               onChange={(e) => onChange({ query: e.target.value })}
               placeholder="Search name, IBAN…"
               className="h-8 pl-8 text-[11px]"
-              aria-label="Search graph entities"
+              aria-label="Search names and accounts"
             />
           </div>
 
@@ -96,7 +96,7 @@ export function GraphToolbar({
             variant="outline"
             pressed={filters.riskOnly}
             onPressedChange={(pressed) => onChange({ riskOnly: pressed })}
-            aria-label="Show only open-finding flows"
+            aria-label="Show only flows tied to open findings"
             className="text-[11px]"
           >
             <ShieldAlert className="size-3.5" />
