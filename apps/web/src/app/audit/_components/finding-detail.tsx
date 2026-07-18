@@ -255,11 +255,6 @@ export function FindingDetail({
           size="sm"
           className="bg-linear-to-r from-[oklch(0.96_0.01_207.1)] to-[oklch(0.91_0.018_224.9)] shadow-none ring-0 dark:from-muted dark:to-muted/70"
         >
-          <CardHeader className="gap-0">
-            <CardDescription className="text-[11px] uppercase tracking-widest">
-              Description
-            </CardDescription>
-          </CardHeader>
           <CardContent>
             <p className="max-w-prose text-sm font-semibold leading-relaxed text-pretty text-foreground sm:text-[15px]">
               {finding.narrative}
