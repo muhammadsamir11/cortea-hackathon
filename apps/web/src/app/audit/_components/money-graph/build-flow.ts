@@ -38,7 +38,10 @@ function evidenceForCluster(
   );
   const findingIds = new Set(touching.flatMap((edge) => edge.findingIds));
   const related = findings.filter((f) => findingIds.has(f.id));
-  return lineItemsForFindings(related, cluster.names);
+  const matched = lineItemsForFindings(related, cluster.names);
+  if (matched.length) return matched;
+  // Scheme-level sinks (tax/journal/AI) have no counterparty names on line items.
+  return related.flatMap((finding) => finding.lineItems ?? []);
 }
 
 export function buildFlowElements(
@@ -171,6 +174,17 @@ export function buildFlowElements(
       !graph.matchedNodeIds!.has(e.from) &&
       !graph.matchedNodeIds!.has(e.to);
     const selected = selectedId === id;
+    const related = findings.filter((finding) => e.findingIds.includes(finding.id));
+    const controlOnly =
+      related.length > 0 &&
+      related.every(
+        (finding) =>
+          (finding.amountInvolved == null || finding.amountInvolved <= 0) &&
+          (finding.lineItems ?? []).every((item) => !item.amount),
+      );
+    const label = controlOnly
+      ? `${Math.max(...related.map((finding) => finding.lineItems?.length ?? 0)).toLocaleString("en-US")} events`
+      : eur(e.total);
     return {
       id,
       source: e.from,
@@ -178,7 +192,7 @@ export function buildFlowElements(
       sourceHandle: "flow-out",
       targetHandle: "flow-in",
       animated: hot && !endpointsDimmed,
-      label: eur(e.total),
+      label,
       selected,
       labelStyle: {
         fill: hot ? "var(--destructive)" : "var(--muted-foreground)",

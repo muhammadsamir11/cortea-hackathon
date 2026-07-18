@@ -364,6 +364,19 @@ const CONTROLS: ControlSpec[] = [
   { id: "taxCompleteness", pack: "tax-completeness", requiredTables: ["Umsatzsteuerbuchungen", "Sachkontobuchungen"], run: taxCompleteness },
 ];
 
+function sinkLabel(finding: Finding): string {
+  switch (finding.checkId) {
+    case "taxCompleteness":
+      return "VAT export gap";
+    case "journalChangeControl":
+      return "Journal control breach";
+    case "aiDiscovery":
+      return finding.title.length > 42 ? `${finding.title.slice(0, 42)}…` : finding.title;
+    default:
+      return finding.fraudType?.replaceAll("_", " ") || finding.checkId || "Control gap";
+  }
+}
+
 function graphFor(findings: Finding[], companyName: string): { entities: EntityCluster[]; graph: MoneyGraph } {
   const company: EntityCluster = {
     id: stableId("entity", companyName),
@@ -373,9 +386,45 @@ function graphFor(findings: Finding[], companyName: string): { entities: EntityC
     addresses: [],
     factIds: [],
   };
-  const names = [...new Set(findings.flatMap((item) => item.lineItems?.map((line) => line.counterparty).filter(Boolean) ?? []))] as string[];
-  const counterparties = names.map((name) => ({
-    id: stableId("entity", name),
+  const partyTotals = new Map<string, { id: string; amount: number; findingIds: Set<string> }>();
+
+  for (const finding of findings) {
+    const named = (finding.lineItems ?? []).filter((line) => line.counterparty?.trim());
+    if (named.length) {
+      for (const line of named) {
+        const name = line.counterparty!.trim();
+        const existing = partyTotals.get(name) ?? {
+          id: stableId("entity", name),
+          amount: 0,
+          findingIds: new Set<string>(),
+        };
+        existing.amount = cents(existing.amount + line.amount);
+        existing.findingIds.add(finding.id);
+        partyTotals.set(name, existing);
+      }
+      continue;
+    }
+
+    const amount =
+      finding.amountInvolved ??
+      (finding.lineItems ?? []).reduce((sum, line) => sum + (line.amount || 0), 0);
+    const hasSignal =
+      amount > 0 || (finding.lineItems?.length ?? 0) > 0 || finding.origin === "ai-assisted";
+    if (!hasSignal) continue;
+
+    const name = sinkLabel(finding);
+    const existing = partyTotals.get(name) ?? {
+      id: stableId("entity", `${finding.checkId}|${name}`),
+      amount: 0,
+      findingIds: new Set<string>(),
+    };
+    existing.amount = cents(existing.amount + (amount > 0 ? amount : Math.max(1, finding.lineItems?.length ?? 0)));
+    existing.findingIds.add(finding.id);
+    partyTotals.set(name, existing);
+  }
+
+  const counterparties: EntityCluster[] = [...partyTotals.entries()].map(([name, entry]) => ({
+    id: entry.id,
     names: [name],
     ibans: [],
     vatIds: [],
@@ -383,17 +432,14 @@ function graphFor(findings: Finding[], companyName: string): { entities: EntityC
     factIds: [],
   }));
   const entities = [company, ...counterparties];
-  const edges = counterparties.map((counterparty) => {
-    const related = findings.filter((item) => item.lineItems?.some((line) => line.counterparty === counterparty.names[0]));
-    return {
-      from: company.id,
-      to: counterparty.id,
-      total: related.flatMap((item) => item.lineItems ?? []).filter((line) => line.counterparty === counterparty.names[0]).reduce((sum, line) => sum + line.amount, 0),
-      currency: "EUR",
-      factIds: [],
-      findingIds: related.map((item) => item.id),
-    };
-  });
+  const edges = [...partyTotals.entries()].map(([, entry]) => ({
+    from: company.id,
+    to: entry.id,
+    total: entry.amount,
+    currency: "EUR",
+    factIds: [] as string[],
+    findingIds: [...entry.findingIds],
+  }));
   return { entities, graph: { nodes: entities, edges, companyClusterId: company.id } };
 }
 

@@ -18,6 +18,7 @@ import { Button } from "@almedia/ui/components/button";
 import type { Citation } from "@almedia/forensic/types";
 import type { DossierData } from "@/lib/audit-data";
 import { verdictOf } from "../components";
+import { augmentGraphWithFindingFlows } from "./augment-graph";
 import { buildFlowElements } from "./build-flow";
 import { filterGraph, type GraphFilters } from "./filter-graph";
 import { nodeTypes } from "./node-types";
@@ -69,9 +70,14 @@ function GraphCanvas({
     [data.findings],
   );
 
+  const baseGraph = useMemo(
+    () => augmentGraphWithFindingFlows(data.graph, data.findings),
+    [data.graph, data.findings],
+  );
+
   const graph = useMemo(
-    () => filterGraph(data.graph, filters, openFindings),
-    [data.graph, filters, openFindings],
+    () => filterGraph(baseGraph, filters, openFindings),
+    [baseGraph, filters, openFindings],
   );
 
   const selectedId = selected?.id ?? null;
