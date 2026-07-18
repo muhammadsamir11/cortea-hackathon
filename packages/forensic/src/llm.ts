@@ -7,7 +7,7 @@ import type { z } from "zod";
 /** Optional prose model. Structured accounting analysis never depends on it. */
 export function pickModel(): { model: LanguageModel; name: string } | null {
   if (env.OPENAI_API_KEY) {
-    const name = env.OPENAI_MODEL ?? "gpt-5-mini";
+    const name = env.OPENAI_MODEL ?? "gpt-5";
     const openai = createOpenAI({ apiKey: env.OPENAI_API_KEY });
     return { model: openai(name), name };
   }

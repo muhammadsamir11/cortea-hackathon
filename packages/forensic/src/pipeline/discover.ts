@@ -16,15 +16,20 @@ const candidateSchema = z.object({
       ref: z.string(),
       quote: z.string().min(3),
     })).min(1),
-  })).max(12),
+  })).max(16),
 });
 
 const PROBES = [
   "Bill Hold Gefahrenübergang Warenausgang Umsatz",
   "Insolvenz Forderung Wertberichtigung überfällig",
-  "nachträglich Änderung Festschreibung Freigabe",
-  "Stammdaten geändert genehmigt Kreditlimit",
-  "Steuerbuchungsreferenz Umsatzsteuer Differenz",
+  "Stornobuchung Generalstorno Neubuchung Festschreibung Freigabe",
+  "GEBUCHT OHNE FREIGABE Ersteller Freigeber Journal",
+  "Stammdaten geändert genehmigt Kreditlimit Debitor",
+  "Steuerbuchungsreferenz Umsatzsteuer Differenz Export",
+  "Leistungsdatum Fakturadatum Periodenabgrenzung January cutoff",
+  "Kreditlimit überschritten OP-Liste überfällig Altersstruktur",
+  "Warenausgang fehlt Rechnung Bill and Hold Konsignation",
+  "Intercompany Gesellschafter Verrechnung nahestehend",
 ];
 
 function stableId(dossier: string, title: string): string {
@@ -39,7 +44,7 @@ export async function discoverSqliteCandidates(
   existing: Finding[],
 ): Promise<{ findings: Finding[]; provider: string }> {
   const packet = PROBES.flatMap((probe) =>
-    searchSqliteEvidence(dossier, probe, undefined, 8).hits.map((hit) => ({
+    searchSqliteEvidence(dossier, probe, undefined, 10).hits.map((hit) => ({
       probe,
       docId: hit.docId,
       filename: hit.filename,
@@ -50,12 +55,14 @@ export async function discoverSqliteCandidates(
   const result = await callObject({
     label: "bounded dossier discovery",
     schema: candidateSchema,
-    system: `You are a forensic accounting candidate screener for ${companyName}, fiscal year ${fiscalPeriod}.
-Use only the bounded evidence excerpts supplied. Propose only coherent risks not already covered by EXISTING FINDINGS.
+    system: `You are a senior forensic accounting candidate screener for ${companyName}, fiscal year ${fiscalPeriod}.
+Use only the bounded evidence excerpts supplied. Propose concrete, auditor-useful risks that are NOT already covered by EXISTING FINDINGS
+(treat similar titles/schemes as duplicates — e.g. do not restate cutoff, bill-and-hold, master-data, journal-approval, or tax-export gaps already listed).
+Prefer distinct schemes: impairment/allowance, credit-limit breaches, missing dispatch, related-party, unusual storno patterns, export gaps, or authorization failures with specific documentary hooks.
 Every factual claim must be supported by one or more citations copied exactly from the packet. The quote must be a verbatim
-substring of the cited text. Do not claim completeness, guilt, or a final verdict. Return no finding when the excerpts are
-ambiguous or merely describe an ordinary transaction.`,
-    prompt: `EXISTING FINDINGS:\n${JSON.stringify(existing.map((finding) => ({ title: finding.title, narrative: finding.narrative })))}\n\nEVIDENCE PACKET:\n${JSON.stringify(packet)}`,
+substring of the cited text. Do not claim completeness, guilt, or a final verdict. Return an empty findings array when the excerpts are
+ambiguous or merely describe ordinary transactions. Aim for 3–8 high-quality candidates when evidence supports them.`,
+    prompt: `EXISTING FINDINGS:\n${JSON.stringify(existing.map((finding) => ({ title: finding.title, checkId: finding.checkId, narrative: finding.narrative })))}\n\nEVIDENCE PACKET:\n${JSON.stringify(packet)}`,
   });
   const known = new Set(existing.map((finding) => finding.title.toLowerCase()));
   const findings = result.findings.flatMap((candidate): Finding[] => {
@@ -85,4 +92,3 @@ ambiguous or merely describe an ordinary transaction.`,
   });
   return { findings, provider: getModel().name };
 }
-

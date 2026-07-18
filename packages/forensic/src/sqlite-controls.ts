@@ -230,54 +230,100 @@ function debtorMasterData(context: ControlContext): Finding[] {
 }
 
 function journalChanges(context: ControlContext): Finding[] {
-  const candidates = rows(context, "Aenderungsprotokoll_2025").filter((row) => {
-    const fixed = /^ja$/i.test(value(row, "FESTSCHREIBUNG_VOR_AENDERUNG"));
-    return fixed && /direkt|änderung|nachträglich|manuell|überschr/i.test(`${value(row, "AENDERUNGSART")} ${value(row, "BEMERKUNG")}`);
+  const findings: Finding[] = [];
+
+  const approvalBreaches = rows(context, "Freigabe-Log_Journale_2025").filter((row) => {
+    const status = value(row, "FREIGABESTATUS");
+    const creator = value(row, "ERSTELLER");
+    const approver = value(row, "FREIGEBER");
+    const selfApproved = Boolean(creator && approver && creator === approver);
+    const postedWithoutApproval = /ohne freigabe|nicht freigegeben|offen|abgelehnt/i.test(status);
+    const markedSelfApproved = /ersteller\s*=\s*freigeber/i.test(status);
+    return selfApproved || postedWithoutApproval || markedSelfApproved || (status && !/^freigegeben$/i.test(status.trim()));
   });
-  if (!candidates.length) return [];
-  const key = "access:journal-changes";
-  const items = candidates.slice(0, 100).map((row) =>
-    lineItem(key, row, {
-      label: value(row, "BUCHUNGSNUMMER") || "Journal change",
-      date: value(row, "GEAENDERT_AM", "BUCHUNGSDATUM"),
-      description: `${value(row, "AENDERUNGSART")} by ${value(row, "BENUTZER")}: ${value(row, "BEMERKUNG")}`,
-      amount: 0,
-      amountType: "control",
-    }),
-  );
-  return [finding(context, {
-    key,
-    checkId: "journalChangeControl",
-    title: `${candidates.length} changes to finalized journal entries require authorization evidence`,
-    tier: "judgment",
-    fraudType: "journal_override",
-    narrative: `The change log contains ${candidates.length} direct or retrospective changes where the original entry was already finalized. The cited sample should be reconciled to approval logs and reversal entries.`,
-    amountInvolved: null,
-    severity: "medium",
-    citations: items.flatMap((item) => item.citations).slice(0, 16),
-    lineItems: items,
-    impactCategories: ["control_breach"],
-  })];
+  if (approvalBreaches.length) {
+    const key = "access:journal-approval";
+    const items = approvalBreaches.slice(0, 100).map((row) =>
+      lineItem(key, row, {
+        label: value(row, "ERFASSUNGSNUMMER", "JOURNALNAME") || "Journal approval",
+        date: value(row, "FREIGABEDATUM", "ERFASST_AM"),
+        description: `${value(row, "FREIGABESTATUS")} · ${value(row, "ERSTELLER")} / ${value(row, "FREIGEBER") || "no approver"} · EUR ${value(row, "SUMME_ABS_EUR")}`,
+        amount: Math.abs(parseAmount(value(row, "SUMME_ABS_EUR")) ?? 0),
+        amountType: "control",
+      }),
+    );
+    const total = cents(items.reduce((sum, item) => sum + item.amount, 0));
+    findings.push(finding(context, {
+      key,
+      checkId: "journalChangeControl",
+      title: `${approvalBreaches.length} journal${approvalBreaches.length === 1 ? "" : "s"} posted without independent approval`,
+      tier: "corroborated",
+      fraudType: "journal_override",
+      narrative: `The journal approval log contains ${approvalBreaches.length} entries that were self-approved or posted without a valid independent release. The cited sample covers EUR ${total.toFixed(2)} absolute journal movement and should be traced to authorization evidence.`,
+      amountInvolved: total,
+      severity: "high",
+      citations: items.flatMap((item) => item.citations).slice(0, 16),
+      lineItems: items,
+      impactCategories: ["control_breach"],
+      calculations: [{ label: "Approval-breach journals (sample)", expression: `${items.length} of ${approvalBreaches.length} journals`, value: total, currency: "EUR" }],
+    }));
+  }
+
+  const changeCandidates = rows(context, "Aenderungsprotokoll_2025").filter((row) => {
+    const fest = value(row, "FESTSCHREIBUNG_VOR_AENDERUNG").trim();
+    const detail = `${value(row, "AENDERUNGSART")} ${value(row, "BEMERKUNG")} ${fest}`;
+    const finalized = /^ja$/i.test(fest);
+    const stornoOrRewrite = /storno|generalstorno|neubuchung|selbem journal|nachträglich|manuell|überschr/i.test(detail);
+    return finalized || stornoOrRewrite;
+  });
+  if (changeCandidates.length) {
+    const key = "access:journal-changes";
+    const items = changeCandidates.slice(0, 100).map((row) =>
+      lineItem(key, row, {
+        label: value(row, "BUCHUNGSNUMMER") || "Journal change",
+        date: value(row, "GEAENDERT_AM", "BUCHUNGSDATUM"),
+        description: `${value(row, "AENDERUNGSART")} by ${value(row, "BENUTZER")}: ${value(row, "BEMERKUNG")} (${value(row, "FESTSCHREIBUNG_VOR_AENDERUNG").trim() || "no festschreibung flag"})`,
+        amount: 0,
+        amountType: "control",
+      }),
+    );
+    findings.push(finding(context, {
+      key,
+      checkId: "journalChangeControl",
+      title: `${changeCandidates.length} journal storno or rewrite event${changeCandidates.length === 1 ? "" : "s"} require authorization evidence`,
+      tier: "judgment",
+      fraudType: "journal_override",
+      narrative: `The change log contains ${changeCandidates.length} storno, rewrite, or post-finalization events. Reconcile the cited sample to approval logs, original vouchers, and compensating entries.`,
+      amountInvolved: null,
+      severity: "medium",
+      citations: items.flatMap((item) => item.citations).slice(0, 16),
+      lineItems: items,
+      impactCategories: ["control_breach"],
+    }));
+  }
+
+  return findings;
 }
 
 function taxCompleteness(context: ControlContext): Finding[] {
   const taxRows = iterateSqliteTable(context.dossier, "Umsatzsteuerbuchungen");
   const ledgerRows = iterateSqliteTable(context.dossier, "Sachkontobuchungen");
   if (!taxRows || !ledgerRows) return [];
+  // Ledger → VAT: tax references present on GL lines but missing from the VAT export.
   const unmatched = new Map<string, StructuredRow>();
-  for (const row of taxRows.rows) {
+  for (const row of ledgerRows.rows) {
     const reference = value(row, "STEUERBUCHUNGSREFERENZ");
     if (reference && !unmatched.has(reference)) unmatched.set(reference, row);
   }
-  for (const row of ledgerRows.rows) {
+  for (const row of taxRows.rows) {
     const reference = value(row, "STEUERBUCHUNGSREFERENZ");
     if (reference) unmatched.delete(reference);
   }
   const missing = unmatched.size;
   if (!missing) return [];
   const examples = [...unmatched.values()].slice(0, 50);
-  const total = cents(
-    [...unmatched.values()].reduce(
+  const sampleTotal = cents(
+    examples.reduce(
       (sum, row) => sum + Math.abs(parseAmount(value(row, "BUCHUNGSBETRAG", "BUCHUNGSWERT")) ?? 0),
       0,
     ),
@@ -289,23 +335,23 @@ function taxCompleteness(context: ControlContext): Finding[] {
       documentNumber: value(row, "BELEGNUMMER", "DOKUMENT"),
       date: value(row, "BUCHUNGSDATUM"),
       description: `${value(row, "QUELLE")} ${value(row, "STEUERART")}`.trim(),
-      amount: Math.abs(parseAmount(value(row, "BUCHUNGSBETRAG")) ?? 0),
+      amount: Math.abs(parseAmount(value(row, "BUCHUNGSBETRAG", "BUCHUNGSWERT")) ?? 0),
       amountType: "control",
     }),
   );
   return [finding(context, {
     key,
     checkId: "taxCompleteness",
-    title: `${missing} VAT posting references are absent from the general ledger export`,
+    title: `${missing} ledger tax references are absent from the VAT posting export`,
     tier: "corroborated",
     fraudType: "tax_export_incompleteness",
-    narrative: `${missing} VAT-export entries carry a tax reference that is absent from the general-ledger export. The cited sample represents EUR ${total.toFixed(2)} of absolute tax movement and requires export-completeness reconciliation.`,
-    amountInvolved: total,
+    narrative: `${missing} general-ledger entries carry a tax reference that is absent from the VAT posting export. The cited sample represents EUR ${sampleTotal.toFixed(2)} of absolute ledger movement and requires export-completeness reconciliation.`,
+    amountInvolved: sampleTotal,
     severity: "high",
     citations: items.flatMap((item) => item.citations).slice(0, 16),
     lineItems: items,
     impactCategories: ["control_breach"],
-    calculations: [{ label: "Unmatched ledger movement", expression: `${missing} unmatched references`, value: total, currency: "EUR" }],
+    calculations: [{ label: "Unmatched ledger sample", expression: `${examples.length} of ${missing} unmatched references`, value: sampleTotal, currency: "EUR" }],
   })];
 }
 
