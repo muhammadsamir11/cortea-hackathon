@@ -1,6 +1,7 @@
 "use client";
 
 import { useMemo } from "react";
+import Link from "next/link";
 import {
   Alert,
   AlertDescription,
@@ -26,7 +27,7 @@ import {
   EmptyTitle,
 } from "@almedia/ui/components/empty";
 import type { Citation, Fact, Finding } from "@almedia/forensic/types";
-import { ChevronRight } from "lucide-react";
+import { ChevronRight, ScanSearch } from "lucide-react";
 import type { DossierData } from "@/lib/audit-data";
 import { Badge, CitationChip, eur, SEV, TIER, verdictOf } from "./components";
 import { MoneyGraphView } from "./money-graph";
@@ -255,10 +256,24 @@ export function FindingDetail({
           size="sm"
           className="bg-linear-to-r from-[oklch(0.96_0.01_207.1)] to-[oklch(0.91_0.018_224.9)] shadow-none ring-0 dark:from-muted dark:to-muted/70"
         >
-          <CardContent>
+          <CardContent className="space-y-3">
             <p className="max-w-prose text-sm font-semibold leading-relaxed text-pretty text-foreground sm:text-[15px]">
               {finding.narrative}
             </p>
+            <Button asChild variant="outline" size="sm" className="bg-background/70">
+              <Link
+                href={
+                  `/audit/report?${new URLSearchParams({
+                    d: data.name,
+                    tab: "ask",
+                    q: `Dig deeper into: ${finding.title}`,
+                  }).toString()}` as "/audit/report"
+                }
+              >
+                <ScanSearch />
+                Investigate
+              </Link>
+            </Button>
           </CardContent>
         </Card>
 

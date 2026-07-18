@@ -17,6 +17,7 @@ import {
 } from "./findings-heatmap";
 import { FindingsTable } from "./findings-table";
 import { QuadrantRiskChart } from "./quadrant-risk-chart";
+import { verdictOf } from "./components";
 
 function SupportMeter({
   label,
@@ -89,6 +90,21 @@ export function ReportTab({
     () => summarize(data.findings, schemes, validation),
     [data.findings, schemes, validation],
   );
+  const review = useMemo(() => {
+    const confirmed = data.findings.filter((finding) => verdictOf(finding) === "confirmed").length;
+    const acquitted = data.findings.filter((finding) => verdictOf(finding) === "acquitted").length;
+    const needsJudgment = data.findings.filter((finding) => verdictOf(finding) === "needs-judgment").length;
+    const pending = data.findings.filter((finding) => verdictOf(finding) === "unreviewed").length;
+    const reviewed = confirmed + acquitted;
+    return {
+      confirmed,
+      acquitted,
+      needsJudgment,
+      pending,
+      reviewed,
+      precision: reviewed ? confirmed / reviewed : null,
+    };
+  }, [data.findings]);
 
   useEffect(() => {
     registerExport(async () => {
@@ -113,7 +129,7 @@ export function ReportTab({
       <div className="mx-auto flex max-w-7xl flex-col gap-3 p-3 sm:p-4 lg:p-5">
         <section
           aria-label="Summary numbers"
-          className="grid grid-cols-1 gap-3 sm:grid-cols-3"
+          className="grid grid-cols-1 gap-3 sm:grid-cols-2 xl:grid-cols-4"
         >
           <SupportMeter
             label="Amount at risk"
@@ -133,6 +149,12 @@ export function ReportTab({
             )}
             sub={tierSub || "no open findings"}
             tone="warn"
+          />
+          <SupportMeter
+            label="Reviewed precision"
+            value={review.precision == null ? "—" : `${Math.round(review.precision * 100)}%`}
+            sub={`${review.confirmed} confirmed · ${review.acquitted} cleared · ${review.needsJudgment + review.pending} open; recall cannot be measured without labels`}
+            tone={review.precision == null ? "ink" : review.precision >= 0.8 ? "clear" : "warn"}
           />
         </section>
 

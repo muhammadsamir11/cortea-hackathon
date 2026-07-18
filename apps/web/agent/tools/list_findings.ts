@@ -5,9 +5,9 @@ import { loadFindings } from "../lib/dossier";
 export default defineTool({
   description:
     "Read the docket: every finding the deterministic engine detected in the dossier, with narrative, amounts, calculations, line items, and prosecution citations.",
-  inputSchema: z.object({}),
-  async execute() {
-    return loadFindings().map((finding) => ({
+  inputSchema: z.object({ dossier: z.string().regex(/^[a-z0-9_-]+$/i) }),
+  async execute({ dossier }) {
+    return loadFindings(dossier).map((finding) => ({
       id: finding.id,
       checkId: finding.checkId,
       title: finding.title,

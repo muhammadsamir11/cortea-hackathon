@@ -118,7 +118,7 @@ export function TribunalTab({ data }: { data: DossierData }) {
     if (busy) return;
     try {
       if (agent.session) agent.reset();
-      await agent.send({ message: CONVENE_MESSAGE });
+      await agent.send({ message: `[DOSSIER:${data.name}]\n${CONVENE_MESSAGE}` });
     } catch {
       toast.error("Could not start the review. Check the connection and try again.");
     }

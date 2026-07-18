@@ -13,16 +13,11 @@ import {
   CommandInput,
   CommandItem,
   CommandList,
+  CommandShortcut,
 } from "@almedia/ui/components/command";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@almedia/ui/components/select";
 import { Tooltip, TooltipContent, TooltipTrigger } from "@almedia/ui/components/tooltip";
-import { AlertTriangle, ArrowLeft, Check, Download, FolderOpen, ShieldCheck } from "lucide-react";
+import { cn } from "@almedia/ui/lib/utils";
+import { AlertTriangle, ArrowLeft, Download, FolderOpen, ShieldCheck } from "lucide-react";
 
 import type { Citation } from "@almedia/forensic/types";
 import type { DossierData } from "@/lib/audit-data";
@@ -40,16 +35,26 @@ import { TribunalTab } from "./tribunal-tab";
 import { FindingDetail } from "./finding-detail";
 import { clusterSchemes } from "./schemes";
 
+function formatDossierLabel(slug: string) {
+  return slug
+    .split(/[-_]+/)
+    .filter(Boolean)
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(" ");
+}
+
 export function Workspace({
   data,
   dossiers,
   activeNav,
   findingId,
+  investigatorPrompt,
 }: {
   data: DossierData;
   dossiers: string[];
   activeNav: WorkspaceTab;
   findingId?: string;
+  investigatorPrompt?: string;
 }) {
   const router = useRouter();
   const [viewer, setViewer] = useState<Citation | null>(null);
@@ -138,20 +143,6 @@ export function Workspace({
         }
         actions={
           <>
-            {dossiers.length > 1 && !showFindingDetail ? (
-              <Select value={data.name} onValueChange={switchDossier}>
-                <SelectTrigger size="sm" className="max-w-56" aria-label="Switch dossier">
-                  <SelectValue placeholder={companyName} />
-                </SelectTrigger>
-                <SelectContent>
-                  {dossiers.map((dossier) => (
-                    <SelectItem key={dossier} value={dossier}>
-                      {dossier}
-                    </SelectItem>
-                  ))}
-                </SelectContent>
-              </Select>
-            ) : null}
             {integrity && !showFindingDetail ? (
               <Tooltip>
                 <TooltipTrigger asChild>
@@ -209,7 +200,9 @@ export function Workspace({
             <DocumentsTab data={data} onView={setViewer} />
           </div>
         )}
-        {activeNav === "ask" && <InvestigatorTab data={data} onView={setViewer} />}
+        {activeNav === "ask" && (
+          <InvestigatorTab data={data} onView={setViewer} seedPrompt={investigatorPrompt} />
+        )}
         {activeNav === "tribunal" && <TribunalTab data={data} />}
       </div>
 
@@ -239,29 +232,61 @@ export function Workspace({
         open={commandOpen}
         onOpenChange={setCommandOpen}
         title="Switch dossier"
-        description="Open another dossier"
+        description="Open another sealed dossier"
       >
         <Command>
-          <CommandInput placeholder="Search dossiers…" />
-          <CommandList>
-            <CommandEmpty>No dossier found.</CommandEmpty>
-            <CommandGroup heading="Dossiers">
-              {dossiers.map((dossier) => (
-                <CommandItem
-                  key={dossier}
-                  value={dossier}
-                  onSelect={() => {
-                    setCommandOpen(false);
-                    switchDossier(dossier);
-                  }}
-                >
-                  <FolderOpen />
-                  <span className="truncate">{dossier}</span>
-                  {dossier === data.name && <Check className="ml-auto size-3.5" />}
-                </CommandItem>
-              ))}
+          <div className="border-b px-3 py-3">
+            <p className="font-mono text-[0.6875rem] uppercase tracking-wider text-muted-foreground">
+              Dossiers
+            </p>
+            <p className="mt-0.5 text-sm text-foreground">Open another sealed case</p>
+          </div>
+          {dossiers.length > 4 ? (
+            <CommandInput placeholder="Filter by name…" />
+          ) : null}
+          <CommandList className="max-h-80 p-1">
+            <CommandEmpty className="py-8 text-muted-foreground">
+              No matching dossier.
+            </CommandEmpty>
+            <CommandGroup className="**:[[cmdk-group-items]]:flex **:[[cmdk-group-items]]:flex-col **:[[cmdk-group-items]]:gap-y-1">
+              {dossiers.map((dossier) => {
+                const active = dossier === data.name;
+                const label =
+                  active && companyName !== dossier
+                    ? companyName
+                    : formatDossierLabel(dossier);
+                return (
+                  <CommandItem
+                    key={dossier}
+                    value={`${label} ${dossier}`}
+                    data-checked={active || undefined}
+                    onSelect={() => {
+                      setCommandOpen(false);
+                      if (!active) switchDossier(dossier);
+                    }}
+                    className={cn(
+                      "min-h-12 items-start gap-3 rounded-lg py-2.5",
+                      active && "bg-muted/70 data-selected:bg-muted/70",
+                    )}
+                  >
+                    <FolderOpen className="mt-0.5 size-4 text-muted-foreground" />
+                    <span className="flex min-w-0 flex-1 flex-col gap-0.5">
+                      <span className="truncate font-medium leading-snug">{label}</span>
+                      <span className="truncate font-mono text-[0.6875rem] text-muted-foreground">
+                        {dossier}
+                      </span>
+                    </span>
+                    {active ? <CommandShortcut>Open</CommandShortcut> : null}
+                  </CommandItem>
+                );
+              })}
             </CommandGroup>
           </CommandList>
+          <div className="border-t px-3 py-2">
+            <p className="font-mono text-[0.625rem] uppercase tracking-wider text-muted-foreground">
+              {dossiers.length} available
+            </p>
+          </div>
         </Command>
       </CommandDialog>
     </WorkbenchShell>

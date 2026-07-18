@@ -1,0 +1,15 @@
+{
+ "name": "beispiel-daemmstoffe",
+ "title": "Beispiel Dämmstoffe GmbH — Audit 2025",
+ "sourceRoot": "./source",
+ "companyName": "Beispiel Dämmstoffe GmbH",
+ "fiscalPeriod": "2025",
+ "public": true,
+ "profile": "gdpdu",
+ "controlPacks": [
+  "core-integrity",
+  "revenue-receivables",
+  "access-journals",
+  "tax-completeness"
+ ]
+}

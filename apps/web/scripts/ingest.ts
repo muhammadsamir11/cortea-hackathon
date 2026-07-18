@@ -4,6 +4,7 @@ import { dataDir, dossierSource, writeJson } from "@almedia/forensic/paths";
 import { parseStructuredDataset } from "@almedia/forensic/structured-ingest";
 import crypto from "node:crypto";
 import type { EvidenceIndex, StructuredDatasetIndex } from "@almedia/forensic/structured-types";
+import { ingestStructuredDossierSqlite } from "@almedia/forensic/sqlite-store";
 
 function artifactName(prefix: string, value: string): string {
   return `${prefix}-${crypto.createHash("sha1").update(value).digest("hex").slice(0, 16)}.json`;
@@ -13,6 +14,19 @@ async function main() {
   const name = process.argv[2] ?? "sample";
   const { sourceRoot: dir, manifest } = dossierSource(name);
   console.log(`Ingesting dossier '${name}' from ${dir}`);
+  if (manifest?.profile === "gdpdu") {
+    const result = await ingestStructuredDossierSqlite(name, dir, manifest);
+    console.log(
+      `${result.documents.length} docs, ${result.records.tables.length} tables (streamed to SQLite)`,
+    );
+    for (const check of result.records.integrity.checks) {
+      console.log(`  ${check.ok ? "✓" : "✗"} ${check.label}: ${check.detail}`);
+    }
+    for (const warning of result.records.integrity.warnings) console.warn(`  ⚠ ${warning}`);
+    console.log(`→ ${dataDir(name)}/{documents,evidence,records,ingestion}.json + records.sqlite`);
+    if (!result.records.integrity.ok) process.exitCode = 1;
+    return;
+  }
   const docs = await ingestDossier(dir);
   const units = docs.reduce((n, d) => n + d.units.length, 0);
   const tokens = manifest ? 0 : estimateTokens(docs);

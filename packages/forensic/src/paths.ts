@@ -42,7 +42,11 @@ export function dossierSource(name: string): { sourceRoot: string; manifest: Dos
 }
 
 export function dataDir(name: string): string {
-  const p = path.join(repoRoot(), "data", name);
+  const configuredRoot = process.env.CORTEA_DATA_ROOT;
+  const root = configuredRoot
+    ? path.resolve(configuredRoot)
+    : path.join(repoRoot(), "data");
+  const p = path.join(root, name);
   fs.mkdirSync(p, { recursive: true });
   return p;
 }

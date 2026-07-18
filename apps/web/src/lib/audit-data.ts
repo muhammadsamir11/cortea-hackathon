@@ -10,6 +10,12 @@ import {
   loadEvidenceUnits,
   loadStructuredTable,
 } from "@almedia/forensic/artifacts";
+import {
+  hasSqliteArtifacts,
+  listSqliteTables,
+  loadSqliteEvidenceWindow,
+  loadSqliteTablePage,
+} from "@almedia/forensic/sqlite-store";
 import type {
   StructuredDataset,
   StructuredDatasetIndex,
@@ -121,6 +127,11 @@ export function loadEvidence(
   const dossier = loadDossier(name);
   const document = dossier?.docs.find((doc) => doc.id === docId);
   if (!dossier || !document) return null;
+  if (hasSqliteArtifacts(name)) {
+    const packet = loadSqliteEvidenceWindow(name, docId, ref);
+    if (!packet) return null;
+    return { document, ...packet };
+  }
   const allUnits = fs.existsSync(path.join(dataRoot(), name, "evidence.json"))
     ? loadEvidenceUnits(name, docId)
     : document.units;
@@ -176,6 +187,14 @@ export function loadRecords(
   requestedPageSize = 50,
 ): RecordsPage | null {
   if (!safeName(name) || !tableId) return null;
+  if (hasSqliteArtifacts(name)) {
+    return loadSqliteTablePage(
+      name,
+      tableId,
+      requestedPage,
+      requestedPageSize,
+    );
+  }
   const file = path.join(dataRoot(), name, "records.json");
   if (!fs.existsSync(file)) return null;
   const table = loadStructuredTable(name, tableId);
@@ -214,6 +233,16 @@ export function listRecordTables(
   }
 > {
   if (!safeName(name)) return [];
+  if (hasSqliteArtifacts(name)) {
+    return listSqliteTables(name).map((table) => ({
+      id: table.id,
+      name: table.name,
+      columns: table.columns,
+      source: table.source,
+      sheet: table.sheet,
+      rowCount: table.rowCount,
+    }));
+  }
   const file = path.join(dataRoot(), name, "records.json");
   const dataset = readIf<StructuredDataset | StructuredDatasetIndex | null>(
     file,

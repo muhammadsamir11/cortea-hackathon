@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import { useEveAgent } from "eve/react";
 import { Alert, AlertDescription, AlertTitle } from "@almedia/ui/components/alert";
@@ -24,6 +24,11 @@ import { CitationChip } from "./components";
 
 const CITE_RE = /\[cite:([^|\]]+)\|([^|\]]+)\|([^\]]*)\]/g;
 const STORAGE_PREFIX = "cortea-investigator:";
+const DOSSIER_CONTEXT_RE = /^\[DOSSIER:[a-z0-9_-]+\]\n/i;
+
+function visibleUserText(text: string): string {
+  return text.replace(DOSSIER_CONTEXT_RE, "");
+}
 
 interface InputRequest {
   requestId: string;
@@ -238,19 +243,22 @@ function InvestigatorThread({
   onView,
   storageKey,
   saved,
+  seedPrompt = "",
 }: {
   data: DossierData;
   onView: (c: Citation) => void;
   storageKey: string;
   saved: SavedThread;
+  seedPrompt?: string;
 }) {
   const router = useRouter();
+  const seedHandled = useRef(false);
   const [input, setInput] = useState("");
   const [answered, setAnswered] = useState<ReadonlySet<string>>(new Set());
   const agent = useEveAgent({
     initialEvents: (saved.events ?? []) as never[],
     initialSession: saved.session as never,
-    onFinish(snapshot: { events: unknown[]; session: unknown }) {
+    onFinish(snapshot: { events: readonly unknown[]; session: unknown }) {
       try {
         window.localStorage.setItem(
           storageKey,
@@ -277,11 +285,32 @@ function InvestigatorThread({
     if (!trimmed || busy) return;
     setInput("");
     try {
-      await agent.send({ message: trimmed });
+      await agent.send({ message: `[DOSSIER:${data.name}]\n${trimmed}` });
     } catch {
       toast.error("Could not send the question. Check the connection and try again.");
     }
   };
+
+  useEffect(() => {
+    const seed = seedPrompt.trim();
+    if (!seed || seedHandled.current || busy) return;
+    seedHandled.current = true;
+
+    const consume = async () => {
+      if (messages.length === 0) {
+        await submit(seed);
+      } else {
+        setInput(seed);
+      }
+      const params = new URLSearchParams(window.location.search);
+      if (!params.has("q")) return;
+      params.delete("q");
+      const query = params.toString();
+      router.replace(query ? `/audit/report?${query}` : "/audit/report");
+    };
+    void consume();
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- consume entry-point seed once
+  }, [seedPrompt, busy, messages.length]);
 
   const respond = async (requestId: string, optionId: string) => {
     setAnswered((prev) => new Set(prev).add(requestId));
@@ -322,7 +351,7 @@ function InvestigatorThread({
                   {message.parts.map((part, index) =>
                     part.type === "text" ? (
                       <span key={index} className="whitespace-pre-wrap">
-                        {(part as { text: string }).text}
+                        {visibleUserText((part as { text: string }).text)}
                       </span>
                     ) : null,
                   )}
@@ -441,9 +470,11 @@ function InvestigatorThread({
 export function InvestigatorTab({
   data,
   onView,
+  seedPrompt,
 }: {
   data: DossierData;
   onView: (c: Citation) => void;
+  seedPrompt?: string;
 }) {
   const storageKey = `${STORAGE_PREFIX}${data.name}`;
   // localStorage is unavailable during SSR — restore only after mount so the
@@ -498,6 +529,7 @@ export function InvestigatorTab({
       onView={onView}
       storageKey={storageKey}
       saved={saved}
+      seedPrompt={seedPrompt}
     />
   );
 }

@@ -145,6 +145,22 @@ export interface Finding {
   engineStatus?: "detected" | "cleared";
   aiStatus?: "not-run" | "confirmed" | "needs-judgment" | "acquitted";
   tribunal?: Tribunal;
+  origin?: "control" | "ai-assisted" | "investigator";
+  analysisRunId?: string;
+}
+
+export interface AnalysisCoverage {
+  executedControls: string[];
+  skippedControls: Array<{ id: string; reason: string }>;
+}
+
+export interface ReviewSummary {
+  pending: number;
+  confirmed: number;
+  acquitted: number;
+  needsJudgment: number;
+  reviewed: number;
+  reviewedPrecision: number | null;
 }
 
 export interface GraphEdge {
@@ -169,6 +185,12 @@ export interface AnalysisMeta {
   companyName?: string;
   fiscalPeriod?: string;
   public?: boolean;
+  analysisRunId?: string;
+  sourceFingerprint?: string;
+  provider?: string;
+  aiAvailable?: boolean;
+  coverage?: AnalysisCoverage;
+  review?: ReviewSummary;
   integrity?: {
     ok: boolean;
     checks: Array<{ id: string; label: string; ok: boolean; detail: string }>;

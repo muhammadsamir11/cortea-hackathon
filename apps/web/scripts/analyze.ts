@@ -3,7 +3,7 @@ import fs from "node:fs";
 import type { AnalysisMeta, DossierDoc, Finding, Unit } from "@almedia/forensic/types";
 import type { StructuredDataset } from "@almedia/forensic/structured-types";
 import { dataDir, readDossierManifest, readJson, writeJson } from "@almedia/forensic/paths";
-import { getModel } from "@almedia/forensic/llm";
+import { getModel, isAiConfigured } from "@almedia/forensic/llm";
 import { classify } from "@almedia/forensic/pipeline/classify";
 import { extractFacts } from "@almedia/forensic/pipeline/extract";
 import { validateFacts } from "@almedia/forensic/pipeline/validate";
@@ -15,10 +15,14 @@ import { buildGraph } from "@almedia/forensic/engine/graph";
 import { renderReport } from "@almedia/forensic/report";
 import { runStructuredEngine } from "@almedia/forensic/structured-engine";
 import { loadEvidenceUnits, loadStructuredDataset } from "@almedia/forensic/artifacts";
+import { hasSqliteArtifacts } from "@almedia/forensic/sqlite-store";
+import { runSqliteControlPacks } from "@almedia/forensic/sqlite-controls";
+import { discoverSqliteCandidates } from "@almedia/forensic/pipeline/discover";
 
 async function main() {
   const name = process.argv[2] ?? "sample";
   const noAi = process.argv.includes("--no-ai");
+  const discover = process.argv.includes("--discover");
   const skipSweep = noAi || process.argv.includes("--no-sweep");
   const skipTribunal = noAi || process.argv.includes("--no-tribunal");
   const dir = dataDir(name);
@@ -28,6 +32,81 @@ async function main() {
     process.exit(1);
   }
   const docs = readJson<DossierDoc[]>(docsFile);
+  if (hasSqliteArtifacts(name)) {
+    if (discover && noAi) throw new Error("Use either --discover or --no-ai, not both.");
+    if (discover && !isAiConfigured()) {
+      throw new Error("--discover requires OPENAI_API_KEY or GOOGLE_GENERATIVE_AI_API_KEY. Use --no-ai for a local-only run.");
+    }
+    const manifest = readDossierManifest(name);
+    if (!manifest) throw new Error(`SQLite dossier ${name} requires a manifest.`);
+    const ingestion = readJson<{ sourceFingerprint?: string; integrity?: AnalysisMeta["integrity"] }>(
+      path.join(dir, "ingestion.json"),
+    );
+    const analysisRunId = process.env.CORTEA_ANALYSIS_RUN_ID ?? `run-${Date.now().toString(36)}`;
+    console.log(`Analyzing '${name}' with capability-based controls`);
+    const result = runSqliteControlPacks(
+      name,
+      manifest.companyName,
+      manifest.fiscalPeriod,
+      analysisRunId,
+      manifest.controlPacks ?? [],
+    );
+    let findings = result.findings;
+    let provider = "offline-deterministic";
+    if (discover) {
+      const discovered = await discoverSqliteCandidates(
+        name,
+        manifest.companyName,
+        manifest.fiscalPeriod,
+        analysisRunId,
+        findings,
+      );
+      findings = [...findings, ...discovered.findings];
+      provider = discovered.provider;
+      console.log(`  ${discovered.findings.length} citation-verified AI candidate(s)`);
+    }
+    const review = {
+      pending: findings.filter((finding) => finding.aiStatus === "not-run").length,
+      confirmed: 0,
+      acquitted: 0,
+      needsJudgment: findings.filter((finding) => finding.aiStatus === "needs-judgment").length,
+      reviewed: 0,
+      reviewedPrecision: null,
+    };
+    const meta: AnalysisMeta = {
+      dossier: name,
+      generatedAt: new Date().toISOString(),
+      model: provider,
+      provider,
+      companyName: manifest.companyName,
+      fiscalPeriod: manifest.fiscalPeriod,
+      public: manifest.public,
+      aiAvailable: isAiConfigured(),
+      analysisRunId,
+      sourceFingerprint: ingestion.sourceFingerprint,
+      integrity: ingestion.integrity,
+      coverage: result.coverage,
+      review,
+      stats: {
+        docs: docs.length,
+        units: docs.reduce((sum, doc) => sum + (doc.unitCount ?? 0), 0),
+        facts: 0,
+        verifiedFacts: 0,
+        findings: findings.length,
+        acquitted: 0,
+      },
+    };
+    writeJson(path.join(dir, "facts.json"), []);
+    writeJson(path.join(dir, "entities.json"), result.entities);
+    writeJson(path.join(dir, "findings.json"), findings);
+    writeJson(path.join(dir, "graph.json"), result.graph);
+    writeJson(path.join(dir, "meta.json"), meta);
+    fs.writeFileSync(path.join(dir, "report.md"), renderReport(findings, docs, meta));
+    console.log(`  ${findings.length} fresh finding candidate(s)`);
+    console.log(`  controls: ${result.coverage.executedControls.length} executed, ${result.coverage.skippedControls.length} skipped`);
+    console.log(`\n→ ${dir}/{findings,graph,meta}.json + report.md`);
+    return;
+  }
   const evidenceFile = path.join(dir, "evidence.json");
   if (fs.existsSync(evidenceFile)) {
     for (const doc of docs) doc.units = loadEvidenceUnits(name, doc.id);

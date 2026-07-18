@@ -1,6 +1,6 @@
 import { defineTool } from "eve/tools";
 import { z } from "zod";
-import { loadDocs, loadUnits } from "../lib/dossier";
+import { loadDocs, loadUnits, searchEvidence } from "../lib/dossier";
 
 const MAX_HITS = 12;
 const SNIPPET_CHARS = 700;
@@ -15,13 +15,21 @@ export default defineTool({
   description:
     "Defense counsel's full-text search across every evidence unit in the dossier (ledgers, invoices, contracts, emails). Pass 2-5 plain space-separated keywords — rare, specific terms rank highest; boolean operators like OR are ignored. Returns citable units {docId, filename, ref, text}, best matches first. The corpus is largely German — search German terms for German documents.",
   inputSchema: z.object({
+    dossier: z.string().regex(/^[a-z0-9_-]+$/i),
     query: z
       .string()
       .min(2)
       .describe("2-5 space-separated keywords; no boolean operators"),
     docId: z.string().optional().describe("Restrict the search to one document"),
   }),
-  async execute({ query, docId }) {
+  async execute({ dossier, query, docId }) {
+    const indexed = searchEvidence(dossier, query, docId);
+    if (indexed) {
+      return {
+        hits: indexed.hits.map((hit) => ({ ...hit, text: hit.text.slice(0, SNIPPET_CHARS) })),
+        totalMatches: indexed.totalMatches,
+      };
+    }
     const terms = [
       ...new Set(
         query
@@ -32,10 +40,10 @@ export default defineTool({
     ];
     if (terms.length === 0) return { hits: [], totalMatches: 0 };
 
-    const units = loadDocs()
+    const units = loadDocs(dossier)
       .filter((doc) => !docId || doc.id === docId)
       .flatMap((doc) =>
-        loadUnits(doc.id).map((unit) => ({
+        loadUnits(dossier, doc.id).map((unit) => ({
           docId: doc.id,
           filename: doc.filename,
           unit,

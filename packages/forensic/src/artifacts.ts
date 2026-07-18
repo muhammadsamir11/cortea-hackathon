@@ -21,7 +21,7 @@ export function loadEvidenceUnits(name: string, docId: string): Unit[] {
   const index = readJson<EvidenceIndex | Record<string, Unit[]>>(file);
   const entry = index[docId];
   if (Array.isArray(entry)) return entry;
-  if (!entry) return [];
+  if (!entry?.file) return [];
   return readJson<Unit[]>(safeArtifactPath(dir, entry.file));
 }
 
@@ -31,6 +31,7 @@ export function loadStructuredTable(name: string, tableId: string): StructuredTa
   const table = index.tables.find((candidate) => candidate.id === tableId);
   if (!table) return null;
   if (isStructuredTable(table)) return table;
+  if (!table.file) return null;
   return { ...table, rows: readJson<StructuredTable["rows"]>(safeArtifactPath(dir, table.file)) };
 }
 
@@ -42,6 +43,7 @@ export function loadStructuredDataset(name: string): StructuredDataset {
     ...index,
     tables: index.tables.map((table) => {
       if (isStructuredTable(table)) return table;
+      if (!table.file) throw new Error(`Table ${table.id} is SQLite-backed and cannot be loaded as a complete in-memory dataset.`);
       return { ...table, rows: readJson<StructuredTable["rows"]>(safeArtifactPath(dir, table.file)) };
     }),
   };

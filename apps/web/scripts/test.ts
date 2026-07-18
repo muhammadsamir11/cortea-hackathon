@@ -5,6 +5,14 @@ import { dataDir, readJson } from "@almedia/forensic/paths";
 import { parseAmount } from "@almedia/forensic/normalize";
 import { parseDelimitedLine } from "@almedia/forensic/structured-ingest";
 import { loadEvidenceUnits, loadStructuredDataset } from "@almedia/forensic/artifacts";
+import {
+  hasSqliteArtifacts,
+  listSqliteTables,
+  loadSqliteEvidenceWindow,
+  loadSqliteTablePage,
+  searchSqliteEvidence,
+  verifySqliteCitation,
+} from "@almedia/forensic/sqlite-store";
 import { normalizeAccountingRecords } from "@almedia/forensic/normalized-records";
 import { buildEntityIndex } from "@almedia/forensic/engine/entities";
 import { filterGraph } from "../src/app/audit/_components/money-graph/filter-graph";
@@ -126,6 +134,44 @@ assert.deepEqual(
   );
 }
 
+if (hasSqliteArtifacts("beispiel-daemmstoffe")) {
+  const largeDir = dataDir("beispiel-daemmstoffe");
+  const largeFindings = readJson<Finding[]>(path.join(largeDir, "findings.json"));
+  const tables = listSqliteTables("beispiel-daemmstoffe");
+  assert.equal(tables.length, 35, "every GDPdU and supporting table is registered");
+  assert.equal(
+    tables.find((table) => table.id === "Sachkontobuchungen")?.rowCount,
+    1_083_723,
+    "large ledger remains paginated in SQLite",
+  );
+  const page = loadSqliteTablePage("beispiel-daemmstoffe", "Sachkontobuchungen", 2, 25);
+  assert.equal(page?.rows.length, 25, "large record API returns only the requested page");
+  assert.equal(page?.page, 2);
+  const search = searchSqliteEvidence("beispiel-daemmstoffe", "Bill Hold Gefahrenübergang", undefined, 8);
+  assert.ok(search.hits.length > 0, "FTS search finds bounded new-dossier evidence");
+  assert.ok(
+    largeFindings.every((finding) => finding.citations.every((item) => verifySqliteCitation("beispiel-daemmstoffe", item))),
+    "every new finding citation verifies against the new dossier",
+  );
+  assert.equal(
+    verifySqliteCitation("beispiel-daemmstoffe", { docId: "missing", ref: "p.1", quote: "invented" }),
+    false,
+    "invented citations are rejected",
+  );
+  const first = largeFindings[0]?.citations[0];
+  assert.ok(first && loadSqliteEvidenceWindow("beispiel-daemmstoffe", first.docId, first.ref)?.activeRef === first.ref);
+  assert.ok(
+    largeFindings.every((finding) => finding.analysisRunId && finding.origin === "control"),
+    "new findings carry run and origin metadata",
+  );
+  assert.ok(
+    largeFindings.every((finding) =>
+      !readJson<Finding[]>(path.join(dir, "findings.json")).some(
+        (baseline) => baseline.id === finding.id,
+      ),
+    ),
+    "new findings are isolated from the Muster baseline",
+  );
+}
+
 console.log("Parser and ingestion assertions passed.");
-
-

@@ -14,6 +14,8 @@
     "test": "turbo run test",
     "ingest": "pnpm --filter web ingest",
     "analyze": "pnpm --filter web analyze",
+    "dossier:import": "pnpm --filter web dossier:import",
+    "dossier:refresh": "pnpm --filter web dossier:refresh",
     "benchmark:muster": "pnpm --filter web benchmark:muster",
     "dev:web": "turbo run dev -F web",
     "prepare": "lefthook install"

@@ -17,7 +17,12 @@ const SEV_META: Record<
   { rowLabel: string; legend: string; token: string }
 > = {
   high: { rowLabel: "High", legend: "High", token: "var(--destructive)" },
-  medium: { rowLabel: "Med", legend: "Medium", token: "var(--warning)" },
+  medium: {
+    rowLabel: "Med",
+    legend: "Medium",
+    // Lighter yellow than global --warning
+    token: "color-mix(in oklch, var(--warning) 48%, var(--background))",
+  },
   low: { rowLabel: "Low", legend: "Low", token: "var(--success)" },
 };
 
@@ -92,10 +97,10 @@ function cellVisual(
   max: number,
   severity: Severity,
 ): { backgroundColor: string; color: string } {
-  // High/red stays closer to true destructive; med/low stay softer.
-  const emptyMix = severity === "high" ? 18 : 14;
-  const filledBase = severity === "high" ? 30 : 24;
-  const filledSpan = severity === "high" ? 40 : 36;
+  // High/red stays closer to true destructive; medium yellow stays light; low softer.
+  const emptyMix = severity === "high" ? 18 : severity === "medium" ? 10 : 14;
+  const filledBase = severity === "high" ? 30 : severity === "medium" ? 18 : 24;
+  const filledSpan = severity === "high" ? 40 : severity === "medium" ? 28 : 36;
 
   if (count <= 0) {
     return {

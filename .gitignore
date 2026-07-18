@@ -16,6 +16,7 @@ dist
 build
 out
 .next
+.next-build
 .vinxi
 .output
 .react-router
@@ -73,3 +74,12 @@ Thumbs.db
 
 # Eve agent runtime state (sessions, dev-server bookkeeping)
 .eve/
+
+# Local dossier sources and generated large-dossier artifacts
+dossier/*/source/
+data/.staging/
+data/.history/
+data/**/*.sqlite
+data/**/*.sqlite-shm
+data/**/*.sqlite-wal
+data/beispiel-daemmstoffe/

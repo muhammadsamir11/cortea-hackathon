@@ -7,7 +7,17 @@ import type { Citation, DossierDoc, Finding } from "@almedia/forensic/types";
 export { Badge } from "@almedia/ui/components/badge";
 
 export type ReviewVerdict = "confirmed" | "needs-judgment" | "acquitted" | "unreviewed";
-export const verdictOf = (finding: Finding): ReviewVerdict => finding.tribunal?.verdict ?? "unreviewed";
+export const verdictOf = (finding: Finding): ReviewVerdict => {
+  if (finding.tribunal?.verdict) return finding.tribunal.verdict;
+  if (
+    finding.aiStatus === "confirmed" ||
+    finding.aiStatus === "needs-judgment" ||
+    finding.aiStatus === "acquitted"
+  ) {
+    return finding.aiStatus;
+  }
+  return "unreviewed";
+};
 
 export const eur = (n: number) =>
   "€" + n.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 });

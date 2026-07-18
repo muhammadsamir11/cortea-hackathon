@@ -18,9 +18,9 @@ function tabFromParam(value: string | undefined): WorkspaceTab {
 export default async function AuditPage({
   searchParams,
 }: {
-  searchParams: Promise<{ d?: string; tab?: string }>;
+  searchParams: Promise<{ d?: string; tab?: string; q?: string }>;
 }) {
-  const { d, tab } = await searchParams;
+  const { d, tab, q } = await searchParams;
   const dossiers = listDossiers();
   const name = d && dossiers.includes(d) ? d : (dossiers[0] ?? null);
   const data = name ? loadDossier(name) : null;
@@ -61,5 +61,12 @@ export default async function AuditPage({
       </WorkbenchShell>
     );
   }
-  return <Workspace data={data} dossiers={dossiers} activeNav={tabFromParam(tab)} />;
+  return (
+    <Workspace
+      data={data}
+      dossiers={dossiers}
+      activeNav={tabFromParam(tab)}
+      investigatorPrompt={q}
+    />
+  );
 }

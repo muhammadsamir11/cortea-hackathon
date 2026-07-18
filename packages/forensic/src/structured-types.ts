@@ -7,6 +7,10 @@ export interface DossierManifest {
   companyName: string;
   fiscalPeriod: string;
   public: boolean;
+  /** Parser family used by the dossier. Omitted for legacy fixtures. */
+  profile?: "gdpdu";
+  /** Capability-based control packs selected for analysis. */
+  controlPacks?: string[];
   /** Stable analysis timestamp for reproducible example reports. */
   analysisAsOf?: string;
 }
@@ -50,7 +54,8 @@ export interface StructuredDataset {
 
 export interface StructuredTableIndex extends Omit<StructuredTable, "rows"> {
   rowCount: number;
-  file: string;
+  file?: string;
+  storage?: "json" | "sqlite";
 }
 
 export interface StructuredDatasetIndex extends Omit<StructuredDataset, "tables"> {
@@ -58,5 +63,5 @@ export interface StructuredDatasetIndex extends Omit<StructuredDataset, "tables"
 }
 
 export interface EvidenceIndex {
-  [docId: string]: { file: string; count: number };
+  [docId: string]: { file?: string; count: number; storage?: "json" | "sqlite" };
 }
