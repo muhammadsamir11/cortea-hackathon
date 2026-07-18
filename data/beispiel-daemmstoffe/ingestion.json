@@ -1,0 +1,159 @@
+{
+ "dossier": "beispiel-daemmstoffe",
+ "sourceRoot": "../../dossier/beispiel-daemmstoffe/source",
+ "generatedAt": "2026-07-18T17:23:37.277Z",
+ "docs": 44,
+ "units": 1957507,
+ "sourceFingerprint": "5d3786864ddbbb6848883d5ca31153ec11465d72fc03d67ce30a272357886fec",
+ "storage": "sqlite",
+ "integrity": {
+  "ok": true,
+  "checks": [
+   {
+    "id": "rows:Anlagen",
+    "label": "Anlagen record count",
+    "ok": true,
+    "detail": "414 parsed / 414 expected"
+   },
+   {
+    "id": "hash:Anlagen",
+    "label": "Anlagen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Anlagenbuchungen",
+    "label": "Anlagenbuchungen record count",
+    "ok": true,
+    "detail": "3118 parsed / 3118 expected"
+   },
+   {
+    "id": "hash:Anlagenbuchungen",
+    "label": "Anlagenbuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Kunden",
+    "label": "Kunden record count",
+    "ok": true,
+    "detail": "325 parsed / 325 expected"
+   },
+   {
+    "id": "hash:Kunden",
+    "label": "Kunden SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Kundenbuchungen",
+    "label": "Kundenbuchungen record count",
+    "ok": true,
+    "detail": "87762 parsed / 87762 expected"
+   },
+   {
+    "id": "hash:Kundenbuchungen",
+    "label": "Kundenbuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Lieferanten",
+    "label": "Lieferanten record count",
+    "ok": true,
+    "detail": "1035 parsed / 1035 expected"
+   },
+   {
+    "id": "hash:Lieferanten",
+    "label": "Lieferanten SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Lieferantenbuchungen",
+    "label": "Lieferantenbuchungen record count",
+    "ok": true,
+    "detail": "33913 parsed / 33913 expected"
+   },
+   {
+    "id": "hash:Lieferantenbuchungen",
+    "label": "Lieferantenbuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Sachkonten",
+    "label": "Sachkonten record count",
+    "ok": true,
+    "detail": "1116 parsed / 1116 expected"
+   },
+   {
+    "id": "hash:Sachkonten",
+    "label": "Sachkonten SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Sachkontobuchungen",
+    "label": "Sachkontobuchungen record count",
+    "ok": true,
+    "detail": "1083723 parsed / 1083723 expected"
+   },
+   {
+    "id": "hash:Sachkontobuchungen",
+    "label": "Sachkontobuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Umsatzsteuercodes",
+    "label": "Umsatzsteuercodes record count",
+    "ok": true,
+    "detail": "23 parsed / 23 expected"
+   },
+   {
+    "id": "hash:Umsatzsteuercodes",
+    "label": "Umsatzsteuercodes SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Umsatzsteuerbuchungen",
+    "label": "Umsatzsteuerbuchungen record count",
+    "ok": true,
+    "detail": "351444 parsed / 351444 expected"
+   },
+   {
+    "id": "hash:Umsatzsteuerbuchungen",
+    "label": "Umsatzsteuerbuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:MehrwertsteuerGruppen",
+    "label": "MehrwertsteuerGruppen record count",
+    "ok": true,
+    "detail": "25 parsed / 25 expected"
+   },
+   {
+    "id": "hash:MehrwertsteuerGruppen",
+    "label": "MehrwertsteuerGruppen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "ledger:balanced",
+    "label": "General ledger balances",
+    "ok": true,
+    "detail": "signed row sum EUR 0.00"
+   },
+   {
+    "id": "subledgers:reconciled",
+    "label": "Subledgers reconcile to the general ledger",
+    "ok": true,
+    "detail": "debtor and creditor differences are zero"
+   }
+  ],
+  "warnings": []
+ }
+}

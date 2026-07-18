@@ -1,0 +1,853 @@
+{
+ "dossier": "beispiel-daemmstoffe",
+ "companyName": "Beispiel Dämmstoffe GmbH",
+ "fiscalPeriod": "2025",
+ "tables": [
+  {
+   "id": "Anlagen",
+   "name": "Anlagen",
+   "docId": "av-anlagen",
+   "relativePath": "AV/Anlagen.txt",
+   "columns": [
+    "ANLAGENNUMMER",
+    "ANLAGENBEZEICHNUNG",
+    "ANLAGENGRUPPE",
+    "ANLAGENTYP",
+    "ANLAGENSTANDORT",
+    "HAUPTANLAGE",
+    "ANLAGENHERSTELLER",
+    "ANLAGENMODELL",
+    "STATUS"
+   ],
+   "source": "gdpdu",
+   "rowCount": 414,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Anlagenbuchungen",
+   "name": "Anlagenbuchungen",
+   "docId": "av-anlagenbuchungen",
+   "relativePath": "AV/Anlagenbuchungen.txt",
+   "columns": [
+    "ANLAGENNUMMER",
+    "WERTSTELLUNG",
+    "BELEGNUMMER",
+    "BUCHUNGSBETRAG",
+    "BUCHUNGSWÄHRUNG",
+    "BUCHUNGSWERT",
+    "BUCHUNGSART",
+    "BUCHUNGSTEXT",
+    "ANLAGENGRUPPE",
+    "BUCHUNGSEBENE"
+   ],
+   "source": "gdpdu",
+   "rowCount": 3118,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Abstimmung_Nebenbuecher_HB_2025:Abstimmung",
+   "name": "Abstimmung_Nebenbuecher_HB_2025:Abstimmung",
+   "docId": "begleitdokumente-abstimmung-nebenbuecher-hb-2025",
+   "relativePath": "Begleitdokumente/Abstimmung_Nebenbuecher_HB_2025.xlsx",
+   "columns": [
+    "./. kreditorische Debitorensalden (Umgliederung auf HB-Konto 332000)",
+    "2,787,461.44",
+    "98 Personenkonten mit Habensaldo"
+   ],
+   "source": "xlsx",
+   "sheet": "Abstimmung",
+   "rowCount": 17,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Abstimmung_Nebenbuecher_HB_2025:Wertberichtigungen",
+   "name": "Abstimmung_Nebenbuecher_HB_2025:Wertberichtigungen",
+   "docId": "begleitdokumente-abstimmung-nebenbuecher-hb-2025",
+   "relativePath": "Begleitdokumente/Abstimmung_Nebenbuecher_HB_2025.xlsx",
+   "columns": [
+    "Überfällige debitorische offene Posten 1-30 Tage",
+    "1,082,625.70",
+    "laut OP-Liste Debitoren, Altersstruktur"
+   ],
+   "source": "xlsx",
+   "sheet": "Wertberichtigungen",
+   "rowCount": 4,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Aenderungsprotokoll_2025",
+   "name": "Aenderungsprotokoll_2025",
+   "docId": "begleitdokumente-aenderungsprotokoll-2025",
+   "relativePath": "Begleitdokumente/Aenderungsprotokoll_2025.csv",
+   "columns": [
+    "BUCHUNGSNUMMER",
+    "SACHKONTO",
+    "BUCHUNGSDATUM",
+    "AENDERUNGSART",
+    "BENUTZER",
+    "GEAENDERT_AM",
+    "GEAENDERT_UM",
+    "BEMERKUNG",
+    "FESTSCHREIBUNG_VOR_AENDERUNG"
+   ],
+   "source": "csv",
+   "rowCount": 4722,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Berechtigungsauswertung_2025:Berechtigungen",
+   "name": "Berechtigungsauswertung_2025:Berechtigungen",
+   "docId": "begleitdokumente-berechtigungsauswertung-2025",
+   "relativePath": "Begleitdokumente/Berechtigungsauswertung_2025.xlsx",
+   "columns": [
+    "Benutzerkennung",
+    "Abteilung",
+    "Rolle",
+    "Management",
+    "Buchen",
+    "Journal freigeben",
+    "Zahlungslauf",
+    "Stammdaten ändern",
+    "Perioden öffnen/schließen",
+    "Systemadmin",
+    "Status Konto",
+    "Buchungszeilen 2025",
+    "Volumen abs. EUR",
+    "Bemerkung"
+   ],
+   "source": "xlsx",
+   "sheet": "Berechtigungen",
+   "rowCount": 23,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Buchungen_Folgeperiode_2026",
+   "name": "Buchungen_Folgeperiode_2026",
+   "docId": "begleitdokumente-buchungen-folgeperiode-2026",
+   "relativePath": "Begleitdokumente/Buchungen_Folgeperiode_2026.csv",
+   "columns": [
+    "BUCHUNGSDATUM",
+    "BELEG",
+    "DEBITOR",
+    "DEBITORNAME",
+    "BETRAG_EUR",
+    "WAEHRUNG",
+    "GEGENKONTO_HB",
+    "BUCHUNGSTEXT"
+   ],
+   "source": "csv",
+   "rowCount": 114,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Fakturajournal_2025_erweitert",
+   "name": "Fakturajournal_2025_erweitert",
+   "docId": "begleitdokumente-fakturajournal-2025-erweitert",
+   "relativePath": "Begleitdokumente/Fakturajournal_2025_erweitert.csv",
+   "columns": [
+    "RECHNUNGSNUMMER",
+    "ART",
+    "DEBITOR",
+    "DEBITORNAME",
+    "KUNDENGRUPPE",
+    "FAKTURADATUM",
+    "LEISTUNGSDATUM",
+    "WARENAUSGANG_NR",
+    "WARENAUSGANG_DATUM",
+    "LIEFERART",
+    "BETRAG_EUR",
+    "WAEHRUNG",
+    "STORNO_REF",
+    "BUCHUNGSTEXT",
+    "BEMERKUNG"
+   ],
+   "source": "csv",
+   "rowCount": 21567,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Fakturajournal_Januar_2026",
+   "name": "Fakturajournal_Januar_2026",
+   "docId": "begleitdokumente-fakturajournal-januar-2026",
+   "relativePath": "Begleitdokumente/Fakturajournal_Januar_2026.csv",
+   "columns": [
+    "RECHNUNGSNUMMER",
+    "ART",
+    "DEBITOR",
+    "DEBITORNAME",
+    "FAKTURADATUM",
+    "LEISTUNGSDATUM",
+    "BETRAG_EUR",
+    "WAEHRUNG",
+    "BEMERKUNG"
+   ],
+   "source": "csv",
+   "rowCount": 1183,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Freigabe-Log_Journale_2025",
+   "name": "Freigabe-Log_Journale_2025",
+   "docId": "begleitdokumente-freigabe-log-journale-2025",
+   "relativePath": "Begleitdokumente/Freigabe-Log_Journale_2025.csv",
+   "columns": [
+    "ERFASSUNGSNUMMER",
+    "JOURNALNAME",
+    "ANZAHL_ZEILEN",
+    "SUMME_ABS_EUR",
+    "ERSTELLER",
+    "ERFASST_AM",
+    "ERFASST_UM",
+    "FREIGEBER",
+    "FREIGABEDATUM",
+    "FREIGABESTATUS"
+   ],
+   "source": "csv",
+   "rowCount": 3116,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Gesellschafterliste_Beteiligungen",
+   "name": "Gesellschafterliste_Beteiligungen",
+   "docId": "begleitdokumente-gesellschafterliste-beteiligungen",
+   "relativePath": "Begleitdokumente/Gesellschafterliste_Beteiligungen.csv",
+   "columns": [
+    "NAME",
+    "ANTEIL_PROZENT",
+    "IC_KENNZEICHEN",
+    "VERHAELTNIS",
+    "BEMERKUNG"
+   ],
+   "source": "csv",
+   "rowCount": 24,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Kontenplan-Mapping",
+   "name": "Kontenplan-Mapping",
+   "docId": "begleitdokumente-kontenplan-mapping",
+   "relativePath": "Begleitdokumente/Kontenplan-Mapping.csv",
+   "columns": [
+    "KONTO_JOURNALFORMAT",
+    "HAUPTKONTO",
+    "KONTOBEZEICHNUNG",
+    "ANZAHL_BUCHUNGEN"
+   ],
+   "source": "csv",
+   "rowCount": 339326,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Kreditlimitliste_Debitoren_2025",
+   "name": "Kreditlimitliste_Debitoren_2025",
+   "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+   "relativePath": "Begleitdokumente/Kreditlimitliste_Debitoren_2025.csv",
+   "columns": [
+    "DEBITOR",
+    "DEBITORNAME",
+    "KREDITLIMIT_EUR",
+    "AUSNUTZUNG_31_12_2025_EUR",
+    "STATUS",
+    "BESICHERUNG"
+   ],
+   "source": "csv",
+   "rowCount": 322,
+   "storage": "sqlite"
+  },
+  {
+   "id": "OP-Liste_Debitoren_2025:Altersstruktur",
+   "name": "OP-Liste_Debitoren_2025:Altersstruktur",
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "relativePath": "Begleitdokumente/OP-Liste_Debitoren_2025.xlsx",
+   "columns": [
+    "Altersklasse",
+    "Betrag EUR",
+    "Anteil"
+   ],
+   "source": "xlsx",
+   "sheet": "Altersstruktur",
+   "rowCount": 7,
+   "storage": "sqlite"
+  },
+  {
+   "id": "OP-Liste_Debitoren_2025:Offene Posten",
+   "name": "OP-Liste_Debitoren_2025:Offene Posten",
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "relativePath": "Begleitdokumente/OP-Liste_Debitoren_2025.xlsx",
+   "columns": [
+    "Konto",
+    "Name",
+    "Gruppe",
+    "Belegnummer",
+    "Belegdatum",
+    "Fällig am",
+    "Tage überfällig",
+    "Altersklasse",
+    "Betrag EUR",
+    "Buchungsart",
+    "Buchungstext"
+   ],
+   "source": "xlsx",
+   "sheet": "Offene Posten",
+   "rowCount": 937,
+   "storage": "sqlite"
+  },
+  {
+   "id": "OP-Liste_Debitoren_2025:Saldenliste Personenkonten",
+   "name": "OP-Liste_Debitoren_2025:Saldenliste Personenkonten",
+   "docId": "begleitdokumente-op-liste-debitoren-2025",
+   "relativePath": "Begleitdokumente/OP-Liste_Debitoren_2025.xlsx",
+   "columns": [
+    "Konto",
+    "Name",
+    "Gruppe",
+    "EB 01.01.2025",
+    "Bewegung 2025",
+    "Saldo 31.12.2025",
+    "Anzahl OP"
+   ],
+   "source": "xlsx",
+   "sheet": "Saldenliste Personenkonten",
+   "rowCount": 212,
+   "storage": "sqlite"
+  },
+  {
+   "id": "OP-Liste_Kreditoren_2025:Altersstruktur",
+   "name": "OP-Liste_Kreditoren_2025:Altersstruktur",
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "relativePath": "Begleitdokumente/OP-Liste_Kreditoren_2025.xlsx",
+   "columns": [
+    "Altersklasse",
+    "Betrag EUR",
+    "Anteil"
+   ],
+   "source": "xlsx",
+   "sheet": "Altersstruktur",
+   "rowCount": 5,
+   "storage": "sqlite"
+  },
+  {
+   "id": "OP-Liste_Kreditoren_2025:Offene Posten",
+   "name": "OP-Liste_Kreditoren_2025:Offene Posten",
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "relativePath": "Begleitdokumente/OP-Liste_Kreditoren_2025.xlsx",
+   "columns": [
+    "Konto",
+    "Name",
+    "Gruppe",
+    "Belegnummer",
+    "Belegdatum",
+    "Fällig am",
+    "Tage überfällig",
+    "Altersklasse",
+    "Betrag EUR",
+    "Buchungsart",
+    "Buchungstext"
+   ],
+   "source": "xlsx",
+   "sheet": "Offene Posten",
+   "rowCount": 535,
+   "storage": "sqlite"
+  },
+  {
+   "id": "OP-Liste_Kreditoren_2025:Saldenliste Personenkonten",
+   "name": "OP-Liste_Kreditoren_2025:Saldenliste Personenkonten",
+   "docId": "begleitdokumente-op-liste-kreditoren-2025",
+   "relativePath": "Begleitdokumente/OP-Liste_Kreditoren_2025.xlsx",
+   "columns": [
+    "Konto",
+    "Name",
+    "Gruppe",
+    "EB 01.01.2025",
+    "Bewegung 2025",
+    "Saldo 31.12.2025",
+    "Anzahl OP"
+   ],
+   "source": "xlsx",
+   "sheet": "Saldenliste Personenkonten",
+   "rowCount": 163,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Rechtsfaelle_Insolvenzen",
+   "name": "Rechtsfaelle_Insolvenzen",
+   "docId": "begleitdokumente-rechtsfaelle-insolvenzen",
+   "relativePath": "Begleitdokumente/Rechtsfaelle_Insolvenzen.csv",
+   "columns": [
+    "DEBITOR",
+    "DEBITORNAME",
+    "DATUM",
+    "STATUS",
+    "FORDERUNG_EUR",
+    "BEMERKUNG"
+   ],
+   "source": "csv",
+   "rowCount": 3,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Saldenliste_2024_Vorjahr:Saldenliste 31.12.2024",
+   "name": "Saldenliste_2024_Vorjahr:Saldenliste 31.12.2024",
+   "docId": "begleitdokumente-saldenliste-2024-vorjahr",
+   "relativePath": "Begleitdokumente/Saldenliste_2024_Vorjahr.xlsx",
+   "columns": [
+    "Konto",
+    "Bezeichnung",
+    "Kontenart",
+    "Saldo 31.12.2024"
+   ],
+   "source": "xlsx",
+   "sheet": "Saldenliste 31.12.2024",
+   "rowCount": 79,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Saldenliste_2025_mit_Ueberleitung:Saldenliste 2025",
+   "name": "Saldenliste_2025_mit_Ueberleitung:Saldenliste 2025",
+   "docId": "begleitdokumente-saldenliste-2025-mit-ueberleitung",
+   "relativePath": "Begleitdokumente/Saldenliste_2025_mit_Ueberleitung.xlsx",
+   "columns": [
+    "Konto",
+    "Bezeichnung",
+    "Kontenart",
+    "EB 01.01.2025",
+    "Soll 2025",
+    "Haben 2025",
+    "Saldo 31.12.2025"
+   ],
+   "source": "xlsx",
+   "sheet": "Saldenliste 2025",
+   "rowCount": 299,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Saldenliste_2025_mit_Ueberleitung:Überleitung JA 2025",
+   "name": "Saldenliste_2025_mit_Ueberleitung:Überleitung JA 2025",
+   "docId": "begleitdokumente-saldenliste-2025-mit-ueberleitung",
+   "relativePath": "Begleitdokumente/Saldenliste_2025_mit_Ueberleitung.xlsx",
+   "columns": [
+    "COL_1",
+    "Top-Side-Adjustment TSA-2025-01: Drohverlustrückstellung Absatzmarkt PL",
+    "(850,000.00)",
+    "Manuelle Anpassung auf Ebene Jahresabschluss, NICHT im Hauptbuch gebucht (Vorstandsbeschluss 30.01.2026)"
+   ],
+   "source": "xlsx",
+   "sheet": "Überleitung JA 2025",
+   "rowCount": 1,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Stammdaten-Statusliste_2025",
+   "name": "Stammdaten-Statusliste_2025",
+   "docId": "begleitdokumente-stammdaten-statusliste-2025",
+   "relativePath": "Begleitdokumente/Stammdaten-Statusliste_2025.csv",
+   "columns": [
+    "KONTONUMMER",
+    "ART",
+    "NAME",
+    "STATUS",
+    "GESPERRT_AM",
+    "GELOESCHT_AM",
+    "CPD_KENNZEICHEN"
+   ],
+   "source": "csv",
+   "rowCount": 1360,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Stammdatenaenderungen_Debitoren_2025",
+   "name": "Stammdatenaenderungen_Debitoren_2025",
+   "docId": "begleitdokumente-stammdatenaenderungen-debitoren-2025",
+   "relativePath": "Begleitdokumente/Stammdatenaenderungen_Debitoren_2025.csv",
+   "columns": [
+    "DATUM",
+    "DEBITOR",
+    "DEBITORNAME",
+    "FELD",
+    "WERT_ALT",
+    "WERT_NEU",
+    "GEAENDERT_VON",
+    "GENEHMIGT_VON",
+    "GENEHMIGT"
+   ],
+   "source": "csv",
+   "rowCount": 59,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Warenausgangsliste_2025",
+   "name": "Warenausgangsliste_2025",
+   "docId": "begleitdokumente-warenausgangsliste-2025",
+   "relativePath": "Begleitdokumente/Warenausgangsliste_2025.csv",
+   "columns": [
+    "WARENAUSGANG_NR",
+    "WARENAUSGANG_DATUM",
+    "RECHNUNGSNUMMER",
+    "DEBITOR",
+    "DEBITORNAME",
+    "BETRAG_EUR",
+    "LAGERORT"
+   ],
+   "source": "csv",
+   "rowCount": 20490,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Kunden",
+   "name": "Kunden",
+   "docId": "debitoren-kunden",
+   "relativePath": "Debitoren/Kunden.txt",
+   "columns": [
+    "KUNDENKONTONUMMER",
+    "KUNDENUSTIDNR",
+    "KUNDENSTRASSE",
+    "KUNDENPLZ",
+    "KUNDENORT",
+    "KUNDENSTAAT",
+    "KUNDENNAME",
+    "KUNDENGRUPPE",
+    "KUNDENEIGENEKONTONR",
+    "KUNDENLIEFERANTENNR",
+    "KUNDENRECHNUNGSKONTO",
+    "MWST_GRUPPE",
+    "WAHRUNG"
+   ],
+   "source": "gdpdu",
+   "rowCount": 325,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Kundenbuchungen",
+   "name": "Kundenbuchungen",
+   "docId": "debitoren-kundenbuchungen",
+   "relativePath": "Debitoren/Kundenbuchungen.txt",
+   "columns": [
+    "KUNDENKONTONUMMER",
+    "BUCHUNGSNUMMER",
+    "BELEGDATUM",
+    "BELEGNUMMER",
+    "BUCHUNGSDATUM",
+    "BUCHUNGSTEXT",
+    "BUCHUNGSBETRAG",
+    "BUCHUNGSWÄHRUNG",
+    "BUCHUNGSWERT",
+    "LETZTER_AUSGLEICHSBELEG",
+    "LETZTER_AUSGLEICH",
+    "BUCHUNGSART"
+   ],
+   "source": "gdpdu",
+   "rowCount": 87762,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Lieferanten",
+   "name": "Lieferanten",
+   "docId": "kreditoren-lieferanten",
+   "relativePath": "Kreditoren/Lieferanten.txt",
+   "columns": [
+    "LIEFERANTENKONTONUMMER",
+    "LIEFERANTENUSTIDNR",
+    "LIEFERANTENSTRASSE",
+    "LIEFERANTENPLZ",
+    "LIEFERANTENORT",
+    "LIEFERANTENSTAAT",
+    "LIEFERANTENNAME",
+    "LIEFERANTENGRUPPE",
+    "LIEFERANTENRECHNUNGSKONTO",
+    "MWST_GRUPPE",
+    "WÄHRUNG"
+   ],
+   "source": "gdpdu",
+   "rowCount": 1035,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Lieferantenbuchungen",
+   "name": "Lieferantenbuchungen",
+   "docId": "kreditoren-lieferantenbuchungen",
+   "relativePath": "Kreditoren/Lieferantenbuchungen.txt",
+   "columns": [
+    "LIEFERANTENKONTONUMMER",
+    "BUCHUNGSNUMMER",
+    "BUCHUNGSDATUM",
+    "BELEGNUMMER",
+    "BELEGDATUM",
+    "BUCHUNGSTEXT",
+    "BUCHUNGSBETRAG",
+    "BUCHUNGSWÄHRUNG",
+    "BUCHUNGSWERT",
+    "LETZTER_AUSGLEICHSBELEG",
+    "LETZTER_AUSGLEICH",
+    "BUCHUNGSART",
+    "STATUS"
+   ],
+   "source": "gdpdu",
+   "rowCount": 33913,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Sachkonten",
+   "name": "Sachkonten",
+   "docId": "sachkonten-sachkonten",
+   "relativePath": "Sachkonten/Sachkonten.txt",
+   "columns": [
+    "SACHKONTONUMMER",
+    "SACHKONTONAME",
+    "SACHKONTOTYP",
+    "SACHKONTOSPERRE",
+    "SACHKONTOEXCLUSIVBENUTZER",
+    "SACHKONTOBENUTZUNG",
+    "KONTENART"
+   ],
+   "source": "gdpdu",
+   "rowCount": 1116,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Sachkontobuchungen",
+   "name": "Sachkontobuchungen",
+   "docId": "sachkonten-sachkontobuchungen",
+   "relativePath": "Sachkonten/Sachkontobuchungen.txt",
+   "columns": [
+    "SACHKONTONUMMER",
+    "PERIODENCODE",
+    "STEUERBUCHUNGSREFERENZ",
+    "PERIODENZUGEHÖRIGKEIT",
+    "BUCHUNGSTYP",
+    "KORREKTUR",
+    "HABENBUCHUNG",
+    "BUCHUNGSBETRAG",
+    "BUCHUNGSWÄHRUNG",
+    "BUCHUNGSWERT",
+    "BUCHUNGSTEXT",
+    "BUCHUNGSDATUM",
+    "BUCHUNGSNUMMER",
+    "BELEGDATUM",
+    "BELEGNUMMER",
+    "SPEZIALBUCHUNG",
+    "ERFASSUNGSNUMMER",
+    "JOURNALZEILE",
+    "GEGENKONTO",
+    "DOKUMENT",
+    "BENUTZERKENNUNG",
+    "ERFASSUNGSDATUM",
+    "ERFASSUNGSZEIT",
+    "FESTSCHREIBUNG"
+   ],
+   "source": "gdpdu",
+   "rowCount": 1083723,
+   "storage": "sqlite"
+  },
+  {
+   "id": "MehrwertsteuerGruppen",
+   "name": "MehrwertsteuerGruppen",
+   "docId": "steuercodes-mehrwertsteuergruppen",
+   "relativePath": "Steuercodes/MehrwertsteuerGruppen.txt",
+   "columns": [
+    "BESCHREIBUNG",
+    "MEHRWERTSTEUERGRUPPE",
+    "MWST_AUF_SKONTO_STORNIEREN",
+    "MWST_CODE_NAME",
+    "MEHRWERTSTEUERCODE",
+    "ERWERBSSTEUER"
+   ],
+   "source": "gdpdu",
+   "rowCount": 25,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Umsatzsteuerbuchungen",
+   "name": "Umsatzsteuerbuchungen",
+   "docId": "steuercodes-umsatzsteuerbuchungen",
+   "relativePath": "Steuercodes/Umsatzsteuerbuchungen.txt",
+   "columns": [
+    "STEUERART",
+    "STEUERBUCHUNGSREFERENZ",
+    "MWST_CODE",
+    "WERTSTELLUNG",
+    "BELEGNUMMER",
+    "BUCHUNGSWÄHRUNG",
+    "BUCHUNGSBETRAG",
+    "BUCHUNGSWERT",
+    "QUELLE",
+    "BUCHUNGSGRUNDLAGE",
+    "BELEGWÄHRUNG",
+    "GRUNDLAGE",
+    "PROZENTSATZ",
+    "MWST_GRUPPE",
+    "KONTO_MWST_AUSGABEN",
+    "SACHKONTO",
+    "ARTIKEL_MWST_GRUPPE"
+   ],
+   "source": "gdpdu",
+   "rowCount": 351444,
+   "storage": "sqlite"
+  },
+  {
+   "id": "Umsatzsteuercodes",
+   "name": "Umsatzsteuercodes",
+   "docId": "steuercodes-umsatzsteuercodes",
+   "relativePath": "Steuercodes/Umsatzsteuercodes.txt",
+   "columns": [
+    "BUCHUNGSGRUNDLAGE",
+    "NAME",
+    "PROZENTSATZ",
+    "GÜLTIGAB",
+    "GÜLTIGBIS"
+   ],
+   "source": "gdpdu",
+   "rowCount": 23,
+   "storage": "sqlite"
+  }
+ ],
+ "integrity": {
+  "ok": true,
+  "checks": [
+   {
+    "id": "rows:Anlagen",
+    "label": "Anlagen record count",
+    "ok": true,
+    "detail": "414 parsed / 414 expected"
+   },
+   {
+    "id": "hash:Anlagen",
+    "label": "Anlagen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Anlagenbuchungen",
+    "label": "Anlagenbuchungen record count",
+    "ok": true,
+    "detail": "3118 parsed / 3118 expected"
+   },
+   {
+    "id": "hash:Anlagenbuchungen",
+    "label": "Anlagenbuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Kunden",
+    "label": "Kunden record count",
+    "ok": true,
+    "detail": "325 parsed / 325 expected"
+   },
+   {
+    "id": "hash:Kunden",
+    "label": "Kunden SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Kundenbuchungen",
+    "label": "Kundenbuchungen record count",
+    "ok": true,
+    "detail": "87762 parsed / 87762 expected"
+   },
+   {
+    "id": "hash:Kundenbuchungen",
+    "label": "Kundenbuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Lieferanten",
+    "label": "Lieferanten record count",
+    "ok": true,
+    "detail": "1035 parsed / 1035 expected"
+   },
+   {
+    "id": "hash:Lieferanten",
+    "label": "Lieferanten SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Lieferantenbuchungen",
+    "label": "Lieferantenbuchungen record count",
+    "ok": true,
+    "detail": "33913 parsed / 33913 expected"
+   },
+   {
+    "id": "hash:Lieferantenbuchungen",
+    "label": "Lieferantenbuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Sachkonten",
+    "label": "Sachkonten record count",
+    "ok": true,
+    "detail": "1116 parsed / 1116 expected"
+   },
+   {
+    "id": "hash:Sachkonten",
+    "label": "Sachkonten SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Sachkontobuchungen",
+    "label": "Sachkontobuchungen record count",
+    "ok": true,
+    "detail": "1083723 parsed / 1083723 expected"
+   },
+   {
+    "id": "hash:Sachkontobuchungen",
+    "label": "Sachkontobuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Umsatzsteuercodes",
+    "label": "Umsatzsteuercodes record count",
+    "ok": true,
+    "detail": "23 parsed / 23 expected"
+   },
+   {
+    "id": "hash:Umsatzsteuercodes",
+    "label": "Umsatzsteuercodes SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:Umsatzsteuerbuchungen",
+    "label": "Umsatzsteuerbuchungen record count",
+    "ok": true,
+    "detail": "351444 parsed / 351444 expected"
+   },
+   {
+    "id": "hash:Umsatzsteuerbuchungen",
+    "label": "Umsatzsteuerbuchungen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "rows:MehrwertsteuerGruppen",
+    "label": "MehrwertsteuerGruppen record count",
+    "ok": true,
+    "detail": "25 parsed / 25 expected"
+   },
+   {
+    "id": "hash:MehrwertsteuerGruppen",
+    "label": "MehrwertsteuerGruppen SHA-256",
+    "ok": true,
+    "detail": "matches export protocol"
+   },
+   {
+    "id": "ledger:balanced",
+    "label": "General ledger balances",
+    "ok": true,
+    "detail": "signed row sum EUR 0.00"
+   },
+   {
+    "id": "subledgers:reconciled",
+    "label": "Subledgers reconcile to the general ledger",
+    "ok": true,
+    "detail": "debtor and creditor differences are zero"
+   }
+  ],
+  "warnings": []
+ }
+}

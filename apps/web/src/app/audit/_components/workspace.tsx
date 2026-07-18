@@ -17,7 +17,7 @@ import {
 } from "@almedia/ui/components/command";
 import { Tooltip, TooltipContent, TooltipTrigger } from "@almedia/ui/components/tooltip";
 import { cn } from "@almedia/ui/lib/utils";
-import { AlertTriangle, ArrowLeft, Download, FolderOpen, ShieldCheck } from "lucide-react";
+import { AlertTriangle, ArrowLeft, ChevronsUpDown, Download, FolderOpen, ShieldCheck } from "lucide-react";
 
 import type { Citation } from "@almedia/forensic/types";
 import type { DossierData } from "@/lib/audit-data";
@@ -124,21 +124,26 @@ export function Workspace({
                 </Link>
               </Button>
             ) : null}
-            <span className="min-w-0 truncate">
-              {showFindingDetail && selected ? selected.title : companyName}
-            </span>
-            {!showFindingDetail ? (
+            {showFindingDetail && selected ? (
+              <span className="min-w-0 truncate">{selected.title}</span>
+            ) : (
               <Button
                 type="button"
                 variant="ghost"
-                size="icon-sm"
-                className="shrink-0"
-                aria-label="Switch dossier"
+                className="-ml-2 h-auto min-w-0 max-w-full shrink gap-1.5 px-2 py-1 font-semibold text-xl tracking-tight hover:bg-muted"
+                aria-label={`Switch dossier · ${companyName}`}
+                aria-haspopup="dialog"
+                aria-expanded={commandOpen}
+                title="Switch dossier"
                 onClick={() => setCommandOpen(true)}
               >
-                <FolderOpen />
+                <span className="min-w-0 truncate">{companyName}</span>
+                <ChevronsUpDown
+                  className="size-4 shrink-0 text-muted-foreground opacity-70 transition-opacity group-hover/button:opacity-100"
+                  aria-hidden
+                />
               </Button>
-            ) : null}
+            )}
           </span>
         }
         actions={

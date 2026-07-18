@@ -1,0 +1,178 @@
+{
+ "av-anlagen": {
+  "storage": "sqlite",
+  "count": 414
+ },
+ "av-anlagenbuchungen": {
+  "storage": "sqlite",
+  "count": 3118
+ },
+ "av-gdpdu-01-08-2002": {
+  "storage": "sqlite",
+  "count": 4
+ },
+ "av-index": {
+  "storage": "sqlite",
+  "count": 2
+ },
+ "begleitdokumente-abstimmung-nebenbuecher-hb-2025": {
+  "storage": "sqlite",
+  "count": 21
+ },
+ "begleitdokumente-aenderungsprotokoll-2025": {
+  "storage": "sqlite",
+  "count": 4722
+ },
+ "begleitdokumente-berechtigungsauswertung-2025": {
+  "storage": "sqlite",
+  "count": 23
+ },
+ "begleitdokumente-bill-and-hold-vereinbarung-801677": {
+  "storage": "sqlite",
+  "count": 1
+ },
+ "begleitdokumente-buchungen-folgeperiode-2026": {
+  "storage": "sqlite",
+  "count": 114
+ },
+ "begleitdokumente-exportprotokoll-gdpdu-2025": {
+  "storage": "sqlite",
+  "count": 1
+ },
+ "begleitdokumente-fakturajournal-2025-erweitert": {
+  "storage": "sqlite",
+  "count": 21567
+ },
+ "begleitdokumente-fakturajournal-januar-2026": {
+  "storage": "sqlite",
+  "count": 1183
+ },
+ "begleitdokumente-freigabe-log-journale-2025": {
+  "storage": "sqlite",
+  "count": 3116
+ },
+ "begleitdokumente-gesellschafterliste-beteiligungen": {
+  "storage": "sqlite",
+  "count": 24
+ },
+ "begleitdokumente-it-bestaetigung-vollstaendigkeit-2025": {
+  "storage": "sqlite",
+  "count": 1
+ },
+ "begleitdokumente-ja-entwurf-2025-auszug-bilanz-anhang": {
+  "storage": "sqlite",
+  "count": 2
+ },
+ "begleitdokumente-kontenplan-mapping": {
+  "storage": "sqlite",
+  "count": 339326
+ },
+ "begleitdokumente-kreditlimitliste-debitoren-2025": {
+  "storage": "sqlite",
+  "count": 322
+ },
+ "begleitdokumente-op-liste-debitoren-2025": {
+  "storage": "sqlite",
+  "count": 1156
+ },
+ "begleitdokumente-op-liste-kreditoren-2025": {
+  "storage": "sqlite",
+  "count": 703
+ },
+ "begleitdokumente-pruefungsplanung-jet-2025": {
+  "storage": "sqlite",
+  "count": 2
+ },
+ "begleitdokumente-rechtsfaelle-insolvenzen": {
+  "storage": "sqlite",
+  "count": 3
+ },
+ "begleitdokumente-saldenliste-2024-vorjahr": {
+  "storage": "sqlite",
+  "count": 79
+ },
+ "begleitdokumente-saldenliste-2025-mit-ueberleitung": {
+  "storage": "sqlite",
+  "count": 300
+ },
+ "begleitdokumente-stammdaten-statusliste-2025": {
+  "storage": "sqlite",
+  "count": 1360
+ },
+ "begleitdokumente-stammdatenaenderungen-debitoren-2025": {
+  "storage": "sqlite",
+  "count": 59
+ },
+ "begleitdokumente-warenausgangsliste-2025": {
+  "storage": "sqlite",
+  "count": 20490
+ },
+ "debitoren-gdpdu-01-08-2002": {
+  "storage": "sqlite",
+  "count": 4
+ },
+ "debitoren-index": {
+  "storage": "sqlite",
+  "count": 3
+ },
+ "debitoren-kunden": {
+  "storage": "sqlite",
+  "count": 325
+ },
+ "debitoren-kundenbuchungen": {
+  "storage": "sqlite",
+  "count": 87762
+ },
+ "kreditoren-gdpdu-01-08-2002": {
+  "storage": "sqlite",
+  "count": 4
+ },
+ "kreditoren-index": {
+  "storage": "sqlite",
+  "count": 3
+ },
+ "kreditoren-lieferanten": {
+  "storage": "sqlite",
+  "count": 1035
+ },
+ "kreditoren-lieferantenbuchungen": {
+  "storage": "sqlite",
+  "count": 33913
+ },
+ "sachkonten-gdpdu-01-08-2002": {
+  "storage": "sqlite",
+  "count": 4
+ },
+ "sachkonten-index": {
+  "storage": "sqlite",
+  "count": 3
+ },
+ "sachkonten-sachkonten": {
+  "storage": "sqlite",
+  "count": 1116
+ },
+ "sachkonten-sachkontobuchungen": {
+  "storage": "sqlite",
+  "count": 1083723
+ },
+ "steuercodes-gdpdu-01-08-2002": {
+  "storage": "sqlite",
+  "count": 4
+ },
+ "steuercodes-index": {
+  "storage": "sqlite",
+  "count": 3
+ },
+ "steuercodes-mehrwertsteuergruppen": {
+  "storage": "sqlite",
+  "count": 25
+ },
+ "steuercodes-umsatzsteuerbuchungen": {
+  "storage": "sqlite",
+  "count": 351444
+ },
+ "steuercodes-umsatzsteuercodes": {
+  "storage": "sqlite",
+  "count": 23
+ }
+}

@@ -82,4 +82,4 @@ data/.history/
 data/**/*.sqlite
 data/**/*.sqlite-shm
 data/**/*.sqlite-wal
-data/beispiel-daemmstoffe/
+# beispiel JSON/md are tracked for deploy; sqlite stays local (see above)

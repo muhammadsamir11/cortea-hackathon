@@ -1,0 +1,3866 @@
+[
+ {
+  "checkId": "revenueBillAndHold",
+  "title": "1 year-end bill-and-hold sale lacks a dispatch reference",
+  "tier": "judgment",
+  "fraudType": "revenue_recognition",
+  "narrative": "The sales journal records 1 bill-and-hold invoice totaling EUR 124455.97 without a goods-dispatch reference. The agreement and transfer-of-control evidence require auditor judgment before recognizing revenue.",
+  "amountInvolved": 124455.97,
+  "severity": "high",
+  "citations": [
+   {
+    "docId": "begleitdokumente-fakturajournal-2025-erweitert",
+    "ref": "Fakturajournal_2025_erweitert!r.21553",
+    "quote": "SI10073455;Rechnung;801677;SOLID ELEKTRO GMBH;C-DOM;31.12.2025;31.12.2025;;;Bill-and-Hold;124455,97;EUR;;;Bill-and-Hold-Vereinbarung vom 15.12.2025, Einlagerung Konsignationslager Werk Musterstadt, Gefahrenübergang mit Bereitstellungsanzeige"
+   }
+  ],
+  "lineItems": [
+   {
+    "label": "SI10073455",
+    "documentNumber": "SI10073455",
+    "date": "31.12.2025",
+    "counterparty": "SOLID ELEKTRO GMBH",
+    "description": "Bill-and-Hold-Vereinbarung vom 15.12.2025, Einlagerung Konsignationslager Werk Musterstadt, Gefahrenübergang mit Bereitstellungsanzeige",
+    "amount": 124455.97,
+    "amountType": "net",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-2025-erweitert",
+      "ref": "Fakturajournal_2025_erweitert!r.21553",
+      "quote": "SI10073455;Rechnung;801677;SOLID ELEKTRO GMBH;C-DOM;31.12.2025;31.12.2025;;;Bill-and-Hold;124455,97;EUR;;;Bill-and-Hold-Vereinbarung vom 15.12.2025, Einlagerung Konsignationslager Werk Musterstadt, Gefahrenübergang mit Bereitstellungsanzeige"
+     },
+     {
+      "docId": "begleitdokumente-fakturajournal-2025-erweitert",
+      "ref": "Fakturajournal_2025_erweitert!r.21553",
+      "quote": "SI10073455;Rechnung;801677;SOLID ELEKTRO GMBH;C-DOM;31.12.2025;31.12.2025;;;Bill-and-Hold;124455,97;EUR;;;Bill-and-Hold-Vereinbarung vom 15.12.2025, Einlagerung Konsignationslager Werk Musterstadt, Gefahrenübergang mit Bereitstellungsanzeige"
+     }
+    ],
+    "id": "li-7835d1142278"
+   }
+  ],
+  "impactCategories": [
+   "profit_overstatement"
+  ],
+  "calculations": [
+   {
+    "label": "Bill-and-hold revenue",
+    "expression": "1 invoices",
+    "value": 124455.97,
+    "currency": "EUR"
+   }
+  ],
+  "id": "finding-eb6eff87f537",
+  "factIds": [],
+  "origin": "control",
+  "analysisRunId": "run-2026-07-18T17-23-14-292Z-046d79",
+  "engineStatus": "detected",
+  "aiStatus": "needs-judgment"
+ },
+ {
+  "checkId": "revenueCutoff",
+  "title": "34 prior-year sales invoiced after year-end",
+  "tier": "corroborated",
+  "fraudType": "cutoff_failure",
+  "narrative": "34 January invoices totaling EUR 175563.41 carry 2025 service dates and should be checked against the year-end revenue cut-off and dispatch evidence.",
+  "amountInvolved": 175563.41,
+  "severity": "high",
+  "citations": [
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026",
+    "ref": "Fakturajournal_Januar_2026!r.4",
+    "quote": "SI10074171;Rechnung;800768;SILVAGERÜSTBAU GMBH;02.01.2026;31.12.2025;6059,86;EUR;"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026",
+    "ref": "Fakturajournal_Januar_2026!r.8",
+    "quote": "SI10074344;Rechnung;801015;TAUNUS BETON GMBH;02.01.2026;31.12.2025;968,93;EUR;"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026",
+    "ref": "Fakturajournal_Januar_2026!r.9",
+    "quote": "SI10074363;Rechnung;802989;FLINT MONTAGEBAU;02.01.2026;31.12.2025;2866,03;EUR;"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026",
+    "ref": "Fakturajournal_Januar_2026!r.11",
+    "quote": "SI10074550;Rechnung;802007;VULKAN TECHNIK;02.01.2026;31.12.2025;4669,79;EUR;"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026",
+    "ref": "Fakturajournal_Januar_2026!r.12",
+    "quote": "SI10074670;Rechnung;803085;ARGUSPROFILE GMBH;02.01.2026;30.12.2025;2555,67;EUR;"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026",
+    "ref": "Fakturajournal_Januar_2026!r.13",
+    "quote": "SI10074703;Rechnung;801199;PRISMA VERPACKUNG GMBH & CO. KG;02.01.2026;30.12.2025;6291,33;EUR;"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026",
+    "ref": "Fakturajournal_Januar_2026!r.17",
+    "quote": "SI10074871;Rechnung;802328;NORDANLAGENBAU;02.01.2026;30.12.2025;6168,46;EUR;"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026",
+    "ref": "Fakturajournal_Januar_2026!r.18",
+    "quote": "SI10074991;Rechnung;801839;MAIN FOLIEN GMBH;02.01.2026;20.12.2025;6441,90;EUR;Leistung Dezember 2025, in 2025 als unfakturierte Lieferung abgegrenzt (Konto 260000)"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026",
+    "ref": "Fakturajournal_Januar_2026!r.19",
+    "quote": "SI10075032;Rechnung;800004;SÜD PANEELE KG;02.01.2026;31.12.2025;3007,22;EUR;"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026",
+    "ref": "Fakturajournal_Januar_2026!r.20",
+    "quote": "SI10075038;Rechnung;802532;WESTWERKZEUGE GMBH & CO. KG;02.01.2026;31.12.2025;9242,31;EUR;"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026",
+    "ref": "Fakturajournal_Januar_2026!r.21",
+    "quote": "SI10075205;Rechnung;802106;WESER GEBÄUDETECHNIK GMBH;02.01.2026;31.12.2025;11798,74;EUR;"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026",
+    "ref": "Fakturajournal_Januar_2026!r.23",
+    "quote": "SI10075311;Rechnung;800186;KORUND ELEKTRO GMBH;02.01.2026;31.12.2025;2123,35;EUR;"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026",
+    "ref": "Fakturajournal_Januar_2026!r.32",
+    "quote": "SI10075686;Rechnung;801900;CERESELEKTRO;02.01.2026;30.12.2025;6692,15;EUR;"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026",
+    "ref": "Fakturajournal_Januar_2026!r.34",
+    "quote": "SI10075994;Rechnung;800160;ATLAS SYSTEME GMBH;02.01.2026;31.12.2025;4518,39;EUR;"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026",
+    "ref": "Fakturajournal_Januar_2026!r.35",
+    "quote": "SI10076076;Rechnung;802171;;02.01.2026;30.12.2025;5424,15;EUR;"
+   },
+   {
+    "docId": "begleitdokumente-fakturajournal-januar-2026",
+    "ref": "Fakturajournal_Januar_2026!r.38",
+    "quote": "SI10076172;Rechnung;802011;KOMPAKTBAUSTOFFE GMBH;02.01.2026;30.12.2025;4111,67;EUR;"
+   }
+  ],
+  "lineItems": [
+   {
+    "label": "SI10074171",
+    "documentNumber": "SI10074171",
+    "date": "31.12.2025",
+    "counterparty": "SILVAGERÜSTBAU GMBH",
+    "description": "Service date 31.12.2025; invoiced 02.01.2026",
+    "amount": 6059.86,
+    "amountType": "net",
+    "id": "li-2eee8ff1e9c2",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.4",
+      "quote": "SI10074171;Rechnung;800768;SILVAGERÜSTBAU GMBH;02.01.2026;31.12.2025;6059,86;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10074344",
+    "documentNumber": "SI10074344",
+    "date": "31.12.2025",
+    "counterparty": "TAUNUS BETON GMBH",
+    "description": "Service date 31.12.2025; invoiced 02.01.2026",
+    "amount": 968.93,
+    "amountType": "net",
+    "id": "li-6aedbb7d86a5",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.8",
+      "quote": "SI10074344;Rechnung;801015;TAUNUS BETON GMBH;02.01.2026;31.12.2025;968,93;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10074363",
+    "documentNumber": "SI10074363",
+    "date": "31.12.2025",
+    "counterparty": "FLINT MONTAGEBAU",
+    "description": "Service date 31.12.2025; invoiced 02.01.2026",
+    "amount": 2866.03,
+    "amountType": "net",
+    "id": "li-73a2fd77c537",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.9",
+      "quote": "SI10074363;Rechnung;802989;FLINT MONTAGEBAU;02.01.2026;31.12.2025;2866,03;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10074550",
+    "documentNumber": "SI10074550",
+    "date": "31.12.2025",
+    "counterparty": "VULKAN TECHNIK",
+    "description": "Service date 31.12.2025; invoiced 02.01.2026",
+    "amount": 4669.79,
+    "amountType": "net",
+    "id": "li-b69873a04931",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.11",
+      "quote": "SI10074550;Rechnung;802007;VULKAN TECHNIK;02.01.2026;31.12.2025;4669,79;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10074670",
+    "documentNumber": "SI10074670",
+    "date": "30.12.2025",
+    "counterparty": "ARGUSPROFILE GMBH",
+    "description": "Service date 30.12.2025; invoiced 02.01.2026",
+    "amount": 2555.67,
+    "amountType": "net",
+    "id": "li-4ade6fac3671",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.12",
+      "quote": "SI10074670;Rechnung;803085;ARGUSPROFILE GMBH;02.01.2026;30.12.2025;2555,67;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10074703",
+    "documentNumber": "SI10074703",
+    "date": "30.12.2025",
+    "counterparty": "PRISMA VERPACKUNG GMBH & CO. KG",
+    "description": "Service date 30.12.2025; invoiced 02.01.2026",
+    "amount": 6291.33,
+    "amountType": "net",
+    "id": "li-5a722d0ca5f0",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.13",
+      "quote": "SI10074703;Rechnung;801199;PRISMA VERPACKUNG GMBH & CO. KG;02.01.2026;30.12.2025;6291,33;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10074871",
+    "documentNumber": "SI10074871",
+    "date": "30.12.2025",
+    "counterparty": "NORDANLAGENBAU",
+    "description": "Service date 30.12.2025; invoiced 02.01.2026",
+    "amount": 6168.46,
+    "amountType": "net",
+    "id": "li-c45d5354fcd1",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.17",
+      "quote": "SI10074871;Rechnung;802328;NORDANLAGENBAU;02.01.2026;30.12.2025;6168,46;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10074991",
+    "documentNumber": "SI10074991",
+    "date": "20.12.2025",
+    "counterparty": "MAIN FOLIEN GMBH",
+    "description": "Service date 20.12.2025; invoiced 02.01.2026",
+    "amount": 6441.9,
+    "amountType": "net",
+    "id": "li-7d51d4c6f31a",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.18",
+      "quote": "SI10074991;Rechnung;801839;MAIN FOLIEN GMBH;02.01.2026;20.12.2025;6441,90;EUR;Leistung Dezember 2025, in 2025 als unfakturierte Lieferung abgegrenzt (Konto 260000)"
+     }
+    ]
+   },
+   {
+    "label": "SI10075032",
+    "documentNumber": "SI10075032",
+    "date": "31.12.2025",
+    "counterparty": "SÜD PANEELE KG",
+    "description": "Service date 31.12.2025; invoiced 02.01.2026",
+    "amount": 3007.22,
+    "amountType": "net",
+    "id": "li-8b1dd117a03e",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.19",
+      "quote": "SI10075032;Rechnung;800004;SÜD PANEELE KG;02.01.2026;31.12.2025;3007,22;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10075038",
+    "documentNumber": "SI10075038",
+    "date": "31.12.2025",
+    "counterparty": "WESTWERKZEUGE GMBH & CO. KG",
+    "description": "Service date 31.12.2025; invoiced 02.01.2026",
+    "amount": 9242.31,
+    "amountType": "net",
+    "id": "li-77775d9dd58d",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.20",
+      "quote": "SI10075038;Rechnung;802532;WESTWERKZEUGE GMBH & CO. KG;02.01.2026;31.12.2025;9242,31;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10075205",
+    "documentNumber": "SI10075205",
+    "date": "31.12.2025",
+    "counterparty": "WESER GEBÄUDETECHNIK GMBH",
+    "description": "Service date 31.12.2025; invoiced 02.01.2026",
+    "amount": 11798.74,
+    "amountType": "net",
+    "id": "li-bb1f993bda8f",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.21",
+      "quote": "SI10075205;Rechnung;802106;WESER GEBÄUDETECHNIK GMBH;02.01.2026;31.12.2025;11798,74;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10075311",
+    "documentNumber": "SI10075311",
+    "date": "31.12.2025",
+    "counterparty": "KORUND ELEKTRO GMBH",
+    "description": "Service date 31.12.2025; invoiced 02.01.2026",
+    "amount": 2123.35,
+    "amountType": "net",
+    "id": "li-e0abe25e7e88",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.23",
+      "quote": "SI10075311;Rechnung;800186;KORUND ELEKTRO GMBH;02.01.2026;31.12.2025;2123,35;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10075686",
+    "documentNumber": "SI10075686",
+    "date": "30.12.2025",
+    "counterparty": "CERESELEKTRO",
+    "description": "Service date 30.12.2025; invoiced 02.01.2026",
+    "amount": 6692.15,
+    "amountType": "net",
+    "id": "li-6bba8a51a58c",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.32",
+      "quote": "SI10075686;Rechnung;801900;CERESELEKTRO;02.01.2026;30.12.2025;6692,15;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10075994",
+    "documentNumber": "SI10075994",
+    "date": "31.12.2025",
+    "counterparty": "ATLAS SYSTEME GMBH",
+    "description": "Service date 31.12.2025; invoiced 02.01.2026",
+    "amount": 4518.39,
+    "amountType": "net",
+    "id": "li-d5297d3c361d",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.34",
+      "quote": "SI10075994;Rechnung;800160;ATLAS SYSTEME GMBH;02.01.2026;31.12.2025;4518,39;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10076076",
+    "documentNumber": "SI10076076",
+    "date": "30.12.2025",
+    "counterparty": "",
+    "description": "Service date 30.12.2025; invoiced 02.01.2026",
+    "amount": 5424.15,
+    "amountType": "net",
+    "id": "li-94aeb16a3da6",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.35",
+      "quote": "SI10076076;Rechnung;802171;;02.01.2026;30.12.2025;5424,15;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10076172",
+    "documentNumber": "SI10076172",
+    "date": "30.12.2025",
+    "counterparty": "KOMPAKTBAUSTOFFE GMBH",
+    "description": "Service date 30.12.2025; invoiced 02.01.2026",
+    "amount": 4111.67,
+    "amountType": "net",
+    "id": "li-14c255826f50",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.38",
+      "quote": "SI10076172;Rechnung;802011;KOMPAKTBAUSTOFFE GMBH;02.01.2026;30.12.2025;4111,67;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10076320",
+    "documentNumber": "SI10076320",
+    "date": "30.12.2025",
+    "counterparty": "BASALTVERPACKUNG GMBH",
+    "description": "Service date 30.12.2025; invoiced 02.01.2026",
+    "amount": 3183.98,
+    "amountType": "net",
+    "id": "li-b3be6556daf1",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.40",
+      "quote": "SI10076320;Rechnung;802521;BASALTVERPACKUNG GMBH;02.01.2026;30.12.2025;3183,98;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10074075",
+    "documentNumber": "SI10074075",
+    "date": "23.12.2025",
+    "counterparty": "GNEIS BAUELEMENTE GMBH",
+    "description": "Service date 23.12.2025; invoiced 03.01.2026",
+    "amount": 3571.3,
+    "amountType": "net",
+    "id": "li-289323e2333e",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.41",
+      "quote": "SI10074075;Rechnung;801431;GNEIS BAUELEMENTE GMBH;03.01.2026;23.12.2025;3571,30;EUR;Leistung Dezember 2025, in 2025 als unfakturierte Lieferung abgegrenzt (Konto 260000)"
+     }
+    ]
+   },
+   {
+    "label": "SI10074377",
+    "documentNumber": "SI10074377",
+    "date": "31.12.2025",
+    "counterparty": "POLARIS GEBÄUDETECHNIK GMBH & CO. KG",
+    "description": "Service date 31.12.2025; invoiced 03.01.2026",
+    "amount": 8549.59,
+    "amountType": "net",
+    "id": "li-0e7c6f7186e6",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.44",
+      "quote": "SI10074377;Rechnung;802994;POLARIS GEBÄUDETECHNIK GMBH & CO. KG;03.01.2026;31.12.2025;8549,59;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10074829",
+    "documentNumber": "SI10074829",
+    "date": "31.12.2025",
+    "counterparty": "CERESMASCHINEN GMBH",
+    "description": "Service date 31.12.2025; invoiced 03.01.2026",
+    "amount": 2385.93,
+    "amountType": "net",
+    "id": "li-9ecbb08ec4ae",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.55",
+      "quote": "SI10074829;Rechnung;801849;CERESMASCHINEN GMBH;03.01.2026;31.12.2025;2385,93;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10075640",
+    "documentNumber": "SI10075640",
+    "date": "31.12.2025",
+    "counterparty": "VULKAN CHEMIE",
+    "description": "Service date 31.12.2025; invoiced 03.01.2026",
+    "amount": 3277.38,
+    "amountType": "net",
+    "id": "li-bcb7b0ebef8f",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.66",
+      "quote": "SI10075640;Rechnung;802043;VULKAN CHEMIE;03.01.2026;31.12.2025;3277,38;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10076041",
+    "documentNumber": "SI10076041",
+    "date": "31.12.2025",
+    "counterparty": "SÜD TRANSPORT GMBH",
+    "description": "Service date 31.12.2025; invoiced 03.01.2026",
+    "amount": 2218.79,
+    "amountType": "net",
+    "id": "li-3d88b0c74269",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.68",
+      "quote": "SI10076041;Rechnung;802065;SÜD TRANSPORT GMBH;03.01.2026;31.12.2025;2218,79;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10076094",
+    "documentNumber": "SI10076094",
+    "date": "31.12.2025",
+    "counterparty": "WEST GERÜSTBAU SA",
+    "description": "Service date 31.12.2025; invoiced 03.01.2026",
+    "amount": 10071.36,
+    "amountType": "net",
+    "id": "li-1647e32bccd3",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.69",
+      "quote": "SI10076094;Rechnung;801401;WEST GERÜSTBAU SA;03.01.2026;31.12.2025;10071,36;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10076279",
+    "documentNumber": "SI10076279",
+    "date": "31.12.2025",
+    "counterparty": "ORIONHANDEL AG",
+    "description": "Service date 31.12.2025; invoiced 03.01.2026",
+    "amount": 6315.47,
+    "amountType": "net",
+    "id": "li-66207b330d75",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.72",
+      "quote": "SI10076279;Rechnung;800813;ORIONHANDEL AG;03.01.2026;31.12.2025;6315,47;EUR;"
+     }
+    ]
+   },
+   {
+    "label": "SI10074815",
+    "documentNumber": "SI10074815",
+    "date": "22.12.2025",
+    "counterparty": "ARGUSBAUSTOFFE GMBH & CO. KG",
+    "description": "Service date 22.12.2025; invoiced 09.01.2026",
+    "amount": 16511.82,
+    "amountType": "net",
+    "id": "li-7bd838b261dd",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.297",
+      "quote": "SI10074815;Rechnung;800292;ARGUSBAUSTOFFE GMBH & CO. KG;09.01.2026;22.12.2025;16511,82;EUR;Leistung Dezember 2025, in 2025 als unfakturierte Lieferung abgegrenzt (Konto 260000)"
+     }
+    ]
+   },
+   {
+    "label": "SI10075176",
+    "documentNumber": "SI10075176",
+    "date": "26.12.2025",
+    "counterparty": "CERESMASCHINEN GMBH",
+    "description": "Service date 26.12.2025; invoiced 13.01.2026",
+    "amount": 6826.23,
+    "amountType": "net",
+    "id": "li-50b0407cc090",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.461",
+      "quote": "SI10075176;Rechnung;801849;CERESMASCHINEN GMBH;13.01.2026;26.12.2025;6826,23;EUR;Leistung Dezember 2025, in 2025 als unfakturierte Lieferung abgegrenzt (Konto 260000)"
+     }
+    ]
+   },
+   {
+    "label": "SI10074260",
+    "documentNumber": "SI10074260",
+    "date": "26.12.2025",
+    "counterparty": "KOMPAKT LOGISTIK GMBH",
+    "description": "Service date 26.12.2025; invoiced 14.01.2026",
+    "amount": 2816.91,
+    "amountType": "net",
+    "id": "li-b443494bac60",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.485",
+      "quote": "SI10074260;Rechnung;801314;KOMPAKT LOGISTIK GMBH;14.01.2026;26.12.2025;2816,91;EUR;Leistung Dezember 2025, in 2025 als unfakturierte Lieferung abgegrenzt (Konto 260000)"
+     }
+    ]
+   },
+   {
+    "label": "SI10075693",
+    "documentNumber": "SI10075693",
+    "date": "23.12.2025",
+    "counterparty": "RHEINPROFILE GMBH",
+    "description": "Service date 23.12.2025; invoiced 15.01.2026",
+    "amount": 2820.79,
+    "amountType": "net",
+    "id": "li-a6372c2a3d36",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.550",
+      "quote": "SI10075693;Rechnung;800697;RHEINPROFILE GMBH;15.01.2026;23.12.2025;2820,79;EUR;Leistung Dezember 2025, in 2025 als unfakturierte Lieferung abgegrenzt (Konto 260000)"
+     }
+    ]
+   },
+   {
+    "label": "SI10075359",
+    "documentNumber": "SI10075359",
+    "date": "28.12.2025",
+    "counterparty": "VULKAN TECHNIK",
+    "description": "Service date 28.12.2025; invoiced 22.01.2026",
+    "amount": 3416.77,
+    "amountType": "net",
+    "id": "li-5906dcf91ecb",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.855",
+      "quote": "SI10075359;Rechnung;802007;VULKAN TECHNIK;22.01.2026;28.12.2025;3416,77;EUR;Leistung Dezember 2025, in 2025 als unfakturierte Lieferung abgegrenzt (Konto 260000)"
+     }
+    ]
+   },
+   {
+    "label": "SI10074448",
+    "documentNumber": "SI10074448",
+    "date": "29.12.2025",
+    "counterparty": "NOVAELEKTRO",
+    "description": "Service date 29.12.2025; invoiced 23.01.2026",
+    "amount": 3650.38,
+    "amountType": "net",
+    "id": "li-dacd14a92c61",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.880",
+      "quote": "SI10074448;Rechnung;800860;NOVAELEKTRO;23.01.2026;29.12.2025;3650,38;EUR;Leistung Dezember 2025, in 2025 als unfakturierte Lieferung abgegrenzt (Konto 260000)"
+     }
+    ]
+   },
+   {
+    "label": "SI10076050",
+    "documentNumber": "SI10076050",
+    "date": "31.12.2025",
+    "counterparty": "MAIN TECHNIK",
+    "description": "Service date 31.12.2025; invoiced 24.01.2026",
+    "amount": 9009.52,
+    "amountType": "net",
+    "id": "li-023c09be595f",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.937",
+      "quote": "SI10076050;Rechnung;801948;MAIN TECHNIK;24.01.2026;31.12.2025;9009,52;EUR;Leistung Dezember 2025, in 2025 als unfakturierte Lieferung abgegrenzt (Konto 260000)"
+     }
+    ]
+   },
+   {
+    "label": "SI10075529",
+    "documentNumber": "SI10075529",
+    "date": "25.12.2025",
+    "counterparty": "BOREALISBAU KG",
+    "description": "Service date 25.12.2025; invoiced 26.01.2026",
+    "amount": 1651.82,
+    "amountType": "net",
+    "id": "li-12805f08d291",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.1001",
+      "quote": "SI10075529;Rechnung;800283;BOREALISBAU KG;26.01.2026;25.12.2025;1651,82;EUR;Leistung Dezember 2025, in 2025 als unfakturierte Lieferung abgegrenzt (Konto 260000)"
+     }
+    ]
+   },
+   {
+    "label": "SI10074633",
+    "documentNumber": "SI10074633",
+    "date": "30.12.2025",
+    "counterparty": "",
+    "description": "Service date 30.12.2025; invoiced 27.01.2026",
+    "amount": 3318.36,
+    "amountType": "net",
+    "id": "li-746990de0f4f",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.1028",
+      "quote": "SI10074633;Rechnung;802160;;27.01.2026;30.12.2025;3318,36;EUR;Leistung Dezember 2025, in 2025 als unfakturierte Lieferung abgegrenzt (Konto 260000)"
+     }
+    ]
+   },
+   {
+    "label": "SI10075869",
+    "documentNumber": "SI10075869",
+    "date": "31.12.2025",
+    "counterparty": "HANSE TROCKENBAU",
+    "description": "Service date 31.12.2025; invoiced 29.01.2026",
+    "amount": 3027.06,
+    "amountType": "net",
+    "id": "li-6e610feedfb6",
+    "citations": [
+     {
+      "docId": "begleitdokumente-fakturajournal-januar-2026",
+      "ref": "Fakturajournal_Januar_2026!r.1129",
+      "quote": "SI10075869;Rechnung;800946;HANSE TROCKENBAU;29.01.2026;31.12.2025;3027,06;EUR;Leistung Dezember 2025, in 2025 als unfakturierte Lieferung abgegrenzt (Konto 260000)"
+     }
+    ]
+   }
+  ],
+  "impactCategories": [
+   "profit_overstatement"
+  ],
+  "calculations": [
+   {
+    "label": "Subsequent-period invoices",
+    "expression": "34 invoices",
+    "value": 175563.41,
+    "currency": "EUR"
+   }
+  ],
+  "id": "finding-dfb4beee3260",
+  "factIds": [],
+  "origin": "control",
+  "analysisRunId": "run-2026-07-18T17-23-14-292Z-046d79",
+  "engineStatus": "detected",
+  "aiStatus": "needs-judgment"
+ },
+ {
+  "checkId": "debtorMasterData",
+  "title": "1 debtor master-data change lacks independent approval",
+  "tier": "corroborated",
+  "fraudType": "master_data_control_breach",
+  "narrative": "1 debtor changes were self-approved or not marked approved. The affected fields and downstream transactions require manual authorization review.",
+  "amountInvolved": null,
+  "severity": "medium",
+  "citations": [
+   {
+    "docId": "begleitdokumente-stammdatenaenderungen-debitoren-2025",
+    "ref": "Stammdatenaenderungen_Debitoren_2025!r.51",
+    "quote": "17.11.2025;800291;ALPEN TECHNIK;Bankverbindung;DE44500105175407324931;DE41700202700010843421;BSP-U08;;Nein"
+   }
+  ],
+  "lineItems": [
+   {
+    "label": "800291 Bankverbindung",
+    "date": "17.11.2025",
+    "counterparty": "ALPEN TECHNIK",
+    "description": "DE44500105175407324931 → DE41700202700010843421 (BSP-U08 / not approved)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-aa98c11381c3",
+    "citations": [
+     {
+      "docId": "begleitdokumente-stammdatenaenderungen-debitoren-2025",
+      "ref": "Stammdatenaenderungen_Debitoren_2025!r.51",
+      "quote": "17.11.2025;800291;ALPEN TECHNIK;Bankverbindung;DE44500105175407324931;DE41700202700010843421;BSP-U08;;Nein"
+     }
+    ]
+   }
+  ],
+  "impactCategories": [
+   "control_breach"
+  ],
+  "id": "finding-a6262e2fce26",
+  "factIds": [],
+  "origin": "control",
+  "analysisRunId": "run-2026-07-18T17-23-14-292Z-046d79",
+  "engineStatus": "detected",
+  "aiStatus": "needs-judgment"
+ },
+ {
+  "checkId": "journalChangeControl",
+  "title": "19 journals posted without independent approval",
+  "tier": "corroborated",
+  "fraudType": "journal_override",
+  "narrative": "The journal approval log contains 19 entries that were self-approved or posted without a valid independent release. The cited sample covers EUR 10804422.78 absolute journal movement and should be traced to authorization evidence.",
+  "amountInvolved": 10804422.78,
+  "severity": "high",
+  "citations": [
+   {
+    "docId": "begleitdokumente-freigabe-log-journale-2025",
+    "ref": "Freigabe-Log_Journale_2025!r.133",
+    "quote": "5640393178;GL-393178;2;44,02;BSP-U02;03.02.2025;16:21:39;BSP-U02;03.02.2025;Freigegeben (Ersteller=Freigeber)"
+   },
+   {
+    "docId": "begleitdokumente-freigabe-log-journale-2025",
+    "ref": "Freigabe-Log_Journale_2025!r.150",
+    "quote": "5640393262;GL-393262;2;50,60;BSP-U02;03.02.2025;15:59:35;BSP-U02;03.02.2025;Freigegeben (Ersteller=Freigeber)"
+   },
+   {
+    "docId": "begleitdokumente-freigabe-log-journale-2025",
+    "ref": "Freigabe-Log_Journale_2025!r.300",
+    "quote": "5640455391;GL-455391;2;10076,38;BSP-U11;03.03.2025;09:26:56;BSP-U11;03.03.2025;Freigegeben (Ersteller=Freigeber)"
+   },
+   {
+    "docId": "begleitdokumente-freigabe-log-journale-2025",
+    "ref": "Freigabe-Log_Journale_2025!r.359",
+    "quote": "5640474595;GL-474595;2;95,72;BSP-U02;03.03.2025;09:13:47;BSP-U02;03.03.2025;Freigegeben (Ersteller=Freigeber)"
+   },
+   {
+    "docId": "begleitdokumente-freigabe-log-journale-2025",
+    "ref": "Freigabe-Log_Journale_2025!r.712",
+    "quote": "5640615992;GL-615992;2;73,00;BSP-U02;07.04.2025;11:55:26;BSP-U02;07.04.2025;Freigegeben (Ersteller=Freigeber)"
+   },
+   {
+    "docId": "begleitdokumente-freigabe-log-journale-2025",
+    "ref": "Freigabe-Log_Journale_2025!r.1144",
+    "quote": "5640875549;GL-875549;2;47,66;BSP-U02;06.06.2025;17:58:39;BSP-U02;06.06.2025;Freigegeben (Ersteller=Freigeber)"
+   },
+   {
+    "docId": "begleitdokumente-freigabe-log-journale-2025",
+    "ref": "Freigabe-Log_Journale_2025!r.1156",
+    "quote": "5640912249;GL-912249;2;74960,00;BSP-U10;09.06.2025;07:27:24;;;GEBUCHT OHNE FREIGABE"
+   },
+   {
+    "docId": "begleitdokumente-freigabe-log-journale-2025",
+    "ref": "Freigabe-Log_Journale_2025!r.1281",
+    "quote": "5640996802;GL-996802;136;48826,92;BSP-U10;03.07.2025;13:51:27;;;GEBUCHT OHNE FREIGABE"
+   },
+   {
+    "docId": "begleitdokumente-freigabe-log-journale-2025",
+    "ref": "Freigabe-Log_Journale_2025!r.1442",
+    "quote": "5641134798;GL-134798;2;116,28;BSP-U02;01.08.2025;14:43:19;BSP-U02;01.08.2025;Freigegeben (Ersteller=Freigeber)"
+   },
+   {
+    "docId": "begleitdokumente-freigabe-log-journale-2025",
+    "ref": "Freigabe-Log_Journale_2025!r.1501",
+    "quote": "5641134840;GL-134840;2;191,26;BSP-U02;04.08.2025;13:40:11;BSP-U02;04.08.2025;Freigegeben (Ersteller=Freigeber)"
+   },
+   {
+    "docId": "begleitdokumente-freigabe-log-journale-2025",
+    "ref": "Freigabe-Log_Journale_2025!r.1956",
+    "quote": "5641359668;GL-359668;2;78,80;BSP-U02;03.10.2025;09:15:00;BSP-U02;03.10.2025;Freigegeben (Ersteller=Freigeber)"
+   },
+   {
+    "docId": "begleitdokumente-freigabe-log-journale-2025",
+    "ref": "Freigabe-Log_Journale_2025!r.2729",
+    "quote": "5641531863;GL-531863;2;9,40;BSP-U11;08.12.2025;14:13:46;;;GEBUCHT OHNE FREIGABE"
+   },
+   {
+    "docId": "begleitdokumente-freigabe-log-journale-2025",
+    "ref": "Freigabe-Log_Journale_2025!r.2771",
+    "quote": "5641554383;GL-554383;2;275812,74;BSP-U11;12.12.2025;08:55:51;BSP-U11;12.12.2025;Freigegeben (Ersteller=Freigeber)"
+   },
+   {
+    "docId": "begleitdokumente-freigabe-log-journale-2025",
+    "ref": "Freigabe-Log_Journale_2025!r.2957",
+    "quote": "5641588319;GL-588319;2;40,00;BSP-U02;05.01.2026;12:42:19;BSP-U02;05.01.2026;Freigegeben (Ersteller=Freigeber)"
+   },
+   {
+    "docId": "begleitdokumente-freigabe-log-journale-2025",
+    "ref": "Freigabe-Log_Journale_2025!r.3113",
+    "quote": "5640560001;GL-560001;2;1094600,00;BSP-U02;31.03.2025;10:42:17;BSP-U02;31.03.2025;Freigegeben (Ersteller=Freigeber)"
+   },
+   {
+    "docId": "begleitdokumente-freigabe-log-journale-2025",
+    "ref": "Freigabe-Log_Journale_2025!r.3114",
+    "quote": "5640955001;GL-955001;2;1123700,00;BSP-U02;30.06.2025;11:15:03;BSP-U02;30.06.2025;Freigegeben (Ersteller=Freigeber)"
+   }
+  ],
+  "lineItems": [
+   {
+    "label": "5640393178",
+    "date": "03.02.2025",
+    "description": "Freigegeben (Ersteller=Freigeber) · BSP-U02 / BSP-U02 · EUR 44,02",
+    "amount": 44.02,
+    "amountType": "control",
+    "id": "li-1ade9c05ddf2",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.133",
+      "quote": "5640393178;GL-393178;2;44,02;BSP-U02;03.02.2025;16:21:39;BSP-U02;03.02.2025;Freigegeben (Ersteller=Freigeber)"
+     }
+    ]
+   },
+   {
+    "label": "5640393262",
+    "date": "03.02.2025",
+    "description": "Freigegeben (Ersteller=Freigeber) · BSP-U02 / BSP-U02 · EUR 50,60",
+    "amount": 50.6,
+    "amountType": "control",
+    "id": "li-4cf2044cfed4",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.150",
+      "quote": "5640393262;GL-393262;2;50,60;BSP-U02;03.02.2025;15:59:35;BSP-U02;03.02.2025;Freigegeben (Ersteller=Freigeber)"
+     }
+    ]
+   },
+   {
+    "label": "5640455391",
+    "date": "03.03.2025",
+    "description": "Freigegeben (Ersteller=Freigeber) · BSP-U11 / BSP-U11 · EUR 10076,38",
+    "amount": 10076.38,
+    "amountType": "control",
+    "id": "li-65e1be919254",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.300",
+      "quote": "5640455391;GL-455391;2;10076,38;BSP-U11;03.03.2025;09:26:56;BSP-U11;03.03.2025;Freigegeben (Ersteller=Freigeber)"
+     }
+    ]
+   },
+   {
+    "label": "5640474595",
+    "date": "03.03.2025",
+    "description": "Freigegeben (Ersteller=Freigeber) · BSP-U02 / BSP-U02 · EUR 95,72",
+    "amount": 95.72,
+    "amountType": "control",
+    "id": "li-f54c177c42af",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.359",
+      "quote": "5640474595;GL-474595;2;95,72;BSP-U02;03.03.2025;09:13:47;BSP-U02;03.03.2025;Freigegeben (Ersteller=Freigeber)"
+     }
+    ]
+   },
+   {
+    "label": "5640615992",
+    "date": "07.04.2025",
+    "description": "Freigegeben (Ersteller=Freigeber) · BSP-U02 / BSP-U02 · EUR 73,00",
+    "amount": 73,
+    "amountType": "control",
+    "id": "li-124dcd38104b",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.712",
+      "quote": "5640615992;GL-615992;2;73,00;BSP-U02;07.04.2025;11:55:26;BSP-U02;07.04.2025;Freigegeben (Ersteller=Freigeber)"
+     }
+    ]
+   },
+   {
+    "label": "5640875549",
+    "date": "06.06.2025",
+    "description": "Freigegeben (Ersteller=Freigeber) · BSP-U02 / BSP-U02 · EUR 47,66",
+    "amount": 47.66,
+    "amountType": "control",
+    "id": "li-ba9826575634",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.1144",
+      "quote": "5640875549;GL-875549;2;47,66;BSP-U02;06.06.2025;17:58:39;BSP-U02;06.06.2025;Freigegeben (Ersteller=Freigeber)"
+     }
+    ]
+   },
+   {
+    "label": "5640912249",
+    "date": "09.06.2025",
+    "description": "GEBUCHT OHNE FREIGABE · BSP-U10 / no approver · EUR 74960,00",
+    "amount": 74960,
+    "amountType": "control",
+    "id": "li-8c6a20b6ddbf",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.1156",
+      "quote": "5640912249;GL-912249;2;74960,00;BSP-U10;09.06.2025;07:27:24;;;GEBUCHT OHNE FREIGABE"
+     }
+    ]
+   },
+   {
+    "label": "5640996802",
+    "date": "03.07.2025",
+    "description": "GEBUCHT OHNE FREIGABE · BSP-U10 / no approver · EUR 48826,92",
+    "amount": 48826.92,
+    "amountType": "control",
+    "id": "li-9d2884a95062",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.1281",
+      "quote": "5640996802;GL-996802;136;48826,92;BSP-U10;03.07.2025;13:51:27;;;GEBUCHT OHNE FREIGABE"
+     }
+    ]
+   },
+   {
+    "label": "5641134798",
+    "date": "01.08.2025",
+    "description": "Freigegeben (Ersteller=Freigeber) · BSP-U02 / BSP-U02 · EUR 116,28",
+    "amount": 116.28,
+    "amountType": "control",
+    "id": "li-f2cab277ca99",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.1442",
+      "quote": "5641134798;GL-134798;2;116,28;BSP-U02;01.08.2025;14:43:19;BSP-U02;01.08.2025;Freigegeben (Ersteller=Freigeber)"
+     }
+    ]
+   },
+   {
+    "label": "5641134840",
+    "date": "04.08.2025",
+    "description": "Freigegeben (Ersteller=Freigeber) · BSP-U02 / BSP-U02 · EUR 191,26",
+    "amount": 191.26,
+    "amountType": "control",
+    "id": "li-a3d9045dc304",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.1501",
+      "quote": "5641134840;GL-134840;2;191,26;BSP-U02;04.08.2025;13:40:11;BSP-U02;04.08.2025;Freigegeben (Ersteller=Freigeber)"
+     }
+    ]
+   },
+   {
+    "label": "5641359668",
+    "date": "03.10.2025",
+    "description": "Freigegeben (Ersteller=Freigeber) · BSP-U02 / BSP-U02 · EUR 78,80",
+    "amount": 78.8,
+    "amountType": "control",
+    "id": "li-7f64c027b58e",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.1956",
+      "quote": "5641359668;GL-359668;2;78,80;BSP-U02;03.10.2025;09:15:00;BSP-U02;03.10.2025;Freigegeben (Ersteller=Freigeber)"
+     }
+    ]
+   },
+   {
+    "label": "5641531863",
+    "date": "08.12.2025",
+    "description": "GEBUCHT OHNE FREIGABE · BSP-U11 / no approver · EUR 9,40",
+    "amount": 9.4,
+    "amountType": "control",
+    "id": "li-8b66b91f9706",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.2729",
+      "quote": "5641531863;GL-531863;2;9,40;BSP-U11;08.12.2025;14:13:46;;;GEBUCHT OHNE FREIGABE"
+     }
+    ]
+   },
+   {
+    "label": "5641554383",
+    "date": "12.12.2025",
+    "description": "Freigegeben (Ersteller=Freigeber) · BSP-U11 / BSP-U11 · EUR 275812,74",
+    "amount": 275812.74,
+    "amountType": "control",
+    "id": "li-ea5c220b73e6",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.2771",
+      "quote": "5641554383;GL-554383;2;275812,74;BSP-U11;12.12.2025;08:55:51;BSP-U11;12.12.2025;Freigegeben (Ersteller=Freigeber)"
+     }
+    ]
+   },
+   {
+    "label": "5641588319",
+    "date": "05.01.2026",
+    "description": "Freigegeben (Ersteller=Freigeber) · BSP-U02 / BSP-U02 · EUR 40,00",
+    "amount": 40,
+    "amountType": "control",
+    "id": "li-9d0fc6eec00e",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.2957",
+      "quote": "5641588319;GL-588319;2;40,00;BSP-U02;05.01.2026;12:42:19;BSP-U02;05.01.2026;Freigegeben (Ersteller=Freigeber)"
+     }
+    ]
+   },
+   {
+    "label": "5640560001",
+    "date": "31.03.2025",
+    "description": "Freigegeben (Ersteller=Freigeber) · BSP-U02 / BSP-U02 · EUR 1094600,00",
+    "amount": 1094600,
+    "amountType": "control",
+    "id": "li-41f6d8a03cdc",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.3113",
+      "quote": "5640560001;GL-560001;2;1094600,00;BSP-U02;31.03.2025;10:42:17;BSP-U02;31.03.2025;Freigegeben (Ersteller=Freigeber)"
+     }
+    ]
+   },
+   {
+    "label": "5640955001",
+    "date": "30.06.2025",
+    "description": "Freigegeben (Ersteller=Freigeber) · BSP-U02 / BSP-U02 · EUR 1123700,00",
+    "amount": 1123700,
+    "amountType": "control",
+    "id": "li-61982a58458b",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.3114",
+      "quote": "5640955001;GL-955001;2;1123700,00;BSP-U02;30.06.2025;11:15:03;BSP-U02;30.06.2025;Freigegeben (Ersteller=Freigeber)"
+     }
+    ]
+   },
+   {
+    "label": "5641320001",
+    "date": "30.09.2025",
+    "description": "Freigegeben (Ersteller=Freigeber) · BSP-U02 / BSP-U02 · EUR 1099400,00",
+    "amount": 1099400,
+    "amountType": "control",
+    "id": "li-a35c60c8c2d1",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.3115",
+      "quote": "5641320001;GL-320001;2;1099400,00;BSP-U02;30.09.2025;09:58:41;BSP-U02;30.09.2025;Freigegeben (Ersteller=Freigeber)"
+     }
+    ]
+   },
+   {
+    "label": "5641565001",
+    "date": "29.12.2025",
+    "description": "Freigegeben (Ersteller=Freigeber) · BSP-U02 / BSP-U02 · EUR 1076300,00",
+    "amount": 1076300,
+    "amountType": "control",
+    "id": "li-7255e828f5c3",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.3116",
+      "quote": "5641565001;GL-565001;2;1076300,00;BSP-U02;29.12.2025;14:21:36;BSP-U02;29.12.2025;Freigegeben (Ersteller=Freigeber)"
+     }
+    ]
+   },
+   {
+    "label": "5641596001",
+    "date": "30.12.2025",
+    "description": "GEBUCHT OHNE FREIGABE · BSP-U09 / no approver · EUR 6000000,00",
+    "amount": 6000000,
+    "amountType": "control",
+    "id": "li-c99d2308d1f7",
+    "citations": [
+     {
+      "docId": "begleitdokumente-freigabe-log-journale-2025",
+      "ref": "Freigabe-Log_Journale_2025!r.3117",
+      "quote": "5641596001;GL-596001;2;6000000,00;BSP-U09;30.12.2025;22:47:12;;;GEBUCHT OHNE FREIGABE"
+     }
+    ]
+   }
+  ],
+  "impactCategories": [
+   "control_breach"
+  ],
+  "calculations": [
+   {
+    "label": "Approval-breach journals (sample)",
+    "expression": "19 of 19 journals",
+    "value": 10804422.78,
+    "currency": "EUR"
+   }
+  ],
+  "id": "finding-07b9181e68c2",
+  "factIds": [],
+  "origin": "control",
+  "analysisRunId": "run-2026-07-18T17-23-14-292Z-046d79",
+  "engineStatus": "detected",
+  "aiStatus": "needs-judgment"
+ },
+ {
+  "checkId": "journalChangeControl",
+  "title": "4722 journal storno or rewrite events require authorization evidence",
+  "tier": "judgment",
+  "fraudType": "journal_override",
+  "narrative": "The change log contains 4722 storno, rewrite, or post-finalization events. Reconcile the cited sample to approval logs, original vouchers, and compensating entries.",
+  "amountInvolved": null,
+  "severity": "medium",
+  "citations": [
+   {
+    "docId": "begleitdokumente-aenderungsprotokoll-2025",
+    "ref": "Aenderungsprotokoll_2025!r.2",
+    "quote": "5657382325;448020-XGGKTOP20 020-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+   },
+   {
+    "docId": "begleitdokumente-aenderungsprotokoll-2025",
+    "ref": "Aenderungsprotokoll_2025!r.3",
+    "quote": "5657382331;448020-XGSFPLUS30 100-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+   },
+   {
+    "docId": "begleitdokumente-aenderungsprotokoll-2025",
+    "ref": "Aenderungsprotokoll_2025!r.4",
+    "quote": "5657382339;448020-XGSFPRM30 120-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+   },
+   {
+    "docId": "begleitdokumente-aenderungsprotokoll-2025",
+    "ref": "Aenderungsprotokoll_2025!r.5",
+    "quote": "5657382343;448020-XGSFPRM30 180-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+   },
+   {
+    "docId": "begleitdokumente-aenderungsprotokoll-2025",
+    "ref": "Aenderungsprotokoll_2025!r.6",
+    "quote": "5657382373;448020-XGSFTOP50 040-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+   },
+   {
+    "docId": "begleitdokumente-aenderungsprotokoll-2025",
+    "ref": "Aenderungsprotokoll_2025!r.7",
+    "quote": "5657382377;448020-XGSFTOP50 080-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+   },
+   {
+    "docId": "begleitdokumente-aenderungsprotokoll-2025",
+    "ref": "Aenderungsprotokoll_2025!r.8",
+    "quote": "5657382387;448020-XGSFTOP70 050-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+   },
+   {
+    "docId": "begleitdokumente-aenderungsprotokoll-2025",
+    "ref": "Aenderungsprotokoll_2025!r.9",
+    "quote": "5657382393;448020-XPGKPLUS 180-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+   },
+   {
+    "docId": "begleitdokumente-aenderungsprotokoll-2025",
+    "ref": "Aenderungsprotokoll_2025!r.10",
+    "quote": "5657382421;448020-XPGKTOPTB 180-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+   },
+   {
+    "docId": "begleitdokumente-aenderungsprotokoll-2025",
+    "ref": "Aenderungsprotokoll_2025!r.11",
+    "quote": "5657382423;448020-XPGKTOPTB 200-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+   },
+   {
+    "docId": "begleitdokumente-aenderungsprotokoll-2025",
+    "ref": "Aenderungsprotokoll_2025!r.12",
+    "quote": "5657382336;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+   },
+   {
+    "docId": "begleitdokumente-aenderungsprotokoll-2025",
+    "ref": "Aenderungsprotokoll_2025!r.13",
+    "quote": "5657382338;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+   },
+   {
+    "docId": "begleitdokumente-aenderungsprotokoll-2025",
+    "ref": "Aenderungsprotokoll_2025!r.14",
+    "quote": "5657382396;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+   },
+   {
+    "docId": "begleitdokumente-aenderungsprotokoll-2025",
+    "ref": "Aenderungsprotokoll_2025!r.15",
+    "quote": "5657382374;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+   },
+   {
+    "docId": "begleitdokumente-aenderungsprotokoll-2025",
+    "ref": "Aenderungsprotokoll_2025!r.16",
+    "quote": "5657382638;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+   },
+   {
+    "docId": "begleitdokumente-aenderungsprotokoll-2025",
+    "ref": "Aenderungsprotokoll_2025!r.17",
+    "quote": "5657382426;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+   }
+  ],
+  "lineItems": [
+   {
+    "label": "5657382325",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-575259004fdd",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.2",
+      "quote": "5657382325;448020-XGGKTOP20 020-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382331",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-7684bcd86310",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.3",
+      "quote": "5657382331;448020-XGSFPLUS30 100-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382339",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-0cb2109c52e5",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.4",
+      "quote": "5657382339;448020-XGSFPRM30 120-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382343",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-30ffca679f0d",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.5",
+      "quote": "5657382343;448020-XGSFPRM30 180-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382373",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-8eaa37d6ffcd",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.6",
+      "quote": "5657382373;448020-XGSFTOP50 040-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382377",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-01b2e63664e2",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.7",
+      "quote": "5657382377;448020-XGSFTOP50 080-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382387",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-0016077fcaab",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.8",
+      "quote": "5657382387;448020-XGSFTOP70 050-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382393",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-1ede7d539246",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.9",
+      "quote": "5657382393;448020-XPGKPLUS 180-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382421",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-5abdd3e1358f",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.10",
+      "quote": "5657382421;448020-XPGKTOPTB 180-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382423",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-c6c840367c6e",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.11",
+      "quote": "5657382423;448020-XPGKTOPTB 200-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382336",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-3ec5bd0af31a",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.12",
+      "quote": "5657382336;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382338",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-4ae938abd2d9",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.13",
+      "quote": "5657382338;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382396",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-75d8625bdd01",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.14",
+      "quote": "5657382396;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382374",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-8f9afe8fc87c",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.15",
+      "quote": "5657382374;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382638",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-5f80d0fd80f0",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.16",
+      "quote": "5657382638;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382426",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-d416011aa3c5",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.17",
+      "quote": "5657382426;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382392",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-3cc5ee1c78de",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.18",
+      "quote": "5657382392;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382628",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-59b9d873e522",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.19",
+      "quote": "5657382628;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382634",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-873346217cad",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.20",
+      "quote": "5657382634;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382328",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-cf6cf5c5a368",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.21",
+      "quote": "5657382328;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382346",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-3ccabfae57ab",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.22",
+      "quote": "5657382346;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382630",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-36c86b6ade24",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.23",
+      "quote": "5657382630;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382650",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-8903cb9d4da1",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.24",
+      "quote": "5657382650;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382372",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-a983fe2192ea",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.25",
+      "quote": "5657382372;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382394",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-c57c0d71e20b",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.26",
+      "quote": "5657382394;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382400",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-f0d5c45f0493",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.27",
+      "quote": "5657382400;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382388",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-8aee0f5ad418",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.28",
+      "quote": "5657382388;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382652",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-5fc8587f6600",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.29",
+      "quote": "5657382652;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382376",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-d2447fd11ff1",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.30",
+      "quote": "5657382376;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382646",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-47259722fb74",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.31",
+      "quote": "5657382646;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382648",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-8b87e849dbfb",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.32",
+      "quote": "5657382648;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382644",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-0d3fc85d0463",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.33",
+      "quote": "5657382644;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382642",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-fc2fa44702b8",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.34",
+      "quote": "5657382642;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382640",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-78a3f34c0ec9",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.35",
+      "quote": "5657382640;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382340",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-ef9d6ba5847e",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.36",
+      "quote": "5657382340;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382398",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-d8cadc3aad3f",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.37",
+      "quote": "5657382398;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382330",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-c42af619656b",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.38",
+      "quote": "5657382330;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382342",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-671a7d426f80",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.39",
+      "quote": "5657382342;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382636",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-8332eb0d2c65",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.40",
+      "quote": "5657382636;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382332",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-4e74d40ae9be",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.41",
+      "quote": "5657382332;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382344",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-65bff514dc49",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.42",
+      "quote": "5657382344;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382390",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-26e0d52ea6ae",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.43",
+      "quote": "5657382390;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382422",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-05a78ea1a364",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.44",
+      "quote": "5657382422;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382632",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-75986b98ddcc",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.45",
+      "quote": "5657382632;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382326",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-6e6f3c1f0d4a",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.46",
+      "quote": "5657382326;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382378",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-2b28d3948c98",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.47",
+      "quote": "5657382378;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382348",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-919f69361086",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.48",
+      "quote": "5657382348;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382424",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-e530496ef549",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.49",
+      "quote": "5657382424;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382386",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-42679017a7a5",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.50",
+      "quote": "5657382386;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382368",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-9fcc73556bcf",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.51",
+      "quote": "5657382368;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382370",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-e2fe009bf7ce",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.52",
+      "quote": "5657382370;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382334",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-acc6bec26f43",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.53",
+      "quote": "5657382334;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382420",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-94ffb5deb81f",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.54",
+      "quote": "5657382420;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382350",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-cd3eedabda79",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.55",
+      "quote": "5657382350;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382384",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-bf5954b9e609",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.56",
+      "quote": "5657382384;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382352",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-a2af94d6cc5a",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.57",
+      "quote": "5657382352;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382402",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-a7eb8d1e0154",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.58",
+      "quote": "5657382402;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382380",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-3ea8b7d92a8f",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.59",
+      "quote": "5657382380;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382418",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-1e4d5ebae0e5",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.60",
+      "quote": "5657382418;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382404",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-ad34fc98fe73",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.61",
+      "quote": "5657382404;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382406",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-be427776b528",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.62",
+      "quote": "5657382406;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382366",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-5d108f0420a0",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.63",
+      "quote": "5657382366;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382408",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-71484b2c9971",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.64",
+      "quote": "5657382408;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382412",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-d32d9c15db50",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.65",
+      "quote": "5657382412;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382354",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-c12bca30eb65",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.66",
+      "quote": "5657382354;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382410",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-e48e4f07f0cc",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.67",
+      "quote": "5657382410;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382356",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-27506e320a84",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.68",
+      "quote": "5657382356;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382362",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-c00264407718",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.69",
+      "quote": "5657382362;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382382",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-e952901115f6",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.70",
+      "quote": "5657382382;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382414",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-efb8c90a63d7",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.71",
+      "quote": "5657382414;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382364",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-2e1720f18a39",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.72",
+      "quote": "5657382364;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382416",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-ed1d342eb1a1",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.73",
+      "quote": "5657382416;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382358",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-681a2cf01903",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.74",
+      "quote": "5657382358;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382360",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-8995c4042ceb",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.75",
+      "quote": "5657382360;440020-BSP-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382327",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-1d21e227ddb9",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.76",
+      "quote": "5657382327;448020-XGGKTOP30 030-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382329",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-ae0b087c4483",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.77",
+      "quote": "5657382329;448020-XGGKTOP30 100-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382333",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-4e5146851beb",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.78",
+      "quote": "5657382333;448020-XGSFPLUS30 160-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382335",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-b1698e7852fb",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.79",
+      "quote": "5657382335;448020-XGSFPRM30 040-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382337",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-bb748fabab07",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.80",
+      "quote": "5657382337;448020-XGSFPRM30 060-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382341",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-0e797e95cdaa",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.81",
+      "quote": "5657382341;448020-XGSFPRM30 160-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382345",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-81073d82f4cf",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.82",
+      "quote": "5657382345;448020-XGSFPRM30 200-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382347",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-a48a3d96ce0c",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.83",
+      "quote": "5657382347;448020-XGSFTOP30 030-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382349",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-44f8fc07960d",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.84",
+      "quote": "5657382349;448020-XGSFTOP30 040-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382351",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-729234f4a839",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.85",
+      "quote": "5657382351;448020-XGSFTOP30 050-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382353",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-b5c1973a15c6",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.86",
+      "quote": "5657382353;448020-XGSFTOP30 060-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382355",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-1ecec1e66f23",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.87",
+      "quote": "5657382355;448020-XGSFTOP30 080-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382357",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-2e80e89fafdb",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.88",
+      "quote": "5657382357;448020-XGSFTOP30 100-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382359",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-e730f1a051f5",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.89",
+      "quote": "5657382359;448020-XGSFTOP30 120-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382361",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-79dfe2b471b7",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.90",
+      "quote": "5657382361;448020-XGSFTOP30 140-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382363",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-737922c721d5",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.91",
+      "quote": "5657382363;448020-XGSFTOP30 160-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382365",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-f3b880dbf75f",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.92",
+      "quote": "5657382365;448020-XGSFTOP30 180-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382367",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-5e7aad310298",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.93",
+      "quote": "5657382367;448020-XGSFTOP30 200-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382369",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-37b8ffc62b21",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.94",
+      "quote": "5657382369;448020-XGSFTOP30TB 200-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382371",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-cbeb3d8f1259",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.95",
+      "quote": "5657382371;448020-XGSFTOP30TB 240-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382375",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-1a6c2a400157",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.96",
+      "quote": "5657382375;448020-XGSFTOP50 060-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382379",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-144ed06f1a8f",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.97",
+      "quote": "5657382379;448020-XGSFTOP50 100-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382381",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-4ee21dbca3ec",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.98",
+      "quote": "5657382381;448020-XGSFTOP50 120-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382383",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-a5d15449f817",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.99",
+      "quote": "5657382383;448020-XGSFTOP50 140-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382385",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-b5d708067c2f",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.100",
+      "quote": "5657382385;448020-XGSFTOP50 160-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   },
+   {
+    "label": "5657382389",
+    "date": "03.02.2025",
+    "description": "Stornobuchung (Generalstorno) by BSP-U10: Ursprungsbeleg storniert (Neubuchung im selben Journal)",
+    "amount": 0,
+    "amountType": "control",
+    "id": "li-bbe81d1e362f",
+    "citations": [
+     {
+      "docId": "begleitdokumente-aenderungsprotokoll-2025",
+      "ref": "Aenderungsprotokoll_2025!r.101",
+      "quote": "5657382389;448020-XGSFTOP70 120-802445----10--;30.01.2025;Stornobuchung (Generalstorno);BSP-U10;03.02.2025;07:24:55;Ursprungsbeleg storniert; Neubuchung im selben Journal;Ja"
+     }
+    ]
+   }
+  ],
+  "impactCategories": [
+   "control_breach"
+  ],
+  "id": "finding-f4621dc9f1e1",
+  "factIds": [],
+  "origin": "control",
+  "analysisRunId": "run-2026-07-18T17-23-14-292Z-046d79",
+  "engineStatus": "detected",
+  "aiStatus": "needs-judgment"
+ },
+ {
+  "checkId": "taxCompleteness",
+  "title": "973098 ledger tax references are absent from the VAT posting export",
+  "tier": "corroborated",
+  "fraudType": "tax_export_incompleteness",
+  "narrative": "973098 general-ledger entries carry a tax reference that is absent from the VAT posting export. The cited sample represents EUR 127744995.86 of absolute ledger movement and requires export-completeness reconciliation.",
+  "amountInvolved": 127744995.86,
+  "severity": "high",
+  "citations": [
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.1",
+    "quote": "\"331000------\";\"Periode 0\";\"5658091121\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-39547,37;\"EUR\";-39547,37;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.2",
+    "quote": "\"110000------\";\"Periode 0\";\"5658091122\";\"Vortrag\";\"\";\"Nein\";\"Nein\";1325793,98;\"EUR\";1325793,98;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.3",
+    "quote": "\"140000------\";\"Periode 0\";\"5658091123\";\"Vortrag\";\"\";\"Nein\";\"Nein\";273831,54;\"EUR\";273831,54;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.4",
+    "quote": "\"170000-----TRADE-10\";\"Periode 0\";\"5658091124\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-133978,23;\"EUR\";-133978,23;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.5",
+    "quote": "\"173000-----TRADE-10\";\"Periode 0\";\"5658091125\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-6008164,24;\"EUR\";-6008164,24;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.6",
+    "quote": "\"110000-----XPS-10\";\"Periode 0\";\"5658091126\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-21872,64;\"EUR\";-21872,64;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.7",
+    "quote": "\"110100-----XPS-10\";\"Periode 0\";\"5658091127\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-92883,70;\"EUR\";-92883,70;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.8",
+    "quote": "\"110200-----XPS-10\";\"Periode 0\";\"5658091128\";\"Vortrag\";\"\";\"Nein\";\"Nein\";16854,13;\"EUR\";16854,13;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.9",
+    "quote": "\"110700-----XPS-10\";\"Periode 0\";\"5658091129\";\"Vortrag\";\"\";\"Nein\";\"Nein\";9863,92;\"EUR\";9863,92;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.10",
+    "quote": "\"160000-----XPS-10\";\"Periode 0\";\"5658091130\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-2226264,13;\"EUR\";-2226264,13;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.11",
+    "quote": "\"160100-----XPS-10\";\"Periode 0\";\"5658091131\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-444129,24;\"EUR\";-444129,24;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.12",
+    "quote": "\"150000-----XPS-10\";\"Periode 0\";\"5658091132\";\"Vortrag\";\"\";\"Nein\";\"Nein\";10844,35;\"EUR\";10844,35;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.13",
+    "quote": "\"150100-----XPS-10\";\"Periode 0\";\"5658091133\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-1644,68;\"EUR\";-1644,68;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.14",
+    "quote": "\"110200------\";\"Periode 0\";\"5658091134\";\"Vortrag\";\"\";\"Nein\";\"Nein\";73123,45;\"EUR\";73123,45;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.15",
+    "quote": "\"110100------\";\"Periode 0\";\"5658091135\";\"Vortrag\";\"\";\"Nein\";\"Nein\";549582,89;\"EUR\";549582,89;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.16",
+    "quote": "\"169009-----XPS-10\";\"Periode 0\";\"5658091136\";\"Vortrag\";\"\";\"Nein\";\"Nein\";1088,51;\"EUR\";1088,51;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+   }
+  ],
+  "lineItems": [
+   {
+    "label": "5658091121",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 39547.37,
+    "amountType": "control",
+    "id": "li-ed00939bf9a0",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.1",
+      "quote": "\"331000------\";\"Periode 0\";\"5658091121\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-39547,37;\"EUR\";-39547,37;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091122",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 1325793.98,
+    "amountType": "control",
+    "id": "li-0651528a70d4",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.2",
+      "quote": "\"110000------\";\"Periode 0\";\"5658091122\";\"Vortrag\";\"\";\"Nein\";\"Nein\";1325793,98;\"EUR\";1325793,98;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091123",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 273831.54,
+    "amountType": "control",
+    "id": "li-b049a40c92cb",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.3",
+      "quote": "\"140000------\";\"Periode 0\";\"5658091123\";\"Vortrag\";\"\";\"Nein\";\"Nein\";273831,54;\"EUR\";273831,54;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091124",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 133978.23,
+    "amountType": "control",
+    "id": "li-ee6a113ea30e",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.4",
+      "quote": "\"170000-----TRADE-10\";\"Periode 0\";\"5658091124\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-133978,23;\"EUR\";-133978,23;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091125",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 6008164.24,
+    "amountType": "control",
+    "id": "li-dc69705481a0",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.5",
+      "quote": "\"173000-----TRADE-10\";\"Periode 0\";\"5658091125\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-6008164,24;\"EUR\";-6008164,24;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091126",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 21872.64,
+    "amountType": "control",
+    "id": "li-6256b2ecd6d2",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.6",
+      "quote": "\"110000-----XPS-10\";\"Periode 0\";\"5658091126\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-21872,64;\"EUR\";-21872,64;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091127",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 92883.7,
+    "amountType": "control",
+    "id": "li-2fe5e533d788",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.7",
+      "quote": "\"110100-----XPS-10\";\"Periode 0\";\"5658091127\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-92883,70;\"EUR\";-92883,70;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091128",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 16854.13,
+    "amountType": "control",
+    "id": "li-3f7eb5af0669",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.8",
+      "quote": "\"110200-----XPS-10\";\"Periode 0\";\"5658091128\";\"Vortrag\";\"\";\"Nein\";\"Nein\";16854,13;\"EUR\";16854,13;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091129",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 9863.92,
+    "amountType": "control",
+    "id": "li-768b207e81fe",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.9",
+      "quote": "\"110700-----XPS-10\";\"Periode 0\";\"5658091129\";\"Vortrag\";\"\";\"Nein\";\"Nein\";9863,92;\"EUR\";9863,92;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091130",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 2226264.13,
+    "amountType": "control",
+    "id": "li-c6a4a7327b31",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.10",
+      "quote": "\"160000-----XPS-10\";\"Periode 0\";\"5658091130\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-2226264,13;\"EUR\";-2226264,13;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091131",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 444129.24,
+    "amountType": "control",
+    "id": "li-f5cd89f3cd39",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.11",
+      "quote": "\"160100-----XPS-10\";\"Periode 0\";\"5658091131\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-444129,24;\"EUR\";-444129,24;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091132",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 10844.35,
+    "amountType": "control",
+    "id": "li-21d492313999",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.12",
+      "quote": "\"150000-----XPS-10\";\"Periode 0\";\"5658091132\";\"Vortrag\";\"\";\"Nein\";\"Nein\";10844,35;\"EUR\";10844,35;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091133",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 1644.68,
+    "amountType": "control",
+    "id": "li-aa9c583f2c42",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.13",
+      "quote": "\"150100-----XPS-10\";\"Periode 0\";\"5658091133\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-1644,68;\"EUR\";-1644,68;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091134",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 73123.45,
+    "amountType": "control",
+    "id": "li-0555d922179e",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.14",
+      "quote": "\"110200------\";\"Periode 0\";\"5658091134\";\"Vortrag\";\"\";\"Nein\";\"Nein\";73123,45;\"EUR\";73123,45;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091135",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 549582.89,
+    "amountType": "control",
+    "id": "li-a73366f59d64",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.15",
+      "quote": "\"110100------\";\"Periode 0\";\"5658091135\";\"Vortrag\";\"\";\"Nein\";\"Nein\";549582,89;\"EUR\";549582,89;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091136",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 1088.51,
+    "amountType": "control",
+    "id": "li-745991b9ba84",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.16",
+      "quote": "\"169009-----XPS-10\";\"Periode 0\";\"5658091136\";\"Vortrag\";\"\";\"Nein\";\"Nein\";1088,51;\"EUR\";1088,51;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091137",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 4114.3,
+    "amountType": "control",
+    "id": "li-5f24ab5701f8",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.17",
+      "quote": "\"169001-----XPS-10\";\"Periode 0\";\"5658091137\";\"Vortrag\";\"\";\"Nein\";\"Nein\";4114,30;\"EUR\";4114,30;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091138",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 181.89,
+    "amountType": "control",
+    "id": "li-303a11027b29",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.18",
+      "quote": "\"247000------10\";\"Periode 0\";\"5658091138\";\"Vortrag\";\"\";\"Nein\";\"Nein\";181,89;\"EUR\";181,89;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091139",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 187.63,
+    "amountType": "control",
+    "id": "li-6f096efc1133",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.19",
+      "quote": "\"247000-KC40.00-----10\";\"Periode 0\";\"5658091139\";\"Vortrag\";\"\";\"Nein\";\"Nein\";187,63;\"EUR\";187,63;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091140",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 9995.54,
+    "amountType": "control",
+    "id": "li-7d71d7a9e983",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.20",
+      "quote": "\"247000-KC10.00-----10\";\"Periode 0\";\"5658091140\";\"Vortrag\";\"\";\"Nein\";\"Nein\";9995,54;\"EUR\";9995,54;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091141",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 32445,
+    "amountType": "control",
+    "id": "li-63bb1a12345a",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.21",
+      "quote": "\"331910------10\";\"Periode 0\";\"5658091141\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-32445,00;\"EUR\";-32445,00;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091142",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 32445,
+    "amountType": "control",
+    "id": "li-f70c9b99137f",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.22",
+      "quote": "\"331900------10\";\"Periode 0\";\"5658091142\";\"Vortrag\";\"\";\"Nein\";\"Nein\";32445,00;\"EUR\";32445,00;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091143",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 9988983.31,
+    "amountType": "control",
+    "id": "li-d7a53cb85d5f",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.23",
+      "quote": "\"331920-----XPS-10\";\"Periode 0\";\"5658091143\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-9988983,31;\"EUR\";-9988983,31;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091144",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 1007195.61,
+    "amountType": "control",
+    "id": "li-6274c423a99c",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.24",
+      "quote": "\"230000------10\";\"Periode 0\";\"5658091144\";\"Vortrag\";\"\";\"Nein\";\"Nein\";1007195,61;\"EUR\";1007195,61;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091145",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 431789.94,
+    "amountType": "control",
+    "id": "li-544ce2e28198",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.25",
+      "quote": "\"176000------\";\"Periode 0\";\"5658091145\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-431789,94;\"EUR\";-431789,94;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091146",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 10602482.53,
+    "amountType": "control",
+    "id": "li-42dd23e132ee",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.26",
+      "quote": "\"176000--BSA---XPS-10\";\"Periode 0\";\"5658091146\";\"Vortrag\";\"\";\"Nein\";\"Nein\";10602482,53;\"EUR\";10602482,53;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091147",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 49886.91,
+    "amountType": "control",
+    "id": "li-9850aa5f4d75",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.27",
+      "quote": "\"175000------\";\"Periode 0\";\"5658091147\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-49886,91;\"EUR\";-49886,91;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091148",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 28315831.61,
+    "amountType": "control",
+    "id": "li-5418e0ae3bff",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.28",
+      "quote": "\"175000--BSA---XPS-10\";\"Periode 0\";\"5658091148\";\"Vortrag\";\"\";\"Nein\";\"Nein\";28315831,61;\"EUR\";28315831,61;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091149",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 133431.64,
+    "amountType": "control",
+    "id": "li-844b718374e1",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.29",
+      "quote": "\"173000------\";\"Periode 0\";\"5658091149\";\"Vortrag\";\"\";\"Nein\";\"Nein\";133431,64;\"EUR\";133431,64;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091150",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 6385767.49,
+    "amountType": "control",
+    "id": "li-d66580373601",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.30",
+      "quote": "\"173000--BSA---TRADE-10\";\"Periode 0\";\"5658091150\";\"Vortrag\";\"\";\"Nein\";\"Nein\";6385767,49;\"EUR\";6385767,49;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091151",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 773938.4,
+    "amountType": "control",
+    "id": "li-8de26f5a4a6a",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.31",
+      "quote": "\"330000------\";\"Periode 0\";\"5658091151\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-773938,40;\"EUR\";-773938,40;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091152",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 101378.1,
+    "amountType": "control",
+    "id": "li-ca6973f43207",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.32",
+      "quote": "\"330000------10\";\"Periode 0\";\"5658091152\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-101378,10;\"EUR\";-101378,10;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091153",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 330974.78,
+    "amountType": "control",
+    "id": "li-4b74f5050a33",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.33",
+      "quote": "\"140000-KU72.90----XPS-10\";\"Periode 0\";\"5658091153\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-330974,78;\"EUR\";-330974,78;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091154",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 7006.23,
+    "amountType": "control",
+    "id": "li-735d4396f0e7",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.34",
+      "quote": "\"331000------10\";\"Periode 0\";\"5658091154\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-7006,23;\"EUR\";-7006,23;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091155",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 784610.6,
+    "amountType": "control",
+    "id": "li-2277e8302e45",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.35",
+      "quote": "\"230000------\";\"Periode 0\";\"5658091155\";\"Vortrag\";\"\";\"Nein\";\"Nein\";784610,60;\"EUR\";784610,60;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091156",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 146619.58,
+    "amountType": "control",
+    "id": "li-78c9e9f7d2d3",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.36",
+      "quote": "\"231000------\";\"Periode 0\";\"5658091156\";\"Vortrag\";\"\";\"Nein\";\"Nein\";146619,58;\"EUR\";146619,58;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091157",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 121144.18,
+    "amountType": "control",
+    "id": "li-48496c528ee6",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.37",
+      "quote": "\"231000------10\";\"Periode 0\";\"5658091157\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-121144,18;\"EUR\";-121144,18;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091158",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 339462.73,
+    "amountType": "control",
+    "id": "li-afc0b56626cd",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.38",
+      "quote": "\"331920-----TRADE-10\";\"Periode 0\";\"5658091158\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-339462,73;\"EUR\";-339462,73;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091159",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 28263892.3,
+    "amountType": "control",
+    "id": "li-c9d087c2be24",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.39",
+      "quote": "\"175000-----XPS-10\";\"Periode 0\";\"5658091159\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-28263892,30;\"EUR\";-28263892,30;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091160",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 10153508.01,
+    "amountType": "control",
+    "id": "li-fa67c08747f2",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.40",
+      "quote": "\"176000-----XPS-10\";\"Periode 0\";\"5658091160\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-10153508,01;\"EUR\";-10153508,01;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091161",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 574103.59,
+    "amountType": "control",
+    "id": "li-c26cedfcb192",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.41",
+      "quote": "\"331100--BSA----10\";\"Periode 0\";\"5658091161\";\"Vortrag\";\"\";\"Nein\";\"Nein\";574103,59;\"EUR\";574103,59;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091162",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 67359.29,
+    "amountType": "control",
+    "id": "li-619d5a9906b0",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.42",
+      "quote": "\"331920------\";\"Periode 0\";\"5658091162\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-67359,29;\"EUR\";-67359,29;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091163",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 10449587.7,
+    "amountType": "control",
+    "id": "li-b8475e207383",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.43",
+      "quote": "\"331920------10\";\"Periode 0\";\"5658091163\";\"Vortrag\";\"\";\"Nein\";\"Nein\";10449587,70;\"EUR\";10449587,70;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091164",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 447.34,
+    "amountType": "control",
+    "id": "li-271e1c06d286",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.44",
+      "quote": "\"247000-KU00.00-----10\";\"Periode 0\";\"5658091164\";\"Vortrag\";\"\";\"Nein\";\"Nein\";447,34;\"EUR\";447,34;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091165",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 159243.23,
+    "amountType": "control",
+    "id": "li-3bf680709949",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.45",
+      "quote": "\"160000--APL---XPS-10\";\"Periode 0\";\"5658091165\";\"Vortrag\";\"\";\"Nein\";\"Ja\";-159243,23;\"EUR\";-159243,23;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091166",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 41833.66,
+    "amountType": "control",
+    "id": "li-249bc2870cd7",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.46",
+      "quote": "\"170000------\";\"Periode 0\";\"5658091166\";\"Vortrag\";\"\";\"Nein\";\"Nein\";41833,66;\"EUR\";41833,66;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091167",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 207459.06,
+    "amountType": "control",
+    "id": "li-f6511962b380",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.47",
+      "quote": "\"170000--BSA---TRADE-10\";\"Periode 0\";\"5658091167\";\"Vortrag\";\"\";\"Nein\";\"Nein\";207459,06;\"EUR\";207459,06;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091168",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 5514822.36,
+    "amountType": "control",
+    "id": "li-b7e056b90faa",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.48",
+      "quote": "\"350000------\";\"Periode 0\";\"5658091168\";\"Vortrag\";\"\";\"Nein\";\"Nein\";5514822,36;\"EUR\";5514822,36;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091169",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 1426357.46,
+    "amountType": "control",
+    "id": "li-cef2a207c8fb",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.49",
+      "quote": "\"351000------\";\"Periode 0\";\"5658091169\";\"Vortrag\";\"\";\"Nein\";\"Nein\";1426357,46;\"EUR\";1426357,46;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   },
+   {
+    "label": "5658091170",
+    "documentNumber": "",
+    "date": "01.01.2025",
+    "description": "",
+    "amount": 57041.86,
+    "amountType": "control",
+    "id": "li-02e2d06ad797",
+    "citations": [
+     {
+      "docId": "sachkonten-sachkontobuchungen",
+      "ref": "Sachkontobuchungen!r.50",
+      "quote": "\"240000------\";\"Periode 0\";\"5658091170\";\"Vortrag\";\"\";\"Nein\";\"Nein\";57041,86;\"EUR\";57041,86;\"\";01.01.2025;\"AB-2024\";;\"\";\"Aktuell\";\"\";\"\";5640465185;\"\";\"BSP-U02\";12.01.2025;\"20:10:40\";\"Ja\""
+     }
+    ]
+   }
+  ],
+  "impactCategories": [
+   "control_breach"
+  ],
+  "calculations": [
+   {
+    "label": "Unmatched ledger sample",
+    "expression": "50 of 973098 unmatched references",
+    "value": 127744995.86,
+    "currency": "EUR"
+   }
+  ],
+  "id": "finding-2158eda2c2b9",
+  "factIds": [],
+  "origin": "control",
+  "analysisRunId": "run-2026-07-18T17-23-14-292Z-046d79",
+  "engineStatus": "detected",
+  "aiStatus": "needs-judgment"
+ },
+ {
+  "id": "finding-ai-eb809efe3efb",
+  "checkId": "aiDiscovery",
+  "title": "Unbooked allowance on overdue receivables due to internal threshold",
+  "tier": "judgment",
+  "fraudType": "impairment/allowance",
+  "narrative": "Management calculated a PWB of EUR 11,084.94 on overdue third‑party receivables but did not record it because it falls below an internal non‑posting threshold. Given the size of short‑overdue balances, this policy choice could understate impairment if not GAAP‑compliant or if aggregated with other unbooked items. Audit focus: assess the appropriateness of the non‑posting threshold, compare to accounting policy/GAAP, and consider posting an adjustment or aggregation across periods/entities.",
+  "amountInvolved": 11084.94,
+  "severity": "low",
+  "factIds": [],
+  "citations": [
+   {
+    "docId": "begleitdokumente-abstimmung-nebenbuecher-hb-2025",
+    "ref": "Wertberichtigungen!r.1-7",
+    "quote": "Überfällige debitorische offene Posten 1-30 Tage | 1,082,625.70 | laut OP-Liste Debitoren, Altersstruktur"
+   },
+   {
+    "docId": "begleitdokumente-abstimmung-nebenbuecher-hb-2025",
+    "ref": "Wertberichtigungen!r.4",
+    "quote": "Überfällige debitorische offene Posten 31-60 Tage | 25,868.40 | "
+   },
+   {
+    "docId": "begleitdokumente-abstimmung-nebenbuecher-hb-2025",
+    "ref": "Wertberichtigungen!r.7",
+    "quote": "Pauschalwertberichtigung (PWB) gebildet - HB 239000 | - | Rechnerischer PWB 1 % auf überfällige Forderungen Dritte: 11.084,94 EUR; unterhalb Nichtaufgriffsgrenze JET (50.000 EUR); nicht gebucht"
+   }
+  ],
+  "lineItems": [],
+  "impactCategories": [
+   "other"
+  ],
+  "engineStatus": "detected",
+  "aiStatus": "needs-judgment",
+  "origin": "ai-assisted",
+  "analysisRunId": "run-2026-07-18T17-23-14-292Z-046d79"
+ },
+ {
+  "id": "finding-ai-14835465ed15",
+  "checkId": "aiDiscovery",
+  "title": "Sales to customers exceeding credit limits without evidence of override approval",
+  "tier": "judgment",
+  "fraudType": "credit limit breach",
+  "narrative": "Multiple customers show outstanding balances above their limits, flagged as “ÜBERSCHRITTEN.” This elevates collectability risk and may indicate limit overrides without documented approval or insurance coverage testing. Audit focus: obtain credit‑limit override/insurance approvals for the cited accounts, assess subsequent receipts, and consider specific ECL/EWB where warranted.",
+  "amountInvolved": 110197.23,
+  "severity": "medium",
+  "factIds": [],
+  "citations": [
+   {
+    "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+    "ref": "Kreditlimitliste_Debitoren_2025!r.31",
+    "quote": "800159;HANSEBAUSTOFFE GMBH;25000,00;63972,15;ÜBERSCHRITTEN;Warenkreditversicherung"
+   },
+   {
+    "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+    "ref": "Kreditlimitliste_Debitoren_2025!r.137",
+    "quote": "801684;PYRIT INDUSTRIEBAU;15000,00;15415,33;ÜBERSCHRITTEN;Warenkreditversicherung"
+   },
+   {
+    "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+    "ref": "Kreditlimitliste_Debitoren_2025!r.56",
+    "quote": "800238;TERRA SYSTEME;20000,00;20257,83;ÜBERSCHRITTEN;internes Limit"
+   },
+   {
+    "docId": "begleitdokumente-kreditlimitliste-debitoren-2025",
+    "ref": "Kreditlimitliste_Debitoren_2025!r.59",
+    "quote": "800247;KIESEL AKUSTIKBAU;10000,00;10551,92;ÜBERSCHRITTEN;internes Limit"
+   }
+  ],
+  "lineItems": [],
+  "impactCategories": [
+   "other"
+  ],
+  "engineStatus": "detected",
+  "aiStatus": "needs-judgment",
+  "origin": "ai-assisted",
+  "analysisRunId": "run-2026-07-18T17-23-14-292Z-046d79"
+ },
+ {
+  "id": "finding-ai-09e5e2dac3fd",
+  "checkId": "aiDiscovery",
+  "title": "Related‑party cash‑pooling with parent and static intercompany payable require reconciliation and disclosure",
+  "tier": "judgment",
+  "fraudType": "related-party",
+  "narrative": "Significant cash‑pool movements with the parent are posted during 2025 while the payable to the group holding remains unchanged at EUR 1,500,000 from prior year. This indicates material related‑party balances/transactions requiring confirmation, agreement review (including interest), and disclosure assessment, as well as reconciliation between cash‑pool postings and recorded IC balances.",
+  "amountInvolved": 2197000,
+  "severity": "medium",
+  "factIds": [],
+  "citations": [
+   {
+    "docId": "begleitdokumente-gesellschafterliste-beteiligungen",
+    "ref": "Gesellschafterliste_Beteiligungen!r.3",
+    "quote": "Beispiel Holding GmbH, Wien (AUT);100,00;IC;Muttergesellschaft;mittelbar oberste Konzernmutter: Beispiel Industrie Beteiligungs GmbH, Wien"
+   },
+   {
+    "docId": "begleitdokumente-saldenliste-2024-vorjahr",
+    "ref": "Saldenliste 31.12.2024!r.76",
+    "quote": "370600 | Sonstige Verbindlichkeiten Konzern Holding | Bilanz | (1,500,000.00)"
+   },
+   {
+    "docId": "begleitdokumente-saldenliste-2025-mit-ueberleitung",
+    "ref": "Saldenliste 2025!r.98",
+    "quote": "370600 | Sonstige Verbindlichkeiten Konzern Holding | Bilanz | (1,500,000.00) | - | - | "
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.1083715",
+    "quote": "\"274000------\";\"Periode 3\";\"5664400011\";\"Vortrag\";\"Erstellte Journale\";\"Nein\";\"Ja\";-547300,00;\"EUR\";-547300,00;\"Verrechnung Cash-Pooling Beispiel Holding GmbH\";31.03.2025;\"GJ000341\";;\"\";\"Aktuell\";\"\";\"\";5640560001;\"\";\"BSP-U02\";31.03.2025;\"10:42:17\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.1083717",
+    "quote": "\"274000------\";\"Periode 6\";\"5664400013\";\"Vortrag\";\"Erstellte Journale\";\"Nein\";\"Ja\";-561850,00;\"EUR\";-561850,00;\"Verrechnung Cash-Pooling Beispiel Holding GmbH\";30.06.2025;\"GJ000687\";;\"\";\"Aktuell\";\"\";\"\";5640955001;\"\";\"BSP-U02\";30.06.2025;\"11:15:03\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.1083719",
+    "quote": "\"274000------\";\"Periode 9\";\"5664400015\";\"Vortrag\";\"Erstellte Journale\";\"Nein\";\"Ja\";-549700,00;\"EUR\";-549700,00;\"Verrechnung Cash-Pooling Beispiel Holding GmbH\";30.09.2025;\"GJ001034\";;\"\";\"Aktuell\";\"\";\"\";5641320001;\"\";\"BSP-U02\";30.09.2025;\"09:58:41\";\"Ja\""
+   },
+   {
+    "docId": "sachkonten-sachkontobuchungen",
+    "ref": "Sachkontobuchungen!r.1083721",
+    "quote": "\"274000------\";\"Periode 12\";\"5664400017\";\"Vortrag\";\"Erstellte Journale\";\"Nein\";\"Ja\";-538150,00;\"EUR\";-538150,00;\"Verrechnung Cash-Pooling Beispiel Holding GmbH\";29.12.2025;\"GJ001358\";;\"\";\"Aktuell\";\"\";\"\";5641565001;\"\";\"BSP-U02\";29.12.2025;\"14:21:36\";\"Ja\""
+   }
+  ],
+  "lineItems": [],
+  "impactCategories": [
+   "other"
+  ],
+  "engineStatus": "detected",
+  "aiStatus": "needs-judgment",
+  "origin": "ai-assisted",
+  "analysisRunId": "run-2026-07-18T17-23-14-292Z-046d79"
+ },
+ {
+  "id": "finding-ai-bb57165a147e",
+  "checkId": "aiDiscovery",
+  "title": "Large customer credit balances (kreditorische Debitoren) present classification/offsetting risk",
+  "tier": "judgment",
+  "fraudType": "classification/presentation",
+  "narrative": "Customer accounts show material credit balances aggregated in HB 332000 of EUR 2,787,461.44. Such balances can represent prepayments, unapplied cash, or credit notes and should be evaluated for proper liability classification, aging, and offsetting against receivables. Audit focus: obtain detail of the credit‑balance population, test underlying causes (advances, returns, CNs), and assess reclassification and disclosure.",
+  "amountInvolved": 2787461.44,
+  "severity": "high",
+  "factIds": [],
+  "citations": [
+   {
+    "docId": "begleitdokumente-abstimmung-nebenbuecher-hb-2025",
+    "ref": "Abstimmung!r.14",
+    "quote": "HB 332000 Kreditorische Debitoren Dritte | (2,787,461.44) | entspricht Summe kreditorischer Debitorensalden: keine Differenz"
+   },
+   {
+    "docId": "begleitdokumente-kontenplan-mapping",
+    "ref": "Kontenplan-Mapping!r.851",
+    "quote": "332000------;332000;Kreditorische Debitoren Dritte;3"
+   },
+   {
+    "docId": "sachkonten-sachkonten",
+    "ref": "Sachkonten!r.1043",
+    "quote": "\"332000\";\"Kreditorische Debitoren Dritte\";\"Bilanz\";\"Nein\";\"\";\"Optional\";\"Bilanz\""
+   }
+  ],
+  "lineItems": [],
+  "impactCategories": [
+   "other"
+  ],
+  "engineStatus": "detected",
+  "aiStatus": "needs-judgment",
+  "origin": "ai-assisted",
+  "analysisRunId": "run-2026-07-18T17-23-14-292Z-046d79"
+ }
+]

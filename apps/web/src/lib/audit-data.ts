@@ -93,8 +93,11 @@ export function listDossiers(): string[] {
     })
     .sort(
       (a, b) =>
+        Number(b === "beispiel-daemmstoffe") -
+          Number(a === "beispiel-daemmstoffe") ||
         Number(b === "muster-verpackungen") -
-          Number(a === "muster-verpackungen") || a.localeCompare(b),
+          Number(a === "muster-verpackungen") ||
+        a.localeCompare(b),
     );
 }
 

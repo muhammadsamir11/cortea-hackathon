@@ -1,0 +1,657 @@
+{
+ "nodes": [
+  {
+   "id": "entity-c3b68bda5d2c",
+   "names": [
+    "Beispiel Dämmstoffe GmbH"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-5c5add7887bb",
+   "names": [
+    "SOLID ELEKTRO GMBH"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-356be4024ab0",
+   "names": [
+    "SILVAGERÜSTBAU GMBH"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-4547ead20667",
+   "names": [
+    "TAUNUS BETON GMBH"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-23ddd67a6072",
+   "names": [
+    "FLINT MONTAGEBAU"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-3aba03db7451",
+   "names": [
+    "VULKAN TECHNIK"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-c718d8b82016",
+   "names": [
+    "ARGUSPROFILE GMBH"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-212727109017",
+   "names": [
+    "PRISMA VERPACKUNG GMBH & CO. KG"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-bc1221758f6c",
+   "names": [
+    "NORDANLAGENBAU"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-f5adc1c688a2",
+   "names": [
+    "MAIN FOLIEN GMBH"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-2a51a3e62118",
+   "names": [
+    "SÜD PANEELE KG"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-a06f62944c52",
+   "names": [
+    "WESTWERKZEUGE GMBH & CO. KG"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-a31613747e8d",
+   "names": [
+    "WESER GEBÄUDETECHNIK GMBH"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-da77e382c8b4",
+   "names": [
+    "KORUND ELEKTRO GMBH"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-36abf169386f",
+   "names": [
+    "CERESELEKTRO"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-d8391a79e747",
+   "names": [
+    "ATLAS SYSTEME GMBH"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-08d93a547fde",
+   "names": [
+    "KOMPAKTBAUSTOFFE GMBH"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-937255239ee4",
+   "names": [
+    "BASALTVERPACKUNG GMBH"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-51ca7d173930",
+   "names": [
+    "GNEIS BAUELEMENTE GMBH"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-3a0d6f036ad8",
+   "names": [
+    "POLARIS GEBÄUDETECHNIK GMBH & CO. KG"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-0f3ca446ea0a",
+   "names": [
+    "CERESMASCHINEN GMBH"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-e831c05fdf61",
+   "names": [
+    "VULKAN CHEMIE"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-89aa64614daf",
+   "names": [
+    "SÜD TRANSPORT GMBH"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-29c9127fb5a9",
+   "names": [
+    "WEST GERÜSTBAU SA"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-563ecfad55c2",
+   "names": [
+    "ORIONHANDEL AG"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-251a1d53198c",
+   "names": [
+    "ARGUSBAUSTOFFE GMBH & CO. KG"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-bf584b6157f0",
+   "names": [
+    "KOMPAKT LOGISTIK GMBH"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-578593a8d868",
+   "names": [
+    "RHEINPROFILE GMBH"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-0be7db96ddbe",
+   "names": [
+    "NOVAELEKTRO"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-1fd7333a8ee0",
+   "names": [
+    "MAIN TECHNIK"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-6e08e2fd395b",
+   "names": [
+    "BOREALISBAU KG"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-d05ecbe8b255",
+   "names": [
+    "HANSE TROCKENBAU"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  },
+  {
+   "id": "entity-b647b6a8ce93",
+   "names": [
+    "ALPEN TECHNIK"
+   ],
+   "ibans": [],
+   "vatIds": [],
+   "addresses": [],
+   "factIds": []
+  }
+ ],
+ "edges": [
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-5c5add7887bb",
+   "total": 124455.97,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-eb6eff87f537"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-356be4024ab0",
+   "total": 6059.86,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-4547ead20667",
+   "total": 968.93,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-23ddd67a6072",
+   "total": 2866.03,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-3aba03db7451",
+   "total": 8086.5599999999995,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-c718d8b82016",
+   "total": 2555.67,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-212727109017",
+   "total": 6291.33,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-bc1221758f6c",
+   "total": 6168.46,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-f5adc1c688a2",
+   "total": 6441.9,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-2a51a3e62118",
+   "total": 3007.22,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-a06f62944c52",
+   "total": 9242.31,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-a31613747e8d",
+   "total": 11798.74,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-da77e382c8b4",
+   "total": 2123.35,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-36abf169386f",
+   "total": 6692.15,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-d8391a79e747",
+   "total": 4518.39,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-08d93a547fde",
+   "total": 4111.67,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-937255239ee4",
+   "total": 3183.98,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-51ca7d173930",
+   "total": 3571.3,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-3a0d6f036ad8",
+   "total": 8549.59,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-0f3ca446ea0a",
+   "total": 9212.16,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-e831c05fdf61",
+   "total": 3277.38,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-89aa64614daf",
+   "total": 2218.79,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-29c9127fb5a9",
+   "total": 10071.36,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-563ecfad55c2",
+   "total": 6315.47,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-251a1d53198c",
+   "total": 16511.82,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-bf584b6157f0",
+   "total": 2816.91,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-578593a8d868",
+   "total": 2820.79,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-0be7db96ddbe",
+   "total": 3650.38,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-1fd7333a8ee0",
+   "total": 9009.52,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-6e08e2fd395b",
+   "total": 1651.82,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-d05ecbe8b255",
+   "total": 3027.06,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-dfb4beee3260"
+   ]
+  },
+  {
+   "from": "entity-c3b68bda5d2c",
+   "to": "entity-b647b6a8ce93",
+   "total": 0,
+   "currency": "EUR",
+   "factIds": [],
+   "findingIds": [
+    "finding-a6262e2fce26"
+   ]
+  }
+ ],
+ "companyClusterId": "entity-c3b68bda5d2c"
+}
