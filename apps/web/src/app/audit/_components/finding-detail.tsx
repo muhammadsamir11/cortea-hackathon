@@ -29,6 +29,7 @@ import type { Citation, Fact, Finding } from "@almedia/forensic/types";
 import { ChevronRight } from "lucide-react";
 import type { DossierData } from "@/lib/audit-data";
 import { Badge, CitationChip, eur, SEV, TIER, verdictOf } from "./components";
+import { MoneyGraphView } from "./money-graph";
 import type { Scheme } from "./schemes";
 
 function factLine(f: Fact): string {
@@ -162,6 +163,13 @@ export function FindingDetail({
             </p>
           </CardContent>
         </Card>
+
+        <MoneyGraphView
+          data={data}
+          onView={onView}
+          findingId={finding.id}
+          variant="mini"
+        />
 
         {finding.lineItems && finding.lineItems.length > 0 && (
           <Collapsible className="group/line-items">

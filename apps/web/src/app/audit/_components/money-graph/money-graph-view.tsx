@@ -29,10 +29,15 @@ import type { EvidenceNodeData } from "./evidence-node";
 function GraphCanvas({
   data,
   onView,
+  findingId,
+  variant = "full",
 }: {
   data: DossierData;
   onView: (c: Citation) => void;
+  findingId?: string;
+  variant?: "full" | "mini";
 }) {
+  const mini = variant === "mini";
   const { resolvedTheme } = useTheme();
   const { fitView } = useReactFlow();
   const searchRef = useRef<HTMLInputElement>(null);
@@ -43,13 +48,20 @@ function GraphCanvas({
     themeReady && resolvedTheme === "light" ? "light" : "dark";
 
   const [filters, setFilters] = useState<GraphFilters>({
-    findingId: "all",
+    findingId: findingId ?? "all",
     query: "",
     minAmount: 0,
     riskOnly: false,
   });
   const [selected, setSelected] = useState<Selection | null>(null);
   const [drawerOpen, setDrawerOpen] = useState(false);
+
+  useEffect(() => {
+    if (!findingId) return;
+    setFilters((prev) =>
+      prev.findingId === findingId ? prev : { ...prev, findingId },
+    );
+  }, [findingId]);
 
   const facts = useMemo(() => new Map(data.facts.map((f) => [f.id, f])), [data.facts]);
   const openFindings = useMemo(
@@ -93,11 +105,17 @@ function GraphCanvas({
           parentEntityId: data.parentEntityId,
           lineItemId: data.item.id,
         });
-        return;
+      } else {
+        openDrawer({ kind: "node", id: node.id });
       }
-      openDrawer({ kind: "node", id: node.id });
+      void fitView({
+        nodes: [node],
+        padding: 0.4,
+        duration: 320,
+        maxZoom: 1.35,
+      });
     },
-    [openDrawer],
+    [fitView, openDrawer],
   );
 
   useEffect(() => {
@@ -113,7 +131,7 @@ function GraphCanvas({
         return;
       }
       if (typing) return;
-      if (event.key === "/") {
+      if (!mini && event.key === "/") {
         event.preventDefault();
         searchRef.current?.focus();
         return;
@@ -125,7 +143,7 @@ function GraphCanvas({
     };
     window.addEventListener("keydown", onKeyDown);
     return () => window.removeEventListener("keydown", onKeyDown);
-  }, [clearSelection, fitView]);
+  }, [clearSelection, fitView, mini]);
 
   const onFilterChange = useCallback((next: Partial<GraphFilters>) => {
     setFilters((prev) => ({ ...prev, ...next }));
@@ -135,13 +153,19 @@ function GraphCanvas({
   const emptyFiltered = graph.nodes.length === 0 || graph.edges.length === 0;
 
   return (
-    <div className="relative h-full min-h-[480px] min-w-0 overflow-hidden bg-background">
+    <div
+      className={
+        mini
+          ? "relative h-80 min-w-0 overflow-hidden rounded-xl bg-background ring-1 ring-foreground/5 dark:ring-foreground/10"
+          : "relative h-full min-h-[480px] min-w-0 overflow-hidden bg-background"
+      }
+    >
       <ReactFlow
         nodes={emptyFiltered ? [] : nodes}
         edges={emptyFiltered ? [] : edges}
         nodeTypes={nodeTypes}
         fitView
-        fitViewOptions={{ padding: 0.18 }}
+        fitViewOptions={{ padding: mini ? 0.24 : 0.18 }}
         proOptions={{ hideAttribution: true }}
         nodesDraggable={false}
         nodesConnectable={false}
@@ -160,40 +184,52 @@ function GraphCanvas({
         maxZoom={1.75}
       >
         <Background gap={22} size={1} className="!bg-muted/25" />
-        <GraphToolbar
-          filters={filters}
-          findings={data.findings}
-          searchRef={searchRef}
-          onChange={onFilterChange}
-          onClearSelection={clearSelection}
-          hasSelection={Boolean(selected)}
-        />
+        {!mini ? (
+          <GraphToolbar
+            filters={filters}
+            findings={data.findings}
+            searchRef={searchRef}
+            onChange={onFilterChange}
+            onClearSelection={clearSelection}
+            hasSelection={Boolean(selected)}
+          />
+        ) : null}
         {emptyFiltered ? (
-          <Panel position="top-center" className="!mt-16">
+          <Panel position="top-center" className={mini ? "!m-3" : "!mt-16"}>
             <Card size="sm" className="max-w-sm backdrop-blur-md">
               <CardHeader>
-                <CardTitle>No flows match these filters</CardTitle>
-                <CardDescription>
-                  Broaden scope, lower the minimum amount, or turn off Risk only.
-                </CardDescription>
+                <CardTitle>
+                  {mini ? "No money-flow edges for this finding" : "No flows match these filters"}
+                </CardTitle>
+                {!mini ? (
+                  <CardDescription>
+                    Broaden scope, lower the minimum amount, or turn off Risk only.
+                  </CardDescription>
+                ) : (
+                  <CardDescription>
+                    This finding is not linked to any money-flow clusters yet.
+                  </CardDescription>
+                )}
               </CardHeader>
-              <CardFooter>
-                <Button
-                  type="button"
-                  variant="outline"
-                  size="sm"
-                  onClick={() =>
-                    onFilterChange({
-                      findingId: "all",
-                      query: "",
-                      minAmount: 0,
-                      riskOnly: false,
-                    })
-                  }
-                >
-                  Clear filters
-                </Button>
-              </CardFooter>
+              {!mini ? (
+                <CardFooter>
+                  <Button
+                    type="button"
+                    variant="outline"
+                    size="sm"
+                    onClick={() =>
+                      onFilterChange({
+                        findingId: "all",
+                        query: "",
+                        minAmount: 0,
+                        riskOnly: false,
+                      })
+                    }
+                  >
+                    Clear filters
+                  </Button>
+                </CardFooter>
+              ) : null}
             </Card>
           </Panel>
         ) : (
@@ -221,13 +257,19 @@ function GraphCanvas({
 export function MoneyGraphView({
   data,
   onView,
+  findingId,
+  variant = "full",
 }: {
   data: DossierData;
   onView: (c: Citation) => void;
+  findingId?: string;
+  variant?: "full" | "mini";
 }) {
+  const mini = variant === "mini";
+
   if (data.graph.nodes.length === 0) {
     return (
-      <Empty className="h-full min-h-[480px]">
+      <Empty className={mini ? "h-80" : "h-full min-h-[480px]"}>
         <EmptyHeader>
           <EmptyTitle>No graph for this dossier</EmptyTitle>
           <EmptyDescription>
@@ -239,8 +281,8 @@ export function MoneyGraphView({
   }
 
   return (
-    <ReactFlowProvider>
-      <GraphCanvas data={data} onView={onView} />
+    <ReactFlowProvider key={findingId ?? "all"}>
+      <GraphCanvas data={data} onView={onView} findingId={findingId} variant={variant} />
     </ReactFlowProvider>
   );
 }
