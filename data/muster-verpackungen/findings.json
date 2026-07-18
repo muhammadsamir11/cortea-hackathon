@@ -48,12 +48,12 @@
    {
     "docId": "av-anlagen",
     "ref": "Anlagen!r.193",
-    "quote": "\"060000-000193\";\"Instandsetzung Förderband Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+    "quote": "\"060000-000193\";\"Instandsetzung F\u00f6rderband Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
    },
    {
     "docId": "kreditoren-lieferantenbuchungen",
     "ref": "Lieferantenbuchungen!r.2565",
-    "quote": "\"200127\";\"ER901423\";13.03.2025;\"\";13.03.2025;\"Instandsetzung Förderband Halle II\";-18445,00;\"EUR\";-18445,00;\"\";\"\";\"Purch\";\"Yes\""
+    "quote": "\"200127\";\"ER901423\";13.03.2025;\"\";13.03.2025;\"Instandsetzung F\u00f6rderband Halle II\";-18445,00;\"EUR\";-18445,00;\"\";\"\";\"Purch\";\"Yes\""
    },
    {
     "docId": "av-anlagenbuchungen",
@@ -63,12 +63,12 @@
    {
     "docId": "av-anlagen",
     "ref": "Anlagen!r.194",
-    "quote": "\"040000-000194\";\"Generalüberholung Stanzautomat\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+    "quote": "\"040000-000194\";\"General\u00fcberholung Stanzautomat\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
    },
    {
     "docId": "kreditoren-lieferantenbuchungen",
     "ref": "Lieferantenbuchungen!r.2566",
-    "quote": "\"200118\";\"ER901424\";26.11.2025;\"\";26.11.2025;\"Generalüberholung Stanzautomat\";-48790,00;\"EUR\";-48790,00;\"\";\"\";\"Purch\";\"Yes\""
+    "quote": "\"200118\";\"ER901424\";26.11.2025;\"\";26.11.2025;\"General\u00fcberholung Stanzautomat\";-48790,00;\"EUR\";-48790,00;\"\";\"\";\"Purch\";\"Yes\""
    },
    {
     "docId": "av-anlagenbuchungen",
@@ -78,12 +78,12 @@
    {
     "docId": "av-anlagen",
     "ref": "Anlagen!r.195",
-    "quote": "\"060000-000195\";\"Reparatur Kälteanlage Lager\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+    "quote": "\"060000-000195\";\"Reparatur K\u00e4lteanlage Lager\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
    },
    {
     "docId": "kreditoren-lieferantenbuchungen",
     "ref": "Lieferantenbuchungen!r.2567",
-    "quote": "\"200101\";\"ER901425\";23.05.2025;\"\";23.05.2025;\"Reparatur Kälteanlage Lager\";-15232,00;\"EUR\";-15232,00;\"\";\"\";\"Purch\";\"Yes\""
+    "quote": "\"200101\";\"ER901425\";23.05.2025;\"\";23.05.2025;\"Reparatur K\u00e4lteanlage Lager\";-15232,00;\"EUR\";-15232,00;\"\";\"\";\"Purch\";\"Yes\""
    },
    {
     "docId": "av-anlagenbuchungen",
@@ -147,7 +147,7 @@
     "id": "li-f4be894ba244"
    },
    {
-    "label": "Instandsetzung Förderband Halle II",
+    "label": "Instandsetzung F\u00f6rderband Halle II",
     "documentNumber": "ER901423",
     "date": "2025-03-13",
     "counterparty": "Ost Systeme e.K.",
@@ -163,18 +163,18 @@
      {
       "docId": "av-anlagen",
       "ref": "Anlagen!r.193",
-      "quote": "\"060000-000193\";\"Instandsetzung Förderband Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+      "quote": "\"060000-000193\";\"Instandsetzung F\u00f6rderband Halle II\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
      },
      {
       "docId": "kreditoren-lieferantenbuchungen",
       "ref": "Lieferantenbuchungen!r.2565",
-      "quote": "\"200127\";\"ER901423\";13.03.2025;\"\";13.03.2025;\"Instandsetzung Förderband Halle II\";-18445,00;\"EUR\";-18445,00;\"\";\"\";\"Purch\";\"Yes\""
+      "quote": "\"200127\";\"ER901423\";13.03.2025;\"\";13.03.2025;\"Instandsetzung F\u00f6rderband Halle II\";-18445,00;\"EUR\";-18445,00;\"\";\"\";\"Purch\";\"Yes\""
      }
     ],
     "id": "li-da877790ac8f"
    },
    {
-    "label": "Generalüberholung Stanzautomat",
+    "label": "General\u00fcberholung Stanzautomat",
     "documentNumber": "ER901424",
     "date": "2025-11-26",
     "counterparty": "Nova Chemie GmbH & Co. KG",
@@ -190,18 +190,18 @@
      {
       "docId": "av-anlagen",
       "ref": "Anlagen!r.194",
-      "quote": "\"040000-000194\";\"Generalüberholung Stanzautomat\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+      "quote": "\"040000-000194\";\"General\u00fcberholung Stanzautomat\";\"040000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
      },
      {
       "docId": "kreditoren-lieferantenbuchungen",
       "ref": "Lieferantenbuchungen!r.2566",
-      "quote": "\"200118\";\"ER901424\";26.11.2025;\"\";26.11.2025;\"Generalüberholung Stanzautomat\";-48790,00;\"EUR\";-48790,00;\"\";\"\";\"Purch\";\"Yes\""
+      "quote": "\"200118\";\"ER901424\";26.11.2025;\"\";26.11.2025;\"General\u00fcberholung Stanzautomat\";-48790,00;\"EUR\";-48790,00;\"\";\"\";\"Purch\";\"Yes\""
      }
     ],
     "id": "li-7c3082658f1e"
    },
    {
-    "label": "Reparatur Kälteanlage Lager",
+    "label": "Reparatur K\u00e4lteanlage Lager",
     "documentNumber": "ER901425",
     "date": "2025-05-23",
     "counterparty": "Prisma Etiketten SE",
@@ -217,12 +217,12 @@
      {
       "docId": "av-anlagen",
       "ref": "Anlagen!r.195",
-      "quote": "\"060000-000195\";\"Reparatur Kälteanlage Lager\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
+      "quote": "\"060000-000195\";\"Reparatur K\u00e4lteanlage Lager\";\"060000\";\"Tangible\";\"\";\"\";\"\";\"\";\"Aktiv\""
      },
      {
       "docId": "kreditoren-lieferantenbuchungen",
       "ref": "Lieferantenbuchungen!r.2567",
-      "quote": "\"200101\";\"ER901425\";23.05.2025;\"\";23.05.2025;\"Reparatur Kälteanlage Lager\";-15232,00;\"EUR\";-15232,00;\"\";\"\";\"Purch\";\"Yes\""
+      "quote": "\"200101\";\"ER901425\";23.05.2025;\"\";23.05.2025;\"Reparatur K\u00e4lteanlage Lager\";-15232,00;\"EUR\";-15232,00;\"\";\"\";\"Purch\";\"Yes\""
      }
     ],
     "id": "li-fdcf07067fb3"
@@ -270,7 +270,7 @@
   "engineStatus": "detected",
   "aiStatus": "needs-judgment",
   "tribunal": {
-   "defense": "There is a credible potential innocent explanation based on legitimate business judgment and interpretation: several of the entries, while bearing repair-type descriptions, also refer explicitly to major overhauls or replacements of significant components (e.g., 'Austausch Hydraulikaggregat Presse 3', 'Austausch Antriebssteuerung Palettierer', 'Generalüberholung Stanzautomat'). Under German GAAP (HGB) and standard accounting rules, such expenditures can be capitalized if they substantially extend the useful life or significantly enhance the value/capacity of the asset. Descriptions such as 'Generalüberholung' (general overhaul) and complete component replacements usually do not constitute mere repairs but asset improvements by regulatory definition. Thus, management could reasonably interpret these costs as capitalizable improvements rather than pure repairs. However, 'Reparatur' entries would still require substantiation that the works performed truly improved condition or lifespan. This explanation aligns with the available data, although the document evidence available here does not include supporting technical reports or invoices to make the defense unequivocal.",
+   "defense": "There is a credible potential innocent explanation based on legitimate business judgment and interpretation: several of the entries, while bearing repair-type descriptions, also refer explicitly to major overhauls or replacements of significant components (e.g., 'Austausch Hydraulikaggregat Presse 3', 'Austausch Antriebssteuerung Palettierer', 'General\u00fcberholung Stanzautomat'). Under German GAAP (HGB) and standard accounting rules, such expenditures can be capitalized if they substantially extend the useful life or significantly enhance the value/capacity of the asset. Descriptions such as 'General\u00fcberholung' (general overhaul) and complete component replacements usually do not constitute mere repairs but asset improvements by regulatory definition. Thus, management could reasonably interpret these costs as capitalizable improvements rather than pure repairs. However, 'Reparatur' entries would still require substantiation that the works performed truly improved condition or lifespan. This explanation aligns with the available data, although the document evidence available here does not include supporting technical reports or invoices to make the defense unequivocal.",
    "defenseCitations": [
     {
      "docId": "av-anlagen",
@@ -280,7 +280,7 @@
     {
      "docId": "av-anlagen",
      "ref": "Anlagen!r.194",
-     "quote": "Generalüberholung Stanzautomat"
+     "quote": "General\u00fcberholung Stanzautomat"
     },
     {
      "docId": "av-anlagen",
@@ -289,7 +289,7 @@
     }
    ],
    "verdict": "needs-judgment",
-   "reasoning": "The evidence from the fixed-asset register (Anlagen!r.192, r.194, r.196) supports that at least some of the capitalized items are major overhauls or replacements ('Austausch Hydraulikaggregat Presse 3', 'Austausch Antriebssteuerung Palettierer', 'Generalüberholung Stanzautomat'), which under German GAAP can indeed be capitalized if they extend useful life or enhance capacity. However, the categorization as repair versus capitalizable improvement cannot be definitively settled without technical documentation or invoices showing the scope and nature of the work performed. The remaining entries (including those labeled 'Reparatur') may not meet capitalization criteria unless similar substantiation is available. Thus, the defense provides plausible business rationale but does not fully neutralize the allegation, nor is the capitalization confirmed indisputably inappropriate based on present evidence. Judgment requires further review of transaction-level support."
+   "reasoning": "The evidence from the fixed-asset register (Anlagen!r.192, r.194, r.196) supports that at least some of the capitalized items are major overhauls or replacements ('Austausch Hydraulikaggregat Presse 3', 'Austausch Antriebssteuerung Palettierer', 'General\u00fcberholung Stanzautomat'), which under German GAAP can indeed be capitalized if they extend useful life or enhance capacity. However, the categorization as repair versus capitalizable improvement cannot be definitively settled without technical documentation or invoices showing the scope and nature of the work performed. The remaining entries (including those labeled 'Reparatur') may not meet capitalization criteria unless similar substantiation is available. Thus, the defense provides plausible business rationale but does not fully neutralize the allegation, nor is the capitalization confirmed indisputably inappropriate based on present evidence. Judgment requires further review of transaction-level support."
   }
  },
  {

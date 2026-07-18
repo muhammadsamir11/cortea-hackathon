@@ -14,7 +14,7 @@ import {
   SidebarMenuItem,
   useSidebar,
 } from "@almedia/ui/components/sidebar";
-import { FileSearch, Files, Gavel, MessageSquareText, Network } from "lucide-react";
+import { FileSearch, Files, Gavel, Network, ScanSearch } from "lucide-react";
 
 import { CorteaLogo, CorteaMark } from "@/components/cortea-logo";
 import { GridShimmeringDots } from "@/components/visuals/grid-shimmering-dots";
@@ -34,14 +34,19 @@ const NAV_GROUPS: { label: string; items: NavItem[] }[] = [
     items: [
       { id: "findings", label: "Report", icon: FileSearch, countKey: "report" },
       { id: "graph", label: "Graph", icon: Network },
+    ],
+  },
+  {
+    label: "Assist",
+    items: [
       { id: "tribunal", label: "Review", icon: Gavel },
+      { id: "ask", label: "Investigator", icon: ScanSearch },
     ],
   },
   {
     label: "Workspace",
     items: [
       { id: "documents", label: "Documents", icon: Files, countKey: "documents" },
-      { id: "ask", label: "Ask", icon: MessageSquareText },
     ],
   },
 ];
@@ -81,7 +86,7 @@ function SidebarBrandHeader({ dossier }: { dossier?: string }) {
       >
         {collapsed ? (
           <Link href={homeHref} aria-label="Cortea audit workspace">
-            <CorteaMark className="size-6 text-primary" />
+            <CorteaMark className="size-6 text-foreground" />
           </Link>
         ) : (
           <Link href={homeHref} className="flex min-w-0 items-center" aria-label="Cortea audit workspace">

@@ -35,7 +35,7 @@ import { ReportTab } from "./report-tab";
 import { MoneyGraphView } from "./money-graph";
 import { EvidenceViewer } from "./evidence-viewer";
 import { DocumentsTab } from "./documents-tab";
-import { ChatTab } from "./chat-tab";
+import { InvestigatorTab } from "./investigator-tab";
 import { TribunalTab } from "./tribunal-tab";
 import { FindingDetail } from "./finding-detail";
 import { clusterSchemes } from "./schemes";
@@ -209,7 +209,7 @@ export function Workspace({
             <DocumentsTab data={data} onView={setViewer} />
           </div>
         )}
-        {activeNav === "ask" && <ChatTab data={data} onView={setViewer} />}
+        {activeNav === "ask" && <InvestigatorTab data={data} onView={setViewer} />}
         {activeNav === "tribunal" && <TribunalTab data={data} />}
       </div>
 

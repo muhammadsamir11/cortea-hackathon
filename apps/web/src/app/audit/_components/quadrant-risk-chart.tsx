@@ -128,7 +128,10 @@ export function QuadrantRiskChart({ findings }: { findings: Finding[] }) {
   const score = useMemo(() => computeRiskScore(findings), [findings]);
 
   return (
-    <Card size="sm" className="h-full w-fit">
+    <Card
+      size="sm"
+      className="h-full w-fit bg-linear-to-r from-[oklch(0.96_0.01_207.1)] to-[oklch(0.91_0.018_224.9)] shadow-none ring-0 dark:from-muted dark:to-muted/70"
+    >
       <CardContent className="flex min-h-0 flex-1 items-center justify-center">
         <RiskGauge score={score} />
       </CardContent>
